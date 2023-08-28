@@ -60,9 +60,9 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/kanotown
   homepage: blog
-#   analytics: 
-#     provider: google
-#     property: G-E7E37NLWME
+  analytics: 
+    provider: google
+    property: G-9GW9DJ2G09
 
 extra_css:
   - css/extra.css
