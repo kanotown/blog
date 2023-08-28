@@ -5,11 +5,12 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of August 28, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,136<br/>
-単語数 (Number of Words): 244,969<br/><br/>
+投稿数 (Number of Posts): 2,137<br/>
+単語数 (Number of Words): 245,102<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2137】Eguchi (エグち - Outstanding)](../posts/2137_2023-08-28_12-45-00/)
 - [【No. 2136】Me no Hoyō (目の保養 - Feasting to One's Eyes)](../posts/2136_2023-08-27_19-30-00/)
 - [【No. 2135】Kyūso Neko wo Kamu (窮鼠猫を噛む - A Cornered Mouse Bites a Cat)](../posts/2135_2023-08-26_20-31-00/)
 - [【No. 2134】Spoonerism: Part 2](../posts/2134_2023-08-25_17-04-00/)

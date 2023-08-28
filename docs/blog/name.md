@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of August 28, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,136<br/>
-単語数 (Number of Words): 244,969<br/><br/>
+投稿数 (Number of Posts): 2,137<br/>
+単語数 (Number of Words): 245,102<br/><br/>
 </div>
 
 ## Symbols
@@ -411,6 +411,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Earthquakes in Japan](../posts/1401_2018-10-19_21-32-00/)
 - [Ebi de Tai wo Tsuru (海老で鯛を釣る - Throw a Sprat to Catch a Whale)](../posts/1848_2021-05-18_10-06-00/)
 - [Effects of a Kiss](../posts/0475_2016-04-06_21-47-00/)
+- [Eguchi (エグち - Outstanding)](../posts/2137_2023-08-28_12-45-00/)
 - [Ehoumaki (恵方巻 - Lucky Direction Roll)](../posts/1508_2019-02-03_20-31-00/)
 - [Emi (笑み - Smiling)](../posts/1653_2019-06-28_11-51-00/)
 - [Emoi (エモい)](../posts/0946_2017-07-21_02-49-00/)
