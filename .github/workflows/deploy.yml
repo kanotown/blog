@@ -18,3 +18,4 @@ jobs:
           FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
           LOCAL_DIR: ./site/
           REMOTE_DIR: /
+          ARGS: --delete --parallel=10

@@ -37,17 +37,6 @@ theme:
         name: Light mode
       primary: teal
 
-nav:
-  - Home: 
-    - blog/index.md
-  - Number list: 
-    - blog/number.md
-  - Name list: 
-    - blog/name.md
-  - Comics:
-    - comic.md
-    - English: comic-en.md
-  - Back to blog: https://blog.kano.ac/
 
 markdown_extensions:
   - admonition
@@ -59,7 +48,7 @@ extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/kanotown
-  homepage: blog
+  homepage: archive
   analytics: 
     provider: google
     property: G-9GW9DJ2G09
@@ -77,9 +66,9 @@ markdown_extensions:
 plugins:
   - blog:
       authors: true
-      blog_dir: blog
+      blog_dir: archive
       enabled: true
-      authors_file: blog/.authors.yml
+      authors_file: archive/.authors.yml
       pagination_per_page: 20
       pagination_url_format: "page/{page}"
       post_url_format: "posts/{slug}"
@@ -97,5 +86,17 @@ definitions:
 
   - &page_description >-
     {{ page.meta.get("description", config.site_description) or "" }}
+
+nav:
+  - Home: 
+    - archive/index.md
+  - Number list: 
+    - archive/number.md
+  - Alphabetical list: 
+    - archive/name.md
+  - Comics:
+    - comic.md
+    - English: comic-en.md
+  - Back to blog: https://blog.kano.ac/
 
 copyright: 　&copy; Archives of Learning English and Japanese

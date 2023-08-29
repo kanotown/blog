@@ -1,5 +1,5 @@
-li {
-  font-size: 15px;
+nav li {
+  font-size: 14px;
 }
 
 p {
@@ -108,6 +108,7 @@ li.perfect {
 }
 
 .comment_small {
+  font-size: 14px;
   padding: 5px;
 }
 
