@@ -10,7 +10,7 @@ Currently, I write short texts in English every day on a language exchange socia
 </div>
 
 ## No. 2100 - 
-- [【No. 2139】<strong><em>Hana wa Oritashi Kozue wa Takashi</strong></em> (花を折りたし梢は高し - So Near and yet So Far)](../posts/2139_2023-08-30_13-04-00/)
+- [【No. 2139】<strong><em>Hana wa Oritashi Kozue wa Takashi</strong></em> (花は折りたし梢は高し - So Near and yet So Far)](../posts/2139_2023-08-30_13-04-00/)
 - [【No. 2138】<strong><em>Takane no Hana</strong></em> (高嶺の花 - Out of One's League)](../posts/2138_2023-08-29_09-58-00/)
 - [【No. 2137】<strong><em>Eguchi</strong></em> (エグち - Outstanding)](../posts/2137_2023-08-28_12-45-00/)
 - [【No. 2136】<strong><em>Me no Hoyō</strong></em> (目の保養 - Feasting to One's Eyes)](../posts/2136_2023-08-27_19-30-00/)

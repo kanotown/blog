@@ -563,7 +563,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hana mo Hajirau</strong></em> (Even Flowers Get Shy)](../posts/0627_2016-09-05_01-31-00/)
 - [<strong><em>Hana ni Tsuku</strong></em> (鼻につく - Getting Annoyed)](../posts/1495_2019-01-21_18-47-00/)
 - [<strong><em>Hana no Shita wo Nobasu</strong></em> (鼻の下を伸ばす - Spoony)](../posts/1498_2019-01-24_21-01-00/)
-- [<strong><em>Hana wa Oritashi Kozue wa Takashi</strong></em> (花を折りたし梢は高し - So Near and yet So Far)](../posts/2139_2023-08-30_13-04-00/)
+- [<strong><em>Hana wa Oritashi Kozue wa Takashi</strong></em> (花は折りたし梢は高し - So Near and yet So Far)](../posts/2139_2023-08-30_13-04-00/)
 - [<strong><em>Hana wo Motaseru</strong></em> (花を持たせる - Letting Someone Take the Credit)](../posts/1813_2021-04-13_13-13-00/)
 - [<strong><em>Hana wo Oru</strong></em> (鼻を折る - Cropping Someone's Feathers)](../posts/1497_2019-01-23_17-52-00/)
 - [<strong><em>Hana yori Dango</strong></em> (花より団子 - Dumplings rather than Flowers)](../posts/1198_2018-03-30_14-25-00/)
