@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of August 31, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,139<br/>
-単語数 (Number of Words): 245,400<br/><br/>
+投稿数 (Number of Posts): 2,140<br/>
+単語数 (Number of Words): 245,626<br/><br/>
 </div>
 
 ## Symbols
@@ -1385,6 +1385,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Open the Kanji](../posts/0277_2015-09-21_18-11-00/)
 - [Operate a Smartphone While Eating](../posts/0262_2015-09-06_10-20-00/)
 - [Orange Day](../posts/0483_2016-04-14_22-26-00/)
+- [<strong><em>Ore de Nakya Minogashi Chau Ne</strong></em> (オレでなきゃ見逃しちゃうね - Anyone Else would have Missed It)](../posts/2140_2023-08-31_11-01-00/)
 - [<strong><em>Orekireki</strong></em> (お歴々)](../posts/0913_2017-06-18_18-39-00/)
 - [<strong><em>Origami Tsuki</strong></em> (Hallmark)](../posts/0755_2017-01-11_14-37-00/)
 - [Origin of Symbols](../posts/0060_2015-02-16_23-43-00/)
