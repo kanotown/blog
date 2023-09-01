@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 01, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,140<br/>
-単語数 (Number of Words): 245,626<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 02, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,141<br/>
+単語数 (Number of Words): 245,721<br/><br/>
 </div>
 
 ## Symbols
@@ -1900,6 +1900,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [There's No Limit to Things (Ue niwa ue ga aru)](../posts/0397_2016-01-19_15-06-00/)
 - [Thieves Prefer Rainy and Windy Days](../posts/0212_2015-07-18_22-33-00/)
 - [Thirty-Six Books](../posts/1327_2018-08-06_12-44-00/)
+- [This Is Us](../posts/2141_2023-09-01_20-58-00/)
 - [This is not a drill.](../posts/0179_2015-06-15_18-03-00/)
 - [Three Events](../posts/0392_2016-01-14_18-56-00/)
 - [Tickling Sensation](../posts/0391_2016-01-13_15-59-00/)
