@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 02, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,141<br/>
-単語数 (Number of Words): 245,721<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 03, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,142<br/>
+単語数 (Number of Words): 245,846<br/><br/>
 </div>
 
 ## Symbols
@@ -1679,6 +1679,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Sode Furi-au mo Tashō no En</strong></em> (袖振り合うも他生の縁 - Even a Chance Meetings Are Preordained)](../posts/2071_2023-06-23_10-50-00/)
 - [Sode wo Nurasu](../posts/0894_2017-05-30_08-44-00/)
 - [Someiyoshino](../posts/0279_2015-09-23_13-22-00/)
+- [<strong><em>Sonae Areba Urei Nashi</strong></em> (備えあれば憂いなし - Better Safe than Sorry)](../posts/2142_2023-09-02_22-14-00/)
 - [<strong><em>Soppo wo Muku</strong></em> (そっぽを向く - Looking Away)](../posts/1385_2018-10-03_22-21-00/)
 - [<strong><em>Soramimi</strong></em> (空耳 - Hearing Things)](../posts/1934_2021-08-12_20-21-00/)
 - [<strong><em>Sou wa Tonya ga Orosanai</strong></em> (そうは問屋が卸さない - No Such Luck)](../posts/1997_2023-04-10_17-26-00/)

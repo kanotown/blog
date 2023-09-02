@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 02, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,141<br/>
-単語数 (Number of Words): 245,721<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 03, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,142<br/>
+単語数 (Number of Words): 245,846<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2142】<strong><em>Sonae Areba Urei Nashi</strong></em> (備えあれば憂いなし - Better Safe than Sorry)](../posts/2142_2023-09-02_22-14-00/)
 - [【No. 2141】This Is Us](../posts/2141_2023-09-01_20-58-00/)
 - [【No. 2140】<strong><em>Ore de Nakya Minogashi Chau Ne</strong></em> (オレでなきゃ見逃しちゃうね - Anyone Else would have Missed It)](../posts/2140_2023-08-31_11-01-00/)
 - [【No. 2139】<strong><em>Hana wa Oritashi Kozue wa Takashi</strong></em> (花は折りたし梢は高し - So Near and yet So Far)](../posts/2139_2023-08-30_13-04-00/)
