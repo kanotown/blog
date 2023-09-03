@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 03, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,142<br/>
-単語数 (Number of Words): 245,846<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 04, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,143<br/>
+単語数 (Number of Words): 245,948<br/><br/>
 </div>
 
 ## Symbols
@@ -894,6 +894,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kanjin</strong></em> (肝心 - Important/Key)](../posts/1244_2018-05-15_12-28-00/)
 - [Kanko-dori ga Naku](../posts/0731_2016-12-18_17-32-00/)
 - [<strong><em>Kankodori</strong></em> (閑古鳥 - "Cuckoo")](../posts/1791_2021-03-22_14-54-00/)
+- [<strong><em>Kansuto</strong></em> (カンスト - Maximum Value)](../posts/2143_2023-09-03_23-06-00/)
 - [<strong><em>Kao ga Hiroi</strong></em> (顔が広い - Knowing Many People)](../posts/1872_2021-06-11_08-05-00/)
 - [<strong><em>Kao ga Ureru</strong></em> (顔が売れる - Becoming Famous)](../posts/1873_2021-06-12_13-04-00/)
 - [<strong><em>Kao kara Hi ga Deru</strong></em> (顔から火が出る - One's Face Burned with Shame)](../posts/1889_2021-06-28_08-46-00/)
