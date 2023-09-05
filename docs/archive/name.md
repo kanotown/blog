@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of September 05, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,144<br/>
-単語数 (Number of Words): 246,073<br/><br/>
+投稿数 (Number of Posts): 2,145<br/>
+単語数 (Number of Words): 246,190<br/><br/>
 </div>
 
 ## Symbols
@@ -106,6 +106,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Aki no Mikaku</strong></em> (秋の味覚 - Seasonal Food of Fall/Autumn)](../posts/1742_2019-09-24_13-07-00/)
 - [<strong><em>Akinasu wa Yome ni Kuwasuna</strong></em> (秋茄子は嫁に食わすな - Don't Let Daughter-in-Law Eat Autumn Eggplants)](../posts/1033_2017-10-16_05-21-00/)
 - [<strong><em>Akkanbe</strong></em> (Cook a Snook)](../posts/0810_2017-03-07_07-55-00/)
+- [<strong><em>Aku ga Nukeru</strong></em> (灰汁が抜ける - Becoming Refined)](../posts/2145_2023-09-05_19-54-00/)
 - [<strong><em>Aku wa Nobeyo</strong></em> (悪は延べよ)](../posts/1753_2019-10-07_08-52-00/)
 - [<strong><em>Akubi</strong></em> (あくび - Yawn)](../posts/1225_2018-04-26_14-30-00/)
 - [<strong><em>Akubi wo Kamikorosu</strong></em> (あくびを噛み殺す - Suppressing a Yawn)](../posts/1685_2019-07-30_17-53-00/)
