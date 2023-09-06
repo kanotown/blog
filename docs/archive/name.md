@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 06, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,145<br/>
-単語数 (Number of Words): 246,190<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 07, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,146<br/>
+単語数 (Number of Words): 246,324<br/><br/>
 </div>
 
 ## Symbols
@@ -1018,6 +1018,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kuri Bocchi</strong></em> (クリぼっち)](../posts/1103_2017-12-25_12-40-00/)
 - [<strong><em>Kuromaku</strong></em> (A Black Curtain)](../posts/0754_2017-01-10_21-46-00/)
 - [<strong><em>Kurushī</strong></em> (苦しい - Painful/Difficult)](../posts/1706_2019-08-20_15-08-00/)
+- [<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em> (草木も眠る丑三つ時 - Witching Hour): Part 1](../posts/2146_2023-09-06_22-11-00/)
 - [<strong><em>Kusattemo Tai</strong></em> (腐っても鯛 - A Good Horse Becomes Never a Jade)](../posts/1362_2018-09-10_19-19-00/)
 - [Kusawake](../posts/0854_2017-04-20_08-54-00/)
 - [<strong><em>Kusawake</strong></em> (草分け - Pioneer)](../posts/1134_2018-01-25_16-17-00/)
