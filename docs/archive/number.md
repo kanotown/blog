@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 08, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,147<br/>
-単語数 (Number of Words): 246,477<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 09, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,148<br/>
+単語数 (Number of Words): 246,596<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2148】<strong><em>Sakushi Saku ni Oboreru</strong></em> (策士策に溺れる - Hoist with His Own Petard)](../posts/2148_2023-09-08_11-37-00/)
 - [【No. 2147】<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em> (草木も眠る丑三つ時 - Witching Hour): Part 2](../posts/2147_2023-09-07_21-26-00/)
 - [【No. 2146】<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em> (草木も眠る丑三つ時 - Witching Hour): Part 1](../posts/2146_2023-09-06_22-11-00/)
 - [【No. 2145】<strong><em>Aku ga Nukeru</strong></em> (灰汁が抜ける - Becoming Refined)](../posts/2145_2023-09-05_19-54-00/)

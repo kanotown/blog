@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 08, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,147<br/>
-単語数 (Number of Words): 246,477<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 09, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,148<br/>
+単語数 (Number of Words): 246,596<br/><br/>
 </div>
 
 ## Symbols
@@ -1537,6 +1537,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Sakha Republic](../posts/0414_2016-02-05_10-35-00/)
 - [<strong><em>Saki ga Omoiyarareru</strong></em> (先が思いやられる - Being Worried about the Future)](../posts/2032_2023-05-15_19-40-00/)
 - [<strong><em>Sakura</strong></em> (サクラ - Decoy)](../posts/1210_2018-04-11_14-19-00/)
+- [<strong><em>Sakushi Saku ni Oboreru</strong></em> (策士策に溺れる - Hoist with His Own Petard)](../posts/2148_2023-09-08_11-37-00/)
 - [Salt Content in a Ramen](../posts/0112_2015-04-09_23-12-00/)
 - [<strong><em>Samidare</strong></em> (五月雨 - Early Summer Rain)](../posts/1880_2021-06-19_13-47-00/)
 - [<strong><em>Samidare Shiki</strong></em> (五月雨式/さみだれ式 - "Intermittent Manner")](../posts/1881_2021-06-20_11-47-00/)
