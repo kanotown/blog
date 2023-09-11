@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 09, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,148<br/>
-単語数 (Number of Words): 246,596<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 12, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,151<br/>
+単語数 (Number of Words): 246,919<br/><br/>
 </div>
 
 ## Symbols
@@ -29,6 +29,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - ['Yōshi Tanrei' and 'Bimoku Shūrei' (「容姿端麗」と「眉目秀麗」 - "Beautiful Features")](../posts/1553_2019-03-21_01-03-00/)
 - ['歳' and '才'](../posts/0237_2015-08-12_09-11-00/)
 ## 0-9
+- [0-ji Machi (0時待ち - Waiting for Midnight)](../posts/2149_2023-09-09_22-59-00/)
 - [0th Floor](../posts/0603_2016-08-12_01-44-00/)
 - [10% Consumption Tax ](../posts/1749_2019-10-02_20-13-00/)
 - [100 Times of Hiccups](../posts/0588_2016-07-28_10-31-00/)
@@ -152,6 +153,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [April Fool's Rule](../posts/0104_2015-04-01_23-27-00/)
 - [Aquarium Plants](../posts/0282_2015-09-26_11-55-00/)
 - [<strong><em>Arienai</strong></em> (ありえない - I Can't Believe It)](../posts/1119_2018-01-10_14-43-00/)
+- [<strong><em>Arigata Meiwaku</strong></em> (ありがた迷惑 - Misplaced Kindness)](../posts/2151_2023-09-11_19-29-00/)
 - [<strong><em>Arikitari</strong></em> (ありきたり - Predictable)](../posts/1139_2018-01-30_09-06-00/)
 - [<strong><em>Aruki Sumaho</strong></em> (歩きスマホ - Smartphone Zombie)](../posts/1633_2019-06-08_21-57-00/)
 - [<strong><em>Asameshi Mae</strong></em> (Before Breakfast)](../posts/0856_2017-04-22_15-28-00/)
@@ -1636,6 +1638,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Shisshō</strong></em> (失笑 - Bursting into Laughter)](../posts/1564_2019-03-31_22-19-00/)
 - [<strong><em>Shita-tsuzumi wo Utsu</strong></em> (舌鼓を打つ - Smacking One's Lips)](../posts/1919_2021-07-28_21-36-00/)
 - [<strong><em>Shitasaki Sanzun</strong></em> (舌先三寸 - Glib Tongue) Part 1](../posts/1623_2019-05-29_10-53-00/)
+- [<strong><em>Shitashiki Naka ni mo Reigi Ari</strong></em> (親しき仲にも礼儀あり - Good Fences Make Good Neighbors)](../posts/2150_2023-09-10_16-16-00/)
 - [<strong><em>Shitsugen</strong></em> (失言 - Slipping of the Tongue)](../posts/1992_2023-04-05_19-17-00/)
 - [<strong><em>Shitsunen</strong></em> (失念 - Slipping One's Mind)](../posts/1817_2021-04-17_12-34-00/)
 - [<strong><em>Shizentai</strong></em> (自然体 - Being Oneself)](../posts/1625_2019-05-31_22-02-00/)
