@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,151<br/>
-単語数 (Number of Words): 246,919<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,152<br/>
+単語数 (Number of Words): 247,043<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2152】<strong><em>Oshi</strong></em> (推し - My Fave): Part 1](../posts/2152_2023-09-12_12-26-00/)
 - [【No. 2151】<strong><em>Arigata Meiwaku</strong></em> (ありがた迷惑 - Misplaced Kindness)](../posts/2151_2023-09-11_19-29-00/)
 - [【No. 2150】<strong><em>Shitashiki Naka ni mo Reigi Ari</strong></em> (親しき仲にも礼儀あり - Good Fences Make Good Neighbors)](../posts/2150_2023-09-10_16-16-00/)
 - [【No. 2149】0-ji Machi (0時待ち - Waiting for Midnight)](../posts/2149_2023-09-09_22-59-00/)

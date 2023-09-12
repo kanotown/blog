@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,151<br/>
-単語数 (Number of Words): 246,919<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,152<br/>
+単語数 (Number of Words): 247,043<br/><br/>
 </div>
 
 ## Symbols
@@ -1402,6 +1402,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Oshaka ni Naru</strong></em> (おしゃかになる - Becoming Useless)](../posts/1182_2018-03-14_17-47-00/)
 - [<strong><em>Oshare</strong></em> (おしゃれ - Smart/Chic/Fashionable) Part 2](../posts/1641_2019-06-16_22-17-00/)
 - [<strong><em>Oshare</strong></em> (おしゃれ - Smart/Fancy) Part 1](../posts/1640_2019-06-15_12-11-00/)
+- [<strong><em>Oshi</strong></em> (推し - My Fave): Part 1](../posts/2152_2023-09-12_12-26-00/)
 - [<strong><em>Oshidori Fufu</strong></em> (A Happily Married Couple)](../posts/0585_2016-07-25_11-11-00/)
 - [<strong><em>Oshinobi</strong></em> (お忍び - Incognito)](../posts/1902_2021-07-11_12-38-00/)
 - [<strong><em>Oshiya</strong></em> (Pusher)](../posts/0671_2016-10-19_08-38-00/)
