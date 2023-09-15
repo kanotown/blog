@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 15, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,154<br/>
-単語数 (Number of Words): 247,258<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 16, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,155<br/>
+単語数 (Number of Words): 247,401<br/><br/>
 </div>
 
 ## Symbols
@@ -994,6 +994,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Komorebi](../posts/0583_2016-07-23_17-38-00/)
 - [Konjac](../posts/0191_2015-06-27_15-33-00/)
 - [<strong><em>Kono Ue Naku</strong></em> (この上なく - Supremely)](../posts/1329_2018-08-08_14-56-00/)
+- [<strong><em>Korogu Kōbun</strong></em> (コログ構文 - Korok's Sentence Structure)](../posts/2155_2023-09-15_16-25-00/)
 - [<strong><em>Koshi ga Hikui</strong></em> (腰が低い - Humble)](../posts/1610_2019-05-16_10-32-00/)
 - [<strong><em>Koshi wo Oru</strong></em> (腰を折る - Interrupting)](../posts/2068_2023-06-20_14-33-00/)
 - [<strong><em>Koshikake</strong></em> (腰掛け - Chair/Makeshift Job)](../posts/1611_2019-05-17_18-41-00/)

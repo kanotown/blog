@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 15, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,154<br/>
-単語数 (Number of Words): 247,258<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 16, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,155<br/>
+単語数 (Number of Words): 247,401<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2155】<strong><em>Korogu Kōbun</strong></em> (コログ構文 - Korok's Sentence Structure)](../posts/2155_2023-09-15_16-25-00/)
 - [【No. 2154】<strong><em>Egokoro</strong></em> (絵心 - Artistic Taste)](../posts/2154_2023-09-14_13-02-00/)
 - [【No. 2153】<strong><em>Oshi</strong></em> (推し - My Fave): Part 2](../posts/2153_2023-09-13_17-46-00/)
 - [【No. 2152】<strong><em>Oshi</strong></em> (推し - My Fave): Part 1](../posts/2152_2023-09-12_12-26-00/)
