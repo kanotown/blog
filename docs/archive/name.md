@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 17, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,156<br/>
-単語数 (Number of Words): 247,551<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 18, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,157<br/>
+単語数 (Number of Words): 247,694<br/><br/>
 </div>
 
 ## Symbols
@@ -994,6 +994,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Komorebi](../posts/0583_2016-07-23_17-38-00/)
 - [Konjac](../posts/0191_2015-06-27_15-33-00/)
 - [<strong><em>Kono Ue Naku</strong></em> (この上なく - Supremely)](../posts/1329_2018-08-08_14-56-00/)
+- [<strong><em>Koro Gyaku</strong></em> (コロ虐 - Korok Abuse)](../posts/2157_2023-09-17_18-37-00/)
 - [<strong><em>Korogu Kōbun</strong></em> (コログ構文 - Korok's Sentence Structure): Part 1](../posts/2155_2023-09-15_16-25-00/)
 - [<strong><em>Korogu Kōbun</strong></em> (コログ構文 - Korok's Sentence Structure): Part 2](../posts/2156_2023-09-16_12-20-00/)
 - [<strong><em>Koshi ga Hikui</strong></em> (腰が低い - Humble)](../posts/1610_2019-05-16_10-32-00/)
