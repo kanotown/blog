@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 18, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,157<br/>
-単語数 (Number of Words): 247,694<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 19, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,158<br/>
+単語数 (Number of Words): 247,808<br/><br/>
 </div>
 
 ## Symbols
@@ -505,6 +505,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Gei wa Mi wo Tasukeru</strong></em> (芸は身を助ける - Art Brings Bread)](../posts/2123_2023-08-14_22-14-00/)
 - [Geko](../posts/0489_2016-04-20_13-17-00/)
 - [<strong><em>Genjitsu Tōhi</strong></em> (現実逃避 - Escapism)](../posts/2040_2023-05-23_10-58-00/)
+- [<strong><em>Genkai Otaku</strong></em> (限界オタク - Excessive Otaku)](../posts/2158_2023-09-18_18-21-00/)
 - [Getting Lost](../posts/0987_2017-08-31_23-23-00/)
 - [<strong><em>Giga ga Nai</strong></em> (ギガがない - Reached Data Limit)](../posts/2144_2023-09-04_23-51-00/)
 - [<strong><em>Gikkuri Goshi</strong></em> (ぎっくり腰 - Acute Low Back Pain)](../posts/1446_2018-12-03_15-08-00/)
