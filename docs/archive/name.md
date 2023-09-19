@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 19, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,158<br/>
-単語数 (Number of Words): 247,808<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 20, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,159<br/>
+単語数 (Number of Words): 247,951<br/><br/>
 </div>
 
 ## Symbols
@@ -1379,6 +1379,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>On ni Kiseru/On wo Uru</strong></em> (恩に着せる/恩を売る - Making You Feel Grateful)](../posts/1573_2019-04-09_13-53-00/)
 - [<strong><em>On no Ji</strong></em> (The Character "on" (御))](../posts/0718_2016-12-05_22-06-00/)
 - [<strong><em>On wo Ada de Kaesu</strong></em> (恩を仇で返す - Biting the Hand that Feeds One)](../posts/1572_2019-04-08_10-40-00/)
+- [<strong><em>Onaji Ana no Mujina</strong></em> (同じ穴の狢 - Birds of a Feather)](../posts/2159_2023-09-19_12-48-00/)
 - [<strong><em>Onaka ga Heru</strong></em> (お腹が減る - Being Hungry)](../posts/1781_2021-03-12_23-07-00/)
 - [<strong><em>Onbu ni Dakko</strong></em> (おんぶに抱っこ - Completely Relying on Others)](../posts/1659_2019-07-04_09-15-00/)
 - [<strong><em>Onchi</strong></em> (音痴 - A Bad Signer)](../posts/1428_2018-11-15_14-32-00/)
