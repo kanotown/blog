@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 20, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,159<br/>
-単語数 (Number of Words): 247,951<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 21, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,160<br/>
+単語数 (Number of Words): 248,113<br/><br/>
 </div>
 
 ## Symbols
@@ -407,6 +407,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Doyō no Ushi no Hi</strong></em> (土用の丑の日)](../posts/2108_2023-07-30_12-04-00/)
 - [Drink Medicine](../posts/0272_2015-09-16_11-19-00/)
 - [Drop-kick](../posts/0320_2015-11-03_13-03-00/)
+- [<strong><em>Dō ni Iru</strong></em> (堂に入る - Mastering Something)](../posts/2160_2023-09-20_12-58-00/)
 ## E
 - [<strong><em>E ni Kaita Mochi</strong></em> (A Rice Cake Drawn in a Picture)](../posts/0742_2016-12-29_11-58-00/)
 - [Earned 2 yen](../posts/0080_2015-03-08_17-24-00/)
