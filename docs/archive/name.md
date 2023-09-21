@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 21, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,160<br/>
-単語数 (Number of Words): 248,113<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 22, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,161<br/>
+単語数 (Number of Words): 248,227<br/><br/>
 </div>
 
 ## Symbols
@@ -1514,6 +1514,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Regular Holidays of Beauty Salons](../posts/0518_2016-05-19_10-39-00/)
 - [<strong><em>Rekki toshita</strong></em> (れっきとした - Respectable/Authentic)](../posts/1462_2018-12-19_23-30-00/)
 - [Relationship Between Rain and Headache](../posts/0073_2015-03-01_22-19-00/)
+- [Released Original LINE Emoji](../posts/2161_2023-09-21_15-15-00/)
 - [<strong><em>Remote Disaster Drill</strong></em> (リモート防災訓練)](../posts/1954_2021-09-01_10-35-00/)
 - [Repair of Air Conditioner](../posts/0230_2015-08-05_17-40-00/)
 - [Return Home](../posts/0786_2017-02-11_23-31-00/)
