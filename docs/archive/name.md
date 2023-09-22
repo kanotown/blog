@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 22, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,161<br/>
-単語数 (Number of Words): 248,227<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 23, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,162<br/>
+単語数 (Number of Words): 248,343<br/><br/>
 </div>
 
 ## Symbols
@@ -1539,6 +1539,7 @@ Currently, I write short texts in English every day on a language exchange socia
 ## S
 - [<strong><em>Saba wo Yomu</strong></em> (Fudge the Number)](../posts/0615_2016-08-24_20-48-00/)
 - [Saboru](../posts/0876_2017-05-12_15-06-00/)
+- [<strong><em>Sabusuku Binbō</strong></em> (サブスク貧乏 - Being Poor due to Subscriptions)](../posts/2162_2023-09-22_12-23-00/)
 - [Sad Premium Friday](../posts/0802_2017-02-27_11-17-00/)
 - [<strong><em>Sagasu</strong></em> (さがす - Searching)](../posts/1661_2019-07-06_09-24-00/)
 - [<strong><em>Sahanji</strong></em> (Everyday Affairs )](../posts/0882_2017-05-18_09-31-00/)
