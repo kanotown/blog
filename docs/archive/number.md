@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,162<br/>
-単語数 (Number of Words): 248,343<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,163<br/>
+単語数 (Number of Words): 248,448<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2163】<strong><em>Shūbun no Hi</strong></em> (秋分の日 - Autumnal Equinox Day)](../posts/2163_2023-09-23_12-33-00/)
 - [【No. 2162】<strong><em>Sabusuku Binbō</strong></em> (サブスク貧乏 - Being Poor due to Subscriptions)](../posts/2162_2023-09-22_12-23-00/)
 - [【No. 2161】Released Original LINE Emoji](../posts/2161_2023-09-21_15-15-00/)
 - [【No. 2160】<strong><em>Dō ni Iru</strong></em> (堂に入る - Mastering Something)](../posts/2160_2023-09-20_12-58-00/)
