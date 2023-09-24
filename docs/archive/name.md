@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 24, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,163<br/>
-単語数 (Number of Words): 248,448<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 25, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,164<br/>
+単語数 (Number of Words): 248,571<br/><br/>
 </div>
 
 ## Symbols
@@ -760,6 +760,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Inase</strong></em> (いなせ)](../posts/1399_2018-10-17_21-24-00/)
 - [Inemuri](../posts/0065_2015-02-21_22-47-00/)
 - [<strong><em>Inemuri</strong></em> (居眠り - Snooze/Doze)](../posts/1454_2018-12-11_15-38-00/)
+- [<strong><em>Inishie</strong></em> (古 - Obsolete)](../posts/2164_2023-09-24_10-15-00/)
 - [<strong><em>Inochi Atte no Monodane</strong></em> (命あっての物種 - While There Is Life, There Is Hope)](../posts/2034_2023-05-17_13-12-00/)
 - [Insect Food](../posts/0351_2015-12-04_14-56-00/)
 - [Inserting a Leap Second](../posts/0745_2017-01-01_22-42-00/)
