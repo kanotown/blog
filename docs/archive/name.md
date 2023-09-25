@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 25, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,164<br/>
-単語数 (Number of Words): 248,571<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 26, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,165<br/>
+単語数 (Number of Words): 248,701<br/><br/>
 </div>
 
 ## Symbols
@@ -875,6 +875,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kai ni Naru</strong></em> (貝になる - Saying Nothing)](../posts/0985_2017-08-29_09-11-00/)
 - [<strong><em>Kaikaburi</strong></em> (買いかぶる - Overestimating)](../posts/1846_2021-05-16_16-57-00/)
 - [<strong><em>Kaish</strong></em> (会社 - Company)](../posts/1482_2019-01-08_23-36-00/)
+- [<strong><em>Kajiba no Bakajikara</strong></em> (火事場の馬鹿力 - Fight-or-Flight Response)](../posts/2165_2023-09-25_09-59-00/)
 - [<strong><em>Kakashi</strong></em> (Scarecrow)](../posts/0836_2017-04-02_07-51-00/)
 - [<strong><em>Kakenhi</strong></em> (Grants-in-Aid for Scientific Research)](../posts/0838_2017-04-04_23-59-00/)
 - [<strong><em>Kakeochi</strong></em> (駆け落ち - Elope)](../posts/0936_2017-07-11_12-14-00/)
