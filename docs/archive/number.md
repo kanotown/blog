@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 26, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,165<br/>
-単語数 (Number of Words): 248,701<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 27, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,166<br/>
+単語数 (Number of Words): 248,836<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2166】<strong><em>Ha ni Kinu Kise nu</strong></em> (歯に衣着せぬ - Outspoken)](../posts/2166_2023-09-26_21-42-00/)
 - [【No. 2165】<strong><em>Kajiba no Bakajikara</strong></em> (火事場の馬鹿力 - Fight-or-Flight Response)](../posts/2165_2023-09-25_09-59-00/)
 - [【No. 2164】<strong><em>Inishie</strong></em> (古 - Obsolete)](../posts/2164_2023-09-24_10-15-00/)
 - [【No. 2163】<strong><em>Shūbun no Hi</strong></em> (秋分の日 - Autumnal Equinox Day)](../posts/2163_2023-09-23_12-33-00/)
