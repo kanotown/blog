@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 27, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,166<br/>
-単語数 (Number of Words): 248,836<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 28, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,167<br/>
+単語数 (Number of Words): 248,964<br/><br/>
 </div>
 
 ## Symbols
@@ -1025,6 +1025,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kuchibi wo Kiru</strong></em> (口火を切る - Breaking the Ice)](../posts/1865_2021-06-04_10-32-00/)
 - [<strong><em>Kuda wo Maku</strong></em> (管を巻く - Blathering)](../posts/0977_2017-08-21_19-38-00/)
 - [<strong><em>Kugi wo Sasu</strong></em> (釘を刺す Warning against Someone)](../posts/1125_2018-01-16_13-24-00/)
+- [<strong><em>Kujū wo Nameru</strong></em> (苦汁を嘗める - Having a Bitter Experience)](../posts/2167_2023-09-27_08-28-00/)
 - [<strong><em>Kuragae</strong></em> (鞍替え - Changing Sides)](../posts/1154_2018-02-14_20-04-00/)
 - [<strong><em>Kuri Bocchi</strong></em> (クリぼっち)](../posts/1103_2017-12-25_12-40-00/)
 - [<strong><em>Kuromaku</strong></em> (A Black Curtain)](../posts/0754_2017-01-10_21-46-00/)
