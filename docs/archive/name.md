@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 28, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,167<br/>
-単語数 (Number of Words): 248,964<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 29, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,168<br/>
+単語数 (Number of Words): 249,098<br/><br/>
 </div>
 
 ## Symbols
@@ -1197,6 +1197,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Muda</strong></em> (無駄 - Waste)](../posts/1298_2018-07-08_20-54-00/)
 - [<strong><em>Mukuchi</strong></em> (無口 - Having Few Words)](../posts/1466_2018-12-23_14-54-00/)
 - [<strong><em>Munasawagi</strong></em> (胸騒ぎ - Bad Feeling)](../posts/1145_2018-02-05_20-54-00/)
+- [<strong><em>Munatsuki Hacchō</strong></em> (胸突き八丁 - Make-or-Break Period)](../posts/2168_2023-09-28_22-38-00/)
 - [<strong><em>Mune ga Ippai ni Naru</strong></em> (胸がいっぱいになる - Overflowing)](../posts/1541_2019-03-08_15-44-00/)
 - [<strong><em>Mune ga Odoru</strong></em> (胸が躍る - Exciting)](../posts/1989_2023-04-02_17-45-00/)
 - [<strong><em>Mune wo Fukuramaseru</strong></em> (胸をふくらませる - Full of Hope)](../posts/1628_2019-06-03_15-40-00/)
