@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of September 29, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,168<br/>
-単語数 (Number of Words): 249,098<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of September 30, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,169<br/>
+単語数 (Number of Words): 249,224<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2169】<strong><em>Shicchaka Mecchaka</strong></em> (しっちゃかめっちゃか - Total Mess)](../posts/2169_2023-09-29_10-24-00/)
 - [【No. 2168】<strong><em>Munatsuki Hacchō</strong></em> (胸突き八丁 - Make-or-Break Period)](../posts/2168_2023-09-28_22-38-00/)
 - [【No. 2167】<strong><em>Kujū wo Nameru</strong></em> (苦汁を嘗める - Having a Bitter Experience)](../posts/2167_2023-09-27_08-28-00/)
 - [【No. 2166】<strong><em>Ha ni Kinu Kise nu</strong></em> (歯に衣着せぬ - Outspoken)](../posts/2166_2023-09-26_21-42-00/)
