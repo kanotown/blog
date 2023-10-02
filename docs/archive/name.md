@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 02, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,171<br/>
-単語数 (Number of Words): 249,462<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 03, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,172<br/>
+単語数 (Number of Words): 249,599<br/><br/>
 </div>
 
 ## Symbols
@@ -1030,6 +1030,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kuragae</strong></em> (鞍替え - Changing Sides)](../posts/1154_2018-02-14_20-04-00/)
 - [<strong><em>Kuri Bocchi</strong></em> (クリぼっち)](../posts/1103_2017-12-25_12-40-00/)
 - [<strong><em>Kuro Rekishi</strong></em> (黒歴史 - Dark History): Part 1](../posts/2171_2023-10-01_11-58-00/)
+- [<strong><em>Kuro Rekishi</strong></em> (黒歴史 - Dark History): Part 2](../posts/2172_2023-10-02_20-59-00/)
 - [<strong><em>Kuromaku</strong></em> (A Black Curtain)](../posts/0754_2017-01-10_21-46-00/)
 - [<strong><em>Kurushī</strong></em> (苦しい - Painful/Difficult)](../posts/1706_2019-08-20_15-08-00/)
 - [<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em> (草木も眠る丑三つ時 - Witching Hour): Part 1](../posts/2146_2023-09-06_22-11-00/)
