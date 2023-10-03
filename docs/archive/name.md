@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 03, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,172<br/>
-単語数 (Number of Words): 249,599<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 04, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,173<br/>
+単語数 (Number of Words): 249,708<br/><br/>
 </div>
 
 ## Symbols
@@ -2194,6 +2194,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Zubora](../posts/0834_2017-03-31_14-51-00/)
 - [Zuboshi](../posts/0691_2016-11-08_00-01-00/)
 - [<strong><em>Zunda Mochi</strong></em> (ずんだ餅 - Green Soybeans  Rice Cake)](../posts/2009_2023-04-22_11-25-00/)
+- [<strong><em>Zutsū no Tane</strong></em> (頭痛の種 - Headache)](../posts/2173_2023-10-03_21-06-00/)
 - [<strong><em>Zyakkan</strong></em> (弱冠 - Tender Age)](../posts/1227_2018-04-28_16-24-00/)
 ## Others
 - [begin to / begin doing](../posts/0183_2015-06-19_12-18-00/)
