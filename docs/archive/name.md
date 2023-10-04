@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 04, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,173<br/>
-単語数 (Number of Words): 249,708<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 05, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,174<br/>
+単語数 (Number of Words): 249,814<br/><br/>
 </div>
 
 ## Symbols
@@ -494,6 +494,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Fūfu Genka wa Inu mo Kuwanu</strong></em> (夫婦喧嘩は犬も食わぬ - One should not Interfere in Lover's Quarrels)](../posts/2061_2023-06-13_15-59-00/)
 - [<strong><em>Fūrin</strong></em> (風鈴 - Wind Bell)](../posts/1336_2018-08-15_17-58-00/)
 ## G
+- [<strong><em>Gaba Eimu</strong></em> (ガバエイム - Unsteady Aim)](../posts/2174_2023-10-04_20-14-00/)
 - [<strong><em>Gachōn</strong></em> (がちょーん) by Amazon Echo](../posts/1219_2018-04-20_12-44-00/)
 - [<strong><em>Gaden Insui</strong></em> (我田引水 - Self-serving)](../posts/2042_2023-05-25_22-02-00/)
 - [<strong><em>Gamu</strong></em> (Gum)<strong><em>Gamu</strong></em> (Gum)](../posts/0517_2016-05-18_15-25-00/)
