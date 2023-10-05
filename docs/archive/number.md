@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 05, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,174<br/>
-単語数 (Number of Words): 249,814<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 06, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,175<br/>
+単語数 (Number of Words): 249,930<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2175】<strong><em>Kangamiru</strong></em> (鑑みる - Reflecting On)](../posts/2175_2023-10-05_10-51-00/)
 - [【No. 2174】<strong><em>Gaba Eimu</strong></em> (ガバエイム - Unsteady Aim)](../posts/2174_2023-10-04_20-14-00/)
 - [【No. 2173】<strong><em>Zutsū no Tane</strong></em> (頭痛の種 - Headache)](../posts/2173_2023-10-03_21-06-00/)
 - [【No. 2172】<strong><em>Kuro Rekishi</strong></em> (黒歴史 - Dark History): Part 2](../posts/2172_2023-10-02_20-59-00/)

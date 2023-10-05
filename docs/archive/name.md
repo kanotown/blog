@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 05, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,174<br/>
-単語数 (Number of Words): 249,814<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 06, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,175<br/>
+単語数 (Number of Words): 249,930<br/><br/>
 </div>
 
 ## Symbols
@@ -900,6 +900,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kan-muryō</strong></em> (感無量 - Deep Emotion)](../posts/1542_2019-03-09_15-43-00/)
 - [<strong><em>Kanashii</strong></em> (悲しい - Sad)](../posts/1081_2017-12-03_15-42-00/)
 - [<strong><em>Kane ga Mono wo Iu</strong></em> (金が物を言う - Money Talks)](../posts/1985_2021-10-02_18-03-00/)
+- [<strong><em>Kangamiru</strong></em> (鑑みる - Reflecting On)](../posts/2175_2023-10-05_10-51-00/)
 - [<strong><em>Kangeki wo Nū</strong></em> (間隙を縫う - Making Effective Use of Spare Time)](../posts/2121_2023-08-12_20-15-00/)
 - [<strong><em>Kani no Yokobai</strong></em> (蟹の横這い)](../posts/1070_2017-11-22_10-49-00/)
 - [<strong><em>Kanji</strong></em> (漢字 - "Chinese Character")](../posts/1319_2018-07-29_17-49-00/)
