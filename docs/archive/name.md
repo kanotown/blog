@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 06, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,175<br/>
-単語数 (Number of Words): 249,930<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 07, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,176<br/>
+単語数 (Number of Words): 250,063<br/><br/>
 </div>
 
 ## Symbols
@@ -1544,6 +1544,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Ruby and Sapphire](../posts/0332_2015-11-15_14-40-00/)
 - [Rules of E-mail Addresses](../posts/0231_2015-08-06_11-13-00/)
 - [<strong><em>Ruru</strong></em> (縷々 - At Great Length)](../posts/1231_2018-05-02_21-47-00/)
+- [<strong><em>Ryūtō Dabi</strong></em> (竜頭蛇尾 - Anticlimax)](../posts/2176_2023-10-06_21-34-00/)
 - [<strong><em>Rōbashin</strong></em> (老婆心 - Excessive  Kindness)](../posts/1821_2021-04-21_08-33-00/)
 - [<strong><em>Rōnyaku Nan-nyo</strong></em> (老若男女 - "Men and Women of All Ages")](../posts/1727_2019-09-09_17-03-00/)
 ## S
