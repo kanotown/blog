@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 08, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,177<br/>
-単語数 (Number of Words): 250,180<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 09, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,178<br/>
+単語数 (Number of Words): 250,282<br/><br/>
 </div>
 
 ## Symbols
@@ -1610,7 +1610,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Shaku</strong></em> (尺)](../posts/1196_2018-03-28_18-03-00/)
 - [<strong><em>Shame</strong></em> (写メ - Photo) Part 1](../posts/1578_2019-04-14_20-07-00/)
 - [<strong><em>Shame</strong></em> (写メ - Photo) Part 2](../posts/1579_2019-04-15_11-55-00/)
-- [<strong><em>Shamisen wo Hiku</strong></em> (三味線を弾く - Making Somethong Up)](../posts/2177_2023-10-07_21-09-00/)
+- [<strong><em>Shamisen wo Hiku</strong></em> (三味線を弾く - Making Something Up)](../posts/2177_2023-10-07_21-09-00/)
 - [Shapes of Eggs](../posts/0449_2016-03-11_22-03-00/)
 - [<strong><em>Sharakusai</strong></em> (しゃらくさい)](../posts/1448_2018-12-05_23-42-00/)
 - [<strong><em>Shari</strong></em> (シャリ - White/Vinegared Rice)](../posts/1655_2019-06-30_17-21-00/)
@@ -2182,6 +2182,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Yō wo Tasu</strong></em> (用を足す - Go to the Bathroom)](../posts/1548_2019-03-15_23-56-00/)
 - [<strong><em>Yūjū Fudan</strong></em> (優柔不断 - Indecision)](../posts/2007_2023-04-20_21-17-00/)
 - [<strong><em>Yūmei Mujitsu</strong></em> (有名無実 - Titular)](../posts/1524_2019-02-19_22-52-00/)
+- [<strong><em>Yūyū Jiteki</strong></em> (悠々自適 - Leisurely)](../posts/2178_2023-10-08_18-34-00/)
 ## Z
 - [<strong><em>Zaisu</strong></em> (座椅子 - Legless Chair)](../posts/1613_2019-05-19_19-22-00/)
 - [<strong><em>Zako</strong></em> (雑魚 - Small Fry)](../posts/0971_2017-08-15_16-47-00/)
