@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 10, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,179<br/>
-単語数 (Number of Words): 250,386<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 11, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,180<br/>
+単語数 (Number of Words): 250,517<br/><br/>
 </div>
 
 ## Symbols
@@ -1281,6 +1281,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Nekoze</strong></em> (猫背 - Rounded Back)](../posts/1805_2021-04-05_12-07-00/)
 - [<strong><em>Nekubi wo Kaku</strong></em> (寝首をかく - Catching Someone off Guard)](../posts/1844_2021-05-14_10-49-00/)
 - [<strong><em>Nekura</strong></em> (Gloomy Personality): Part 1](../posts/2179_2023-10-09_07-19-00/)
+- [<strong><em>Nekura</strong></em> (Gloomy Personality): Part 2](../posts/2180_2023-10-10_19-47-00/)
 - [<strong><em>Nemimi ni Mizu</strong></em> (寝耳に水 - Bombshell)](../posts/1074_2017-11-26_17-26-00/)
 - [<strong><em>Nen ni wa Nen wo Ireru</strong></em> (念には念を入れる - Taking Extra Precautions)](../posts/2107_2023-07-29_17-42-00/)
 - [<strong><em>Nen-nen Korori</strong></em> (ねんねんころり)](../posts/1723_2019-09-05_22-56-00/)
