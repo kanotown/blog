@@ -3,6 +3,7 @@ site_name: Archives of Learning English and Japanese
 theme:
   # language: ja
   name: material
+  custom_dir: overrides
   favicon: img/favicon.png
   font:
     text: Noto Sans Japanese

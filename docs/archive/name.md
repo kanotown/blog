@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of October 11, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,180<br/>
-単語数 (Number of Words): 250,517<br/><br/>
+投稿数 (Number of Posts): 2,181<br/>
+単語数 (Number of Words): 250,665<br/><br/>
 </div>
 
 ## Symbols
@@ -394,6 +394,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Doctoral Thesis](../posts/0138_2015-05-05_21-44-00/)
 - [<strong><em>Dogimo wo Nuku</strong></em> (度肝を抜く - Surprising the Hell out of Someone )](../posts/1056_2017-11-08_13-01-00/)
 - [<strong><em>Doji</strong></em> (どじ - Stupid/Idiot)](../posts/1400_2018-10-18_12-35-00/)
+- [<strong><em>Dokagui Kizetsu-bu</strong></em> (ドカ食い気絶部 - Overating Fainting Club)](../posts/2181_2023-10-11_18-53-00/)
 - [<strong><em>Dokuha</strong></em> (読破 - Reading Through)](../posts/1246_2018-05-17_22-02-00/)
 - [Don't Mind](../posts/0273_2015-09-17_10-14-00/)
 - [<strong><em>Donburako</strong></em> (どんぶらこ)](../posts/1815_2021-04-15_10-43-00/)
