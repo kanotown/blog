@@ -65,7 +65,7 @@ markdown_extensions:
 
 plugins:
   - blog:
-      authors: true
+      # authors: false
       blog_dir: archive
       enabled: true
       authors_file: archive/.authors.yml
