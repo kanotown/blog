@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,181<br/>
-単語数 (Number of Words): 250,673<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,182<br/>
+単語数 (Number of Words): 250,811<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2182】<strong><em>Kizi mo Nakazu wa Utaremai</strong></em> (雉も鳴かずば撃たれまい - Silence Keeps Your Safe)](../posts/2182_kizi-mo-nakazu-wa-utaremai/)
 - [【No. 2181】<strong><em>Dokagui Kizetsu-bu</strong></em> (ドカ食い気絶部 - Overating Fainting Club)](../posts/2181_dokagui-kizetsu-bu/)
 - [【No. 2180】<strong><em>Nekura</strong></em> (根暗 - Gloomy Personality): Part 2](../posts/2180_nekura/)
 - [【No. 2179】<strong><em>Nekura</strong></em> (根暗 - Gloomy Personality): Part 1](../posts/2179_nekura/)

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,181<br/>
-単語数 (Number of Words): 250,673<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,182<br/>
+単語数 (Number of Words): 250,811<br/><br/>
 </div>
 
 ## Symbols
@@ -984,6 +984,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Kitamakura(北枕)](../posts/0254_kitamakura-bei-zhen/)
 - [<strong><em>Kitsune-no-yomeiri</strong></em> (Fox Wedding)](../posts/0477_kitsune-no-yomeiri/)
 - [<strong><em>Kiyō Binbō</strong></em> (器用貧乏 - Jack of All Trades and Master of None)](../posts/1953_kiyo-binbo/)
+- [<strong><em>Kizi mo Nakazu wa Utaremai</strong></em> (雉も鳴かずば撃たれまい - Silence Keeps Your Safe)](../posts/2182_kizi-mo-nakazu-wa-utaremai/)
 - [Kneel on a Cushion](../posts/0055_kneel-on-a-cushion/)
 - [Knot Theory](../posts/0336_knot-theory/)
 - [Koala](../posts/0156_koala/)
