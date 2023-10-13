@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 13, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,182<br/>
-単語数 (Number of Words): 250,811<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 14, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,183<br/>
+単語数 (Number of Words): 250,957<br/><br/>
 </div>
 
 ## Symbols
@@ -2207,6 +2207,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Zyakkan</strong></em> (弱冠 - Tender Age)](../posts/1227_zyakkan/)
 ## Others
 - [begin to / begin doing](../posts/0183_begin-to-begin-doing/)
+- [iPhone 15 Pro](../posts/2183_iphone-15-pro/)
 - [iPhone Xs](../posts/1387_iphone-xs/)
 - [iPhone in a Bathroom](../posts/0492_iphone-in-a-bathroom/)
 - [<strong><em>Ā Ie ba Kō Iu</strong></em> (ああ言えばこう言う - Having a Smart Mouth)](../posts/2105_a-ie-ba-ko-iu/)
