@@ -83,4 +83,10 @@ I would consider buying a new BlackBerry smartphone when it<span class="f_bold">
 </div><div class="name"><span class="just_name">O-Star</span><br>
 My iPhone 11 Pro is still serving me well, I hope it can last me till 2025 (for the record, it doesn't have any battery issues).
 </div>
+<div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!<br/>Wow, that's great that it's lasting so long! :)
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>
