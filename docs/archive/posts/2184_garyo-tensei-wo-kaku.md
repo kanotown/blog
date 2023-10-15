@@ -64,4 +64,10 @@ This idiom originates from the story of the Chinese painter <span class="f_bold"
  I've heard of this story before.
 </p>
 
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!<br/>This story may have been derived in various ways. :)
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
