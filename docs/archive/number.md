@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 16, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,185<br/>
-単語数 (Number of Words): 251,273<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 17, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,186<br/>
+単語数 (Number of Words): 251,385<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2186】<strong><em>Jirihin</strong></em> (ジリ貧 - Gradually Becoming Poor)](../posts/2186_jirihin/)
 - [【No. 2185】<strong><em>Ato wa No to Nare Yama to Nare</strong></em> (後は野となれ山となれ - After Me the Deluge)](../posts/2185_ato-wa-no-to-nare-yama-to-nare/)
 - [【No. 2184】<strong><em>Garyō Tensei wo Kaku</strong></em> (画竜点睛を欠く - Lacking the Finishing Touch)](../posts/2184_garyo-tensei-wo-kaku/)
 - [【No. 2183】iPhone 15 Pro](../posts/2183_iphone-15-pro/)
