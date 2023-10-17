@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 17, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,186<br/>
-単語数 (Number of Words): 251,385<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 18, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,187<br/>
+単語数 (Number of Words): 251,497<br/><br/>
 </div>
 
 ## Symbols
@@ -1131,6 +1131,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Megane</strong></em> (眼鏡 - Glasses)](../posts/1591_megane/)
 - [<strong><em>Megashira ga Atsuku Naru</strong></em> (目頭が熱くなる - One's Eyes Fill with Tears)](../posts/1555_megashira-ga-atsuku-naru/)
 - [Mehrabian's Law](../posts/0534_mehrabian-s-law/)
+- [<strong><em>Meikyō Shisui</strong></em> (明鏡止水 -  Clear and Serene)](../posts/2187_meikyo-shisui/)
 - [<strong><em>Meishi</strong></em> (名刺 - Business/Name Card)](../posts/2017_meishi/)
 - [Mejiro Oshi](../posts/0825_mejiro-oshi/)
 - [<strong><em>Melo Melo</strong></em> (めろめろ - Madly in Love)](../posts/1072_melo-melo/)
