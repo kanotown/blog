@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 18, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,187<br/>
-単語数 (Number of Words): 251,497<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 19, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,188<br/>
+単語数 (Number of Words): 251,604<br/><br/>
 </div>
 
 ## Symbols
@@ -1052,6 +1052,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kuwazu Girai</strong></em> (食わず嫌い - Having a Prejudice)](../posts/1229_kuwazu-girai/)
 - [<strong><em>Kyoro kyoro</strong></em> (きょろきょろ)](../posts/0912_kyoro-kyoro/)
 - [Kyoto Sightseeing](../posts/0268_kyoto-sightseeing/)
+- [<strong><em>Kyōka Suigetsu</strong></em> (鏡花水月 - Phantom)](../posts/2188_kyoka-suigetsu/)
 - [<strong><em>Kyūshi ni Isshō wo Eru</strong></em> (九死に一生を得る - Having a Narrow Escape)](../posts/2045_kyushi-ni-issho-wo-eru/)
 - [<strong><em>Kyūso Neko wo Kamu</strong></em> (窮鼠猫を噛む - A Cornered Mouse Bites a Cat)](../posts/2135_kyuso-neko-wo-kamu/)
 - [<strong><em>Kōcha</strong></em> (紅茶 - Black Tea)](../posts/1083_kocha/)

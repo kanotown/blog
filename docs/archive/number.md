@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 18, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,187<br/>
-単語数 (Number of Words): 251,497<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 19, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,188<br/>
+単語数 (Number of Words): 251,604<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2188】<strong><em>Kyōka Suigetsu</strong></em> (鏡花水月 - Phantom)](../posts/2188_kyoka-suigetsu/)
 - [【No. 2187】<strong><em>Meikyō Shisui</strong></em> (明鏡止水 -  Clear and Serene)](../posts/2187_meikyo-shisui/)
 - [【No. 2186】<strong><em>Jirihin</strong></em> (ジリ貧 - Gradually Becoming Poor)](../posts/2186_jirihin/)
 - [【No. 2185】<strong><em>Ato wa No to Nare Yama to Nare</strong></em> (後は野となれ山となれ - After Me the Deluge)](../posts/2185_ato-wa-no-to-nare-yama-to-nare/)
