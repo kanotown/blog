@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 19, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,188<br/>
-単語数 (Number of Words): 251,604<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 20, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,189<br/>
+単語数 (Number of Words): 251,744<br/><br/>
 </div>
 
 ## Symbols
@@ -869,6 +869,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Kabe ni Mimi Ari Shoji ni Me Ari](../posts/0700_kabe-ni-mimi-ari-shoji-ni-me-ari/)
 - [<strong><em>Kacchīn</strong></em> (カッチーン)](../posts/1124_kacchin/)
 - [<strong><em>Kachō Fūgetsu</strong></em> (花鳥風月 - Beauties of Nature)](../posts/1472_kacho-fugetsu/)
+- [<strong><em>Kachū no Kuri wo Hirou</strong></em> (火中の栗を拾う - Taking a Risk for Someone): Part 1](../posts/2189_kachu-no-kuri-wo-hirou/)
 - [<strong><em>Kado ga Tatsu</strong></em> (角が立つ - Creating Bitter Feelings)](../posts/1480_kado-ga-tatsu/)
 - [<strong><em>Kado ga Toreru</strong></em> (角が取れる - Mellowing)](../posts/1479_kado-ga-toreru/)
 - [<strong><em>Kadode</strong></em> (門出 - New Chapter)](../posts/1988_kadode/)
