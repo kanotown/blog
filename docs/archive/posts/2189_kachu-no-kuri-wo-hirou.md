@@ -48,4 +48,7 @@ slug: "2189_kachu-no-kuri-wo-hirou"
 In the story, a monkey has a cat retrieve chestnuts from the fire while promising to share them<span class="f_bold"> with it</span>, but the monkey eats all the chestnuts, and the cat gets burned.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>

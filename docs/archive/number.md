@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 20, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,189<br/>
-単語数 (Number of Words): 251,744<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 21, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,190<br/>
+単語数 (Number of Words): 251,902<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2190】<strong><em>Kachū no Kuri wo Hirou</strong></em> (火中の栗を拾う - Taking a Risk for Someone): Part 2](../posts/2190_kachu-no-kuri-wo-hirou/)
 - [【No. 2189】<strong><em>Kachū no Kuri wo Hirou</strong></em> (火中の栗を拾う - Taking a Risk for Someone): Part 1](../posts/2189_kachu-no-kuri-wo-hirou/)
 - [【No. 2188】<strong><em>Kyōka Suigetsu</strong></em> (鏡花水月 - Phantom)](../posts/2188_kyoka-suigetsu/)
 - [【No. 2187】<strong><em>Meikyō Shisui</strong></em> (明鏡止水 -  Clear and Serene)](../posts/2187_meikyo-shisui/)
