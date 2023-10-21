@@ -46,7 +46,10 @@ slug: "2190_kachu-no-kuri-wo-hirou"
  'Taking a risk for someone' being a negative or positive idea in different cultures is an interesting point!
 </p>
 
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!<br/>Yes! I also find it an interesting difference!
+</div>
+</div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Kachū no Kuri wo Hirou (火中の栗を拾う - Taking a Risk for Someone): Part 2</li>
@@ -76,4 +79,10 @@ slug: "2190_kachu-no-kuri-wo-hirou"
 <li class="incorrect">However, it is often used in a positive sense, "to take a risk for someone's benefit," rather than in a negative sense as in foreign countries.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

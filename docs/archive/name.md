@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 21, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,190<br/>
-単語数 (Number of Words): 251,902<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 22, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,191<br/>
+単語数 (Number of Words): 252,040<br/><br/>
 </div>
 
 ## Symbols
@@ -248,6 +248,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Burnt Bread](../posts/0238_burnt-bread/)
 - [Bus Trip](../posts/0265_bus-trip/)
 - [Business Cards in Japan](../posts/2018_business-cards-in-japan/)
+- [Business Trip to Nagano](../posts/2191_business-trip-to-nagano/)
 - [<strong><em>Busu</strong></em> (ブス - Troll)](../posts/1392_busu/)
 - [<strong><em>Butsu</strong></em> (Stuff)](../posts/0805_butsu/)
 - [<strong><em>Butsubutsu Gawa</strong></em> (ぶつぶつ川)](../posts/1411_butsubutsu-gawa/)

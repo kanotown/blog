@@ -51,4 +51,7 @@ In the story, a monkey has a cat retrieve chestnuts from the fire while promisin
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
