@@ -85,6 +85,9 @@ Both 'meikyo' and 'shisui' can reflect the shape and form of things <span class=
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!<br/>I see! Such idioms sound really cool as names for skills in games. I haven't played FF7 yet, but I'm thinking of trying it out soon. :)
 </div>
+<div class="name"><span class="just_name">friendfromfaraway</span><br>
+FF7 is a masterpiece! I played the original in English on PlayStation 1. Some day I want to play the whole game in Japanese.
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 3　<span class="just_name">Oldgaijin</span></div><div id="block2">
 <ul class="correction_field">

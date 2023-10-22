@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 22, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,191<br/>
-単語数 (Number of Words): 252,040<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 23, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,192<br/>
+単語数 (Number of Words): 252,169<br/><br/>
 </div>
 
 ## Symbols
@@ -567,6 +567,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hadazamui</strong></em> (肌寒い - Chilly)](../posts/1328_hadazamui/)
 - [<strong><em>Haha no Hi</strong></em> (Mother's Day)](../posts/0878_haha-no-hi/)
 - [<strong><em>Haiboku</strong></em> (敗北 - Losing)](../posts/1630_haiboku/)
+- [<strong><em>Haisui no Jin</strong></em> (背水の陣 - Burning One's Boats)](../posts/2192_haisui-no-jin/)
 - [<strong><em>Hakaba made Motteiku</strong></em> (墓場まで持っていく - Taking Something to One's Grave)](../posts/1683_hakaba-made-motteiku/)
 - [<strong><em>Hame wo Hazusu</strong></em> (羽目を外す - Getting Carried Away)](../posts/1020_hame-wo-hazusu/)
 - [<strong><em>Han-don</strong></em> (半ドン - Half-holiday)](../posts/2074_han-don/)
