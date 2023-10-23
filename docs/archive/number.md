@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,192<br/>
-単語数 (Number of Words): 252,169<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,193<br/>
+単語数 (Number of Words): 252,269<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2193】<strong><em>Yanagi ni Kaze</strong></em> (柳に風 - Warding Off)](../posts/2193_yanagi-ni-kaze/)
 - [【No. 2192】<strong><em>Haisui no Jin</strong></em> (背水の陣 - Burning One's Boats)](../posts/2192_haisui-no-jin/)
 - [【No. 2191】Business Trip to Nagano](../posts/2191_business-trip-to-nagano/)
 - [【No. 2190】<strong><em>Kachū no Kuri wo Hirou</strong></em> (火中の栗を拾う - Taking a Risk for Someone): Part 2](../posts/2190_kachu-no-kuri-wo-hirou/)

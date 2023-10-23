@@ -52,4 +52,10 @@ Haisui no Jin (背水の陣 - Burning One's<span class="f_bold"> Bridges</span>)
 <li class="incorrect">By placing them in such a situation where they could not step back, the soldiers fought with determination and won.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction! :)
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

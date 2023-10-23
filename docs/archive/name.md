@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,192<br/>
-単語数 (Number of Words): 252,169<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,193<br/>
+単語数 (Number of Words): 252,269<br/><br/>
 </div>
 
 ## Symbols
@@ -2157,6 +2157,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Yamawake</strong></em> (山分け - Dividing Equally)](../posts/1721_yamawake/)
 - [<strong><em>Yamayama</strong></em> (山々 - Mountains)](../posts/1317_yamayama/)
 - [<strong><em>Yamiochi</strong></em> (闇落ち - Falling to the Dark Side)](../posts/2063_yamiochi/)
+- [<strong><em>Yanagi ni Kaze</strong></em> (柳に風 - Warding Off)](../posts/2193_yanagi-ni-kaze/)
 - [<strong><em>Yancha</strong></em> (やんちゃ - Nauthy)](../posts/0944_yancha/)
 - [<strong><em>Yankī</strong></em> (ヤンキー - "bad boy/girl")](../posts/1828_yanki/)
 - [<strong><em>Yarukoto Nasukoto</strong></em> (やることなすこと - Everything One Does)](../posts/1365_yarukoto-nasukoto/)
