@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 24, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,193<br/>
-単語数 (Number of Words): 252,269<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 25, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,194<br/>
+単語数 (Number of Words): 252,370<br/><br/>
 </div>
 
 ## Symbols
@@ -505,6 +505,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Garakuta</strong></em> (ガラクタ - Junk)](../posts/1380_garakuta/)
 - [<strong><em>Garyō Tensei wo Kaku</strong></em> (画竜点睛を欠く - Lacking the Finishing Touch)](../posts/2184_garyo-tensei-wo-kaku/)
 - [Gas Fees in Japan](../posts/0454_gas-fees-in-japan/)
+- [<strong><em>Gashin Shōtan</strong></em> (臥薪嘗胆 - Struggling against Difficulties)](../posts/2194_gashin-shotan/)
 - [<strong><em>Gata ga Kuru</strong></em> (ガタがくる - Showing One's Age)](../posts/1299_gata-ga-kuru/)
 - [<strong><em>Gebahyō</strong></em> (下馬評 - Whispering)](../posts/1241_gebahyo/)
 - [Geckos and Newts](../posts/0557_geckos-and-newts/)
