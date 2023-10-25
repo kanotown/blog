@@ -90,6 +90,9 @@ Yanagi ni Kaze (柳に風 - <span class="f_bold">Handling things without making 
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 3　<span class="just_name">friendfromfaraway</span></div><div id="block2">
 <ul class="correction_field">
