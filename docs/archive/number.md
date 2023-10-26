@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 26, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,195<br/>
-単語数 (Number of Words): 252,502<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 27, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,196<br/>
+単語数 (Number of Words): 252,615<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2196】<strong><em>Basashi</strong></em> (馬刺し - Horse Sashimi)](../posts/2196_basashi/)
 - [【No. 2195】<strong><em>Kōya no Shirobakama</strong></em> (紺屋の白袴 - The Shoemaker's Children Go Barefoor)](../posts/2195_koya-no-shirobakama/)
 - [【No. 2194】<strong><em>Gashin Shōtan</strong></em> (臥薪嘗胆 - Struggling against Difficulties)](../posts/2194_gashin-shotan/)
 - [【No. 2193】<strong><em>Yanagi ni Kaze</strong></em> (柳に風 - Warding Off)](../posts/2193_yanagi-ni-kaze/)

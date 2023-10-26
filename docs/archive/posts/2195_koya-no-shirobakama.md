@@ -20,7 +20,7 @@ slug: "2195_koya-no-shirobakama"
 紺屋の白袴<br/><br/>他人のことをするのに忙しくて、自分のことをする暇のない人のことを、「紺屋の白袴」と表現することがあります。<br/><br/>「紺屋」は、江戸時代に使われていた言葉で、染め物屋を意味します。<br/><br/>また、「白」は "white"、「袴」は日本の伝統的な衣類であるため、「紺屋の白袴」の文字どおりの意味は "a dyer's white hakama" となります。<br/><br/>人の着物を染めるので忙しく、自分の袴を染める時間すらないということです。<br/><br/>人のためだけでなく、自分のためにも時間を使うようにしましょう。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Kōya no Shirobakama (紺屋の白袴 - The Shoemaker's Children Go Barefoor)</li>
@@ -50,4 +50,21 @@ slug: "2195_koya-no-shirobakama"
 <li class="incorrect">Please try to use your time not only for others but also for yourself.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">Jen</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">People who are so busy working on others that they have no time to do their own business are sometimes described as 'kōya no shirobakama' (紺屋の白袴) in Japanese.</li>
+<li class="corrected correct">
+People who are so busy helping others that they have no time to take care of themself are sometimes described as 'kōya no shirobakama' (紺屋の白袴) in Japanese.
+</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>

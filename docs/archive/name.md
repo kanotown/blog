@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 26, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,195<br/>
-単語数 (Number of Words): 252,502<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 27, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,196<br/>
+単語数 (Number of Words): 252,615<br/><br/>
 </div>
 
 ## Symbols
@@ -192,6 +192,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Baka mo Yasumi Yasumi Ie</strong></em> (馬鹿も休み休み言え - Stop Talking Nonsense)](../posts/1965_baka-mo-yasumi-yasumi-ie/)
 - [Banana is similar to a human?](../posts/0291_banana-is-similar-to-a-human/)
 - [Barrel](../posts/0529_barrel/)
+- [<strong><em>Basashi</strong></em> (馬刺し - Horse Sashimi)](../posts/2196_basashi/)
 - [Bathynomus Doederleini](../posts/0126_bathynomus-doederleini/)
 - [<strong><em>Batsu ga Warui</strong></em> (ばつが悪い - Awkward/Uncomfortable)](../posts/1804_batsu-ga-warui/)
 - [Batta-mon](../posts/0874_batta-mon/)
