@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 27, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,196<br/>
-単語数 (Number of Words): 252,615<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 28, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,197<br/>
+単語数 (Number of Words): 252,740<br/><br/>
 </div>
 
 ## Symbols
@@ -107,6 +107,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Aki no Mikaku</strong></em> (秋の味覚 - Seasonal Food of Fall/Autumn)](../posts/1742_aki-no-mikaku/)
 - [<strong><em>Akinasu wa Yome ni Kuwasuna</strong></em> (秋茄子は嫁に食わすな - Don't Let Daughter-in-Law Eat Autumn Eggplants)](../posts/1033_akinasu-wa-yome-ni-kuwasuna/)
 - [<strong><em>Akkanbe</strong></em> (Cook a Snook)](../posts/0810_akkanbe/)
+- [<strong><em>Akkerakan</strong></em> (あっけらかん - Being Quite Indifferent)](../posts/2197_akkerakan/)
 - [<strong><em>Aku ga Nukeru</strong></em> (灰汁が抜ける - Becoming Refined)](../posts/2145_aku-ga-nukeru/)
 - [<strong><em>Aku wa Nobeyo</strong></em> (悪は延べよ)](../posts/1753_aku-wa-nobeyo/)
 - [<strong><em>Akubi</strong></em> (あくび - Yawn)](../posts/1225_akubi/)
