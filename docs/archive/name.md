@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 28, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,197<br/>
-単語数 (Number of Words): 252,740<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 29, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,198<br/>
+単語数 (Number of Words): 252,864<br/><br/>
 </div>
 
 ## Symbols
@@ -1257,6 +1257,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Nami no Hana</strong></em> (波の花)](../posts/1532_nami-no-hana/)
 - [<strong><em>Namida ni Shizumu</strong></em> (涙に沈む - Bathing in Tears)](../posts/1819_namida-ni-shizumu/)
 - [<strong><em>Namida wo Nomu</strong></em> (涙を呑む - Swallowing Tears)](../posts/1413_namida-wo-nomu/)
+- [<strong><em>Nani wo ka Iwan ya</strong></em> (何をか言わんや - Having Nothing to Say)](../posts/2198_nani-wo-ka-iwan-ya/)
 - [<strong><em>Nanka</strong></em> (なんか - Somehow)](../posts/2030_nanka/)
 - [<strong><em>Narai-juku</strong></em> (奈良井宿)](../posts/0941_narai-juku/)
 - [<strong><em>Naraku no Soko</strong></em> (奈落の底- Abyss)](../posts/1052_naraku-no-soko/)

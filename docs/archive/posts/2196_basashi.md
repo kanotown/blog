@@ -78,4 +78,7 @@ If you have a chance, please try <span class="sline"><span class="f_red">to have
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the corrections!<br/>Wow, that's nice. :) Fresh basashi is quite expensive for me, but I'd like to have it again soon.
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome. Yes it's quite expensive.
+</div>
 </div>
