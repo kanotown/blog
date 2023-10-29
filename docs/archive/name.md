@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 29, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,198<br/>
-単語数 (Number of Words): 252,864<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 30, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,199<br/>
+単語数 (Number of Words): 252,972<br/><br/>
 </div>
 
 ## Symbols
@@ -1349,6 +1349,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Nuka ni Kugi</strong></em> (Nail Rice-bran Paste)](../posts/0687_nuka-ni-kugi/)
 - [<strong><em>Nureginu</strong></em> (Innocent Sins)](../posts/0772_nureginu/)
 - [<strong><em>Nurete de Awa</strong></em> (濡れ手で粟 - Easy Profit)](../posts/2036_nurete-de-awa/)
+- [<strong><em>Nurugē</strong></em> (ヌルゲー - Easy Video Game)](../posts/2199_nuruge/)
 - [<strong><em>Nyūdō Gumo</strong></em> (入道雲 - Cumulonimbus Cloud)](../posts/1346_nyudo-gumo/)
 - [<strong><em>Nōryō</strong></em> (納涼 - Enjoying Cool in Summer) Part 1](../posts/1716_noryo/)
 - [<strong><em>Nōryō</strong></em> (納涼 - Enjoying Cool in Summer) Part 2](../posts/1717_noryo/)

@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 29, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,198<br/>
-単語数 (Number of Words): 252,864<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 30, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,199<br/>
+単語数 (Number of Words): 252,972<br/><br/>
 </div>
 
 ## No. 2100 - 
+- [【No. 2199】<strong><em>Nurugē</strong></em> (ヌルゲー - Easy Video Game)](../posts/2199_nuruge/)
 - [【No. 2198】<strong><em>Nani wo ka Iwan ya</strong></em> (何をか言わんや - Having Nothing to Say)](../posts/2198_nani-wo-ka-iwan-ya/)
 - [【No. 2197】<strong><em>Akkerakan</strong></em> (あっけらかん - Being Quite Indifferent)](../posts/2197_akkerakan/)
 - [【No. 2196】<strong><em>Basashi</strong></em> (馬刺し - Horse Sashimi)](../posts/2196_basashi/)

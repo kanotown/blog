@@ -49,4 +49,7 @@ slug: "2198_nani-wo-ka-iwan-ya"
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for checking my entry!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>
