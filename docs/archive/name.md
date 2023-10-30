@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 30, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,199<br/>
-単語数 (Number of Words): 252,972<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of October 31, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,200<br/>
+単語数 (Number of Words): 253,089<br/><br/>
 </div>
 
 ## Symbols
@@ -820,6 +820,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Itaino Itaino Tondeike! (Pain, Pain, Go Away!)](../posts/0571_itaino-itaino-tondeike-pain-pain-go-away/)
 - [<strong><em>Itaku mo Kayuku mo Nai</strong></em> (痛くも痒くもない - Not Caring at All)](../posts/1569_itaku-mo-kayuku-mo-nai/)
 - [<strong><em>Itamae</strong></em> (Chef)](../posts/0839_itamae/)
+- [<strong><em>Itamiwake</strong></em> (痛み分け - Draw)](../posts/2200_itamiwake/)
 - [<strong><em>Itashi Kayushi</strong></em> (Mixed Blessing)](../posts/0885_itashi-kayushi/)
 - [<strong><em>Itoko</strong></em> (いとこ - Cousin)](../posts/1834_itoko/)
 - [<strong><em>Itsutsu no Fukuro</strong></em> (五つの袋 - Five Bags)](../posts/1136_itsutsu-no-fukuro/)

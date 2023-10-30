@@ -75,4 +75,10 @@ This slang term can be used to describe various easy situations <span class="f_b
  Relatively speaking I think the entire game is easy, but have you tried beating the very last secret level? I'm still trying to beat it...
 </p>
 
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!<br/>Yes, the final level was pretty tough, but I managed to complete it (died about 50 times) and collected six medals!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!<br/>I'll try my best. I'm still stuck at the last part (the Invisibility badge) of the final level.
+</div>
+</div>
