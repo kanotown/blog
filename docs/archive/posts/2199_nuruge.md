@@ -81,4 +81,7 @@ Thank you for the corrections!<br/>Yes, the final level was pretty tough, but I 
 <div class="name"><span class="just_name">O-Star</span><br>
 You're welcome!<br/>I'll try my best. I'm still stuck at the last part (the Invisibility badge) of the final level.
 </div>
+<div class="name"><span class="just_name">Toru</span><br>
+Ah, the invisibility badge part of the final level was really the toughest one. I kept pressing the X button to check my position while moving forward. Good luck!
+</div>
 </div>

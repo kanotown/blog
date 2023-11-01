@@ -4,12 +4,15 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 31, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,200<br/>
-単語数 (Number of Words): 253,089<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 01, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,202<br/>
+単語数 (Number of Words): 253,371<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2202】<strong><em>Makaizō</strong></em> (魔改造 - Extreme Modification)](../posts/2202_makaizo/)
+- [【No. 2201】<strong><em>Tarenagashi</strong></em> (垂れ流し - Streaming Continuously)](../posts/2201_tarenagashi/)
+## No. 2101 - 2200
 - [【No. 2200】<strong><em>Itamiwake</strong></em> (痛み分け - Draw)](../posts/2200_itamiwake/)
 - [【No. 2199】<strong><em>Nurugē</strong></em> (ヌルゲー - Easy Video Game)](../posts/2199_nuruge/)
 - [【No. 2198】<strong><em>Nani wo ka Iwan ya</strong></em> (何をか言わんや - Having Nothing to Say)](../posts/2198_nani-wo-ka-iwan-ya/)

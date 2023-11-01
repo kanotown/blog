@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of October 31, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,200<br/>
-単語数 (Number of Words): 253,089<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 01, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,202<br/>
+単語数 (Number of Words): 253,371<br/><br/>
 </div>
 
 ## Symbols
@@ -1097,6 +1097,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Mago no Te</strong></em> (Back-Scratcher)](../posts/0670_mago-no-te/)
 - [<strong><em>Majime</strong></em> (まじめ - Serious/Earnest)](../posts/1437_majime/)
 - [<strong><em>Makahushigi</strong></em> (摩訶不思議 - Mysterious)](../posts/1456_makahushigi/)
+- [<strong><em>Makaizō</strong></em> (魔改造 - Extreme Modification)](../posts/2202_makaizo/)
 - [<strong><em>Makanu Tane wa Haenu</strong></em> (蒔かぬ種は生えぬ - Nothing Comes of Nothing)](../posts/2098_makanu-tane-wa-haenu/)
 - [Makeover](../posts/0081_makeover/)
 - [<strong><em>Makuhiki</strong></em> (幕引き - Closing a Curtain)](../posts/1520_makuhiki/)
@@ -1823,6 +1824,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Tapiru</strong></em> (タピる)](../posts/1707_tapiru/)
 - [<strong><em>Tarafuku</strong></em> (たらふく - Having Enough)](../posts/0993_tarafuku/)
 - [<strong><em>Tarai Mawashi</strong></em> (Acrobatic Barrel-Rolling)](../posts/0451_tarai-mawashi/)
+- [<strong><em>Tarenagashi</strong></em> (垂れ流し - Streaming Continuously)](../posts/2201_tarenagashi/)
 - [<strong><em>Tariki Hongan</strong></em> (他力本願 - Relying on Someone)](../posts/1660_tariki-hongan/)
 - [<strong><em>Tarō ni mo Jirō ni mo Tarinu</strong></em> (太郎にも次郎にも足りぬ - Neither One Thing Nor The Other)](../posts/1949_taro-ni-mo-jiro-ni-mo-tarinu/)
 - [<strong><em>Tashō</strong></em> (多少 - Some)](../posts/1910_tasho/)

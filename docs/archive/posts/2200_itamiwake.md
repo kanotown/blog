@@ -52,4 +52,10 @@ In <span class="f_bold">disputes, </span>when both sides suffer the same degree 
 <li class="incorrect">Incidentally, in the game Pokémon, there is a move called 'itamiwake' that calculates the combined HP of both Pokémon and divides it evenly between them.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome
+</div>
+</div>
