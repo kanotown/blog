@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 01, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,202<br/>
-単語数 (Number of Words): 253,371<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 03, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,203<br/>
+単語数 (Number of Words): 253,486<br/><br/>
 </div>
 
 ## Symbols
@@ -1316,6 +1316,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Nezumi Tori</strong></em> (ねずみ捕り - Speed Trap)](../posts/1822_nezumi-tori/)
 - [<strong><em>Ni no Ashi wo Fumu</strong></em> (二の足を踏む)](../posts/1278_ni-no-ashi-wo-fumu/)
 - [Niban Senji](../posts/0908_niban-senji/)
+- [<strong><em>Nibe mo Nai</strong></em> (にべもない - Blunt)](../posts/2203_nibe-mo-nai/)
 - [Nicchimo Sacchimo Ikanai](../posts/0760_nicchimo-sacchimo-ikanai/)
 - [<strong><em>Nido Aru Koto wa Sando Aru</strong></em> (二度あることは三度ある - Things Come in Threes)](../posts/1369_nido-aru-koto-wa-sando-aru/)
 - [<strong><em>Nido Oshiete Ichido Shikare</strong></em> (二度教えて一度叱れ - Think before You Strike)](../posts/2041_nido-oshiete-ichido-shikare/)

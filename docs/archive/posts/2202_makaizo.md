@@ -20,7 +20,7 @@ slug: "2202_makaizo"
 魔改造<br/><br/>日本人はよく「魔改造」をします。<br/><br/>「魔改造」は、プラモデルや玩具などを非常に大きく改造することを意味するスラングで、特に本来の用途から大きく逸脱している改造を指すことが多いです。<br/><br/>「魔」は "devil"、「改造」は "modification" を意味するので、「魔改造」は文字どおり "devilish modification" という意味になります。<br/><br/>例えば、人間のフィギュアの足を車輪に変えて走行可能にしたり、ビー玉を発射する玩具（ビーダマン）に電磁加速機構を搭載して強力なもににしたり、さまざまな魔改造があります。<br/><br/>魔改造は飲食物に対して使われることもあり、中国発祥のラーメンやインド発祥のカレーは、日本で魔改造されました。<br/><br/>ちなみに、アメリカで親しまれている「カルフォルニアロール」も、日本の寿司の魔改造であると言えます。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Makaizō (魔改造 - Extreme Modification)</li>
@@ -58,4 +58,21 @@ slug: "2202_makaizo"
 <li class="incorrect">In addition, the California Roll, a kind of sushi popular in the US, can also be considered as 'makaizō' for Japanese sushi.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">IwateKyle</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Japanese people are fond of 'makaizo' (魔改造).</li>
+<li class="corrected correct">
+Japanese people are fond of 'makaizo' (魔改造).(suggestions regarding the subject)* In Japan, many people are fond of makaizo.* Japanese are fond of makaizo.(suggestions regarding the verb)*Japanese are really into makaizo.*Japanese are crazy about makaizo.*Japanese really like makaizo.
+</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the suggestions!
+</div>
+</div>
