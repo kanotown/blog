@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 03, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,203<br/>
-単語数 (Number of Words): 253,486<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 04, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,204<br/>
+単語数 (Number of Words): 253,588<br/><br/>
 </div>
 
 ## Symbols
@@ -1641,6 +1641,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Shibui Kao</strong></em> (渋い顔 - Sour Face)](../posts/1688_shibui-kao/)
 - [<strong><em>Shibō</strong></em> (しぼう - Wish/Death/Fat/Ovary)](../posts/2011_shibo/)
 - [<strong><em>Shicchaka Mecchaka</strong></em> (しっちゃかめっちゃか - Total Mess)](../posts/2169_shicchaka-mecchaka/)
+- [<strong><em>Shichiten Battō</strong></em> (七転八倒 - Writhing in Pain)](../posts/2204_shichiten-batto/)
 - [<strong><em>Shichiten Hakki</strong></em> (七転八起 - Never Giving Up)](../posts/1546_shichiten-hakki/)
 - [Shidoro Modoro](../posts/0904_shidoro-modoro/)
 - [<strong><em>Shigo</strong></em> (死語 - Dead Language/Word)](../posts/1580_shigo/)

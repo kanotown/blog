@@ -50,4 +50,10 @@ slug: "2203_nibe-mo-nai"
 <li class="incorrect">Later, by pairing it with the negative word 'nai' (ない), the above expression 'nibe mo nai' was coined.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

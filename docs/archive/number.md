@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 03, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,203<br/>
-単語数 (Number of Words): 253,486<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 04, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,204<br/>
+単語数 (Number of Words): 253,588<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2204】<strong><em>Shichiten Battō</strong></em> (七転八倒 - Writhing in Pain)](../posts/2204_shichiten-batto/)
 - [【No. 2203】<strong><em>Nibe mo Nai</strong></em> (にべもない - Blunt)](../posts/2203_nibe-mo-nai/)
 - [【No. 2202】<strong><em>Makaizō</strong></em> (魔改造 - Extreme Modification)](../posts/2202_makaizo/)
 - [【No. 2201】<strong><em>Tarenagashi</strong></em> (垂れ流し - Streaming Continuously)](../posts/2201_tarenagashi/)
