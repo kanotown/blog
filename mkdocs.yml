@@ -65,14 +65,14 @@ markdown_extensions:
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins:
-  # - blog:
-  #     # authors: false
-  #     blog_dir: archive
-  #     enabled: true
-  #     authors_file: archive/.authors.yml
-  #     pagination_per_page: 20
-  #     pagination_url_format: "page/{page}"
-  #     post_url_format: "posts/{slug}"
+  - blog:
+      # authors: false
+      blog_dir: archive
+      enabled: true
+      authors_file: archive/.authors.yml
+      pagination_per_page: 20
+      pagination_url_format: "page/{page}"
+      post_url_format: "posts/{slug}"
   - search
   - glightbox
 
