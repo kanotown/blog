@@ -4,12 +4,16 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 04, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,204<br/>
-単語数 (Number of Words): 253,588<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 08, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,208<br/>
+単語数 (Number of Words): 254,066<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2208】<strong><em>Honyarara</strong></em> (ほにゃらら - Blah Blah Blah)](../posts/2208_honyarara/)
+- [【No. 2207】<strong><em>Mizu wo Mukeru</strong></em> (水を向ける - Providing an Opening)](../posts/2207_mizu-wo-mukeru/)
+- [【No. 2206】<strong><em>Omatsuri Kakaku</strong></em> (お祭り価格 - Festival Price)](../posts/2206_omatsuri-kakaku/)
+- [【No. 2205】University Festival 2023](../posts/2205_university-festival-2023/)
 - [【No. 2204】<strong><em>Shichiten Battō</strong></em> (七転八倒 - Writhing in Pain)](../posts/2204_shichiten-batto/)
 - [【No. 2203】<strong><em>Nibe mo Nai</strong></em> (にべもない - Blunt)](../posts/2203_nibe-mo-nai/)
 - [【No. 2202】<strong><em>Makaizō</strong></em> (魔改造 - Extreme Modification)](../posts/2202_makaizo/)

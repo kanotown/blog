@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 04, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,204<br/>
-単語数 (Number of Words): 253,588<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 08, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,208<br/>
+単語数 (Number of Words): 254,066<br/><br/>
 </div>
 
 ## Symbols
@@ -672,6 +672,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Honenuki</strong></em> (骨抜き - Pulling Teeth)](../posts/1412_honenuki/)
 - [Honey Trivia](../posts/0358_honey-trivia/)
 - [<strong><em>Honjitsu wa Seiten Nari</strong></em> (It's Fine Today)](../posts/0640_honjitsu-wa-seiten-nari/)
+- [<strong><em>Honyarara</strong></em> (ほにゃらら - Blah Blah Blah)](../posts/2208_honyarara/)
 - [Horafuki](../posts/0642_horafuki/)
 - [Hormone](../posts/0559_hormone/)
 - [<strong><em>Hoshikage</strong></em> (星影)](../posts/1290_hoshikage/)
@@ -1184,6 +1185,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Mizu no Hi</strong></em> (水の日 - Water Day)](../posts/1923_mizu-no-hi/)
 - [<strong><em>Mizu wo Eta Uo</strong></em> (水を得た魚 - A Fish to Water)](../posts/2070_mizu-wo-eta-uo/)
 - [Mizu wo Mukeru](../posts/0848_mizu-wo-mukeru/)
+- [<strong><em>Mizu wo Mukeru</strong></em> (水を向ける - Providing an Opening)](../posts/2207_mizu-wo-mukeru/)
 - [<strong><em>Mizu wo Sasu</strong></em> (水を差す - Casting a Damper)](../posts/1100_mizu-wo-sasu/)
 - [<strong><em>Mochi</strong></em> (餅 - Rice Cake)](../posts/1106_mochi/)
 - [<strong><em>Mochi wa Mochiya</strong></em> (餅は餅屋 - The Expert Know Best)](../posts/1928_mochi-wa-mochiya/)
@@ -1401,6 +1403,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Omae Hyaku made Washa Kuju-ku made</strong></em> (お前百までわしゃ九十九まで - Till Death Do Us Part) Part 2](../posts/1952_omae-hyaku-made-washa-kuju-ku-made/)
 - [<strong><em>Omagari Neko</strong></em> (尾曲がり猫 - Cats with Bent Tails)](../posts/1776_omagari-neko/)
 - [<strong><em>Omaru</strong></em> (おまる - Jerry/Potty)](../posts/1350_omaru/)
+- [<strong><em>Omatsuri Kakaku</strong></em> (お祭り価格 - Festival Price)](../posts/2206_omatsuri-kakaku/)
 - [<strong><em>Ome ni Kakaru</strong></em> (お目にかかる - Having the Pleasure of Meeting)](../posts/1636_ome-ni-kakaru/)
 - [<strong><em>Omegane ni Kanau</strong></em> (御眼鏡に適う - Giving Favor with Someone)](../posts/1597_omegane-ni-kanau/)
 - [<strong><em>Omekashi</strong></em> (おめかし - Dressing up)](../posts/1639_omekashi/)
@@ -2074,6 +2077,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Uni</strong></em> (ウニ - Sea Urchin)](../posts/1408_uni/)
 - [Uninstall Windows 10](../posts/0147_uninstall-windows-10/)
 - [University Entrance Examination Day](../posts/0084_university-entrance-examination-day/)
+- [University Festival 2023](../posts/2205_university-festival-2023/)
 - [Unlucky Coins Part 1](../posts/1759_unlucky-coins-part-1/)
 - [Unlucky Coins Part 2](../posts/1760_unlucky-coins-part-2/)
 - [Unmanned Sales of Vegetables](../posts/0270_unmanned-sales-of-vegetables/)
