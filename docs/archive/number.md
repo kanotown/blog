@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 08, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,208<br/>
-単語数 (Number of Words): 254,066<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 09, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,209<br/>
+単語数 (Number of Words): 254,176<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2209】<strong><em>Midori no Kurokami</strong></em> (緑の黒髪 - Raven-Black Hair)](../posts/2209_midori-no-kurokami/)
 - [【No. 2208】<strong><em>Honyarara</strong></em> (ほにゃらら - Blah Blah Blah)](../posts/2208_honyarara/)
 - [【No. 2207】<strong><em>Mizu wo Mukeru</strong></em> (水を向ける - Providing an Opening)](../posts/2207_mizu-wo-mukeru/)
 - [【No. 2206】<strong><em>Omatsuri Kakaku</strong></em> (お祭り価格 - Festival Price)](../posts/2206_omatsuri-kakaku/)

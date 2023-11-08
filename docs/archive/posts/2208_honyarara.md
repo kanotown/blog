@@ -56,4 +56,7 @@ Originally, it appears the host frequently used words like 'honya' (ほにゃ) o
 <li class="incorrect">It can be translated into English as "blah blah blah" or "yada yada."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>

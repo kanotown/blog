@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 08, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,208<br/>
-単語数 (Number of Words): 254,066<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 09, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,209<br/>
+単語数 (Number of Words): 254,176<br/><br/>
 </div>
 
 ## Symbols
@@ -1158,6 +1158,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Mice and Cheese](../posts/0796_mice-and-cheese/)
 - [Mid-term Graduation Research Presentation](../posts/0952_mid-term-graduation-research-presentation/)
 - [<strong><em>Midori no Hi</strong></em> (みどりの日 - Greenery Day)](../posts/1233_midori-no-hi/)
+- [<strong><em>Midori no Kurokami</strong></em> (緑の黒髪 - Raven-Black Hair)](../posts/2209_midori-no-kurokami/)
 - [<strong><em>Miira-tori ga Miira ni Naru</strong></em> (ミイラ取りがミイラになる - Many Go out for Wool and Come Home Shorn)](../posts/1423_miira-tori-ga-miira-ni-naru/)
 - [Mikka Bozu](../posts/0758_mikka-bozu/)
 - [<strong><em>Mimi ga Itai</strong></em> (耳が痛い - Being Ashamed to Hear)](../posts/1499_mimi-ga-itai/)

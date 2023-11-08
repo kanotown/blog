@@ -51,6 +51,9 @@ This expression is believed to have originated from the ancient practice where a
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">friendfromfaraway</span></div><div id="block2">
 <ul class="correction_field">
@@ -79,5 +82,11 @@ This expression is believed to have originated from the ancient practice where a
 
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the corrections! You might be described as マイペース (meaning something like "easygoing") in Japanese, haha.
+</div>
+<div class="name"><span class="just_name">friendfromfaraway</span><br>
+そうなんです。それは褒め言葉ですか？
+</div>
+<div class="name"><span class="just_name">Toru</span><br>
+はい！「マイペース」は基本的には褒め言葉であると思います。ただ、文脈や状況によっては否定的なニュアンスを持つこともあります。例えば、チームワークが必要な状況や災害時などにおいて、「マイペース」は「自分勝手 (selfish)」を意味する可能性があります。
 </div>
 </div>
