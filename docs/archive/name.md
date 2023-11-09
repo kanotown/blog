@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 09, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,209<br/>
-単語数 (Number of Words): 254,176<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 10, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,210<br/>
+単語数 (Number of Words): 254,344<br/><br/>
 </div>
 
 ## Symbols
@@ -1408,6 +1408,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ome ni Kakaru</strong></em> (お目にかかる - Having the Pleasure of Meeting)](../posts/1636_ome-ni-kakaru/)
 - [<strong><em>Omegane ni Kanau</strong></em> (御眼鏡に適う - Giving Favor with Someone)](../posts/1597_omegane-ni-kanau/)
 - [<strong><em>Omekashi</strong></em> (おめかし - Dressing up)](../posts/1639_omekashi/)
+- [<strong><em>Omishiri Oki Kudasai</strong></em> (お見知り置きください - Pleased to Make Your Acquaintance)](../posts/2210_omishiri-oki-kudasai/)
 - [<strong><em>Omisoka</strong></em> (New Year's Eve)](../posts/0744_omisoka/)
 - [<strong><em>Omoi Koshi wo Ageru</strong></em> (重い腰を上げる - Bestiring Oneself)](../posts/2077_omoi-koshi-wo-ageru/)
 - [<strong><em>Omoitatta ga Kichijitsu</strong></em> (思い立ったが吉日 - There's No Time like the Present)](../posts/2060_omoitatta-ga-kichijitsu/)
