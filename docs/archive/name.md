@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of November 10, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,210<br/>
-単語数 (Number of Words): 254,344<br/><br/>
+投稿数 (Number of Posts): 2,211<br/>
+単語数 (Number of Words): 254,446<br/><br/>
 </div>
 
 ## Symbols
@@ -2059,6 +2059,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ude ga Naru</strong></em> (腕が鳴る - Itching to Do)](../posts/1060_ude-ga-naru/)
 - [<strong><em>Ude wo Gaeru / Te wo Ageru</strong></em> (腕を上げる/手を上げる - Improving One's Skill)](../posts/1870_ude-wo-gaeru-te-wo-ageru/)
 - [<strong><em>Udo no Taiboku</strong></em> (Just a Big Oaf)](../posts/0902_udo-no-taiboku/)
+- [Udon Prefecture](../posts/2211_udon-prefecture/)
 - [<strong><em>Udsagi Goya</strong></em> (ウサギ小屋 - Rabbit Hutch)](../posts/1157_udsagi-goya/)
 - [<strong><em>Ugai</strong></em> (Gargle)](../posts/0853_ugai/)
 - [<strong><em>Ugo no Takenoko</strong></em> (雨後の筍 - Appearing in Succession)](../posts/1249_ugo-no-takenoko/)

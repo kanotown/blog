@@ -50,4 +50,7 @@ slug: "2210_omishiri-oki-kudasai"
 <li class="incorrect">If you want to express a softer impression and your desire to build a closer relationship, it will be better to use the more generic phrase, 'yoroshiku onegai shimasu' (よろしくお願いします - meaning "I look forward to working with you").</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+</div>

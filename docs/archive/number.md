@@ -5,11 +5,12 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of November 10, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,210<br/>
-単語数 (Number of Words): 254,344<br/><br/>
+投稿数 (Number of Posts): 2,211<br/>
+単語数 (Number of Words): 254,446<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2211】Udon Prefecture](../posts/2211_udon-prefecture/)
 - [【No. 2210】<strong><em>Omishiri Oki Kudasai</strong></em> (お見知り置きください - Pleased to Make Your Acquaintance)](../posts/2210_omishiri-oki-kudasai/)
 - [【No. 2209】<strong><em>Midori no Kurokami</strong></em> (緑の黒髪 - Raven-Black Hair)](../posts/2209_midori-no-kurokami/)
 - [【No. 2208】<strong><em>Honyarara</strong></em> (ほにゃらら - Blah Blah Blah)](../posts/2208_honyarara/)
