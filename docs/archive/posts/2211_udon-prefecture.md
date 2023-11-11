@@ -66,4 +66,7 @@ Furthermore, the most common type of food service business in Kagawa is <span cl
 By the way, <span class="f_bold">the</span> olives of Shodoshima Island in Kagawa are also very famous.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>

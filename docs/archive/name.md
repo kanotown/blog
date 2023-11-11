@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 11, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,211<br/>
-単語数 (Number of Words): 254,446<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 12, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,212<br/>
+単語数 (Number of Words): 254,546<br/><br/>
 </div>
 
 ## Symbols
@@ -1868,6 +1868,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Tenki-Ame</strong></em> (Sunny Rain)](../posts/0478_tenki-ame/)
 - [<strong><em>Tenohira Kurū</strong></em> (ﾃﾉﾋﾗｸﾙｰ - Turning a 180)](../posts/1622_tenohira-kuru/)
 - [<strong><em>Tenohira wo Kaesu</strong></em> (手のひらを返す - Turning a 180)](../posts/1621_tenohira-wo-kaesu/)
+- [<strong><em>Tenparu</strong></em> (テンパる - Panic)](../posts/2212_tenparu/)
 - [<strong><em>Tenshin Ranman</strong></em> (天真爛漫 - Simplicity)](../posts/1863_tenshin-ranman/)
 - [<strong><em>Tenya Wanya</strong></em> (てんやわんや)](../posts/0921_tenya-wanya/)
 - [<strong><em>Teppan</strong></em> (Iron Plate)](../posts/0685_teppan/)
