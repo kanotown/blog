@@ -69,4 +69,7 @@ By the way, <span class="f_bold">the</span> olives of Shodoshima Island in Kagaw
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the corrections!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,212<br/>
-単語数 (Number of Words): 254,546<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,213<br/>
+単語数 (Number of Words): 254,650<br/><br/>
 </div>
 
 ## Symbols
@@ -367,6 +367,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Daikon-ashi</strong></em> (Daikon Radish Legs)](../posts/0650_daikon-ashi/)
 - [<strong><em>Daishiteru</strong></em> (だいしてる - I Love You)](../posts/1213_daishiteru/)
 - [<strong><em>Daitai</strong></em> (代替 - Alternative)](../posts/1771_daitai/)
+- [<strong><em>Dangan Tsuā</strong></em> (弾丸ツアー - Whirlwind Tour)](../posts/2213_dangan-tsua/)
 - [Danger of Pajamas](../posts/0341_danger-of-pajamas/)
 - [<strong><em>Dango</strong></em> (Dumpling)](../posts/0673_dango/)
 - [<strong><em>Darashinai</strong></em> (Scruffy)](../posts/0288_darashinai/)
