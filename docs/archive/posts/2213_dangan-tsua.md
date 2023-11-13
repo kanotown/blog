@@ -55,4 +55,7 @@ Today, I embarked on a 'dangan tsuā' (弾丸ツアー) to visit four<span class
 However, sometimes I wish I had enough time to enjoy the<span class="f_bold"> sights</span> at a slowe<span class="f_bold">r pace.</span>
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>
