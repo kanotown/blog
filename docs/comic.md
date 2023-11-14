@@ -221,4 +221,6 @@
   ![Image title](img/0022-ja.png){ width="400" }
 </figure>
 
+## 【No. 0023】ひもじい
+
 <br>

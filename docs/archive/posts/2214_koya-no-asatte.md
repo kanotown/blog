@@ -8,10 +8,10 @@ comments: true
 slug: "2214_koya-no-asatte"
 ---
 
-# 【No. 2214】Kōya no Asatte
+# 【No. 2214】<strong><em>Kōya no Asatte</strong></em> (紺屋の明後日 - One of These Days Is None of These Days)
 <div class="date">Nov 13, 2023 19:12</div>
 <div id="post"><div id="body_show_ori">
-Kōya no Asatte<br/><br/>The Japanese phrase <strong><em>kōya no asatte</em></strong> (紺屋の明後日) can be used to describe that the promised due date is unreliable.<br/><br/><strong><em>Kōya</em></strong> (紺屋) was used in the Edo period to refer to a dyer.<br/><br/>In addition, <strong><em>asatte</em></strong> (明後日) means "the day after tomorrow," so the literal meaning of <em>kōya no asatte</em> is "the day after tomorrow of a dyer."<br/><br/>Since a dyer's work was greatly affected by the weather in the process of drying cloth, their completion dates were often delayed.<br/><br/>Therefore, when the dyer mentioned "the day after tomorrow," it came to be regarded as unreliable, which led to the current meaning of this phrase.
+<strong><em>Kōya no Asatte</strong></em><br/><br/>The Japanese phrase <strong><em>kōya no asatte</em></strong> (紺屋の明後日) can be used to describe that the promised due date is unreliable.<br/><br/><strong><em>Kōya</em></strong> (紺屋) was used in the Edo period to refer to a dyer.<br/><br/>In addition, <strong><em>asatte</em></strong> (明後日) means "the day after tomorrow," so the literal meaning of <em>kōya no asatte</em> is "the day after tomorrow of a dyer."<br/><br/>Since a dyer's work was greatly affected by the weather in the process of drying cloth, their completion dates were often delayed.<br/><br/>Therefore, when the dyer mentioned "the day after tomorrow," it came to be regarded as unreliable, which led to the current meaning of this phrase.
 </div></div>
 
 <!-- more -->
@@ -49,7 +49,10 @@ Kōya no Asatte<br/><br/>The Japanese phrase <strong><em>kōya no asatte</em></s
 <li class="incorrect">Therefore, when the dyer mentioned "the day after tomorrow," it came to be regarded as unreliable, which led to the current meaning of this phrase.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Kōya no Asatte</li>
@@ -75,4 +78,7 @@ Kōya no Asatte<br/><br/>The Japanese phrase <strong><em>kōya no asatte</em></s
 <li class="incorrect">Therefore, when the dyer mentioned "the day after tomorrow," it came to be regarded as unreliable, which led to the current meaning of this phrase.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+</div>

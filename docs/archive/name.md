@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 14, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,214<br/>
-単語数 (Number of Words): 254,764<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 15, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,215<br/>
+単語数 (Number of Words): 254,889<br/><br/>
 </div>
 
 ## Symbols
@@ -482,6 +482,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Fundari Kettari</strong></em> (踏んだり蹴ったり - A Streak of Bad Luck)](../posts/1351_fundari-kettari/)
 - [<strong><em>Fune wo Kogu</strong></em> (船を漕ぐ - Rowing a Boat)](../posts/1248_fune-wo-kogu/)
 - [<strong><em>Fungiri</strong></em> (踏ん切り - A Drastic Decision)](../posts/2076_fungiri/)
+- [<strong><em>Funkotsu Saishin</strong></em> (粉骨砕身 - Breaking One's Neck)](../posts/2215_funkotsu-saishin/)
 - [Funuke](../posts/0729_funuke/)
 - [<strong><em>Furachi</strong></em> (不埒 - Lawless)](../posts/1389_furachi/)
 - [<strong><em>Furin</strong></em> (wind chimes)](../posts/0309_furin/)
@@ -1068,7 +1069,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kōcha</strong></em> (紅茶 - Black Tea)](../posts/1083_kocha/)
 - [<strong><em>Kōgan/Kōgan Muchi</strong></em> (厚顔/厚顔無恥 - Shameless Audacity)](../posts/2085_kogan-kogan-muchi/)
 - [<strong><em>Kōin Ya no Gotoshi</strong></em> (光陰矢の如し - Time Flies)](../posts/1995_koin-ya-no-gotoshi/)
-- [Kōya no Asatte](../posts/2214_koya-no-asatte/)
+- [<strong><em>Kōya no Asatte</strong></em> (紺屋の明後日 - One of These Days Is None of These Days)](../posts/2214_koya-no-asatte/)
 - [<strong><em>Kōya no Shirobakama</strong></em> (紺屋の白袴 - The Shoemaker's Children Go Barefoor)](../posts/2195_koya-no-shirobakama/)
 ## L
 - [Lack of Sleep](../posts/1289_lack-of-sleep/)

@@ -4,13 +4,14 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 14, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,214<br/>
-単語数 (Number of Words): 254,764<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 15, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,215<br/>
+単語数 (Number of Words): 254,889<br/><br/>
 </div>
 
 ## No. 2200 - 
-- [【No. 2214】Kōya no Asatte](../posts/2214_koya-no-asatte/)
+- [【No. 2215】<strong><em>Funkotsu Saishin</strong></em> (粉骨砕身 - Breaking One's Neck)](../posts/2215_funkotsu-saishin/)
+- [【No. 2214】<strong><em>Kōya no Asatte</strong></em> (紺屋の明後日 - One of These Days Is None of These Days)](../posts/2214_koya-no-asatte/)
 - [【No. 2213】<strong><em>Dangan Tsuā</strong></em> (弾丸ツアー - Whirlwind Tour)](../posts/2213_dangan-tsua/)
 - [【No. 2212】<strong><em>Tenparu</strong></em> (テンパる - Panic)](../posts/2212_tenparu/)
 - [【No. 2211】Udon Prefecture](../posts/2211_udon-prefecture/)
