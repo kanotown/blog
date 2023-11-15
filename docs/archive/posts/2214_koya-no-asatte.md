@@ -52,6 +52,9 @@ slug: "2214_koya-no-asatte"
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">Vena Tenebrae</span><br>
+You're very welcome!
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">

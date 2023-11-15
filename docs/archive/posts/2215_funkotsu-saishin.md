@@ -50,4 +50,7 @@ In other words, it implies that someone is working so hard with all their might 
 <li class="incorrect">Note that this is a metaphor, and if your bones are grinded to powder, you will die.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>

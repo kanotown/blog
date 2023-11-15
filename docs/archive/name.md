@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 15, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,215<br/>
-単語数 (Number of Words): 254,889<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 16, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,216<br/>
+単語数 (Number of Words): 254,990<br/><br/>
 </div>
 
 ## Symbols
@@ -631,6 +631,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hema</strong></em> (へま - Mistake/Lubber)](../posts/1243_hema/)
 - [Henachoko](../posts/0524_henachoko/)
 - [<strong><em>Heppiri Goshi</strong></em> (へっぴり腰 - Full of Fear)](../posts/1142_heppiri-goshi/)
+- [<strong><em>Herikutsu</strong></em> (屁理屈 - Quibble)](../posts/2216_herikutsu/)
 - [Hesokuri](../posts/0740_hesokuri/)
 - [Heto Heto](../posts/0817_heto-heto/)
 - [<strong><em>Hi no Kuruma</strong></em> (火の車 - Dire Straits)](../posts/0950_hi-no-kuruma/)
