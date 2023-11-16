@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 16, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,216<br/>
-単語数 (Number of Words): 254,990<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 17, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,217<br/>
+単語数 (Number of Words): 255,121<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2217】<strong><em>Gonyo Gonyo</strong></em> (ごにょごにょ - Mumbling)](../posts/2217_gonyo-gonyo/)
 - [【No. 2216】<strong><em>Herikutsu</strong></em> (屁理屈 - Quibble)](../posts/2216_herikutsu/)
 - [【No. 2215】<strong><em>Funkotsu Saishin</strong></em> (粉骨砕身 - Breaking One's Neck)](../posts/2215_funkotsu-saishin/)
 - [【No. 2214】<strong><em>Kōya no Asatte</strong></em> (紺屋の明後日 - One of These Days Is None of These Days)](../posts/2214_koya-no-asatte/)

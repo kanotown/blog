@@ -20,7 +20,7 @@ slug: "2216_herikutsu"
 屁理屈<br/><br/>無理やりこじつけた理屈や、道理に合わない理屈のことを、「屁理屈」と言います。<br/><br/>「屁」は "fart"、「理屈」は "logic" を意味するので、「屁理屈」の文字どおりの意味は "fart logic" となります。<br/><br/>ここで「屁」は、「つまらないもの」や「役に立たないもの」の喩えとして用いられています。<br/><br/>すなわち「屁理屈」とは、つまらない、役に立たない理屈というわけです。<br/><br/>「言う」や「こねる」という動詞とあわせて、「屁理屈を言う」「屁理屈をこねる」のように使われます。<br/><br/>「屁理屈」ばかりを言わないように気をつけましょう。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Herikutsu (屁理屈 - Quibble)</li>
@@ -56,4 +56,19 @@ In other words, 'herikutsu' implies<span class="sline"><span class="f_red"> a </
 <li class="incorrect">Be careful not to quibble all the time.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">Amop567</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Herikutsu (屁理屈 - Quibble)</li>
+<li class="corrected correct">
+Herikutsu (屁理屈 - <span class="f_blue">Splitting Hairs/Sophistry</span>)
+<p class="correction_comment">Another suggestion. "Quibble" is just a minor criticism. A little different from 屁理屈. <br/>"Splitting hairs" is a kind of 屁理屈 I'd say.</p>
+</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the suggestion!<br/>I learned something new! :)
+</div>
+</div>
