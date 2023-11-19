@@ -41,7 +41,10 @@ However, many of them <span class="f_blue">got</span> <span class="f_red"><span 
 (I managed to buy a T-shirt with Hachiware designed on it and a <span class="f_red"><span class="sline">luncheon</span></span><span class="f_blue"> place </span>mat.)
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Chiikawa Restaurant (ちいかわレストラン)</li>
@@ -67,4 +70,7 @@ However, many of them <span class="f_blue">got</span> <span class="f_red"><span 
 <li class="incorrect">'Chiikawa' goods continue to be 'ejiki' (餌食 - meaning "prey") for 'tenbaiya' (転売屋 - meaning "resellers") today.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+</div>

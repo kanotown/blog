@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 19, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,219<br/>
-単語数 (Number of Words): 255,366<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 20, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,220<br/>
+単語数 (Number of Words): 255,501<br/><br/>
 </div>
 
 ## Symbols
@@ -2141,6 +2141,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Warikan</strong></em> (割り勘 - Dutch Treat) Part 1](../posts/1001_warikan/)
 - [<strong><em>Warikan</strong></em> (割り勘 - Dutch Treat) Part 2](../posts/1002_warikan/)
 - [<strong><em>Warikan</strong></em> (割り勘 - Dutch Treat) Part 3](../posts/1003_warikan/)
+- [WarioWare: Move It!](../posts/2220_warioware-move-it/)
 - [Warm Snow Day](../posts/0396_warm-snow-day/)
 - [Washing My Wallet](../posts/0115_washing-my-wallet/)
 - [<strong><em>Wasshoi</strong></em> (わっしょい)](../posts/1690_wasshoi/)
