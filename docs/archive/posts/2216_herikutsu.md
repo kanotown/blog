@@ -59,6 +59,9 @@ In other words, 'herikutsu' implies<span class="sline"><span class="f_red"> a </
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">Amop567</span></div><div id="block2">
 <ul class="correction_field">

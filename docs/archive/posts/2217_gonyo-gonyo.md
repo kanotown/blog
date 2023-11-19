@@ -20,4 +20,56 @@ slug: "2217_gonyo-gonyo"
 ごにょごにょ<br/><br/>何かを喋ってはいるけれど、口ごもっていてはっきりと聞こえないさまを、「ごにょごにょ」という擬音語で表現することができます。<br/><br/>何かをはっきりと言いたくないときや、自信のないとき、人々は「ごにょごにょ」と話します。<br/><br/>はっきりを話さないさまを表す擬声語は、他にも「ぼそぼそ」「ぶつぶつ」「もごもご」などがあります。<br/><br/>「ぼそぼそ」は小さい声で聞き取りにくいさまを表します。<br/><br/>「ぶつぶつ」は小声で不満などをつぶやくさまを表します。<br/><br/>「もごもご」は口を開けずに話したり食べたりするさまを表します。
 </div></div>
 
-## Corrections (0)
+## Corrections (2)
+<div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Gonyo Gonyo (ごにょごにょ - Mumbling)</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Gonyo Gonyo</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">The Japanese onomatopoeic word 'gonyo gonyo' (ごにょごにょ) can describe a situation where someone is mumbling something, and it is not clearly audible.</li>
+<li class="corrected correct">
+The Japanese onomatopoeic word 'gonyo gonyo' (ごにょごにょ) can describe a situation where someone is mumbling something, and <span class="f_bold">it cannot be heard clearly.</span>
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">When you are hesitant to say something clearly or lack confidence, you will speak in the manner of 'gonyo gonyo'.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">There are other onomatopoeic words to describe unclear speech, such as 'boso boso' (ぼそぼそ), 'butsu butsu' (ぶつぶつ), and 'mogo mogo' (もごもご).</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">'Boso boso' represents a situation where someone speaks in a small voice that is difficult to hear.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">'Butsu butsu' represents a situation where someone speaks complaints in a whisper.</li>
+<li class="corrected correct">
+'Butsu butsu' represents a situation where <span class="f_bold">someone grumbles about their complains.</span>
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">'Mogo mogo' represents a situation where someone speaks or eats something without opening one's mouth.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">sg</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">'Boso boso' represents a situation where someone speaks in a small voice that is difficult to hear.</li>
+<li class="corrected correct">
+'Boso boso' represents a situation where someone speaks in a <span class="f_red"><span class="sline">small</span></span> <span class="f_blue">low</span> voice that is difficult to hear.
+</li>
+</ul>
+</div></div>

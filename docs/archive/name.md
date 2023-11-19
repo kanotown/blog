@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 17, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,217<br/>
-単語数 (Number of Words): 255,121<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 19, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,219<br/>
+単語数 (Number of Words): 255,366<br/><br/>
 </div>
 
 ## Symbols
@@ -297,6 +297,8 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Chidoriashi</strong></em> (千鳥足 - Walking Zigzag)](../posts/1588_chidoriashi/)
 - [<strong><em>Chienetsu</strong></em> (知恵熱)](../posts/1050_chienetsu/)
 - [Chiguhagu](../posts/0883_chiguhagu/)
+- [<strong><em>Chiikawa</strong></em> (ちいかわ)](../posts/2218_chiikawa/)
+- [<strong><em>Chiikawa Restaurant</strong></em> (ちいかわレストラン)](../posts/2219_chiikawa-restaurant/)
 - [<strong><em>Chikokuma</strong></em> (遅刻魔 - Always Late)](../posts/1969_chikokuma/)
 - [<strong><em>Chiku Chiku</strong></em> (ちくちく - Prickling)](../posts/1212_chiku-chiku/)
 - [<strong><em>Chikuba no Tomo</strong></em> (竹馬の友 - A Childhood Friend)](../posts/1980_chikuba-no-tomo/)
