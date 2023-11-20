@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 20, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,220<br/>
-単語数 (Number of Words): 255,501<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 21, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,221<br/>
+単語数 (Number of Words): 255,611<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2221】<strong><em>Takw wo Watta Yōna</strong></em> (竹を割ったような - Straightforward)](../posts/2221_takw-wo-watta-yona/)
 - [【No. 2220】WarioWare: Move It!](../posts/2220_warioware-move-it/)
 - [【No. 2219】<strong><em>Chiikawa Restaurant</strong></em> (ちいかわレストラン)](../posts/2219_chiikawa-restaurant/)
 - [【No. 2218】<strong><em>Chiikawa</strong></em> (ちいかわ)](../posts/2218_chiikawa/)

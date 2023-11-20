@@ -21,7 +21,7 @@ Today, I completed the story mode of WarioWare: Move It!<br/><br/>The concept of
 超おどるメイドインワリオ<br/><br/>今日、「超おどる メイド イン ワリオ」のストーリーモードをクリアしました。<br/><br/>「メイドインワリオ」は、5秒程度で終わるミニゲーム（プチゲーム）を次々とプレイしていく内容となっており、「最多 最短 最速」がシリーズのコンセプトとなっています。<br/><br/>本作は「超おどる」というタイトルからわかるように、「踊り」がコンセプトとなっています。<br/><br/>Joy-con を持って体を動かして突破するミニゲームが中心となっており、疲れましたが楽しかったです。<br/><br/>ストーリーモードでは、ライフが無くなると「復活の儀式」というイベントが発生し、ここで「聖なるポーズ」という少し恥ずかしいポーズをとると、復活することができます。<br/><br/>恥ずかしさに耐えれば、コンティニューできるというわけです。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">sg</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Since many of the games were played by holding the Joy-Con controllers and moving your body, it was tiring but fun.</li>
@@ -34,4 +34,51 @@ Since many of the games were played by holding the Joy-Con controllers and movin
  楽しそうですね！
 </p>
 
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!<br/><br/>はい、楽しかったです！複数人でプレイしたらもっと楽しいと思います。 :)
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">WarioWare: Move It!</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Today, I completed the story mode of WarioWare: Move It!</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">The concept of the WarioWare series is 'saitan' (最多 - "most"), 'saitan' (最短 - "shortest"), 'saisoku' (最速 - 'fastest'), featuring various minigames, also known as "microgames," each lasting about 5 seconds.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">As the title "Move It!" suggests, this game is played by moving.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">By the way, the Japanese title is 'Chō Odoru' (超踊る), which means "super dancing."</li>
+<li class="corrected correct">
+By the way, the Japanese title is 'Chō Odoru' (超踊る), which means "super <span class="f_bold">dance."</span>
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">In the story mode, when you run out of lives, a "Revival Ritual" occurs.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Here, if you perform a little embarrassing pose called "Sacred Pose," you can revive.</li>
+<li class="corrected correct">
+Here, if you perform a little embarrassing pose called "Sacred Pose," <span class="f_bold">you can revive yourself.</span>
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">In other words, if you can endure the embarrassment, you can continue the game.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

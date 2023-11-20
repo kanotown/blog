@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 20, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,220<br/>
-単語数 (Number of Words): 255,501<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 21, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,221<br/>
+単語数 (Number of Words): 255,611<br/><br/>
 </div>
 
 ## Symbols
@@ -1820,6 +1820,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Take ni Suzume/Yanagi ni Tsubame/Momiji ni Shika</strong></em> (竹に雀/柳に燕/紅葉に鹿 - Match Made in Heaven)](../posts/2089_take-ni-suzume-yanagi-ni-tsubame-momiji-ni-shika/)
 - [Takenoko Nyokki](../posts/0491_takenoko-nyokki/)
 - [<strong><em>Takeyabu</strong></em> (Bamboo Fence)](../posts/0516_takeyabu/)
+- [<strong><em>Takw wo Watta Yōna</strong></em> (竹を割ったような - Straightforward)](../posts/2221_takw-wo-watta-yona/)
 - [<strong><em>Tama ni Kizu</strong></em> (玉に瑕 - Even the Sun Has Spots)](../posts/1402_tama-ni-kizu/)
 - [<strong><em>Tama no Koshi ni Noru</strong></em> (玉の輿に乗る - Cinderella Story)](../posts/1386_tama-no-koshi-ni-noru/)
 - [<strong><em>Tamageru</strong></em> (たまげる - "Being Surprised")](../posts/1853_tamageru/)
