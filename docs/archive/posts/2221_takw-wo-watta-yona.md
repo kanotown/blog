@@ -49,6 +49,9 @@ When you try to split bamboo into two vertically, it will split cleanly and stra
 </div><div class="name"><span class="just_name">sg</span><br>
 面白い！
 </div>
+<div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
@@ -63,4 +66,10 @@ When you try to split bamboo into two vertically, it will split cleanly and stra
 <li class="incorrect">When you try to split bamboo into two vertically, it will split cleanly and straight.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

@@ -4,8 +4,8 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 21, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,221<br/>
-単語数 (Number of Words): 255,611<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 22, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,222<br/>
+単語数 (Number of Words): 255,750<br/><br/>
 </div>
 
