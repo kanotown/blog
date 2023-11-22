@@ -62,4 +62,10 @@ slug: "2222_kaishin"
 <li class="incorrect">This expression is mainly used in the video game "Dragon Quest" series to mean "critical hit."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 22, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,222<br/>
-単語数 (Number of Words): 255,750<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 23, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,223<br/>
+単語数 (Number of Words): 255,910<br/><br/>
 </div>
 
 ## Symbols
@@ -549,6 +549,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Gotaku wo Naraberu</strong></em> (Give a Song and Dance )](../posts/0891_gotaku-wo-naraberu/)
 - [<strong><em>Gotaku wo Naraberu</strong></em> (御託を並べる - Harping on the Same String)](../posts/1589_gotaku-wo-naraberu/)
 - [<strong><em>Gou wo Niyasu</strong></em> (業を煮やす - Getting Irritated)](../posts/0983_gou-wo-niyasu/)
+- [<strong><em>Gowasan de Negai Mashite wa</strong></em> (ご破算で願いましては - Starting Afresh)](../posts/2223_gowasan-de-negai-mashite-wa/)
 - [Graduation Ceremony](../posts/0826_graduation-ceremony/)
 - [Graduation Research Presentation](../posts/0428_graduation-research-presentation/)
 - [Graduation Thesis](../posts/0045_graduation-thesis/)
