@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,223<br/>
-単語数 (Number of Words): 255,910<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,224<br/>
+単語数 (Number of Words): 256,051<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2224】Super Mario RPG](../posts/2224_super-mario-rpg/)
 - [【No. 2223】<strong><em>Gowasan de Negai Mashite wa</strong></em> (ご破算で願いましては - Starting Afresh)](../posts/2223_gowasan-de-negai-mashite-wa/)
 - [【No. 2222】<strong><em>Kaishin</strong></em> (会心 - Satisfaction)](../posts/2222_kaishin/)
 - [【No. 2221】<strong><em>Takw wo Watta Yōna</strong></em> (竹を割ったような - Straightforward)](../posts/2221_takw-wo-watta-yona/)

@@ -51,4 +51,10 @@ slug: "2223_gowasan-de-negai-mashite-wa"
 <li class="incorrect">By the way, now I am almost in the state of 'hasan' (破産), meaning "bankruptcy."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my post!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

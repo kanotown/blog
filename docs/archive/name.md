@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,223<br/>
-単語数 (Number of Words): 255,910<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,224<br/>
+単語数 (Number of Words): 256,051<br/><br/>
 </div>
 
 ## Symbols
@@ -1782,6 +1782,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Sune wo Kajiru](../posts/0732_sune-wo-kajiru/)
 - [Super Blood Moon](../posts/0284_super-blood-moon/)
 - [Super Formal Letter](../posts/0181_super-formal-letter/)
+- [Super Mario RPG](../posts/2224_super-mario-rpg/)
 - [Supercooling](../posts/2104_supercooling/)
 - [Superstition concerning Swallow](../posts/1091_superstition-concerning-swallow/)
 - [<strong><em>Suppin</strong></em> (Unpainted Face)](../posts/0775_suppin/)
