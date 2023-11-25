@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 25, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,225<br/>
-単語数 (Number of Words): 256,162<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 26, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,226<br/>
+単語数 (Number of Words): 256,276<br/><br/>
 </div>
 
 ## Symbols
@@ -519,6 +519,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Geko](../posts/0489_geko/)
 - [<strong><em>Genjitsu Tōhi</strong></em> (現実逃避 - Escapism)](../posts/2040_genjitsu-tohi/)
 - [<strong><em>Genkai Otaku</strong></em> (限界オタク - Excessive Otaku)](../posts/2158_genkai-otaku/)
+- [<strong><em>Geta wo Azukeru</strong></em> (下駄を預ける - Leaving the Matter)](../posts/2226_geta-wo-azukeru/)
 - [<strong><em>Geta wo Hakaseru</strong></em> (下駄を履かせる - Inflating)](../posts/2225_geta-wo-hakaseru/)
 - [Getting Lost](../posts/0987_getting-lost/)
 - [<strong><em>Giga ga Nai</strong></em> (ギガがない - Reached Data Limit)](../posts/2144_giga-ga-nai/)

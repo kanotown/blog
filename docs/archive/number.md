@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 25, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,225<br/>
-単語数 (Number of Words): 256,162<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 26, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,226<br/>
+単語数 (Number of Words): 256,276<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2226】<strong><em>Geta wo Azukeru</strong></em> (下駄を預ける - Leaving the Matter)](../posts/2226_geta-wo-azukeru/)
 - [【No. 2225】<strong><em>Geta wo Hakaseru</strong></em> (下駄を履かせる - Inflating)](../posts/2225_geta-wo-hakaseru/)
 - [【No. 2224】Super Mario RPG](../posts/2224_super-mario-rpg/)
 - [【No. 2223】<strong><em>Gowasan de Negai Mashite wa</strong></em> (ご破算で願いましては - Starting Afresh)](../posts/2223_gowasan-de-negai-mashite-wa/)

@@ -56,4 +56,7 @@ The act of <span class="f_blue">jacking up/inflating</span> quantities or prices
 <span class="f_bold">That's how the</span> idiom was coined.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>

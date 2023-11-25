@@ -76,4 +76,7 @@ Today, I completed <span class="f_bold">the Super Mario RPG remake,</span> which
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!<br/>Yeah, I'm really glad I got to experience this game through its remake. :)
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
