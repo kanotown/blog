@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 26, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,226<br/>
-単語数 (Number of Words): 256,276<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 27, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,227<br/>
+単語数 (Number of Words): 256,416<br/><br/>
 </div>
 
 ## Symbols
@@ -658,6 +658,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hipparidako</strong></em> (引っ張りだこ - Sought After)](../posts/1037_hipparidako/)
 - [<strong><em>Hisho</strong></em> (秘書 - Secretary)](../posts/1251_hisho/)
 - [<strong><em>Hishochi</strong></em> (避暑地 - Summer Resort)](../posts/1713_hishochi/)
+- [<strong><em>Hito Shigoto / Hito Anshin</strong></em> (一仕事 / 一安心 - A Substantial Task / Temporary Relief)](../posts/2227_hito-shigoto-hito-anshin/)
 - [<strong><em>Hito no Furi mite Wa-ga Furi Naose</strong></em> (人の振り見て我が振り直せ)](../posts/1748_hito-no-furi-mite-wa-ga-furi-naose/)
 - [<strong><em>Hito no Uwasa mo Shichijugo-nichi</strong></em> (Gossip Lasts 75 Days)](../posts/0608_hito-no-uwasa-mo-shichijugo-nichi/)
 - [<strong><em>Hito wo Norowa ba Ana Futatsu</strong></em> (人を呪わば穴二つ - Chickens Come Home to Roost) ](../posts/2091_hito-wo-norowa-ba-ana-futatsu/)

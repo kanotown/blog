@@ -50,4 +50,7 @@ slug: "2226_geta-wo-azukeru"
 <li class="incorrect">The idiom 'geta wo azukeru' can represent trust in the other person or irresponsibility.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+</div>
