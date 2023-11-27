@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 27, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,227<br/>
-単語数 (Number of Words): 256,416<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 28, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,228<br/>
+単語数 (Number of Words): 256,580<br/><br/>
 </div>
 
 ## Symbols
@@ -156,6 +156,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Arienai</strong></em> (ありえない - I Can't Believe It)](../posts/1119_arienai/)
 - [<strong><em>Arigata Meiwaku</strong></em> (ありがた迷惑 - Misplaced Kindness)](../posts/2151_arigata-meiwaku/)
 - [<strong><em>Arikitari</strong></em> (ありきたり - Predictable)](../posts/1139_arikitari/)
+- [<strong><em>Aritei ni Moushi Masu to</strong></em> (有り体に申しますと - To Be Honest)](../posts/2228_aritei-ni-moushi-masu-to/)
 - [<strong><em>Aruki Sumaho</strong></em> (歩きスマホ - Smartphone Zombie)](../posts/1633_aruki-sumaho/)
 - [<strong><em>Asameshi Mae</strong></em> (Before Breakfast)](../posts/0856_asameshi-mae/)
 - [<strong><em>Asappara</strong></em> (朝っぱら - First Thing in the Morning)](../posts/1094_asappara/)
