@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 28, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,228<br/>
-単語数 (Number of Words): 256,580<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of November 29, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,229<br/>
+単語数 (Number of Words): 256,694<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2229】<strong><em>Bake no Kawa ga Hagareru</strong></em> (化けの皮が剥がれる - Showing One's True Colors)](../posts/2229_bake-no-kawa-ga-hagareru/)
 - [【No. 2228】<strong><em>Aritei ni Moushi Masu to</strong></em> (有り体に申しますと - To Be Honest)](../posts/2228_aritei-ni-moushi-masu-to/)
 - [【No. 2227】<strong><em>Hito Shigoto / Hito Anshin</strong></em> (一仕事 / 一安心 - A Substantial Task / Temporary Relief)](../posts/2227_hito-shigoto-hito-anshin/)
 - [【No. 2226】<strong><em>Geta wo Azukeru</strong></em> (下駄を預ける - Leaving the Matter)](../posts/2226_geta-wo-azukeru/)

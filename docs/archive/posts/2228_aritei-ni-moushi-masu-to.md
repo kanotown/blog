@@ -48,4 +48,7 @@ slug: "2228_aritei-ni-moushi-masu-to"
 There are several other phrases that can be used when trying to say something <span class="f_bold">frankly, </span>but I think that 'aritei ni moushi masu to' is the most formal expression.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>
