@@ -46,4 +46,7 @@ slug: "2229_bake-no-kawa-ga-hagareru"
 <li class="incorrect">Note that this idiom is typically used in a negative context.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!
+</div>
+</div>
