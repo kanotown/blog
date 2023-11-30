@@ -59,4 +59,10 @@ Thank you for the corrections!
 <li class="incorrect">In addition, 'hitamuki' includes various positive meanings such as 'shinshi' (真摯 - "sincerity"), 'nintai zuyosa' (忍耐強さ - "perseverance"), and 'jōnetsu' (情熱 - "passion").</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

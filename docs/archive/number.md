@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 30, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,230<br/>
-単語数 (Number of Words): 256,793<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 01, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,231<br/>
+単語数 (Number of Words): 256,949<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2231】<strong><em>Issho Kenmei / Isshō Kenmei</strong></em> (一所懸命と一生懸命 - With All One's Might)](../posts/2231_issho-kenmei-issho-kenmei/)
 - [【No. 2230】<strong><em>Hitamuki</strong></em> (ひたむき - Single-Minded)](../posts/2230_hitamuki/)
 - [【No. 2229】<strong><em>Bake no Kawa ga Hagareru</strong></em> (化けの皮が剥がれる - Showing One's True Colors)](../posts/2229_bake-no-kawa-ga-hagareru/)
 - [【No. 2228】<strong><em>Aritei ni Moushi Masu to</strong></em> (有り体に申しますと - To Be Honest)](../posts/2228_aritei-ni-moushi-masu-to/)

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of November 30, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,230<br/>
-単語数 (Number of Words): 256,793<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 01, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,231<br/>
+単語数 (Number of Words): 256,949<br/><br/>
 </div>
 
 ## Symbols
@@ -824,6 +824,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Issen wo Warau Mono wa Issen ni Naku</strong></em> (一銭を笑う者は一銭に泣く - Take Care of the Penny)](../posts/1983_issen-wo-warau-mono-wa-issen-ni-naku/)
 - [<strong><em>Isshin Furan</strong></em> (一心不乱 - Heart and Soul)](../posts/1477_isshin-furan/)
 - [<strong><em>Isshin Ittai and Niten Santen</strong></em> (一進一退と二転三転 - Back-and-Forth and Change Again and Again)](../posts/1998_isshin-ittai-and-niten-santen/)
+- [<strong><em>Issho Kenmei / Isshō Kenmei</strong></em> (一所懸命と一生懸命 - With All One's Might)](../posts/2231_issho-kenmei-issho-kenmei/)
 - [<strong><em>Isu</strong></em> (椅子 - Chair)](../posts/1612_isu/)
 - [It's Difficult to Keep a Diary](../posts/0300_it-s-difficult-to-keep-a-diary/)
 - [It's all Greek to me.](../posts/0122_it-s-all-greek-to-me/)
