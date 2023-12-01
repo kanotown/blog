@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 01, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,231<br/>
-単語数 (Number of Words): 256,949<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 02, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,232<br/>
+単語数 (Number of Words): 257,064<br/><br/>
 </div>
 
 ## Symbols
@@ -713,6 +713,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hyaku mo Shōchi</strong></em> (百も承知 - Being Well Aware)](../posts/1886_hyaku-mo-shochi/)
 - [<strong><em>Hyaku mo Shōchi, Nihyaku mo Gatten</strong></em> (百も承知、二百も合点 - Being Fully Aware)](../posts/1887_hyaku-mo-shochi-nihyaku-mo-gatten/)
 - [<strong><em>Hyakubun wa Ikken ni Shikazu</strong></em> (Seeing is Believing)](../posts/0681_hyakubun-wa-ikken-ni-shikazu/)
+- [<strong><em>Hyappatsu Hyakuchū</strong></em> (百発百中 - Deadly Accuracy)](../posts/2232_hyappatsu-hyakuchu/)
 - [<strong><em>Hyō and Arare</strong></em> (Hailstone)](../posts/1253_hyo-and-arare/)
 - [<strong><em>Hō ga Ochiru</strong></em> (頬が落ちる - Very Delicious)](../posts/1918_ho-ga-ochiru/)
 - [<strong><em>Hōmu shikku</strong></em> (ホームシック - Homesickness)](../posts/1521_homu-shikku/)

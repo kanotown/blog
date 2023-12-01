@@ -52,4 +52,10 @@ This idiom was derived from the fact that samurai<span class="f_bold"> risked th
 <li class="incorrect">In recent years, the term 'issho' (一生 - meaning "a lifetime") is more familiar than 'issho' (一所 - meaning "one place" ), so 'isshō kenmei' is used more often than 'issho kenmei'.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
