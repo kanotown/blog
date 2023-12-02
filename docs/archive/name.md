@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 02, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,232<br/>
-単語数 (Number of Words): 257,064<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 03, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,233<br/>
+単語数 (Number of Words): 257,173<br/><br/>
 </div>
 
 ## Symbols
@@ -185,6 +185,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ato no Matsuri</strong></em> (後の祭り - Too Late) Part 2](../posts/1756_ato-no-matsuri/)
 - [<strong><em>Ato wa No to Nare Yama to Nare</strong></em> (後は野となれ山となれ - After Me the Deluge)](../posts/2185_ato-wa-no-to-nare-yama-to-nare/)
 - [<strong><em>Atosaki Kangaezu</strong></em> (後先考えず - Without Considering the Consequences)](../posts/2117_atosaki-kangaezu/)
+- [<strong><em>Attakē</strong></em> (あったけぇ - Heartwarming)](../posts/2233_attake/)
 - [Award Ceremony](../posts/0644_award-ceremony/)
 - [Azatoi](../posts/0539_azatoi/)
 ## B

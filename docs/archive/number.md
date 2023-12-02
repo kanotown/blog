@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 02, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,232<br/>
-単語数 (Number of Words): 257,064<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 03, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,233<br/>
+単語数 (Number of Words): 257,173<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2233】<strong><em>Attakē</strong></em> (あったけぇ - Heartwarming)](../posts/2233_attake/)
 - [【No. 2232】<strong><em>Hyappatsu Hyakuchū</strong></em> (百発百中 - Deadly Accuracy)](../posts/2232_hyappatsu-hyakuchu/)
 - [【No. 2231】<strong><em>Issho Kenmei / Isshō Kenmei</strong></em> (一所懸命と一生懸命 - With All One's Might)](../posts/2231_issho-kenmei-issho-kenmei/)
 - [【No. 2230】<strong><em>Hitamuki</strong></em> (ひたむき - Single-Minded)](../posts/2230_hitamuki/)

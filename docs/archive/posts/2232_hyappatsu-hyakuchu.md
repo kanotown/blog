@@ -50,4 +50,10 @@ Hyappatsu Hyakuchū (百発百中 - <span class="f_blue">Always hitting the bull
 In the story, Yang shot a hundred arrows <span class="sline"><span class="f_red">from </span></span>a hundred <span class="f_bold">steps</span> away from a willow tree, and all the arrows hit the willow leaves.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
