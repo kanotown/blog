@@ -63,4 +63,10 @@ During this time, I thought<span class="f_bold"> of</span> 'attakē' (あった�
 <li class="incorrect">It is used when you are touched and warmed by someone's kindness.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

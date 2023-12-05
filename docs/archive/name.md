@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 05, 2023]</strong><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 06, 2023]</strong><br/>
 投稿数 (Number of Posts): 2,236<br/>
-単語数 (Number of Words): 257,553<br/><br/>
+単語数 (Number of Words): 257,509<br/><br/>
 </div>
 
 ## Symbols
@@ -583,6 +583,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Haiboku</strong></em> (敗北 - Losing)](../posts/1630_haiboku/)
 - [<strong><em>Haisui no Jin</strong></em> (背水の陣 - Burning One's Boats)](../posts/2192_haisui-no-jin/)
 - [<strong><em>Hakaba made Motteiku</strong></em> (墓場まで持っていく - Taking Something to One's Grave)](../posts/1683_hakaba-made-motteiku/)
+- [<strong><em>Hakushu Kassai</strong></em> (拍手喝采 - Cheering and Clapping)](../posts/2235_hakushu-kassai/)
 - [<strong><em>Hame wo Hazusu</strong></em> (羽目を外す - Getting Carried Away)](../posts/1020_hame-wo-hazusu/)
 - [<strong><em>Han-don</strong></em> (半ドン - Half-holiday)](../posts/2074_han-don/)
 - [<strong><em>Hana de Warau</strong></em> (鼻で笑う - Snorting with Laughter)](../posts/1494_hana-de-warau/)
@@ -1286,6 +1287,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Naraku no Soko</strong></em> (奈落の底- Abyss)](../posts/1052_naraku-no-soko/)
 - [<strong><em>Narau yori Nareyo</strong></em> (習うより慣れよ - Practice Makes Perfect)](../posts/1409_narau-yori-nareyo/)
 - [<strong><em>Narikin</strong></em> (New Rich)](../posts/0846_narikin/)
+- [<strong><em>Nariwai</strong></em> (生業 - Occupation)](../posts/2234_nariwai/)
 - [<strong><em>Naruhodo</strong></em> (I see)](../posts/0808_naruhodo/)
 - [<strong><em>Nashi no Tsubute</strong></em> (梨の礫 - Getting No Reply)](../posts/0951_nashi-no-tsubute/)
 - [<strong><em>Nasu</strong></em> (ナス - Eggplant)](../posts/1032_nasu/)
@@ -2122,6 +2124,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Using CUDA](../posts/0177_using-cuda/)
 - [<strong><em>Uso Happyaku</strong></em> (嘘八百 - A Lot of Lies)](../posts/1028_uso-happyaku/)
 - [Uso mo Houben](../posts/0873_uso-mo-houben/)
+- [<strong><em>Usomatsu</strong></em> (嘘松 - Fabricated Story)](../posts/2236_usomatsu/)
 - [<strong><em>Usotsuki wa dorobou no hajimari</strong></em> (嘘つきは泥棒の始まり - He that will Lie will Steal)](../posts/1279_usotsuki-wa-dorobou-no-hajimari/)
 - [<strong><em>Utage</strong></em> (宴 - Banquet/Party)](../posts/1202_utage/)
 - [<strong><em>Utatane</strong></em> (うたた寝 - Doze/Nap)](../posts/0966_utatane/)
