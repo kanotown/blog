@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 06, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,236<br/>
-単語数 (Number of Words): 257,509<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 07, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,237<br/>
+単語数 (Number of Words): 257,613<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2237】<strong><em>Pi-nige</strong></em> (ピ逃げ - Registering Attendance and Running Away)](../posts/2237_pi-nige/)
 - [【No. 2236】<strong><em>Usomatsu</strong></em> (嘘松 - Fabricated Story)](../posts/2236_usomatsu/)
 - [【No. 2235】<strong><em>Hakushu Kassai</strong></em> (拍手喝采 - Cheering and Clapping)](../posts/2235_hakushu-kassai/)
 - [【No. 2234】<strong><em>Nariwai</strong></em> (生業 - Occupation)](../posts/2234_nariwai/)
