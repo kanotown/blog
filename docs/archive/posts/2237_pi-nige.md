@@ -53,6 +53,9 @@ Recently, the <span class="f_bold">slang</span> term 'pi-nige' (ピ逃げ) has b
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the corrections!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">Pinnoa </span></div><div id="block2">
 <ul class="correction_field">

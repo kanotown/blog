@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 07, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,237<br/>
-単語数 (Number of Words): 257,613<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 10, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,240<br/>
+単語数 (Number of Words): 257,933<br/><br/>
 </div>
 
 ## Symbols
@@ -365,6 +365,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Dai wa Shō wo Kaneru</strong></em> (大は小を兼ねる - The More, the Merrier)](../posts/1944_dai-wa-sho-wo-kaneru/)
 - [Daifuku](../posts/0793_daifuku/)
 - [<strong><em>Daigomi</strong></em> (醍醐味 - The True Pleasure)](../posts/1025_daigomi/)
+- [<strong><em>Daihen</strong></em> (代返 - Proxy Attendance)](../posts/2238_daihen/)
 - [Daijobu](../posts/0552_daijobu/)
 - [<strong><em>Daijōbu</strong></em> (大丈夫 - It's Okay) Part 2](../posts/1194_daijobu/)
 - [<strong><em>Daikokubashira</strong></em> (大黒柱 - Breadwinner)](../posts/1024_daikokubashira/)
@@ -623,6 +624,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hari no Mushiro</strong></em> (針のむしろ - Bed of Nails)](../posts/2050_hari-no-mushiro/)
 - [<strong><em>Harisenbon</strong></em> (ハリセンボン - Porcupinefish)](../posts/1407_harisenbon/)
 - [<strong><em>Hashigo</strong></em> (はしご - Ladder)](../posts/1128_hashigo/)
+- [<strong><em>Hashiyasume</strong></em> (箸休め - Palate Cleanser)](../posts/2240_hashiyasume/)
 - [<strong><em>Hashoru</strong></em> (端折る - Shortening)](../posts/1055_hashoru/)
 - [<strong><em>Hatena Māku</strong></em> (はてなマーク - Question Mark)](../posts/1311_hatena-maku/)
 - [<strong><em>Hatodokei</strong></em> (鳩時計 - Cuckoo Clock)](../posts/1790_hatodokei/)
@@ -684,6 +686,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Homecoming](../posts/0381_homecoming/)
 - [Homecoming and Short Sightseeing Part 2](../posts/0605_homecoming-and-short-sightseeing-part-2/)
 - [Homecoming and Slight Sightseeing Part 1](../posts/0604_homecoming-and-slight-sightseeing-part-1/)
+- [<strong><em>Hone Yasume</strong></em> (骨休め - Relaxation)](../posts/2239_hone-yasume/)
 - [<strong><em>Honenuki</strong></em> (骨抜き - Pulling Teeth)](../posts/1412_honenuki/)
 - [Honey Trivia](../posts/0358_honey-trivia/)
 - [<strong><em>Honjitsu wa Seiten Nari</strong></em> (It's Fine Today)](../posts/0640_honjitsu-wa-seiten-nari/)
