@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 10, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,240<br/>
-単語数 (Number of Words): 257,933<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 12, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,242<br/>
+単語数 (Number of Words): 258,146<br/><br/>
 </div>
 
 ## Symbols
@@ -169,6 +169,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ashimoto o Miru</strong></em> (To Take Unfair Advantage of Someone)](../posts/0765_ashimoto-o-miru/)
 - [Ashita and Asu and Myonichi](../posts/0613_ashita-and-asu-and-myonichi/)
 - [<strong><em>Asu wa Wagami</strong></em> (明日は我が身 - Tomorrow It Might Be Me)](../posts/1502_asu-wa-wagami/)
+- [<strong><em>Ata Futa</strong></em> (あたふた - Feverishly)](../posts/2241_ata-futa/)
 - [<strong><em>Atama Dekkachi</strong></em> (頭でっかち - Brain Trust)](../posts/1831_atama-dekkachi/)
 - [Atama Kakushite Shiri Kakusazu](../posts/0665_atama-kakushite-shiri-kakusazu/)
 - [<strong><em>Atama ga Panku</strong></em> (頭がパンク - One's Head is Explode)](../posts/1551_atama-ga-panku/)
@@ -1242,6 +1243,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Movement Distance of Blood](../posts/0263_movement-distance-of-blood/)
 - [Moving to HiNative](../posts/2033_moving-to-hinative/)
 - [<strong><em>Muda</strong></em> (無駄 - Waste)](../posts/1298_muda/)
+- [<strong><em>Muga Muchū</strong></em> (無我夢中 - Becoming Engrossed)](../posts/2242_muga-muchu/)
 - [<strong><em>Mukuchi</strong></em> (無口 - Having Few Words)](../posts/1466_mukuchi/)
 - [<strong><em>Munasawagi</strong></em> (胸騒ぎ - Bad Feeling)](../posts/1145_munasawagi/)
 - [<strong><em>Munatsuki Hacchō</strong></em> (胸突き八丁 - Make-or-Break Period)](../posts/2168_munatsuki-haccho/)

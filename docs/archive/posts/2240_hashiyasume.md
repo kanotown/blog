@@ -54,4 +54,10 @@ slug: "2240_hashiyasume"
 <li class="incorrect">For example, it can mean "aside" or "side stories" in a discussion, implying a break from the main topic.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

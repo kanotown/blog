@@ -58,4 +58,7 @@ slug: "2239_hone-yasume"
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for reading my entry!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>
