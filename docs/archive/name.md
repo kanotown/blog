@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,242<br/>
-単語数 (Number of Words): 258,146<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,243<br/>
+単語数 (Number of Words): 258,245<br/><br/>
 </div>
 
 ## Symbols
@@ -28,6 +28,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - ['#' is not 'sharp'](../posts/0187_is-not-sharp/)
 - ['Yōshi Tanrei' and 'Bimoku Shūrei' (「容姿端麗」と「眉目秀麗」 - "Beautiful Features")](../posts/1553_yoshi-tanrei-and-bimoku-shurei-rong-zi-duan-li-to-mei-mu-xiu-li-beautiful-features/)
 - ['歳' and '才'](../posts/0237_sui-and-cai/)
+- [(Goiryoku) (（語彙力） - (Limited Vocabulary))](../posts/2243_goiryoku-yu-hui-li-limited-vocabulary/)
 ## 0-9
 - [0-ji Machi (0時待ち - Waiting for Midnight)](../posts/2149_0-ji-machi-0shi-dai-ti-waiting-for-midnight/)
 - [0th Floor](../posts/0603_0th-floor/)

@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 12, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,242<br/>
-単語数 (Number of Words): 258,146<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 13, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,243<br/>
+単語数 (Number of Words): 258,245<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2243】(Goiryoku) (（語彙力） - (Limited Vocabulary))](../posts/2243_goiryoku-yu-hui-li-limited-vocabulary/)
 - [【No. 2242】<strong><em>Muga Muchū</strong></em> (無我夢中 - Becoming Engrossed)](../posts/2242_muga-muchu/)
 - [【No. 2241】<strong><em>Ata Futa</strong></em> (あたふた - Feverishly)](../posts/2241_ata-futa/)
 - [【No. 2240】<strong><em>Hashiyasume</strong></em> (箸休め - Palate Cleanser)](../posts/2240_hashiyasume/)

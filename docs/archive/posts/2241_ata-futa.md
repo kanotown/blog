@@ -55,4 +55,7 @@ Its simple abbreviation would be 'awa futa' (あわふた), but it is believed t
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the corrections!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>
