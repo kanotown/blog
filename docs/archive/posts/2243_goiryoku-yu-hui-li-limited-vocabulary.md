@@ -46,4 +46,7 @@ slug: "2243_goiryoku-yu-hui-li-limited-vocabulary"
 <li class="incorrect">For example, it is used like 「おいしい（語彙力）」, where 'oishī' (おいしい) means "delicious."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+</div>
