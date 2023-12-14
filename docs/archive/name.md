@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 14, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,244<br/>
-単語数 (Number of Words): 258,373<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 15, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,245<br/>
+単語数 (Number of Words): 258,484<br/><br/>
 </div>
 
 ## Symbols
@@ -225,6 +225,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Bokenasu](../posts/0576_bokenasu/)
 - [<strong><em>Boketsu wo Horu</strong></em> (墓穴を掘る - Digging One's Own Grave)](../posts/1512_boketsu-wo-horu/)
 - [<strong><em>Bokou</strong></em> (母校 - Old School)](../posts/1280_bokou/)
+- [<strong><em>Bokyahin</strong></em> (ボキャ貧 - Limited Vocabulary)](../posts/2245_bokyahin/)
 - [Bon Holidays: Day 1 (August 14th)](../posts/1701_bon-holidays-day-1-august-14th/)
 - [Bon Holidays: Day 2 (August 15th)](../posts/1702_bon-holidays-day-2-august-15th/)
 - [Bon Holidays: Day 3 (August 16th)](../posts/1703_bon-holidays-day-3-august-16th/)

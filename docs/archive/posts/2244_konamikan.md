@@ -56,4 +56,10 @@ slug: "2244_konamikan"
 <li class="incorrect">For example, it is used like 「すごい（小並感）」, where 'sugoi' (すごい) means "amazing."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
