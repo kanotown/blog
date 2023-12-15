@@ -62,4 +62,10 @@ It is a very understandable slang term for<span class="sline"><span class="f_red
 <li class="incorrect">We need to study the language daily to avoid becoming 'bokyahin' and using obsolete terms.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 15, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,245<br/>
-単語数 (Number of Words): 258,484<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 16, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,246<br/>
+単語数 (Number of Words): 258,607<br/><br/>
 </div>
 
 ## Symbols
@@ -1710,6 +1710,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Shira wo Kiru</strong></em> (しらを切る - Playing Innocent)](../posts/1371_shira-wo-kiru/)
 - [<strong><em>Shirami Tsubushi</strong></em> (虱潰し - One by One)](../posts/1583_shirami-tsubushi/)
 - [<strong><em>Shirankedo</strong></em> (知らんけど - "I'm not sure, tho")](../posts/1788_shirankedo/)
+- [<strong><em>Shirazu Shirazu</strong></em> (知らず知らず - Unconsciously)](../posts/2246_shirazu-shirazu/)
 - [<strong><em>Shiri ga Aoi</strong></em> (A Blue Hip)](../posts/0635_shiri-ga-aoi/)
 - [<strong><em>Shiri ga Karui</strong></em> (尻が軽い - Hasty)](../posts/1634_shiri-ga-karui/)
 - [<strong><em>Shiri ni Hi ga Tsuku</strong></em> (尻に火がつく - Urgent)](../posts/1894_shiri-ni-hi-ga-tsuku/)
