@@ -50,4 +50,7 @@ Since 'shiru/shira' (知る/知ら) means "to know," and 'zu' (ず) is a negativ
 In many cases, it is used<span class="f_bold"> together with 'no uchi ni' (のうちに - meaning "while" or "during"), as part of 'shirazu shirazu no uchi ni' (知らず知らずのうちに).</span>
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+</div>

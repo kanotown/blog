@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 16, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,246<br/>
-単語数 (Number of Words): 258,607<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 17, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,247<br/>
+単語数 (Number of Words): 258,727<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2247】<strong><em>Ishin Denshin</strong></em> (以心伝心 - Heart-to-Heart Communication)](../posts/2247_ishin-denshin/)
 - [【No. 2246】<strong><em>Shirazu Shirazu</strong></em> (知らず知らず - Unconsciously)](../posts/2246_shirazu-shirazu/)
 - [【No. 2245】<strong><em>Bokyahin</strong></em> (ボキャ貧 - Limited Vocabulary)](../posts/2245_bokyahin/)
 - [【No. 2244】<strong><em>Konamikan</strong></em> (小並感 - Child-like Opinion)](../posts/2244_konamikan/)

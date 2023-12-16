@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 16, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,246<br/>
-単語数 (Number of Words): 258,607<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 17, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,247<br/>
+単語数 (Number of Words): 258,727<br/><br/>
 </div>
 
 ## Symbols
@@ -828,6 +828,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Ishi no Ue ni mo San-nen](../posts/1897_ishi-no-ue-ni-mo-san-nen/)
 - [<strong><em>Ishiatama</strong></em> (石頭 - Hard Head)](../posts/1443_ishiatama/)
 - [Ishibashi wo Tataite Wataru](../posts/0655_ishibashi-wo-tataite-wataru/)
+- [<strong><em>Ishin Denshin</strong></em> (以心伝心 - Heart-to-Heart Communication)](../posts/2247_ishin-denshin/)
 - [<strong><em>Isogaba Maware</strong></em> (急がば回れ - More Haste, Less Speed)](../posts/1357_isogaba-maware/)
 - [<strong><em>Isse Ichidai</strong></em> (一世一代 - Something of One's Life)](../posts/1148_isse-ichidai/)
 - [<strong><em>Issen wo Warau Mono wa Issen ni Naku</strong></em> (一銭を笑う者は一銭に泣く - Take Care of the Penny)](../posts/1983_issen-wo-warau-mono-wa-issen-ni-naku/)
