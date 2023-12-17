@@ -48,4 +48,10 @@ slug: "2247_ishin-denshin"
 <li class="incorrect">Originally, 'ishin denshin' was a Buddhist term, referring to the transmission of Buddhism's profound teachings from a master to the disciple through the mind.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

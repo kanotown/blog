@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 17, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,247<br/>
-単語数 (Number of Words): 258,727<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 18, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,248<br/>
+単語数 (Number of Words): 258,835<br/><br/>
 </div>
 
 ## Symbols
@@ -2227,6 +2227,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Yoi Otoshi wo</strong></em> (良いお年を)](../posts/1102_yoi-otoshi-wo/)
 - [<strong><em>Yoin ni Hitaru</strong></em> (余韻に浸る - Basking in the Afterglow)](../posts/2128_yoin-ni-hitaru/)
 - [Yokkoisho(よっこいしょ)](../posts/0228_yokkoisho-yotukoisiyo/)
+- [<strong><em>Yokoyari wo Ireru</strong></em> (横槍を入れる - Interrupting)](../posts/2248_yokoyari-wo-ireru/)
 - [<strong><em>Yoku Ieba, Waruku Ieba</strong></em> (良く言えば～、悪く言えば～)](../posts/1444_yoku-ieba-waruku-ieba/)
 - [<strong><em>Yome</strong></em> (嫁 - Daughter-in-Law)](../posts/1687_yome/)
 - [<strong><em>Yon-koma Manga</strong></em> (4コマ漫画 - Four-frame Manga)](../posts/2021_yon-koma-manga/)
