@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 18, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,248<br/>
-単語数 (Number of Words): 258,835<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 19, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,249<br/>
+単語数 (Number of Words): 258,948<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2249】<strong><em>Owari no Hajimari</strong></em> (終わりの始まり - The Beginning of the End)](../posts/2249_owari-no-hajimari/)
 - [【No. 2248】<strong><em>Yokoyari wo Ireru</strong></em> (横槍を入れる - Interrupting)](../posts/2248_yokoyari-wo-ireru/)
 - [【No. 2247】<strong><em>Ishin Denshin</strong></em> (以心伝心 - Heart-to-Heart Communication)](../posts/2247_ishin-denshin/)
 - [【No. 2246】<strong><em>Shirazu Shirazu</strong></em> (知らず知らず - Unconsciously)](../posts/2246_shirazu-shirazu/)
