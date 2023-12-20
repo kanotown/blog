@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 20, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,250<br/>
-単語数 (Number of Words): 259,096<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 21, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,251<br/>
+単語数 (Number of Words): 259,200<br/><br/>
 </div>
 
 ## Symbols
@@ -1877,6 +1877,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Tatami no Ue no Kega</strong></em> (畳の上の怪我 - Out of the Blue)](../posts/2058_tatami-no-ue-no-kega/)
 - [<strong><em>Tateba Shakuyaku, Suwareba Botan, Aruku Sugata wa Yuri no Hana</strong></em> (立てば芍薬、座れば牡丹、歩く姿は百合の花) Part 1](../posts/1186_tateba-shakuyaku-suwareba-botan-aruku-sugata-wa-yuri-no-hana/)
 - [<strong><em>Tateba Shakuyaku, Suwareba Botan, Aruku Sugata wa Yuri no Hana</strong></em> (立てば芍薬、座れば牡丹、歩く姿は百合の花) Part 2](../posts/1187_tateba-shakuyaku-suwareba-botan-aruku-sugata-wa-yuri-no-hana/)
+- [<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)](../posts/2251_tateita-ni-mizu/)
 - [<strong><em>Tatetsuku</strong></em> (盾突く - Defying)](../posts/1505_tatetsuku/)
 - [<strong><em>Tatsu Tori Ato wo Nigosazu</strong></em> (立つ鳥跡を濁さず - It Is an Ill Bird that Fouls Its Own Nest)](../posts/1931_tatsu-tori-ato-wo-nigosazu/)
 - [<strong><em>Tawakemono</strong></em> (たわけ者 - Fool)](../posts/1169_tawakemono/)

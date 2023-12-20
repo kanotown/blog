@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 20, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,250<br/>
-単語数 (Number of Words): 259,096<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 21, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,251<br/>
+単語数 (Number of Words): 259,200<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2251】<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)](../posts/2251_tateita-ni-mizu/)
 - [【No. 2250】<strong><em>Owari no Nai no ga Owari</strong></em> (終わりのないのが終わり -  Endless Cycle)](../posts/2250_owari-no-nai-no-ga-owari/)
 - [【No. 2249】<strong><em>Owari no Hajimari</strong></em> (終わりの始まり - The Beginning of the End)](../posts/2249_owari-no-hajimari/)
 - [【No. 2248】<strong><em>Yokoyari wo Ireru</strong></em> (横槍を入れる - Interrupting)](../posts/2248_yokoyari-wo-ireru/)
