@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 22, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,252<br/>
-単語数 (Number of Words): 259,327<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 23, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,253<br/>
+単語数 (Number of Words): 259,426<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2253】<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)](../posts/2253_uo-sao/)
 - [【No. 2252】<strong><em>Ginsekai</strong></em> (銀世界 - Snowy World)](../posts/2252_ginsekai/)
 - [【No. 2251】<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)](../posts/2251_tateita-ni-mizu/)
 - [【No. 2250】<strong><em>Owari no Nai no ga Owari</strong></em> (終わりのないのが終わり -  Endless Cycle)](../posts/2250_owari-no-nai-no-ga-owari/)

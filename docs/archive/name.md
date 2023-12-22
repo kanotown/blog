@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 22, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,252<br/>
-単語数 (Number of Words): 259,327<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 23, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,253<br/>
+単語数 (Number of Words): 259,426<br/><br/>
 </div>
 
 ## Symbols
@@ -2149,6 +2149,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Utsusemi</strong></em> (Cicada Shell)](../posts/0617_utsusemi/)
 - [<strong><em>Uwa no Sora</strong></em> (上の空 - Absence of Mind)](../posts/1263_uwa-no-sora/)
 - [<strong><em>Uzai</strong></em> (うざい - Annoying)](../posts/0917_uzai/)
+- [<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)](../posts/2253_uo-sao/)
 ## V
 - [Vacuum Cleaner](../posts/0041_vacuum-cleaner/)
 - [Valedictory Lecture](../posts/0050_valedictory-lecture/)
