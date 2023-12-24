@@ -4,12 +4,14 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,253<br/>
-単語数 (Number of Words): 259,426<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,255<br/>
+単語数 (Number of Words): 259,667<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2255】<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 2](../posts/2255_nengajo/)
+- [【No. 2254】<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 1](../posts/2254_nengajo/)
 - [【No. 2253】<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)](../posts/2253_uo-sao/)
 - [【No. 2252】<strong><em>Ginsekai</strong></em> (銀世界 - Snowy World)](../posts/2252_ginsekai/)
 - [【No. 2251】<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)](../posts/2251_tateita-ni-mizu/)

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 23, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,253<br/>
-単語数 (Number of Words): 259,426<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 24, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,255<br/>
+単語数 (Number of Words): 259,667<br/><br/>
 </div>
 
 ## Symbols
@@ -1336,6 +1336,8 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Nemimi ni Mizu</strong></em> (寝耳に水 - Bombshell)](../posts/1074_nemimi-ni-mizu/)
 - [<strong><em>Nen ni wa Nen wo Ireru</strong></em> (念には念を入れる - Taking Extra Precautions)](../posts/2107_nen-ni-wa-nen-wo-ireru/)
 - [<strong><em>Nen-nen Korori</strong></em> (ねんねんころり)](../posts/1723_nen-nen-korori/)
+- [<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 1](../posts/2254_nengajo/)
+- [<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 2](../posts/2255_nengajo/)
 - [Nerds' Birthday](../posts/1440_nerds-birthday/)
 - [<strong><em>Neshōgatsu</strong></em> (寝正月 - Staying at Home during the New Year's Holiday)](../posts/1475_neshogatsu/)
 - [Netflix](../posts/0259_netflix/)

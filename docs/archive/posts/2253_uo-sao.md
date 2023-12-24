@@ -48,4 +48,10 @@ slug: "2253_uo-sao"
 <span class="f_blue">There is also a synonym called/As a synonym for 'uō saō', there is</span> 'atafuta' (あたふた), <span class="f_gray">which means</span> a state of <span class="f_gray">being in a</span> panic and rushing around.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome
+</div>
+</div>
