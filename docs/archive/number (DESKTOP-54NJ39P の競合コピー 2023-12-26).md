@@ -4,12 +4,28 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 11, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,237<br/>
-単語数 (Number of Words): 257,613<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 26, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,253<br/>
+単語数 (Number of Words): 259,426<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2253】<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)](../posts/2253_uo-sao/)
+- [【No. 2252】<strong><em>Ginsekai</strong></em> (銀世界 - Snowy World)](../posts/2252_ginsekai/)
+- [【No. 2251】<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)](../posts/2251_tateita-ni-mizu/)
+- [【No. 2250】<strong><em>Owari no Nai no ga Owari</strong></em> (終わりのないのが終わり -  Endless Cycle)](../posts/2250_owari-no-nai-no-ga-owari/)
+- [【No. 2249】<strong><em>Owari no Hajimari</strong></em> (終わりの始まり - The Beginning of the End)](../posts/2249_owari-no-hajimari/)
+- [【No. 2248】<strong><em>Yokoyari wo Ireru</strong></em> (横槍を入れる - Interrupting)](../posts/2248_yokoyari-wo-ireru/)
+- [【No. 2247】<strong><em>Ishin Denshin</strong></em> (以心伝心 - Heart-to-Heart Communication)](../posts/2247_ishin-denshin/)
+- [【No. 2246】<strong><em>Shirazu Shirazu</strong></em> (知らず知らず - Unconsciously)](../posts/2246_shirazu-shirazu/)
+- [【No. 2245】<strong><em>Bokyahin</strong></em> (ボキャ貧 - Limited Vocabulary)](../posts/2245_bokyahin/)
+- [【No. 2244】<strong><em>Konamikan</strong></em> (小並感 - Child-like Opinion)](../posts/2244_konamikan/)
+- [【No. 2243】(Goiryoku) (（語彙力） - (Limited Vocabulary))](../posts/2243_goiryoku-yu-hui-li-limited-vocabulary/)
+- [【No. 2242】<strong><em>Muga Muchū</strong></em> (無我夢中 - Becoming Engrossed)](../posts/2242_muga-muchu/)
+- [【No. 2241】<strong><em>Ata Futa</strong></em> (あたふた - Feverishly)](../posts/2241_ata-futa/)
+- [【No. 2240】<strong><em>Hashiyasume</strong></em> (箸休め - Palate Cleanser)](../posts/2240_hashiyasume/)
+- [【No. 2239】<strong><em>Hone Yasume</strong></em> (骨休め - Relaxation)](../posts/2239_hone-yasume/)
+- [【No. 2238】<strong><em>Daihen</strong></em> (代返 - Proxy Attendance)](../posts/2238_daihen/)
 - [【No. 2237】<strong><em>Pi-nige</strong></em> (ピ逃げ - Registering Attendance and Running Away)](../posts/2237_pi-nige/)
 - [【No. 2236】<strong><em>Usomatsu</strong></em> (嘘松 - Fabricated Story)](../posts/2236_usomatsu/)
 - [【No. 2235】<strong><em>Hakushu Kassai</strong></em> (拍手喝采 - Cheering and Clapping)](../posts/2235_hakushu-kassai/)

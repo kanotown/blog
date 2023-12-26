@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 11, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,237<br/>
-単語数 (Number of Words): 257,613<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 26, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,253<br/>
+単語数 (Number of Words): 259,426<br/><br/>
 </div>
 
 ## Symbols
@@ -28,6 +28,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - ['#' is not 'sharp'](../posts/0187_is-not-sharp/)
 - ['Yōshi Tanrei' and 'Bimoku Shūrei' (「容姿端麗」と「眉目秀麗」 - "Beautiful Features")](../posts/1553_yoshi-tanrei-and-bimoku-shurei-rong-zi-duan-li-to-mei-mu-xiu-li-beautiful-features/)
 - ['歳' and '才'](../posts/0237_sui-and-cai/)
+- [(Goiryoku) (（語彙力） - (Limited Vocabulary))](../posts/2243_goiryoku-yu-hui-li-limited-vocabulary/)
 ## 0-9
 - [0-ji Machi (0時待ち - Waiting for Midnight)](../posts/2149_0-ji-machi-0shi-dai-ti-waiting-for-midnight/)
 - [0th Floor](../posts/0603_0th-floor/)
@@ -169,6 +170,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ashimoto o Miru</strong></em> (To Take Unfair Advantage of Someone)](../posts/0765_ashimoto-o-miru/)
 - [Ashita and Asu and Myonichi](../posts/0613_ashita-and-asu-and-myonichi/)
 - [<strong><em>Asu wa Wagami</strong></em> (明日は我が身 - Tomorrow It Might Be Me)](../posts/1502_asu-wa-wagami/)
+- [<strong><em>Ata Futa</strong></em> (あたふた - Feverishly)](../posts/2241_ata-futa/)
 - [<strong><em>Atama Dekkachi</strong></em> (頭でっかち - Brain Trust)](../posts/1831_atama-dekkachi/)
 - [Atama Kakushite Shiri Kakusazu](../posts/0665_atama-kakushite-shiri-kakusazu/)
 - [<strong><em>Atama ga Panku</strong></em> (頭がパンク - One's Head is Explode)](../posts/1551_atama-ga-panku/)
@@ -223,6 +225,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Bokenasu](../posts/0576_bokenasu/)
 - [<strong><em>Boketsu wo Horu</strong></em> (墓穴を掘る - Digging One's Own Grave)](../posts/1512_boketsu-wo-horu/)
 - [<strong><em>Bokou</strong></em> (母校 - Old School)](../posts/1280_bokou/)
+- [<strong><em>Bokyahin</strong></em> (ボキャ貧 - Limited Vocabulary)](../posts/2245_bokyahin/)
 - [Bon Holidays: Day 1 (August 14th)](../posts/1701_bon-holidays-day-1-august-14th/)
 - [Bon Holidays: Day 2 (August 15th)](../posts/1702_bon-holidays-day-2-august-15th/)
 - [Bon Holidays: Day 3 (August 16th)](../posts/1703_bon-holidays-day-3-august-16th/)
@@ -365,6 +368,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Dai wa Shō wo Kaneru</strong></em> (大は小を兼ねる - The More, the Merrier)](../posts/1944_dai-wa-sho-wo-kaneru/)
 - [Daifuku](../posts/0793_daifuku/)
 - [<strong><em>Daigomi</strong></em> (醍醐味 - The True Pleasure)](../posts/1025_daigomi/)
+- [<strong><em>Daihen</strong></em> (代返 - Proxy Attendance)](../posts/2238_daihen/)
 - [Daijobu](../posts/0552_daijobu/)
 - [<strong><em>Daijōbu</strong></em> (大丈夫 - It's Okay) Part 2](../posts/1194_daijobu/)
 - [<strong><em>Daikokubashira</strong></em> (大黒柱 - Breadwinner)](../posts/1024_daikokubashira/)
@@ -528,6 +532,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Giga ga Nai</strong></em> (ギガがない - Reached Data Limit)](../posts/2144_giga-ga-nai/)
 - [<strong><em>Gikkuri Goshi</strong></em> (ぎっくり腰 - Acute Low Back Pain)](../posts/1446_gikkuri-goshi/)
 - [<strong><em>Gin-nagashi</strong></em> (銀流し - Specious)](../posts/1936_gin-nagashi/)
+- [<strong><em>Ginsekai</strong></em> (銀世界 - Snowy World)](../posts/2252_ginsekai/)
 - [<strong><em>Giongo and Gitaigo</strong></em> (Onomatopoeia)](../posts/0911_giongo-and-gitaigo/)
 - [<strong><em>Giri-giri</strong></em> (ぎりぎり - "Barely")](../posts/1320_giri-giri/)
 - [<strong><em>Gishin Anki</strong></em> (疑心暗鬼 - Doubts Beget Doubts)](../posts/1488_gishin-anki/)
@@ -623,6 +628,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Hari no Mushiro</strong></em> (針のむしろ - Bed of Nails)](../posts/2050_hari-no-mushiro/)
 - [<strong><em>Harisenbon</strong></em> (ハリセンボン - Porcupinefish)](../posts/1407_harisenbon/)
 - [<strong><em>Hashigo</strong></em> (はしご - Ladder)](../posts/1128_hashigo/)
+- [<strong><em>Hashiyasume</strong></em> (箸休め - Palate Cleanser)](../posts/2240_hashiyasume/)
 - [<strong><em>Hashoru</strong></em> (端折る - Shortening)](../posts/1055_hashoru/)
 - [<strong><em>Hatena Māku</strong></em> (はてなマーク - Question Mark)](../posts/1311_hatena-maku/)
 - [<strong><em>Hatodokei</strong></em> (鳩時計 - Cuckoo Clock)](../posts/1790_hatodokei/)
@@ -684,6 +690,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Homecoming](../posts/0381_homecoming/)
 - [Homecoming and Short Sightseeing Part 2](../posts/0605_homecoming-and-short-sightseeing-part-2/)
 - [Homecoming and Slight Sightseeing Part 1](../posts/0604_homecoming-and-slight-sightseeing-part-1/)
+- [<strong><em>Hone Yasume</strong></em> (骨休め - Relaxation)](../posts/2239_hone-yasume/)
 - [<strong><em>Honenuki</strong></em> (骨抜き - Pulling Teeth)](../posts/1412_honenuki/)
 - [Honey Trivia](../posts/0358_honey-trivia/)
 - [<strong><em>Honjitsu wa Seiten Nari</strong></em> (It's Fine Today)](../posts/0640_honjitsu-wa-seiten-nari/)
@@ -822,6 +829,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Ishi no Ue ni mo San-nen](../posts/1897_ishi-no-ue-ni-mo-san-nen/)
 - [<strong><em>Ishiatama</strong></em> (石頭 - Hard Head)](../posts/1443_ishiatama/)
 - [Ishibashi wo Tataite Wataru](../posts/0655_ishibashi-wo-tataite-wataru/)
+- [<strong><em>Ishin Denshin</strong></em> (以心伝心 - Heart-to-Heart Communication)](../posts/2247_ishin-denshin/)
 - [<strong><em>Isogaba Maware</strong></em> (急がば回れ - More Haste, Less Speed)](../posts/1357_isogaba-maware/)
 - [<strong><em>Isse Ichidai</strong></em> (一世一代 - Something of One's Life)](../posts/1148_isse-ichidai/)
 - [<strong><em>Issen wo Warau Mono wa Issen ni Naku</strong></em> (一銭を笑う者は一銭に泣く - Take Care of the Penny)](../posts/1983_issen-wo-warau-mono-wa-issen-ni-naku/)
@@ -1032,6 +1040,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kokoro ni Shimiru</strong></em> (心にしみる - Being Impressed)](../posts/1330_kokoro-ni-shimiru/)
 - [<strong><em>Komekami</strong></em> (Temple)](../posts/0628_komekami/)
 - [Komorebi](../posts/0583_komorebi/)
+- [<strong><em>Konamikan</strong></em> (小並感 - Child-like Opinion)](../posts/2244_konamikan/)
 - [Konjac](../posts/0191_konjac/)
 - [<strong><em>Kono Ue Naku</strong></em> (この上なく - Supremely)](../posts/1329_kono-ue-naku/)
 - [<strong><em>Koro Gyaku</strong></em> (コロ虐 - Korok Abuse)](../posts/2157_koro-gyaku/)
@@ -1239,6 +1248,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Movement Distance of Blood](../posts/0263_movement-distance-of-blood/)
 - [Moving to HiNative](../posts/2033_moving-to-hinative/)
 - [<strong><em>Muda</strong></em> (無駄 - Waste)](../posts/1298_muda/)
+- [<strong><em>Muga Muchū</strong></em> (無我夢中 - Becoming Engrossed)](../posts/2242_muga-muchu/)
 - [<strong><em>Mukuchi</strong></em> (無口 - Having Few Words)](../posts/1466_mukuchi/)
 - [<strong><em>Munasawagi</strong></em> (胸騒ぎ - Bad Feeling)](../posts/1145_munasawagi/)
 - [<strong><em>Munatsuki Hacchō</strong></em> (胸突き八丁 - Make-or-Break Period)](../posts/2168_munatsuki-haccho/)
@@ -1488,6 +1498,8 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ottamageru/Buttamageru</strong></em> (おったまげる/ぶったまげる - Mind-blowing)](../posts/1854_ottamageru-buttamageru/)
 - [<strong><em>Oumu Gaeshi</strong></em> (オウム返し - Parroting)](../posts/1839_oumu-gaeshi/)
 - [Our Voices on Cell Phone ](../posts/0206_our-voices-on-cell-phone/)
+- [<strong><em>Owari no Hajimari</strong></em> (終わりの始まり - The Beginning of the End)](../posts/2249_owari-no-hajimari/)
+- [<strong><em>Owari no Nai no ga Owari</strong></em> (終わりのないのが終わり -  Endless Cycle)](../posts/2250_owari-no-nai-no-ga-owari/)
 - [Own Smells](../posts/0638_own-smells/)
 - [<strong><em>Oyabaka Kobaka</strong></em> (親馬鹿子馬鹿 - A Doting Parent and Spoiled Child)](../posts/1943_oyabaka-kobaka/)
 - [<strong><em>Oyadama</strong></em> (親玉 - Godfather)](../posts/1207_oyadama/)
@@ -1702,6 +1714,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Shira wo Kiru</strong></em> (しらを切る - Playing Innocent)](../posts/1371_shira-wo-kiru/)
 - [<strong><em>Shirami Tsubushi</strong></em> (虱潰し - One by One)](../posts/1583_shirami-tsubushi/)
 - [<strong><em>Shirankedo</strong></em> (知らんけど - "I'm not sure, tho")](../posts/1788_shirankedo/)
+- [<strong><em>Shirazu Shirazu</strong></em> (知らず知らず - Unconsciously)](../posts/2246_shirazu-shirazu/)
 - [<strong><em>Shiri ga Aoi</strong></em> (A Blue Hip)](../posts/0635_shiri-ga-aoi/)
 - [<strong><em>Shiri ga Karui</strong></em> (尻が軽い - Hasty)](../posts/1634_shiri-ga-karui/)
 - [<strong><em>Shiri ni Hi ga Tsuku</strong></em> (尻に火がつく - Urgent)](../posts/1894_shiri-ni-hi-ga-tsuku/)
@@ -1865,6 +1878,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Tatami no Ue no Kega</strong></em> (畳の上の怪我 - Out of the Blue)](../posts/2058_tatami-no-ue-no-kega/)
 - [<strong><em>Tateba Shakuyaku, Suwareba Botan, Aruku Sugata wa Yuri no Hana</strong></em> (立てば芍薬、座れば牡丹、歩く姿は百合の花) Part 1](../posts/1186_tateba-shakuyaku-suwareba-botan-aruku-sugata-wa-yuri-no-hana/)
 - [<strong><em>Tateba Shakuyaku, Suwareba Botan, Aruku Sugata wa Yuri no Hana</strong></em> (立てば芍薬、座れば牡丹、歩く姿は百合の花) Part 2](../posts/1187_tateba-shakuyaku-suwareba-botan-aruku-sugata-wa-yuri-no-hana/)
+- [<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)](../posts/2251_tateita-ni-mizu/)
 - [<strong><em>Tatetsuku</strong></em> (盾突く - Defying)](../posts/1505_tatetsuku/)
 - [<strong><em>Tatsu Tori Ato wo Nigosazu</strong></em> (立つ鳥跡を濁さず - It Is an Ill Bird that Fouls Its Own Nest)](../posts/1931_tatsu-tori-ato-wo-nigosazu/)
 - [<strong><em>Tawakemono</strong></em> (たわけ者 - Fool)](../posts/1169_tawakemono/)
@@ -2135,6 +2149,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Utsusemi</strong></em> (Cicada Shell)](../posts/0617_utsusemi/)
 - [<strong><em>Uwa no Sora</strong></em> (上の空 - Absence of Mind)](../posts/1263_uwa-no-sora/)
 - [<strong><em>Uzai</strong></em> (うざい - Annoying)](../posts/0917_uzai/)
+- [<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)](../posts/2253_uo-sao/)
 ## V
 - [Vacuum Cleaner](../posts/0041_vacuum-cleaner/)
 - [Valedictory Lecture](../posts/0050_valedictory-lecture/)
@@ -2217,6 +2232,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Yoi Otoshi wo</strong></em> (良いお年を)](../posts/1102_yoi-otoshi-wo/)
 - [<strong><em>Yoin ni Hitaru</strong></em> (余韻に浸る - Basking in the Afterglow)](../posts/2128_yoin-ni-hitaru/)
 - [Yokkoisho(よっこいしょ)](../posts/0228_yokkoisho-yotukoisiyo/)
+- [<strong><em>Yokoyari wo Ireru</strong></em> (横槍を入れる - Interrupting)](../posts/2248_yokoyari-wo-ireru/)
 - [<strong><em>Yoku Ieba, Waruku Ieba</strong></em> (良く言えば～、悪く言えば～)](../posts/1444_yoku-ieba-waruku-ieba/)
 - [<strong><em>Yome</strong></em> (嫁 - Daughter-in-Law)](../posts/1687_yome/)
 - [<strong><em>Yon-koma Manga</strong></em> (4コマ漫画 - Four-frame Manga)](../posts/2021_yon-koma-manga/)
