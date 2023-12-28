@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 24, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,255<br/>
-単語数 (Number of Words): 259,667<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 28, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,259<br/>
+単語数 (Number of Words): 260,120<br/><br/>
 </div>
 
 ## Symbols
@@ -262,6 +262,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Butsubutsu Gawa</strong></em> (ぶつぶつ川)](../posts/1411_butsubutsu-gawa/)
 - [Buttons on Sleeves of School Uniforms](../posts/0322_buttons-on-sleeves-of-school-uniforms/)
 - [Buying a Dolce Gusto Manufactured by Nescafe](../posts/0331_buying-a-dolce-gusto-manufactured-by-nescafe/)
+- [<strong><em>Bōtto Suru</strong></em> (ぼーっとする - "Spacing Out")](../posts/2257_botto-suru/)
 - [<strong><em>Būmeran ga Sasaru</strong></em> (ブーメランが刺さる - Boomeranging)](../posts/2114_bumeran-ga-sasaru/)
 ## C
 - [Cactus](../posts/0093_cactus/)
@@ -431,6 +432,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ebi de Tai wo Tsuru</strong></em> (海老で鯛を釣る - Throw a Sprat to Catch a Whale)](../posts/1848_ebi-de-tai-wo-tsuru/)
 - [Effects of a Kiss](../posts/0475_effects-of-a-kiss/)
 - [<strong><em>Egokoro</strong></em> (絵心 - Artistic Taste)](../posts/2154_egokoro/)
+- [<strong><em>Egosa</strong></em> (エゴサ - Egosurfing)](../posts/2258_egosa/)
 - [<strong><em>Eguchi</strong></em> (エグち - Outstanding)](../posts/2137_eguchi/)
 - [<strong><em>Ehoumaki</strong></em> (恵方巻 - Lucky Direction Roll)](../posts/1508_ehoumaki/)
 - [<strong><em>Emi</strong></em> (笑み - Smiling)](../posts/1653_emi/)
@@ -644,6 +646,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Hebi-geiko](../posts/0778_hebi-geiko/)
 - [<strong><em>Hecchara</strong></em> (へっちゃら - I Don't Mind)](../posts/1076_hecchara/)
 - [<strong><em>Heibon</strong></em> (平凡 - Ordinary)](../posts/1631_heibon/)
+- [<strong><em>Heijō Unten</strong></em> (平常運転 - As Usual)](../posts/2256_heijo-unten/)
 - [<strong><em>Hema</strong></em> (へま - Mistake/Lubber)](../posts/1243_hema/)
 - [Henachoko](../posts/0524_henachoko/)
 - [<strong><em>Heppiri Goshi</strong></em> (へっぴり腰 - Full of Fear)](../posts/1142_heppiri-goshi/)
@@ -1389,6 +1392,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Nurete de Awa</strong></em> (濡れ手で粟 - Easy Profit)](../posts/2036_nurete-de-awa/)
 - [<strong><em>Nurugē</strong></em> (ヌルゲー - Easy Video Game)](../posts/2199_nuruge/)
 - [<strong><em>Nyūdō Gumo</strong></em> (入道雲 - Cumulonimbus Cloud)](../posts/1346_nyudo-gumo/)
+- [<strong><em>Nōkin</strong></em> (脳筋 - Meathead)](../posts/2259_nokin/)
 - [<strong><em>Nōryō</strong></em> (納涼 - Enjoying Cool in Summer) Part 1](../posts/1716_noryo/)
 - [<strong><em>Nōryō</strong></em> (納涼 - Enjoying Cool in Summer) Part 2](../posts/1717_noryo/)
 ## O

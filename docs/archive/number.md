@@ -4,12 +4,16 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 24, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,255<br/>
-単語数 (Number of Words): 259,667<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 28, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,259<br/>
+単語数 (Number of Words): 260,120<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2259】<strong><em>Nōkin</strong></em> (脳筋 - Meathead)](../posts/2259_nokin/)
+- [【No. 2258】<strong><em>Egosa</strong></em> (エゴサ - Egosurfing)](../posts/2258_egosa/)
+- [【No. 2257】<strong><em>Bōtto Suru</strong></em> (ぼーっとする - "Spacing Out")](../posts/2257_botto-suru/)
+- [【No. 2256】<strong><em>Heijō Unten</strong></em> (平常運転 - As Usual)](../posts/2256_heijo-unten/)
 - [【No. 2255】<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 2](../posts/2255_nengajo/)
 - [【No. 2254】<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 1](../posts/2254_nengajo/)
 - [【No. 2253】<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)](../posts/2253_uo-sao/)
