@@ -21,7 +21,7 @@ slug: "2254_nengajo"
 年賀状 Part 1<br/><br/>私は今日、年賀状を書きました。<br/><br/>年賀状とは、日本の伝統的な新年を祝う挨拶状のことです。<br/><br/>「年」は "year"、「賀」は "celebration "、「状」は "card" を意味するので、「年賀状」の文字どおりの意味は "year celebration card" となります。<br/><br/>年賀状を新年に出し合う習慣の起源は、日本における年始の挨拶回りにあります。<br/><br/>日本では古くから、年のはじめに親族やお世話になった人々を訪問し、挨拶をして回る習慣がありました。<br/><br/>しかし、時代とともに直接訪問することが難しくなり、代わりに年賀状を送るようになったというわけです。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Nengajō (年賀状 - New Year's Greeting Card): Part 1</li>
@@ -63,5 +63,22 @@ In the past, many Japanese people used to visit their relatives and those to who
 </li>
 </ul></div>
 Thank you for the correction!<br/>I believe that the "to" following "indebted" is unnecessary because it is already included in "to whom." Would it be more natural to include it?
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome! I have made another correction as I didn't know there was already a "to" in your sentence (I probably read too fast).
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">O-Star</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">In the past, many Japanese people used to visit their relatives and those to whom they were indebted at the beginning of the year to give greetings.</li>
+<li class="corrected correct">
+In the past, many Japanese people used to visit their relatives and those<span class="sline"><span class="f_red"> to </span></span>whom they were indebted <span class="f_bold">to<span class="f_gray"> </span></span>at the beginning of the year to give greetings.
+</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you again for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
 </div>
 </div>
