@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 29, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,259<br/>
-単語数 (Number of Words): 260,120<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 30, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,260<br/>
+単語数 (Number of Words): 260,278<br/><br/>
 </div>
 
 ## Symbols
@@ -742,6 +742,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [I bought a kindle paperwhite](../posts/0109_i-bought-a-kindle-paperwhite/)
 - [I bought an electric heating blanket.](../posts/0002_i-bought-an-electric-heating-blanket/)
 - [I finally finished dictating all dialogues of the "Frozen".](../posts/0019_i-finally-finished-dictating-all-dialogues-of-the-frozen/)
+- [<strong><em>I no Ichiban</strong></em> (いの一番 - The Very First)](../posts/2260_i-no-ichiban/)
 - [I performed a presentation of statistics class.](../posts/0035_i-performed-a-presentation-of-statistics-class/)
 - [I visited a barber and had my hair cut this morning.](../posts/0020_i-visited-a-barber-and-had-my-hair-cut-this-morning/)
 - [I watched a few episodes of "White Color" on Hulu.](../posts/0033_i-watched-a-few-episodes-of-white-color-on-hulu/)

@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 29, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,259<br/>
-単語数 (Number of Words): 260,120<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 30, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,260<br/>
+単語数 (Number of Words): 260,278<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2260】<strong><em>I no Ichiban</strong></em> (いの一番 - The Very First)](../posts/2260_i-no-ichiban/)
 - [【No. 2259】<strong><em>Nōkin</strong></em> (脳筋 - Meathead)](../posts/2259_nokin/)
 - [【No. 2258】<strong><em>Egosa</strong></em> (エゴサ - Egosurfing)](../posts/2258_egosa/)
 - [【No. 2257】<strong><em>Bōtto Suru</strong></em> (ぼーっとする - "Spacing Out")](../posts/2257_botto-suru/)
