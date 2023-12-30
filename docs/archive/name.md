@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of December 30, 2023]</strong><br/>
-投稿数 (Number of Posts): 2,260<br/>
-単語数 (Number of Words): 260,278<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of December 31, 2023]</strong><br/>
+投稿数 (Number of Posts): 2,261<br/>
+単語数 (Number of Words): 260,396<br/><br/>
 </div>
 
 ## Symbols
@@ -1611,6 +1611,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Ruby and Sapphire](../posts/0332_ruby-and-sapphire/)
 - [Rules of E-mail Addresses](../posts/0231_rules-of-e-mail-addresses/)
 - [<strong><em>Ruru</strong></em> (縷々 - At Great Length)](../posts/1231_ruru/)
+- [<strong><em>Ryū Ryū Shinku</strong></em> (粒粒辛苦 - Toil and Moil)](../posts/2261_ryu-ryu-shinku/)
 - [<strong><em>Ryūtō Dabi</strong></em> (竜頭蛇尾 - Anticlimax)](../posts/2176_ryuto-dabi/)
 - [<strong><em>Rōbashin</strong></em> (老婆心 - Excessive  Kindness)](../posts/1821_robashin/)
 - [<strong><em>Rōnyaku Nan-nyo</strong></em> (老若男女 - "Men and Women of All Ages")](../posts/1727_ronyaku-nan-nyo/)
