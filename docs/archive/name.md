@@ -6,7 +6,7 @@ Currently, I write short texts in English every day on a language exchange socia
 
 <div style="margin:15px;text-align:right;"><strong>[As of December 31, 2023]</strong><br/>
 投稿数 (Number of Posts): 2,261<br/>
-単語数 (Number of Words): 260,396<br/><br/>
+単語数 (Number of Words): 260,383<br/><br/>
 </div>
 
 ## Symbols

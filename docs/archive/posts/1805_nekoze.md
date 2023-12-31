@@ -11,7 +11,7 @@ slug: "1805_nekoze"
 # 【No. 1805】<strong><em>Nekoze</strong></em> (猫背 - Rounded Back)
 <div class="date">Apr 5, 2021 12:07</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nekoze</strong></em><br/><br/>Many Japanese people have <strong><em>nekoze</em></strong> (猫背).<br/><br/><em>Nekoze</em> is a posture in which one's back is curved, and the head is protruded. <br/><br/>It can be translated into English as "hunched posture" or "rounded/curved back."<br/><br/>Since <em>neko</em> means "cat" and <strong><em>ze/se</em></strong> (背) means "back," the literal meaning of <em>nekoze</em> is "cat back."<br/><br/>As you know, cats' backs are basically rounded.<br/><br/>That is to say, the Japanese term <em>nekoze</em> was made by comparing humans<em> curved backs to cats</em> backs.<br/><br/>Please note that <strong><em>nekoze</em></strong> (of human) could lead to various uncomfortable symptoms such as indigestion, tiredness, and headaches.
+<strong><em>Nekoze</strong></em><br/><br/>Many Japanese people have <strong><em>nekoze</em></strong> (猫背).<br/><br/><em>Nekoze</em> is a posture in which one's back is curved, and the head is protruded. It can be translated into English as "hunched posture" or "rounded/curved back."<br/><br/>Since <em>neko</em> means "cat" and <strong><em>ze/se</em></strong> (背) means "back," the literal meaning of <em>nekoze</em> is "cat back."<br/><br/>As you know, cats' backs are basically rounded.<br/><br/>That is to say, the Japanese term <em>nekoze</em> was made by comparing humans<em> curved backs to cats</em> backs.<br/><br/>Please note that <strong><em>nekoze</em></strong> (of human) could lead to various uncomfortable symptoms such as indigestion, tiredness, and headaches.
 </div></div>
 
 <!-- more -->

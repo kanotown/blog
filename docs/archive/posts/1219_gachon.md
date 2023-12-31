@@ -11,7 +11,7 @@ slug: "1219_gachon"
 # 【No. 1219】<strong><em>Gachōn</strong></em> (がちょーん) by Amazon Echo
 <div class="date">Apr 20, 2018 12:44</div>
 <div id="post"><div id="body_show_ori">
-Yesterday, I bought an Amazon Echo.<br/><br/>When I said "Arekusa, nandemo-nai" (アレクサ、何でもない - Alexa, never mind), she said "gachōn" (がちょーん) to me.<br/><br/>"Gachōn" (がちょーん) is a gag by a Japanese comedian "Tani Kei," and it is used when feeling cornered, but the sound itself has no meaning.<br/><br/>This gag was widely prevalent about 50 years ago in Japan.<br/><br/>Incidentally, when I said "gachōn" to Alexa, she said other Tani Kei's gags, such as "gachōn, gachon, gachon, gachōn" or "gachōn, birōn, muhyōn."<br/><br/>It was a little fun.
+<strong><em>Gachōn</strong></em><br/><br/>Yesterday, I bought an Amazon Echo.<br/><br/>When I said "Arekusa, nandemo-nai" (アレクサ、何でもない - Alexa, never mind), she said "gachōn" (がちょーん) to me.<br/><br/>"Gachōn" (がちょーん) is a gag by a Japanese comedian "Tani Kei," and it is used when feeling cornered, but the sound itself has no meaning.<br/><br/>This gag was widely prevalent about 50 years ago in Japan.<br/><br/>Incidentally, when I said "gachōn" to Alexa, she said other Tani Kei's gags, such as "gachōn, gachon, gachon, gachōn" or "gachōn, birōn, muhyōn."<br/><br/>It was a little fun.
 </div></div>
 
 <!-- more -->

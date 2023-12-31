@@ -11,7 +11,7 @@ slug: "1784_toranpu"
 # 【No. 1784】<strong><em>Toranpu</strong></em> (トランプ - "Playing Card")
 <div class="date">Mar 15, 2021 15:24</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Toranpu</strong></em><br/><br/>"Playing card" is called <strong><em>toranpu</em></strong> (トランプ) in Japan.<br/><br/><em>Toranpu</em> is a Japanese-English word and comes from "trump" of "trump card."<br/><br/>A playing card was imported from Portugal to Japan in the 16th century.<br/><br/>Because of this, a playing card was used to be called <strong><em>karuta</em></strong> (かるた), which comes from the Portuguese "carta."<br/><br/>At the end of the 19th century, Japanese people came to refer to a playing card as <em>toranpu</em>.<br/><br/>The reason is believed that some Westerners who entered Japan used the word "trump" repeatedly while playing cards, and Japanese people misunderstood the name of the cards as "trump."
+<strong><em>Toranpu</strong></em><br/><br/>"Playing card" is called <strong><em>toranpu</em></strong> (トランプ) in Japan.<br/><br/><em>Toranpu</em> is a Japanese-English word and comes from "trump" of "trump card."<br/><br/>A playing card was imported from Portugal to Japan in the 16th century.<br/><br/>Because of this, a playing card was used to be called <strong><em>karuta</em></strong> (かるた), which comes from the Portuguese "carta."<br/><br/>At the end of the 19th century, Japanese people came to refer to a playing card as <em>toranpu</em>. The reason is believed that some Westerners who entered Japan used the word "trump" repeatedly while playing cards, and Japanese people misunderstood the name of the cards as "trump."
 </div></div>
 
 <!-- more -->

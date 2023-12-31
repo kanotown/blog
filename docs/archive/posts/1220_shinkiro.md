@@ -11,7 +11,7 @@ slug: "1220_shinkiro"
 # 【No. 1220】<strong><em>Shinkiro</strong></em> (蜃気楼 - Mirage)
 <div class="date">Apr 21, 2018 17:24</div>
 <div id="post"><div id="body_show_ori">
-When there is a density difference in the atmosphere, light could be significantly refracted.<br/><br/>In such a case, you may see something that doesn't exist, floating buildings, or upside down scenery.<br/><br/>This phenomenon is referred to as "mirage" in English, whereas we call it "shinkiro" (蜃気楼).<br/><br/>"Shin" (蜃) of "shinkiro" means "big clam," "ki" (気) means "breath," and "楼" means "high buildings."<br/><br/>In the past in China, people thought that non-existence high buildings were drawn by a breath of a big clam.<br/><br/>Because of this, such a phenomenon has been called "shinkiro."
+When there is a density difference in the atmosphere, light could be significantly refracted.<br/><br/>In such a case, you may see something that doesn't exist, floating buildings, or upside down scenery.<br/><br/>This phenomenon is referred to as "mirage" in English, whereas we call it "shinkiro" (蜃気楼).<br/><br/>"Shin" (蜃) of "shinkiro" means "big clam," "ki" (気) means "breath," and "楼" means "high buildings."<br/><br/>In the past in China, people thought that non-existence high buildings were drawn by a breath of a big clam. Because of this, such a phenomenon has been called "shinkiro."
 </div></div>
 
 <!-- more -->
