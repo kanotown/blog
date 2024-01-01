@@ -50,4 +50,10 @@ slug: "2261_ryu-ryu-shinku"
 <li class="incorrect">In his poem, it is said that no one knows that each grain of rice is made of farmers' hardship and suffering.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
