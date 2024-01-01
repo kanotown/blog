@@ -8,10 +8,10 @@ comments: true
 slug: "2260_i-no-ichiban"
 ---
 
-# 【No. 2260】<strong><em>I no Ichiban</strong></em> (いの一番 - The Very First)
+# 【No. 2260】<strong><em>I no Ichiban</em></strong> (いの一番 - The Very First)
 <div class="date">Dec 29, 2023 19:17</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>I no Ichiban</strong></em><br/><br/>The Japanese phrase <strong><em>i no ichiban</em></strong> (いの一番) is sometimes used to describe that something is first in time or order, or that one is the first to do something.<br/><br/><strong><em>I</em></strong> (い) is the first character in the <strong><em>iroha uta</em></strong> (いろは歌 - "Iroha Song"), a traditional Japanese song used for learning kana characters.<br/><br/>In addition, <strong><em>ichiban</em></strong> (一番) means "first," so <em>i no ichiban</em> is an expression that emphasizes being the first.<br/><br/>There is another theory that <em>i no ichiban</em> comes from an architectural term.<br/><br/>During house construction, vertical pillars and horizontal pillars are labeled <strong><em>i, ro, ha</em></strong> (い、ろ、は） and <strong><em>ichi, ni, san</em></strong> (一、二、三), respectively.<br/><br/>The first pillar to be erected is called <strong><em>i no ichi</em></strong> (いのいち), which is said to be the origin of <em>i no ichiban</em>.
+<strong><em>I no Ichiban</em></strong><br/><br/>The Japanese phrase <strong><em>i no ichiban</em></strong> (いの一番) is sometimes used to describe that something is first in time or order, or that one is the first to do something.<br/><br/><strong><em>I</em></strong> (い) is the first character in the <strong><em>iroha uta</em></strong> (いろは歌 - "Iroha Song"), a traditional Japanese song used for learning kana characters.<br/><br/>In addition, <strong><em>ichiban</em></strong> (一番) means "first," so <em>i no ichiban</em> is an expression that emphasizes being the first.<br/><br/>There is another theory that <em>i no ichiban</em> comes from an architectural term.<br/><br/>During house construction, vertical pillars and horizontal pillars are labeled <strong><em>i, ro, ha</em></strong> (い、ろ、は） and <strong><em>ichi, ni, san</em></strong> (一、二、三), respectively.<br/><br/>The first pillar to be erected is called <strong><em>i no ichi</em></strong> (いのいち), which is said to be the origin of <em>i no ichiban</em>.
 </div></div>
 
 <!-- more -->
@@ -56,4 +56,10 @@ There is another theory that 'i no ichiban' <span class="f_bold">came </span>fro
 <li class="incorrect">The first pillar to be erected is called 'i no ichi' (いのいち), which is said to be the origin of 'i no ichiban'.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

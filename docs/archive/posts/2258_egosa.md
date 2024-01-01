@@ -8,10 +8,10 @@ comments: true
 slug: "2258_egosa"
 ---
 
-# 【No. 2258】<strong><em>Egosa</strong></em> (エゴサ - Egosurfing)
+# 【No. 2258】<strong><em>Egosa</em></strong> (エゴサ - Egosurfing)
 <div class="date">Dec 27, 2023 21:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Egosa</strong></em><br/><br/>Have you ever done <strong><em>egosa</em></strong> (エゴサ) on the Internet?<br/><br/><em>Egosa</em> is short for <strong><em>egosāchi</em></strong> (エゴサーチ), which refers to the act of searching the Internet or social networking sites for information about yourself or your company's reputation.<br/><br/>Since <strong><em>ego</em></strong> (エゴ) means "ego," and <strong><em>sāchi</em></strong> (サーチ) means "search," the literal meaning of <em>egosa</em> is exactly "egosearching."<br/><br/>In English, it can also be described as "egosurfing" or "vanity searching."<br/><br/>It is said that companies and celebrities often do <em>egosa</em>. However, recently, more and more young people are doing <em>egosa</em> as well.
+<strong><em>Egosa</em></strong><br/><br/>Have you ever done <strong><em>egosa</em></strong> (エゴサ) on the Internet?<br/><br/><em>Egosa</em> is short for <strong><em>egosāchi</em></strong> (エゴサーチ), which refers to the act of searching the Internet or social networking sites for information about yourself or your company's reputation.<br/><br/>Since <strong><em>ego</em></strong> (エゴ) means "ego," and <strong><em>sāchi</em></strong> (サーチ) means "search," the literal meaning of <em>egosa</em> is exactly "egosearching."<br/><br/>In English, it can also be described as "egosurfing" or "vanity searching."<br/><br/>It is said that companies and celebrities often do <em>egosa</em>. However, recently, more and more young people are doing <em>egosa</em> as well.
 </div></div>
 
 <!-- more -->

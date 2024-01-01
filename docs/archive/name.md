@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 01, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,262<br/>
-単語数 (Number of Words): 260,488<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 02, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,263<br/>
+単語数 (Number of Words): 260,604<br/><br/>
 </div>
 
 ## Symbols
@@ -1941,6 +1941,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [The Definition of Vegetable Part 2](../posts/1035_the-definition-of-vegetable-part-2/)
 - [The Diameter of Holes in CDs](../posts/0361_the-diameter-of-holes-in-cds/)
 - [The Difference Between Dolphins and Whales](../posts/0295_the-difference-between-dolphins-and-whales/)
+- [The Dragon in Mandelbrot](../posts/2263_the-dragon-in-mandelbrot/)
 - [The Effect of the Morning Sun](../posts/0407_the-effect-of-the-morning-sun/)
 - [The Emperor's Birthday](../posts/0370_the-emperor-s-birthday/)
 - [The Emperor's Birthday (2019-)](../posts/1765_the-emperor-s-birthday-2019/)

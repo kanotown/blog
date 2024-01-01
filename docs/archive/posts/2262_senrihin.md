@@ -9,10 +9,10 @@ comments: true
 slug: "2262_senrihin"
 ---
 
-# 【No. 2262】<strong><em>Senrihin</strong></em> (戦利品 - Spoils of Battle)
+# 【No. 2262】<strong><em>Senrihin</em></strong> (戦利品 - Spoils of Battle)
 <div class="date">Dec 31, 2023 15:13</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Senrihin</strong></em><br/><br/>At the end of this year, I went to a huge crane game specialty store and acquired various <strong><em>senrihin</em></strong> (戦利品).<br/><br/>The characters <strong><em>sen</em></strong> (戦), <strong><em>ri</em></strong> (利), and <strong><em>hin</em></strong> (品) mean "battle," "profit," and "goods," respectively, so the literal meaning of <em>senrihin</em> is "battle profit goods."<br/><br/>Originally, this term referred to items obtained from the enemy as a result of victory in war or battle.<br/><br/>Recently, it has come to mean simply "items obtained through effort" and is used in various situations.<br/><br/>Incidentally, my <em>senrihin</em> are various popular character goods, such as Kirby, Chiikawa, and Opanchu Usagi.
+<strong><em>Senrihin</em></strong><br/><br/>At the end of this year, I went to a huge crane game specialty store and acquired various <strong><em>senrihin</em></strong> (戦利品).<br/><br/>The characters <strong><em>sen</em></strong> (戦), <strong><em>ri</em></strong> (利), and <strong><em>hin</em></strong> (品) mean "battle," "profit," and "goods," respectively, so the literal meaning of <em>senrihin</em> is "battle profit goods."<br/><br/>Originally, this term referred to items obtained from the enemy as a result of victory in war or battle.<br/><br/>Recently, it has come to mean simply "items obtained through effort" and is used in various situations.<br/><br/>Incidentally, my <em>senrihin</em> are various popular character goods, such as Kirby, Chiikawa, and Opanchu Usagi.
 </div></div>
 
 <!-- more -->
@@ -51,4 +51,10 @@ slug: "2262_senrihin"
 <li class="incorrect">Incidentally, my 'senrihin' are various popular character goods, such as Kirby, Chiikawa, and Opanchu Usagi.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

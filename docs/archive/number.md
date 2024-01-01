@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 01, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,262<br/>
-単語数 (Number of Words): 260,488<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 02, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,263<br/>
+単語数 (Number of Words): 260,604<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2263】The Dragon in Mandelbrot](../posts/2263_the-dragon-in-mandelbrot/)
 - [【No. 2262】<strong><em>Senrihin</strong></em> (戦利品 - Spoils of Battle)](../posts/2262_senrihin/)
 - [【No. 2261】<strong><em>Ryū Ryū Shinku</strong></em> (粒粒辛苦 - Toil and Moil)](../posts/2261_ryu-ryu-shinku/)
 - [【No. 2260】<strong><em>I no Ichiban</strong></em> (いの一番 - The Very First)](../posts/2260_i-no-ichiban/)

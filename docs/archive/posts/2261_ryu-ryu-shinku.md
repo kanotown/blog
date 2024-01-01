@@ -8,10 +8,10 @@ comments: true
 slug: "2261_ryu-ryu-shinku"
 ---
 
-# 【No. 2261】<strong><em>Ryū Ryū Shinku</strong></em> (粒粒辛苦 - Toil and Moil)
+# 【No. 2261】<strong><em>Ryū Ryū Shinku</em></strong> (粒粒辛苦 - Toil and Moil)
 <div class="date">Dec 30, 2023 23:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ryū Ryū Shinku</strong></em><br/><br/>The four-character idiom <strong><em>ryū ryū shinku</em></strong> (粒粒辛苦) is sometimes used to describe the accumulation of small efforts.<br/><br/><strong><em>Ryū</em></strong> (粒) means a single grain of rice, <strong><em>shin</em></strong> (辛) means "hardship," and <strong><em>ku</em></strong> (苦) means "suffering." Therefore, the literal meaning of <em>ryū ryū shinku</em> is "each and every grain represents hardship and suffering."<br/><br/>In other words, it implies that each grain is the fruit of the farmers's labor and hardship.<br/><br/>This idiom originated from a poem written by the Chinese poet Li Shen.<br/><br/>In his poem, it is said that no one knows that each grain of rice is made of farmers' hardship and suffering.
+<strong><em>Ryū Ryū Shinku</em></strong><br/><br/>The four-character idiom <strong><em>ryū ryū shinku</em></strong> (粒粒辛苦) is sometimes used to describe the accumulation of small efforts.<br/><br/><strong><em>Ryū</em></strong> (粒) means a single grain of rice, <strong><em>shin</em></strong> (辛) means "hardship," and <strong><em>ku</em></strong> (苦) means "suffering." Therefore, the literal meaning of <em>ryū ryū shinku</em> is "each and every grain represents hardship and suffering."<br/><br/>In other words, it implies that each grain is the fruit of the farmers's labor and hardship.<br/><br/>This idiom originated from a poem written by the Chinese poet Li Shen.<br/><br/>In his poem, it is said that no one knows that each grain of rice is made of farmers' hardship and suffering.
 </div></div>
 
 <!-- more -->
