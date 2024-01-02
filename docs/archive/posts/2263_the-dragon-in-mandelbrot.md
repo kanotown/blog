@@ -63,4 +63,10 @@ The Dragon in Mandelbrot<br/><br/>Happy New Year!<br/><br/>As 2024 is the year o
 <li class="incorrect">Please check the images and video from the following link:</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!<br/>今年もよろしくお願いいたします。
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
