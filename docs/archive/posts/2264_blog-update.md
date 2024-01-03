@@ -58,4 +58,10 @@ This time, by using <span class="f_bold">OpenAI's</span> API, I managed to autom
 <li class="incorrect">I am now considering whether AI can handle these tasks as well.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 03, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,264<br/>
-単語数 (Number of Words): 260,706<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 04, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,265<br/>
+単語数 (Number of Words): 260,833<br/><br/>
 </div>
 
 ## Symbols
@@ -892,6 +892,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Jinji wo Tsukushite Tenmei wo Matsu</strong></em> (人事を尽くして天命を待つ](../posts/2029_jinji-wo-tsukushite-tenmei-wo-matsu/)
 - [<strong><em>Jinkō Chinō</strong></em> (人工知能 - Artificial Intelligence)](../posts/1680_jinko-chino/)
 - [<strong><em>Jirihin</strong></em> (ジリ貧 - Gradually Becoming Poor)](../posts/2186_jirihin/)
+- [<strong><em>Jishin, Kaminari, Kaji, Oyaji</strong></em> (地震、雷、火事、親父): Part 1](../posts/2265_jishin-kaminari-kaji-oyaji/)
 - [Job-hunting in Japan](../posts/0047_job-hunting-in-japan/)
 - [Johnny-come-lately](../posts/2051_johnny-come-lately/)
 - [<strong><em>Jucchū Hakku</strong></em> (十中八九 - Ten to One)](../posts/1543_jucchu-hakku/)
