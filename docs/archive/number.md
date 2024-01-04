@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 04, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,265<br/>
-単語数 (Number of Words): 260,833<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 05, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,266<br/>
+単語数 (Number of Words): 260,951<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2266】<strong><em>Jishin, Kaminari, Kaji, Oyaji</strong></em> (地震、雷、火事、親父): Part 2](../posts/2266_jishin-kaminari-kaji-oyaji/)
 - [【No. 2265】<strong><em>Jishin, Kaminari, Kaji, Oyaji</strong></em> (地震、雷、火事、親父): Part 1](../posts/2265_jishin-kaminari-kaji-oyaji/)
 - [【No. 2264】Blog Update](../posts/2264_blog-update/)
 - [【No. 2263】The Dragon in Mandelbrot](../posts/2263_the-dragon-in-mandelbrot/)

@@ -21,4 +21,44 @@ slug: "2265_jishin-kaminari-kaji-oyaji"
 地震、雷、火事、親父 Part 1<br/><br/>新年早々、日本では大型地震や飛行機の炎上など、恐ろしい出来事が起こりました。<br/><br/>このような世の中の恐ろしいものを並べた古くからの表現に、「地震、雷、火事、親父」があります。<br/><br/>「地震」は "earthquake"、「雷」は "thunder"、「火事」は "fire"、「親父」は "father" を意味するので、「地震、雷、火事、親父」の文字どおりの意味は "earthquake, thunder, fire, and father." となります。<br/><br/>地震や雷、火事が恐ろしいことは言うまでもありません。<br/><br/>しかし、この3つに並んで「親父」は少し不自然に思われるかもしれません。
 </div></div>
 
-## Corrections (0)
+## Corrections (1)
+<div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Jishin, Kaminari, Kaji, Oyaji (地震、雷、火事、親父): Part 1</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Jishin, Kaminari, Kaji, Oyaji: Part 1</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">At the start of the new year, Japan experienced some terrifying events, such as a major earthquake and an airplane fire.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">To describe these terrifying things in the world, you can use the traditional Japanese expression 'jishin, kaminari, kaji, oyaji' (地震、雷、火事、親父).</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">'Jishin' (地震) means "earthquake," 'kaminari' (雷) means "thunder," 'kaji' (火事) means "fire," and 'oyaji' (親父) means "father." Therefore, the literal meaning of this expression is "earthquake, thunder, fire, and father."</li>
+<li class="corrected correct">
+'Jishin' (地震) means "earthquake," 'kaminari' (雷) means "thunder," 'kaji' (火事) means "fire," and 'oyaji' (親父) means "father." Therefore, the literal meaning of this expression is "earthquake, thunder, fire,<span class="f_gray"> and</span> father."
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">It goes without saying that earthquakes, thunder, and fires are terrifying.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">However, you may find it strange to have "father" following these three.</li>
+<li class="corrected correct">
+However, you may find it strange to <span class="f_bold">see</span> "father" following these three.
+</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
