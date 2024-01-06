@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 06, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,267<br/>
-単語数 (Number of Words): 261,052<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 07, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,268<br/>
+単語数 (Number of Words): 261,208<br/><br/>
 </div>
 
 ## Symbols
@@ -1042,6 +1042,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Koke ni Suru</strong></em> (コケにする)](../posts/0943_koke-ni-suru/)
 - [<strong><em>Kokera Otoshi</strong></em> (Dropping Chips of Wood)](../posts/0752_kokera-otoshi/)
 - [<strong><em>Kokon Tōzai</strong></em> (古今東西 - All Ages and Countries)](../posts/2267_kokon-tozai/)
+- [<strong><em>Kokon Tōzai Gēmu</strong></em> (古今東西ゲーム)](../posts/2268_kokon-tozai-gemu/)
 - [<strong><em>Kokoro</strong></em> (心 - Heart)](../posts/1151_kokoro/)
 - [<strong><em>Kokoro Machi</strong></em> (心待ち - Being Eagerly Waiting)](../posts/1618_kokoro-machi/)
 - [<strong><em>Kokoro Odoru</strong></em> (心躍る - Exciting)](../posts/1146_kokoro-odoru/)
