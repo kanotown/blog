@@ -5,11 +5,12 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of January 07, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,268<br/>
-単語数 (Number of Words): 261,208<br/><br/>
+投稿数 (Number of Posts): 2,269<br/>
+単語数 (Number of Words): 261,351<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2269】<strong><em>Nanakusa no Sekku</strong></em> (七草の節句 - The Festival of Seven Herbs)](../posts/2269_nanakusa-no-sekku/)
 - [【No. 2268】<strong><em>Kokon Tōzai Gēmu</strong></em> (古今東西ゲーム)](../posts/2268_kokon-tozai-gemu/)
 - [【No. 2267】<strong><em>Kokon Tōzai</strong></em> (古今東西 - All Ages and Countries)](../posts/2267_kokon-tozai/)
 - [【No. 2266】<strong><em>Jishin, Kaminari, Kaji, Oyaji</strong></em> (地震、雷、火事、親父): Part 2](../posts/2266_jishin-kaminari-kaji-oyaji/)
