@@ -56,4 +56,7 @@ Here, 'nanakusa' (七草/七種 - "seven herbs")<span class="f_bold"> represents
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>

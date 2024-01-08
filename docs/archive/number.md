@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 08, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,269<br/>
-単語数 (Number of Words): 261,351<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 09, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,270<br/>
+単語数 (Number of Words): 261,461<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2270】<strong><em>Kao wo Tateru</strong></em> (顔を立てる - Saving Face)](../posts/2270_kao-wo-tateru/)
 - [【No. 2269】<strong><em>Nanakusa no Sekku</strong></em> (七草の節句 - The Festival of Seven Herbs)](../posts/2269_nanakusa-no-sekku/)
 - [【No. 2268】<strong><em>Kokon Tōzai Gēmu</strong></em> (古今東西ゲーム)](../posts/2268_kokon-tozai-gemu/)
 - [【No. 2267】<strong><em>Kokon Tōzai</strong></em> (古今東西 - All Ages and Countries)](../posts/2267_kokon-tozai/)

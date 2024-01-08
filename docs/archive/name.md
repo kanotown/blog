@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 08, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,269<br/>
-単語数 (Number of Words): 261,351<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 09, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,270<br/>
+単語数 (Number of Words): 261,461<br/><br/>
 </div>
 
 ## Symbols
@@ -959,6 +959,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kao kara Hi ga Deru</strong></em> (顔から火が出る - One's Face Burned with Shame)](../posts/1889_kao-kara-hi-ga-deru/)
 - [<strong><em>Kao ni Doro wo Nuru</strong></em> (顔に泥を塗る - Making Someone Lose Face)](../posts/1892_kao-ni-doro-wo-nuru/)
 - [<strong><em>Kao ni Momiji wo Chirasu</strong></em> (顔に紅葉を散らす - Being Flushed)](../posts/1890_kao-ni-momiji-wo-chirasu/)
+- [<strong><em>Kao wo Tateru</strong></em> (顔を立てる - Saving Face)](../posts/2270_kao-wo-tateru/)
 - [<strong><em>Kara Shucchō</strong></em> (カラ出張 - A Fake Business Trip)](../posts/1516_kara-shuccho/)
 - [<strong><em>Karacha</strong></em> (空茶)](../posts/1161_karacha/)
 - [<strong><em>Karada</strong></em> (Body)](../posts/0645_karada/)
