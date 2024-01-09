@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 09, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,270<br/>
-単語数 (Number of Words): 261,461<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 10, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,271<br/>
+単語数 (Number of Words): 261,631<br/><br/>
 </div>
 
 ## Symbols
@@ -653,6 +653,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Heppiri Goshi</strong></em> (へっぴり腰 - Full of Fear)](../posts/1142_heppiri-goshi/)
 - [<strong><em>Herikutsu</strong></em> (屁理屈 - Quibble)](../posts/2216_herikutsu/)
 - [Hesokuri](../posts/0740_hesokuri/)
+- [<strong><em>Heta na Teppō mo Kazu Ucha Ataru</strong></em> (下手な鉄砲も数撃ちゃ当たる - Even a Blind Squirrel Finds a Nut Once in a While)](../posts/2271_heta-na-teppo-mo-kazu-ucha-ataru/)
 - [Heto Heto](../posts/0817_heto-heto/)
 - [<strong><em>Hi no Kuruma</strong></em> (火の車 - Dire Straits)](../posts/0950_hi-no-kuruma/)
 - [<strong><em>Hi wo Miru yori mo Akiraka</strong></em> (火を見るよりも明らか - Completely Obvious)](../posts/2132_hi-wo-miru-yori-mo-akiraka/)

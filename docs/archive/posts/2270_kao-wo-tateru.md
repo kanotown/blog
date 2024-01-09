@@ -54,4 +54,10 @@ In other words, 'kao wo tateru' means to <span class="f_bold">raise up </span>so
 <li class="incorrect">In English, it can be expressed as "to save face."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
