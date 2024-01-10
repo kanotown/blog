@@ -17,7 +17,7 @@ slug: "2271_heta-na-teppo-mo-kazu-ucha-ataru"
 <!-- more -->
 
 <div id="post_ja"><div id="body_show_mo">
-下手な鉄砲も数撃ちゃ当たる<br/><br/>何かをすることが下手な人でも、繰り返し行っていれば運良く成功することがあります。<br/><br/>「下手な鉄砲も数撃ちゃ当たる」ということわざは、このことを表しています。<br/><br/>「下手」・・・"unskilled" or "poor at something"<br/>「鉄砲」・・・"gun"<br/>「数」・・・"number" or "many times"<br/>「撃つ/撃ちゃ」・・・"to shoot"<br/>「当たる」・・・"to hit"<br/><br/>このことわざの文字どおりの意味は "" となります。<br/><br/>うまくいかない物事も根気よく続けていれば、いずれうまくいく可能性があるということです。<br/><br/>ただし、このことわざは皮肉を込めて使われることもあるので、注意してください。
+下手な鉄砲も数撃ちゃ当たる<br/><br/>何かをすることが下手な人でも、繰り返し行っていれば運良く成功することがあります。<br/><br/>「下手な鉄砲も数撃ちゃ当たる」ということわざは、このことを表しています。<br/><br/>「下手」・・・"unskilled" or "poor at something"<br/>「鉄砲」・・・"gun"<br/>「数」・・・"number" or "many times"<br/>「撃つ/撃ちゃ」・・・"to shoot"<br/>「当たる」・・・"to hit"<br/><br/>このことわざの文字どおりの意味は "Even someone poor with a gun, if they shoot many times, they will hit the target" となります。<br/><br/>うまくいかない物事も根気よく続けていれば、いずれうまくいく可能性があるということです。<br/><br/>ただし、このことわざは皮肉を込めて使われることもあるので、注意してください。
 </div></div>
 
 ## Corrections (1)
@@ -72,4 +72,10 @@ The literal meaning of this proverb is, "<span class="f_bold">Someone who is bad
 <li class="incorrect">However, note that this proverb is sometimes used sarcastically.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
