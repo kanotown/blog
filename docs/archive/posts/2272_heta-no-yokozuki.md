@@ -20,7 +20,7 @@ slug: "2272_heta-no-yokozuki"
 下手の横好き<br/><br/>下手であるにも関わらず、その物事が好きで熱心であることを、「下手の横好き」と言います。<br/><br/>「下手」・・・"unskilled" or "poor at something"<br/>「横」・・・ "side"<br/>「好き」・・・ "like"<br/><br/>ここで「横」は、「道理に合わないこと」や「不正」を意味することもあります。<br/><br/>ふつう、下手であれば、その物事は嫌いになると考えられます。<br/><br/>すなわち「下手の横好き」とは、「道理に合わないことを好きな人」というわけです。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Heta no Yokozuki (下手の横好き - Dabster)</li>
@@ -87,4 +87,46 @@ In other words, 'heta no yokozuki' refers to someone who unreasonably<span class
  </a>
 </p>
 
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections and for sharing the info!<br/>I will try Nayn-8 today!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">Amop567</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Heta no Yokozuki (下手の横好き - Dabster)</li>
+<li class="corrected correct">
+Heta no Yokozuki (下手の横好き - <span class="f_blue">Loving something you are bad at)</span>
+<p class="correction_comment">Have never heard the word "dabster" before. It's not in my dictionary either.</p>
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">The Japanese phrase 'heta no yokozuki' (下手の横好き) describes someone who is enthusiastic about something even though they are not good at it.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">・'Heta' (下手) means "unskilled" or "poor at something."</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">・'Yoko' (横) means "side."</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">・'Suki/zuki' (好き) means "like."</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Here, 'yoko' can also imply "unreasonable" or "improper."</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Generally, it is assumed that if someone is poor at something, they would not like it.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction! <br/>I looked it up and found that "dabster" is an old English word. <br/>(It was listed in my online dictionary, but I wish there had been a note indicating that it is no longer in current use!)
+</div>
+</div>

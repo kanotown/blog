@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 11, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,272<br/>
-単語数 (Number of Words): 261,731<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 12, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,273<br/>
+単語数 (Number of Words): 261,880<br/><br/>
 </div>
 
 ## Symbols
@@ -2129,6 +2129,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Umi no Mokuzu</strong></em> (海の藻屑 - Being Drowned at Sea)](../posts/1460_umi-no-mokuzu/)
 - [<strong><em>Umi no Sachi, Yama no Sachi</strong></em> (海の幸と山の幸) Part 1](../posts/1743_umi-no-sachi-yama-no-sachi/)
 - [<strong><em>Umi no Sachi, Yama no Sachi</strong></em> (海の幸と山の幸) Part 2](../posts/1744_umi-no-sachi-yama-no-sachi/)
+- [<strong><em>Umisen Yamasen</strong></em> (海千山千 - Experienced and Cunning)](../posts/2273_umisen-yamasen/)
 - [<strong><em>Unagi Nobori</strong></em> (うなぎのぼり - Spiral Rise)](../posts/1165_unagi-nobori/)
 - [<strong><em>Unagi-bun</strong></em> (Eel Statements)](../posts/0546_unagi-bun/)
 - [<strong><em>Undei no Sa</strong></em> (雲泥の差 - A World of Difference)](../posts/0994_undei-no-sa/)

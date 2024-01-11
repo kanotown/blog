@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 11, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,272<br/>
-単語数 (Number of Words): 261,731<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 12, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,273<br/>
+単語数 (Number of Words): 261,880<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2273】<strong><em>Umisen Yamasen</strong></em> (海千山千 - Experienced and Cunning)](../posts/2273_umisen-yamasen/)
 - [【No. 2272】<strong><em>Heta no Yokozuki</strong></em> (下手の横好き - Dabster)](../posts/2272_heta-no-yokozuki/)
 - [【No. 2271】<strong><em>Heta na Teppō mo Kazu Ucha Ataru</strong></em> (下手な鉄砲も数撃ちゃ当たる - Even a Blind Squirrel Finds a Nut Once in a While)](../posts/2271_heta-na-teppo-mo-kazu-ucha-ataru/)
 - [【No. 2270】<strong><em>Kao wo Tateru</strong></em> (顔を立てる - Saving Face)](../posts/2270_kao-wo-tateru/)
