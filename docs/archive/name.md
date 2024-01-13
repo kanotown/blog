@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 13, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,274<br/>
-単語数 (Number of Words): 261,994<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 14, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,275<br/>
+単語数 (Number of Words): 262,113<br/><br/>
 </div>
 
 ## Symbols
@@ -1469,6 +1469,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Onchi</strong></em> (音痴 - A Bad Signer)](../posts/1428_onchi/)
 - [One of the most difficult English phrases for Japanese is ...](../posts/0056_one-of-the-most-difficult-english-phrases-for-japanese-is/)
 - [<strong><em>Oni ni Kanabō</strong></em> (鬼に金棒 - Adding Wings to a Tiger)](../posts/1913_oni-ni-kanabo/)
+- [<strong><em>Oni no Inu Ma ni Sentaku</strong></em> (鬼の居ぬ間に洗濯 - When the Cat Is Away, the Mice Will Play)](../posts/2275_oni-no-inu-ma-ni-sentaku/)
 - [<strong><em>Oni no Me ni mo Namida</strong></em> (鬼の目にも涙 - Tears from the Hardest Heart)](../posts/1915_oni-no-me-ni-mo-namida/)
 - [Only Human Beings Can Take Breaths Through the Mouth](../posts/0411_only-human-beings-can-take-breaths-through-the-mouth/)
 - [Only Today, I Came Home Early](../posts/0013_only-today-i-came-home-early/)

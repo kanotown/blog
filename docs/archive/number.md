@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 13, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,274<br/>
-単語数 (Number of Words): 261,994<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 14, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,275<br/>
+単語数 (Number of Words): 262,113<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2275】<strong><em>Oni no Inu Ma ni Sentaku</strong></em> (鬼の居ぬ間に洗濯 - When the Cat Is Away, the Mice Will Play)](../posts/2275_oni-no-inu-ma-ni-sentaku/)
 - [【No. 2274】<strong><em>Uwasa wo Sureba Kage ga Sasu</strong></em> (噂をすれば影がさす - Speak of the Devil and He Shall Appear)](../posts/2274_uwasa-wo-sureba-kage-ga-sasu/)
 - [【No. 2273】<strong><em>Umisen Yamasen</strong></em> (海千山千 - Experienced and Cunning)](../posts/2273_umisen-yamasen/)
 - [【No. 2272】<strong><em>Heta no Yokozuki</strong></em> (下手の横好き - Dabster)](../posts/2272_heta-no-yokozuki/)
