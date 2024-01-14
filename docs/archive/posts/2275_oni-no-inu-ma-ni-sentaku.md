@@ -72,4 +72,10 @@ Therefore, the literal meaning of this proverb is "washing while <span class="f_
 <li class="incorrect">In English, there is a similar phrase, "When the cat is away, the mice will play."</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

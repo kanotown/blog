@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 14, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,275<br/>
-単語数 (Number of Words): 262,113<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 15, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,276<br/>
+単語数 (Number of Words): 262,220<br/><br/>
 </div>
 
 ## Symbols
@@ -1174,6 +1174,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Me no Ue no Kobu</strong></em> (目の上の瘤 - A Thorn in One’s Side)](../posts/1825_me-no-ue-no-kobu/)
 - [<strong><em>Me to Hana no Saki</strong></em> (目と鼻の先 - Stone's Throw)](../posts/1801_me-to-hana-no-saki/)
 - [<strong><em>Me wo Sankaku ni Suru</strong></em> (目を三角にする - Getting Angry with a Stern Glare)](../posts/1916_me-wo-sankaku-ni-suru/)
+- [<strong><em>Me wo Shiro Kuro Saseru</strong></em> (目を白黒させる - Rolling One's Eyes)](../posts/2276_me-wo-shiro-kuro-saseru/)
 - [Meaning of "K" in "4K"](../posts/0102_meaning-of-k-in-4k/)
 - [Measures Against Mosquitos](../posts/0198_measures-against-mosquitos/)
 - [<strong><em>Meboshi wo Tsukeru</strong></em> (目星をつける)](../posts/0892_meboshi-wo-tsukeru/)
