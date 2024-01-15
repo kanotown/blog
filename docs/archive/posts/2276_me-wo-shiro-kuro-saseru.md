@@ -60,4 +60,10 @@ The Japanese idiom 'me wo shiro kuro saseru' (目を白黒させる) can be used
 <li class="incorrect">In other words, this idiom describes a situation where, due to extreme surprise or suffering, someone's eyes repeatedly turn white and black.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

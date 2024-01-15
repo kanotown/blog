@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 15, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,276<br/>
-単語数 (Number of Words): 262,220<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 16, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,277<br/>
+単語数 (Number of Words): 262,324<br/><br/>
 </div>
 
 ## Symbols
@@ -1170,6 +1170,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Me and the Foreign Language](../posts/1288_me-and-the-foreign-language/)
 - [<strong><em>Me ga Nai</strong></em> (目がない - Having a Weakness)](../posts/1414_me-ga-nai/)
 - [<strong><em>Me ga Takai</strong></em> (目が高い - Having a Good Eye)](../posts/0968_me-ga-takai/)
+- [<strong><em>Me ga Ten ni Naru</strong></em> (目が点になる - Surprised)](../posts/2277_me-ga-ten-ni-naru/)
 - [<strong><em>Me no Hoyō</strong></em> (目の保養 - Feasting to One's Eyes)](../posts/2136_me-no-hoyo/)
 - [<strong><em>Me no Ue no Kobu</strong></em> (目の上の瘤 - A Thorn in One’s Side)](../posts/1825_me-no-ue-no-kobu/)
 - [<strong><em>Me to Hana no Saki</strong></em> (目と鼻の先 - Stone's Throw)](../posts/1801_me-to-hana-no-saki/)
