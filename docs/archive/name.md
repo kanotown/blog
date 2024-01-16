@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 16, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,277<br/>
-単語数 (Number of Words): 262,324<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 17, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,278<br/>
+単語数 (Number of Words): 262,425<br/><br/>
 </div>
 
 ## Symbols
@@ -1906,6 +1906,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Tawawa</strong></em> (たわわ - Growing Richly)](../posts/1375_tawawa/)
 - [<strong><em>Tayori no Nai no wa Yoi Tayori</strong></em> (便りの無いのは良い便り - No News Is Good News)](../posts/1941_tayori-no-nai-no-wa-yoi-tayori/)
 - [Te Haccho Kuchi Haccho](../posts/0716_te-haccho-kuchi-haccho/)
+- [<strong><em>Te mo Ashi mo Denai</strong></em> (手も足も出ない - Helpless)](../posts/2278_te-mo-ashi-mo-denai/)
 - [<strong><em>Te ni Ase wo Nigiru</strong></em> (手に汗を握る - Thrilling)](../posts/1644_te-ni-ase-wo-nigiru/)
 - [<strong><em>Te wo Kiru</strong></em> (手を切る - Washing One's Hands of)](../posts/1372_te-wo-kiru/)
 - [<strong><em>Te wo Someru</strong></em> (To Dye One's Hand)](../posts/0659_te-wo-someru/)

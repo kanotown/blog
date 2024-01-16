@@ -64,4 +64,10 @@ slug: "2277_me-ga-ten-ni-naru"
 This expression remains popular<span class="f_bold"> even now in </span>manga and anime.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
