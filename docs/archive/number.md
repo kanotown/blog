@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 17, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,278<br/>
-単語数 (Number of Words): 262,425<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 18, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,279<br/>
+単語数 (Number of Words): 262,538<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2279】<strong><em>Ha ga Tatanai</strong></em> (歯が立たない - Unable to Compete With)](../posts/2279_ha-ga-tatanai/)
 - [【No. 2278】<strong><em>Te mo Ashi mo Denai</strong></em> (手も足も出ない - Helpless)](../posts/2278_te-mo-ashi-mo-denai/)
 - [【No. 2277】<strong><em>Me ga Ten ni Naru</strong></em> (目が点になる - Surprised)](../posts/2277_me-ga-ten-ni-naru/)
 - [【No. 2276】<strong><em>Me wo Shiro Kuro Saseru</strong></em> (目を白黒させる - Rolling One's Eyes)](../posts/2276_me-wo-shiro-kuro-saseru/)

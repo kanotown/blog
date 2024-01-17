@@ -60,4 +60,7 @@ Therefore, the literal meaning of 'te mo ashi mo denai' is "neither one's hands 
 <li class="incorrect">This literal translation represents a state where one finds themselves helpless and unable to move.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>

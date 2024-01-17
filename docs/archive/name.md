@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 17, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,278<br/>
-単語数 (Number of Words): 262,425<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 18, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,279<br/>
+単語数 (Number of Words): 262,538<br/><br/>
 </div>
 
 ## Symbols
@@ -581,6 +581,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Gyūjiru</strong></em> (牛耳る - Dominating)](../posts/1302_gyujiru/)
 - [<strong><em>Gū no Ne mo Denai</strong></em> (ぐうの音も出ない)](../posts/1301_gu-no-ne-mo-denai/)
 ## H
+- [<strong><em>Ha ga Tatanai</strong></em> (歯が立たない - Unable to Compete With)](../posts/2279_ha-ga-tatanai/)
 - [<strong><em>Ha ga Uku</strong></em> (歯が浮く - One's Teeth are on Edge)](../posts/1269_ha-ga-uku/)
 - [<strong><em>Ha ni Kinu Kise nu</strong></em> (歯に衣着せぬ - Outspoken)](../posts/2166_ha-ni-kinu-kise-nu/)
 - [Habituation](../posts/0328_habituation/)
