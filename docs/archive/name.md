@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 18, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,279<br/>
-単語数 (Number of Words): 262,538<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 19, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,280<br/>
+単語数 (Number of Words): 262,701<br/><br/>
 </div>
 
 ## Symbols
@@ -747,6 +747,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [I bought an electric heating blanket.](../posts/0002_i-bought-an-electric-heating-blanket/)
 - [I finally finished dictating all dialogues of the "Frozen".](../posts/0019_i-finally-finished-dictating-all-dialogues-of-the-frozen/)
 - [<strong><em>I no Ichiban</strong></em> (いの一番 - The Very First)](../posts/2260_i-no-ichiban/)
+- [<strong><em>I no Naka no Kawazu Taikai wo Shirazu</strong></em> (井の中の蛙大海を知らず - A Big Fish in a Little Pond)](../posts/2280_i-no-naka-no-kawazu-taikai-wo-shirazu/)
 - [I performed a presentation of statistics class.](../posts/0035_i-performed-a-presentation-of-statistics-class/)
 - [I visited a barber and had my hair cut this morning.](../posts/0020_i-visited-a-barber-and-had-my-hair-cut-this-morning/)
 - [I watched a few episodes of "White Color" on Hulu.](../posts/0033_i-watched-a-few-episodes-of-white-color-on-hulu/)

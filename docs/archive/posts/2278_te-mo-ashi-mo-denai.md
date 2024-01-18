@@ -63,4 +63,7 @@ Therefore, the literal meaning of 'te mo ashi mo denai' is "neither one's hands 
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>

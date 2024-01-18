@@ -58,4 +58,10 @@ slug: "2279_ha-ga-tatanai"
 <li class="incorrect">From the concept of something being too hard to bite and eat, it came to mean a situation where one's abilities are insufficient to overcome someone or something.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
