@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 19, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,280<br/>
-単語数 (Number of Words): 262,701<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 20, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,281<br/>
+単語数 (Number of Words): 262,829<br/><br/>
 </div>
 
 ## Symbols
@@ -1232,6 +1232,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Mizu wo Mukeru](../posts/0848_mizu-wo-mukeru/)
 - [<strong><em>Mizu wo Mukeru</strong></em> (水を向ける - Providing an Opening)](../posts/2207_mizu-wo-mukeru/)
 - [<strong><em>Mizu wo Sasu</strong></em> (水を差す - Casting a Damper)](../posts/1100_mizu-wo-sasu/)
+- [<strong><em>Mo ni Fukusu</strong></em> (喪に服す - Mourning): Part 1](../posts/2281_mo-ni-fukusu/)
 - [<strong><em>Mochi</strong></em> (餅 - Rice Cake)](../posts/1106_mochi/)
 - [<strong><em>Mochi wa Mochiya</strong></em> (餅は餅屋 - The Expert Know Best)](../posts/1928_mochi-wa-mochiya/)
 - [<strong><em>Mochihada</strong></em> (餅肌 - Velvety Skin)](../posts/1447_mochihada/)

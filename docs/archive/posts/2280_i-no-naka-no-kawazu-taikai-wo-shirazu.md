@@ -78,4 +78,10 @@ As you can imagine, a frog living in a well<span class="f_bold"> doesn't know or
 <li class="incorrect">In this proverb, a frog in a well is a metaphor for a person with a narrow perspective.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for your corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome
+</div>
+</div>
