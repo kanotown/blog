@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 20, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,281<br/>
-単語数 (Number of Words): 262,829<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 21, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,282<br/>
+単語数 (Number of Words): 262,976<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2282】<strong><em>Mo ni Fukusu</strong></em> (喪に服す - Mourning): Part 2](../posts/2282_mo-ni-fukusu/)
 - [【No. 2281】<strong><em>Mo ni Fukusu</strong></em> (喪に服す - Mourning): Part 1](../posts/2281_mo-ni-fukusu/)
 - [【No. 2280】<strong><em>I no Naka no Kawazu Taikai wo Shirazu</strong></em> (井の中の蛙大海を知らず - A Big Fish in a Little Pond)](../posts/2280_i-no-naka-no-kawazu-taikai-wo-shirazu/)
 - [【No. 2279】<strong><em>Ha ga Tatanai</strong></em> (歯が立たない - Unable to Compete With)](../posts/2279_ha-ga-tatanai/)
