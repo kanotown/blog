@@ -60,4 +60,7 @@ In my recent entry, I introduced the Japanese culture of writing 'nengajō' (年
 <li class="incorrect">Those who receive a mourning postcard usually reply after the New Year with 'kanchū mimai' (寒中見舞い - "winter greeting card").</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>

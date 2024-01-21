@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of January 21, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,282<br/>
-単語数 (Number of Words): 262,976<br/><br/>
+投稿数 (Number of Posts): 2,283<br/>
+単語数 (Number of Words): 263,074<br/><br/>
 </div>
 
 ## Symbols
@@ -1699,6 +1699,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Shapes of Eggs](../posts/0449_shapes-of-eggs/)
 - [<strong><em>Sharakusai</strong></em> (しゃらくさい)](../posts/1448_sharakusai/)
 - [<strong><em>Shari</strong></em> (シャリ - White/Vinegared Rice)](../posts/1655_shari/)
+- [<strong><em>Shatei</strong></em> (舎弟 - Henchman)](../posts/2283_shatei/)
 - [<strong><em>Shi ni Mono Gurui</strong></em> (死に物狂い - For Life)](../posts/1950_shi-ni-mono-gurui/)
 - [<strong><em>Shibu-shibu</strong></em> (渋々 - Unwillingly/Reluctantly)](../posts/1689_shibu-shibu/)
 - [<strong><em>Shibui Kao</strong></em> (渋い顔 - Sour Face)](../posts/1688_shibui-kao/)
