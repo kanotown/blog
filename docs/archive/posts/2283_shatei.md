@@ -20,7 +20,7 @@ slug: "2283_shatei"
 舎弟<br/><br/>自分の弟や、弟のように扱う関係の人のことを、「舎弟」と言うことがあります。<br/><br/>「舎」・・・ 身内につける謙称<br/>「弟」・・・ "younger brother"<br/><br/>「舎弟」は本来、文字どおり「実の弟」や「義理の弟」を表す言葉でした。<br/><br/>しかしこの言葉は、暴力団などの組織において、弟分や子分を表す際に使われるイメージが広く浸透しています。<br/><br/>そのためか、現在では本来の意味で「舎弟」を使う状況はほとんど見かけません。<br/><br/>日常会話で使う際は注意をしてください。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Shatei (舎弟 - Henchman)</li>
@@ -60,4 +60,20 @@ This may be the reason why we rarely see the word 'shatei' used <span class="f_b
 <li class="incorrect">Please be careful when using this term in daily conversation.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">Amop567</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">This may be the reason why we rarely see the word 'shatei' used to mean a younger brother today.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<p class="comment_small">
+ I usually hear 舎弟 used in a tongue and cheek way. That's probably because I don't know any real gang members haha.
+</p>
+
+</div><div class="name"><span class="just_name">Toru</span><br>
+Certainly, if you hear this word in everyday conversation, it will be in a joking sense. Otherwise, your daily life may not be peaceful XD
+</div>
+</div>

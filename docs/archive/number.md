@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 22, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,283<br/>
-単語数 (Number of Words): 263,074<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 23, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,284<br/>
+単語数 (Number of Words): 263,198<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2284】<strong><em>Ashita wa Ashita no Kaze ga Fuku</strong></em> (明日は明日の風が吹く - Tomorrow Is Another Day)](../posts/2284_ashita-wa-ashita-no-kaze-ga-fuku/)
 - [【No. 2283】<strong><em>Shatei</strong></em> (舎弟 - Henchman)](../posts/2283_shatei/)
 - [【No. 2282】<strong><em>Mo ni Fukusu</strong></em> (喪に服す - Mourning): Part 2](../posts/2282_mo-ni-fukusu/)
 - [【No. 2281】<strong><em>Mo ni Fukusu</strong></em> (喪に服す - Mourning): Part 1](../posts/2281_mo-ni-fukusu/)

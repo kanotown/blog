@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 22, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,283<br/>
-単語数 (Number of Words): 263,074<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 23, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,284<br/>
+単語数 (Number of Words): 263,198<br/><br/>
 </div>
 
 ## Symbols
@@ -169,6 +169,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ashi wo Arau</strong></em> (Wash One's Feet)](../posts/0658_ashi-wo-arau/)
 - [<strong><em>Ashimoto o Miru</strong></em> (To Take Unfair Advantage of Someone)](../posts/0765_ashimoto-o-miru/)
 - [Ashita and Asu and Myonichi](../posts/0613_ashita-and-asu-and-myonichi/)
+- [<strong><em>Ashita wa Ashita no Kaze ga Fuku</strong></em> (明日は明日の風が吹く - Tomorrow Is Another Day)](../posts/2284_ashita-wa-ashita-no-kaze-ga-fuku/)
 - [<strong><em>Asu wa Wagami</strong></em> (明日は我が身 - Tomorrow It Might Be Me)](../posts/1502_asu-wa-wagami/)
 - [<strong><em>Ata Futa</strong></em> (あたふた - Feverishly)](../posts/2241_ata-futa/)
 - [<strong><em>Atama Dekkachi</strong></em> (頭でっかち - Brain Trust)](../posts/1831_atama-dekkachi/)
