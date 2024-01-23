@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 23, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,284<br/>
-単語数 (Number of Words): 263,198<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 24, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,285<br/>
+単語数 (Number of Words): 263,303<br/><br/>
 </div>
 
 ## Symbols
@@ -1080,6 +1080,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kuchi ga Karui</strong></em> (口が軽い - Having a Big Mouth)](../posts/1878_kuchi-ga-karui/)
 - [<strong><em>Kuchi ga Omoi</strong></em> (口が重い - Having Few Words)](../posts/1879_kuchi-ga-omoi/)
 - [<strong><em>Kuchi wo Suppaku Suru</strong></em> (口を酸っぱくする - Telling Over and Over Again)](../posts/1877_kuchi-wo-suppaku-suru/)
+- [<strong><em>Kuchibashi ga Kīroi</strong></em> (くちばしが黄色い - Young and Inexperienced)](../posts/2285_kuchibashi-ga-kiroi/)
 - [<strong><em>Kuchibashiru</strong></em> (口走る - Blurting Out)](../posts/1963_kuchibashiru/)
 - [<strong><em>Kuchibi wo Kiru</strong></em> (口火を切る - Breaking the Ice)](../posts/1865_kuchibi-wo-kiru/)
 - [<strong><em>Kuda wo Maku</strong></em> (管を巻く - Blathering)](../posts/0977_kuda-wo-maku/)

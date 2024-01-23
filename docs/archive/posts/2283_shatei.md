@@ -63,6 +63,9 @@ This may be the reason why we rarely see the word 'shatei' used <span class="f_b
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>
 <div id="block"><div class="first_name"> No. 2　<span class="just_name">Amop567</span></div><div id="block2">
 <ul class="correction_field">

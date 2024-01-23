@@ -62,4 +62,10 @@ Therefore, the literal meaning of this proverb is "<span class="sline"><span cla
 In other words, since tomorrow will be a different day, you should let things go <span class="f_red"><span class="sline">as they </span></span><span class="f_bold"><span class="f_red"><span class="sline">are</span></span>,</span> and there is no need to be worried.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for your corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
