@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 24, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,285<br/>
-単語数 (Number of Words): 263,303<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 25, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,286<br/>
+単語数 (Number of Words): 263,423<br/><br/>
 </div>
 
 ## Symbols
@@ -1684,6 +1684,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Seminar](../posts/0813_seminar/)
 - [Semishigure](../posts/0584_semishigure/)
 - [<strong><em>Senrihin</strong></em> (戦利品 - Spoils of Battle)](../posts/2262_senrihin/)
+- [<strong><em>Senshi Bankō</strong></em> (千紫万紅/千思万考 - Multitude of Colors / Repetitice Thinking)](../posts/2286_senshi-banko/)
 - [Sentences on my Homepage](../posts/0287_sentences-on-my-homepage/)
 - [<strong><em>Senzai Ichigū</strong></em> (千載一遇 - Chance in a Million)](../posts/1841_senzai-ichigu/)
 - [Seppa-tsumaru](../posts/0590_seppa-tsumaru/)

@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 24, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,285<br/>
-単語数 (Number of Words): 263,303<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 25, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,286<br/>
+単語数 (Number of Words): 263,423<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2286】<strong><em>Senshi Bankō</strong></em> (千紫万紅/千思万考 - Multitude of Colors / Repetitice Thinking)](../posts/2286_senshi-banko/)
 - [【No. 2285】<strong><em>Kuchibashi ga Kīroi</strong></em> (くちばしが黄色い - Young and Inexperienced)](../posts/2285_kuchibashi-ga-kiroi/)
 - [【No. 2284】<strong><em>Ashita wa Ashita no Kaze ga Fuku</strong></em> (明日は明日の風が吹く - Tomorrow Is Another Day)](../posts/2284_ashita-wa-ashita-no-kaze-ga-fuku/)
 - [【No. 2283】<strong><em>Shatei</strong></em> (舎弟 - Henchman)](../posts/2283_shatei/)
