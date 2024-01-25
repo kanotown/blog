@@ -66,4 +66,7 @@ slug: "2286_senshi-banko"
 <li class="incorrect">'Shi' (思) means "to think," 'kou' (考) means "to consider," and 'senshi banko' means to think about something over and over again.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+</div>

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 25, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,286<br/>
-単語数 (Number of Words): 263,423<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 26, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,287<br/>
+単語数 (Number of Words): 263,539<br/><br/>
 </div>
 
 ## Symbols
@@ -1151,6 +1151,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Makura-Nage Part 2](../posts/0722_makura-nage-part-2/)
 - [<strong><em>Mamagoto</strong></em> (ままごと - House)](../posts/1708_mamagoto/)
 - [<strong><em>Manaita</strong></em> (まな板 - Cutting Board)](../posts/1036_manaita/)
+- [<strong><em>Manaita no Koi</strong></em> (また板の鯉 - Someone Doomed to Their Fate)](../posts/2287_manaita-no-koi/)
 - [<strong><em>Manako</strong></em> (まなこ - Eye)](../posts/1068_manako/)
 - [<strong><em>Manbiki</strong></em> (万引き - Shoplifting)](../posts/1080_manbiki/)
 - [Maneki Neko](../posts/0520_maneki-neko/)
