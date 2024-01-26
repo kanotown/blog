@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 26, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,287<br/>
-単語数 (Number of Words): 263,539<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 27, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,288<br/>
+単語数 (Number of Words): 263,659<br/><br/>
 </div>
 
 ## Symbols
@@ -1658,6 +1658,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Sanma</strong></em> (サンマ - "Pacific Saury")](../posts/1741_sanma/)
 - [<strong><em>Sanmai/Zanmai</strong></em> (三昧 - Indulgence)](../posts/2122_sanmai-zanmai/)
 - [<strong><em>Sanshita</strong></em> (三下 - Small Fry)](../posts/0970_sanshita/)
+- [<strong><em>Saru mo Ki kara Ochiru</strong></em> (猿も木から落ちる - No One Is Infallible)](../posts/2288_saru-mo-ki-kara-ochiru/)
 - [Sarumane](../posts/0710_sarumane/)
 - [<strong><em>Sarushibai</strong></em> (猿芝居 - Stupid Trick)](../posts/1143_sarushibai/)
 - [<strong><em>Sarusuberi</strong></em> (サルスベリ - Lagerstroemia Indica)](../posts/1144_sarusuberi/)

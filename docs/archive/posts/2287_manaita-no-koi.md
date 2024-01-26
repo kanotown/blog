@@ -60,4 +60,10 @@ However, the carp can easily faint<span class="f_bold"> if you stroke</span> its
 <span class="f_bold">It looks as</span> if it has accepted its inevitable death, leading to the current meaning of this idiom.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
