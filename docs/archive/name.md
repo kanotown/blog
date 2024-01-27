@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 27, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,288<br/>
-単語数 (Number of Words): 263,659<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 28, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,289<br/>
+単語数 (Number of Words): 263,792<br/><br/>
 </div>
 
 ## Symbols
@@ -1107,6 +1107,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kyōka Suigetsu</strong></em> (鏡花水月 - Phantom)](../posts/2188_kyoka-suigetsu/)
 - [<strong><em>Kyūshi ni Isshō wo Eru</strong></em> (九死に一生を得る - Having a Narrow Escape)](../posts/2045_kyushi-ni-issho-wo-eru/)
 - [<strong><em>Kyūso Neko wo Kamu</strong></em> (窮鼠猫を噛む - A Cornered Mouse Bites a Cat)](../posts/2135_kyuso-neko-wo-kamu/)
+- [<strong><em>Kōbō mo Fude no Ayamari</strong></em> (弘法も筆の誤り - Even Homer Sometimes Nods): Part 1](../posts/2289_kobo-mo-fude-no-ayamari/)
 - [<strong><em>Kōcha</strong></em> (紅茶 - Black Tea)](../posts/1083_kocha/)
 - [<strong><em>Kōgan/Kōgan Muchi</strong></em> (厚顔/厚顔無恥 - Shameless Audacity)](../posts/2085_kogan-kogan-muchi/)
 - [<strong><em>Kōin Ya no Gotoshi</strong></em> (光陰矢の如し - Time Flies)](../posts/1995_koin-ya-no-gotoshi/)

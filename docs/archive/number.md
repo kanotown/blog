@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 27, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,288<br/>
-単語数 (Number of Words): 263,659<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 28, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,289<br/>
+単語数 (Number of Words): 263,792<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2289】<strong><em>Kōbō mo Fude no Ayamari</strong></em> (弘法も筆の誤り - Even Homer Sometimes Nods): Part 1](../posts/2289_kobo-mo-fude-no-ayamari/)
 - [【No. 2288】<strong><em>Saru mo Ki kara Ochiru</strong></em> (猿も木から落ちる - No One Is Infallible)](../posts/2288_saru-mo-ki-kara-ochiru/)
 - [【No. 2287】<strong><em>Manaita no Koi</strong></em> (また板の鯉 - Someone Doomed to Their Fate)](../posts/2287_manaita-no-koi/)
 - [【No. 2286】<strong><em>Senshi Bankō</strong></em> (千紫万紅/千思万考 - Multitude of Colors / Repetitice Thinking)](../posts/2286_senshi-banko/)

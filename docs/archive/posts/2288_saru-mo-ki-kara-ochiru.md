@@ -64,4 +64,10 @@ slug: "2288_saru-mo-ki-kara-ochiru"
 In other words, <span class="f_red"><span class="sline">just as even</span></span> monkeys who are good at climbing trees sometimes fall from trees, <span class="f_bold">thus</span> no one is infallible.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
