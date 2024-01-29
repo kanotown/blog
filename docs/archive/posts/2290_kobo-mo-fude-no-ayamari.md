@@ -20,7 +20,7 @@ slug: "2290_kobo-mo-fude-no-ayamari"
 弘法も筆の誤り Part 2<br/><br/>「弘法も筆の誤り」ということわざは、ある逸話に由来します。<br/><br/>空海（弘法）は、京都の應天門に掲げる扁額に、文字を入れるよう依頼されました。<br/><br/>しかし、掲げられた扁額を見ると、「應」の文字の一画目が書かれていなかったそうです。<br/><br/>これが、「弘法も筆の誤り」ということわざの由来とされています。<br/><br/>空海はその後、門の下から筆を投げつけ、見事に点を打ったとも言われています。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Kōbō mo Fude no Ayamari (弘法も筆の誤り - Even Homer Sometimes Nods): Part 2</li>
@@ -51,5 +51,20 @@ One day, Kūkai (空海; also known as Kōbō) was <span class="f_blue">asked/re
 <ul class="correction_field">
 <li class="incorrect">It is also said that Kūkai later threw the brush from beneath the gate and successfully added the missing stroke.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">Amop567</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Kōbō mo Fude no Ayamari (弘法も筆の誤り - Even Homer Sometimes Nods): Part 2</li>
+<li class="corrected correct">
+Kōbō mo Fude no Ayamari (弘法も筆の誤り - Even Homer Sometimes Nods<span class="f_blue">/Even the best make mistakes/Nobody's perfect)</span>: Part 2
+<p class="correction_comment">A few alternatives. This is probably due to my lack of education but I've never heard the one about Homer.</p>
+</li>
 </ul>
 </div></div>

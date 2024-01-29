@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 29, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,290<br/>
-単語数 (Number of Words): 263,920<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 30, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,291<br/>
+単語数 (Number of Words): 264,056<br/><br/>
 </div>
 
 ## Symbols
@@ -1066,6 +1066,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Koshikake</strong></em> (腰掛け - Chair/Makeshift Job)](../posts/1611_koshikake/)
 - [<strong><em>Kosoku</strong></em> (姑息 - Temporizing/Cowardly)](../posts/1078_kosoku/)
 - [<strong><em>Kotatsu</strong></em> (こたつ)](../posts/1468_kotatsu/)
+- [<strong><em>Koto Nakare Shugi</strong></em> (事なかれ主義 - A Fear of Rocking the Boat)](../posts/2291_koto-nakare-shugi/)
 - [<strong><em>Kotoba no Aya</strong></em> (言葉の綾 - Figure of Speech)](../posts/2057_kotoba-no-aya/)
 - [<strong><em>Kotobajiri wo Toraeru</strong></em> (言葉尻をとらえる - Pouncing on Someone's Words)](../posts/2056_kotobajiri-wo-toraeru/)
 - [<strong><em>Kou Itten</strong></em> (紅一点 - The Only Woman in a Group)](../posts/1424_kou-itten/)

@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 29, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,290<br/>
-単語数 (Number of Words): 263,920<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 30, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,291<br/>
+単語数 (Number of Words): 264,056<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2291】<strong><em>Koto Nakare Shugi</strong></em> (事なかれ主義 - A Fear of Rocking the Boat)](../posts/2291_koto-nakare-shugi/)
 - [【No. 2290】<strong><em>Kōbō mo Fude no Ayamari</strong></em> (弘法も筆の誤り - Even Homer Sometimes Nods): Part 2](../posts/2290_kobo-mo-fude-no-ayamari/)
 - [【No. 2289】<strong><em>Kōbō mo Fude no Ayamari</strong></em> (弘法も筆の誤り - Even Homer Sometimes Nods): Part 1](../posts/2289_kobo-mo-fude-no-ayamari/)
 - [【No. 2288】<strong><em>Saru mo Ki kara Ochiru</strong></em> (猿も木から落ちる - No One Is Infallible)](../posts/2288_saru-mo-ki-kara-ochiru/)
