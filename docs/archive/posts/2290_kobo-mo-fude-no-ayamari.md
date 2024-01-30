@@ -67,4 +67,7 @@ Kōbō mo Fude no Ayamari (弘法も筆の誤り - Even Homer Sometimes Nods<spa
 <p class="correction_comment">A few alternatives. This is probably due to my lack of education but I've never heard the one about Homer.</p>
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections and comments! <br/>When I searched for the English translation of 弘法も筆の誤り, many sites and dictionaries mentioned Homer. This may be because there is something associative between Kōbō, a great calligrapher, and Homer, the great poet. However, it appears that the recognition and usage of those idioms differ significantly!
+</div>
+</div>

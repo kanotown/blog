@@ -68,4 +68,7 @@ Koto Nakare Shugi (事なかれ主義 - <span class="sline"><span class="f_red">
 <li class="incorrect">However, a passive attitude of pretending not to see problems can lead to negative outcomes.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+</div>

@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of January 30, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,291<br/>
-単語数 (Number of Words): 264,056<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of January 31, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,292<br/>
+単語数 (Number of Words): 264,178<br/><br/>
 </div>
 
 ## Symbols
@@ -517,6 +517,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Gaba Eimu</strong></em> (ガバエイム - Unsteady Aim)](../posts/2174_gaba-eimu/)
 - [<strong><em>Gachōn</strong></em> (がちょーん) by Amazon Echo](../posts/1219_gachon/)
 - [<strong><em>Gaden Insui</strong></em> (我田引水 - Self-serving)](../posts/2042_gaden-insui/)
+- [<strong><em>Gakuburu</strong></em> (ガクブル - Shivering)](../posts/2292_gakuburu/)
 - [<strong><em>Gamu</strong></em> (Gum)<strong><em>Gamu</strong></em> (Gum)](../posts/0517_gamu/)
 - [<strong><em>Gamushara</strong></em> (がむしゃら - Headlong)](../posts/0954_gamushara/)
 - [<strong><em>Garakuta</strong></em> (ガラクタ - Junk)](../posts/1380_garakuta/)
