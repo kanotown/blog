@@ -71,4 +71,7 @@ Koto Nakare Shugi (事なかれ主義 - <span class="sline"><span class="f_red">
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
 </div>

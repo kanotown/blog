@@ -50,4 +50,10 @@ slug: "2292_gakuburu"
 <li class="incorrect">Incidentally, it is sometimes written with the shivering emotion "((((;゜Д゜)))," or "gkbr" is sometimes used instead of 'gakuburu'.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
