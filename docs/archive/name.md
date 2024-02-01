@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 01, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,293<br/>
-単語数 (Number of Words): 264,278<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 02, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,294<br/>
+単語数 (Number of Words): 264,425<br/><br/>
 </div>
 
 ## Symbols
@@ -1081,6 +1081,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kuchaler</strong></em> (クチャラー - Noisy Eater)](../posts/1007_kuchaler/)
 - [<strong><em>Kuchi ga Karui</strong></em> (口が軽い - Having a Big Mouth)](../posts/1878_kuchi-ga-karui/)
 - [<strong><em>Kuchi ga Omoi</strong></em> (口が重い - Having Few Words)](../posts/1879_kuchi-ga-omoi/)
+- [<strong><em>Kuchi wa Wazawai no Moto</strong></em> (口は災いの元 - Out of the Mouth Comes Evil)](../posts/2294_kuchi-wa-wazawai-no-moto/)
 - [<strong><em>Kuchi wo Suppaku Suru</strong></em> (口を酸っぱくする - Telling Over and Over Again)](../posts/1877_kuchi-wo-suppaku-suru/)
 - [<strong><em>Kuchibashi ga Kīroi</strong></em> (くちばしが黄色い - Young and Inexperienced)](../posts/2285_kuchibashi-ga-kiroi/)
 - [<strong><em>Kuchibashiru</strong></em> (口走る - Blurting Out)](../posts/1963_kuchibashiru/)
