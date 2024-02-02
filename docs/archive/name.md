@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 02, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,294<br/>
-単語数 (Number of Words): 264,425<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 03, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,295<br/>
+単語数 (Number of Words): 264,559<br/><br/>
 </div>
 
 ## Symbols
@@ -1532,6 +1532,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Owari no Hajimari</strong></em> (終わりの始まり - The Beginning of the End)](../posts/2249_owari-no-hajimari/)
 - [<strong><em>Owari no Nai no ga Owari</strong></em> (終わりのないのが終わり -  Endless Cycle)](../posts/2250_owari-no-nai-no-ga-owari/)
 - [Own Smells](../posts/0638_own-smells/)
+- [<strong><em>Oya no Sune wo Kajiru</strong></em> (親のすねをかじる - Depending on Parents)](../posts/2295_oya-no-sune-wo-kajiru/)
 - [<strong><em>Oyabaka Kobaka</strong></em> (親馬鹿子馬鹿 - A Doting Parent and Spoiled Child)](../posts/1943_oyabaka-kobaka/)
 - [<strong><em>Oyadama</strong></em> (親玉 - Godfather)](../posts/1207_oyadama/)
 - [<strong><em>Oyaji</strong></em> (親父 - Father)](../posts/1016_oyaji/)
