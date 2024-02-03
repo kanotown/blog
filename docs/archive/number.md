@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 03, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,295<br/>
-単語数 (Number of Words): 264,559<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 04, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,296<br/>
+単語数 (Number of Words): 264,723<br/><br/>
 </div>
 
 ## No. 2200 - 
+- [【No. 2296】<strong><em>Dōjō Suru nara Kane wo Kure</strong></em> (同情するなら金をくれ - Give Me Money If You Feel Pity)](../posts/2296_dojo-suru-nara-kane-wo-kure/)
 - [【No. 2295】<strong><em>Oya no Sune wo Kajiru</strong></em> (親のすねをかじる - Depending on Parents)](../posts/2295_oya-no-sune-wo-kajiru/)
 - [【No. 2294】<strong><em>Kuchi wa Wazawai no Moto</strong></em> (口は災いの元 - Out of the Mouth Comes Evil)](../posts/2294_kuchi-wa-wazawai-no-moto/)
 - [【No. 2293】<strong><em>Sensa Banbetsu</strong></em> (千差万別 - Divers)](../posts/2293_sensa-banbetsu/)
