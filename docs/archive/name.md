@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 05, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,296<br/>
-単語数 (Number of Words): 264,723<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 06, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,298<br/>
+単語数 (Number of Words): 264,976<br/><br/>
 </div>
 
 ## Symbols
@@ -308,6 +308,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Chiguhagu](../posts/0883_chiguhagu/)
 - [<strong><em>Chiikawa</strong></em> (ちいかわ)](../posts/2218_chiikawa/)
 - [<strong><em>Chiikawa Restaurant</strong></em> (ちいかわレストラン)](../posts/2219_chiikawa-restaurant/)
+- [<strong><em>Chiikawa Sensō</strong></em> (ちいかわ戦争 - Chiikawa War)](../posts/2297_chiikawa-senso/)
 - [<strong><em>Chikokuma</strong></em> (遅刻魔 - Always Late)](../posts/1969_chikokuma/)
 - [<strong><em>Chiku Chiku</strong></em> (ちくちく - Prickling)](../posts/1212_chiku-chiku/)
 - [<strong><em>Chikuba no Tomo</strong></em> (竹馬の友 - A Childhood Friend)](../posts/1980_chikuba-no-tomo/)
@@ -2293,6 +2294,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Yudan Taiteki</strong></em> (油断大敵 - Don't Be Careless)](../posts/1356_yudan-taiteki/)
 - [<strong><em>Yuiitsu Muni</strong></em> (唯一無二 - One and Only)](../posts/1507_yuiitsu-muni/)
 - [<strong><em>Yukata</strong></em> (浴衣)](../posts/1335_yukata/)
+- [<strong><em>Yuki ya Konko</strong></em> (雪やこんこ - Come, Come, Snow)](../posts/2298_yuki-ya-konko/)
 - [<strong><em>Yumizu no You ni Tsukau</strong></em> (湯水のように使う - Like It Grows on Trees)](../posts/2005_yumizu-no-you-ni-tsukau/)
 - [<strong><em>Yunomi</strong></em> (a tea bowl)](../posts/0472_yunomi/)
 - [<strong><em>Yutō Yomi</strong></em> (湯桶読み - Mixed Reading of Japanese and Chinese)](../posts/1773_yuto-yomi/)
