@@ -67,4 +67,10 @@ In other words, it is a song for welcoming <span class="f_gray">the</span> snowf
 <li class="incorrect">However, some regions or people may not welcome snow.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
