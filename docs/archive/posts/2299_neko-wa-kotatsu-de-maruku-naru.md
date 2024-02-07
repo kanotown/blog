@@ -82,4 +82,10 @@ slug: "2299_neko-wa-kotatsu-de-maruku-naru"
 <li class="incorrect">By the way, on snowy days, I also wish to curl up under a kotatsu like a cat in the song.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

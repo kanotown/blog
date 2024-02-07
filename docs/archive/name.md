@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 07, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,299<br/>
-単語数 (Number of Words): 265,186<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 08, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,300<br/>
+単語数 (Number of Words): 265,299<br/><br/>
 </div>
 
 ## Symbols
@@ -899,6 +899,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Jiji Kokkoku</strong></em> (時々刻々 - Every Moment)](../posts/1671_jiji-kokkoku/)
 - [<strong><em>Jinji wo Tsukushite Tenmei wo Matsu</strong></em> (人事を尽くして天命を待つ](../posts/2029_jinji-wo-tsukushite-tenmei-wo-matsu/)
 - [<strong><em>Jinkō Chinō</strong></em> (人工知能 - Artificial Intelligence)](../posts/1680_jinko-chino/)
+- [<strong><em>Jinsei Yama Ari Tani Ari</strong></em> (人生山あり谷あり - Life Has Its Ups and Downs)](../posts/2300_jinsei-yama-ari-tani-ari/)
 - [<strong><em>Jirihin</strong></em> (ジリ貧 - Gradually Becoming Poor)](../posts/2186_jirihin/)
 - [<strong><em>Jishin, Kaminari, Kaji, Oyaji</strong></em> (地震、雷、火事、親父): Part 1](../posts/2265_jishin-kaminari-kaji-oyaji/)
 - [<strong><em>Jishin, Kaminari, Kaji, Oyaji</strong></em> (地震、雷、火事、親父): Part 2](../posts/2266_jishin-kaminari-kaji-oyaji/)
