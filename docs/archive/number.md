@@ -4,14 +4,18 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 08, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,300<br/>
-単語数 (Number of Words): 265,299<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 09, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,303<br/>
+単語数 (Number of Words): 265,746<br/><br/>
 </div>
 
 ## No. 2300 - 
-- [【No. 2300】<strong><em>Jinsei Yama Ari Tani Ari</strong></em> (人生山あり谷あり - Life Has Its Ups and Downs)](../posts/2300_jinsei-yama-ari-tani-ari/)
-- [【No. 2299】<strong><em>Neko wa Kotatsu de Maruku Naru</strong></em> (猫はこたつで丸くなる - Cats Curl up under the Kotatsu)](../posts/2299_neko-wa-kotatsu-de-maruku-naru/)
+- [【No. 2303】<strong><em>Jinsei Yama Ari Tani Ari</strong></em> (人生山あり谷あり - Life Has Its Ups and Downs)](../posts/2301_jinsei-yama-ari-tani-ari/)
+- [【No. 2302】<strong><em>Jinsei Yama Ari Tani Ari</strong></em> (人生山あり谷あり - Life Has Its Ups and Downs)](../posts/2300_jinsei-yama-ari-tani-ari/)
+- [【No. 2301】<strong><em>Neko wa Kotatsu de Maruku Naru</strong></em> (猫はこたつで丸くなる - Cats Curl up under the Kotatsu)](../posts/2300_neko-wa-kotatsu-de-maruku-naru/)
+## No. 2201 - 2300
+- [【No. 2300】<strong><em>Neko wa Kotatsu de Maruku Naru</strong></em> (猫はこたつで丸くなる - Cats Curl up under the Kotatsu)](../posts/2299_neko-wa-kotatsu-de-maruku-naru/)
+- [【No. 2299】<strong><em>Yuki ya Konko</strong></em> (雪やこんこ - Come, Come, Snow)](../posts/2299_yuki-ya-konko/)
 - [【No. 2298】<strong><em>Yuki ya Konko</strong></em> (雪やこんこ - Come, Come, Snow)](../posts/2298_yuki-ya-konko/)
 - [【No. 2297】<strong><em>Chiikawa Sensō</strong></em> (ちいかわ戦争 - Chiikawa War)](../posts/2297_chiikawa-senso/)
 - [【No. 2296】<strong><em>Dōjō Suru nara Kane wo Kure</strong></em> (同情するなら金をくれ - Give Me Money If You Feel Pity)](../posts/2296_dojo-suru-nara-kane-wo-kure/)
