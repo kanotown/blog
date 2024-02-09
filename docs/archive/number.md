@@ -4,12 +4,14 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 09, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,303<br/>
-単語数 (Number of Words): 265,746<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 10, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,305<br/>
+単語数 (Number of Words): 265,961<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2305】<strong><em>Tazan no Ishi</strong></em> (他山の石 - Drawing a Lesson)](../posts/2302_tazan-no-ishi/)
+- [【No. 2304】<strong><em>Kōkai Saki ni Tatazu</strong></em> (後悔先に立たず - Repentance Comes too Late)](../posts/2301_kokai-saki-ni-tatazu/)
 - [【No. 2303】<strong><em>Jinsei Yama Ari Tani Ari</strong></em> (人生山あり谷あり - Life Has Its Ups and Downs)](../posts/2301_jinsei-yama-ari-tani-ari/)
 - [【No. 2302】<strong><em>Jinsei Yama Ari Tani Ari</strong></em> (人生山あり谷あり - Life Has Its Ups and Downs)](../posts/2300_jinsei-yama-ari-tani-ari/)
 - [【No. 2301】<strong><em>Neko wa Kotatsu de Maruku Naru</strong></em> (猫はこたつで丸くなる - Cats Curl up under the Kotatsu)](../posts/2300_neko-wa-kotatsu-de-maruku-naru/)
