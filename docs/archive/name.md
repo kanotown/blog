@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 10, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,305<br/>
-単語数 (Number of Words): 265,961<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 11, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,306<br/>
+単語数 (Number of Words): 266,092<br/><br/>
 </div>
 
 ## Symbols
@@ -941,6 +941,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kakigōri</strong></em> (かき氷 - Shaved Ice)](../posts/1570_kakigori/)
 - [<strong><em>Kakizome</strong></em> (書き初め)](../posts/1111_kakizome/)
 - [<strong><em>Kakukaku Shikazika</strong></em> (かくかくしかじか)](../posts/1747_kakukaku-shikazika/)
+- [<strong><em>Kakuritsuki</strong></em> (確率機 - Crane Game with Probability Control): Part 1](../posts/2303_kakuritsuki/)
 - [Kakā Kā KāKa?](../posts/1390_kaka-ka-kaka/)
 - [<strong><em>Kamase Inu</strong></em> (かませ犬 - Underdog)](../posts/1063_kamase-inu/)
 - [<strong><em>Kamatoto</strong></em> (かまとと - Playing Innocent)](../posts/1526_kamatoto/)
