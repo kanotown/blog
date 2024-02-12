@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 12, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,304<br/>
-単語数 (Number of Words): 265,756<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 13, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,305<br/>
+単語数 (Number of Words): 265,879<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2305】<strong><em>Tōfu Mentaru</strong></em> (豆腐メンタル - Tofu Mentality)](../posts/2305_tofu-mentaru/)
 - [【No. 2304】<strong><em>Kakuritsuki</strong></em> (確率機 - Crane Game with Probability Control): Part 2](../posts/2304_kakuritsuki/)
 - [【No. 2303】<strong><em>Kakuritsuki</strong></em> (確率機 - Crane Game with Probability Control): Part 1](../posts/2303_kakuritsuki/)
 - [【No. 2302】<strong><em>Tazan no Ishi</strong></em> (他山の石 - Drawing a Lesson)](../posts/2302_tazan-no-ishi/)
