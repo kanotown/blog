@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 14, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,305<br/>
-単語数 (Number of Words): 265,879<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 15, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,307<br/>
+単語数 (Number of Words): 266,112<br/><br/>
 </div>
 
 ## Symbols
@@ -2133,6 +2133,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Typhoon No. 19](../posts/1761_typhoon-no-19/)
 - [Typing Game](../posts/0166_typing-game/)
 - [<strong><em>Tōfu Mentaru</strong></em> (豆腐メンタル - Tofu Mentality)](../posts/2305_tofu-mentaru/)
+- [<strong><em>Tōfu ni Kasugai</strong></em> (豆腐に鎹 - Having No Effect)](../posts/2306_tofu-ni-kasugai/)
 - [<strong><em>Tōge</strong></em> (峠 - Mountain Pass)](../posts/1629_toge/)
 - [<strong><em>Tōge wo Kosu</strong></em> (峠を越す - Getting over the Hump)](../posts/1632_toge-wo-kosu/)
 - [Tōtō toto Tottōto?](../posts/1391_toto-toto-tottoto/)
@@ -2204,6 +2205,7 @@ Currently, I write short texts in English every day on a language exchange socia
 ## V
 - [Vacuum Cleaner](../posts/0041_vacuum-cleaner/)
 - [Valedictory Lecture](../posts/0050_valedictory-lecture/)
+- [Valentine's Day](../posts/2307_valentine-s-day/)
 - [Valentine's Day in Japan](../posts/0789_valentine-s-day-in-japan/)
 - [Various Facial Expressions](../posts/0616_various-facial-expressions/)
 - [Visit Tateshina](../posts/1431_visit-tateshina/)

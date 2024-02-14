@@ -54,4 +54,10 @@ slug: "2305_tofu-mentaru"
 <li class="incorrect">Conversely, when describing a strong mentality, you can use 'hagane' (鋼 - meaning "steel") and say 'hagane mentaru' (鋼メンタル).</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for checking my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome
+</div>
+</div>
