@@ -55,4 +55,10 @@ Valentine's Day<br/><br/>Today is Valentine's Day.<br/><br/>In many countries on
 <li class="incorrect">For those who love chocolate and eat it regularly, the day after Valentine's Day might be particularly important.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for reading my entry!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
