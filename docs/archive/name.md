@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 16, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,308<br/>
-単語数 (Number of Words): 266,217<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 17, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,309<br/>
+単語数 (Number of Words): 266,339<br/><br/>
 </div>
 
 ## Symbols
@@ -164,6 +164,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Asedaku</strong></em> (汗だく - Sweaty)](../posts/1643_asedaku/)
 - [<strong><em>Asemizu wo Tarasu</strong></em> (汗水をたらす - Sweating Over One's Work)](../posts/1769_asemizu-wo-tarasu/)
 - [<strong><em>Ashi ga Bō ni Naru</strong></em> (足が棒になる - One's Legs Are Tired)](../posts/1903_ashi-ga-bo-ni-naru/)
+- [<strong><em>Ashi ga Chi ni Tsukanai</strong></em> (地に足がつかない - Head in the Clouds)](../posts/2309_ashi-ga-chi-ni-tsukanai/)
 - [<strong><em>Ashi ga Deru</strong></em> (足が出る - Running over the Budget)](../posts/1009_ashi-ga-deru/)
 - [<strong><em>Ashi ga Hayai</strong></em> (足が早い - Spoil Rapidly)](../posts/0949_ashi-ga-hayai/)
 - [<strong><em>Ashi wo Arau</strong></em> (Wash One's Feet)](../posts/0658_ashi-wo-arau/)

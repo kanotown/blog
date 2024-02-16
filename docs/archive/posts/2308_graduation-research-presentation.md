@@ -64,4 +64,10 @@ Since there are more events, such as academic conferences, coming up in the near
 However, we have certainly <span class="f_blue">crossed an important turning point/achieved a significant milestone</span>.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for your corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>
