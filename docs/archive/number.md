@@ -4,13 +4,14 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 17, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,309<br/>
-単語数 (Number of Words): 266,339<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 18, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,310<br/>
+単語数 (Number of Words): 266,441<br/><br/>
 </div>
 
 ## No. 2300 - 
-- [【No. 2309】<strong><em>Ashi ga Chi ni Tsukanai</strong></em> (地に足がつかない - Head in the Clouds)](../posts/2309_ashi-ga-chi-ni-tsukanai/)
+- [【No. 2310】<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 1](../posts/2310_tohoho/)
+- [【No. 2309】<strong><em>Ashi ga Chi ni Tsukanai</strong></em> (足が地につかない - Head in the Clouds)](../posts/2309_ashi-ga-chi-ni-tsukanai/)
 - [【No. 2308】Graduation Research Presentation](../posts/2308_graduation-research-presentation/)
 - [【No. 2307】Valentine's Day](../posts/2307_valentine-s-day/)
 - [【No. 2306】<strong><em>Tōfu ni Kasugai</strong></em> (豆腐に鎹 - Having No Effect)](../posts/2306_tofu-ni-kasugai/)
