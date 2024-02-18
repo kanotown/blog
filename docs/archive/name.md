@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 18, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,310<br/>
-単語数 (Number of Words): 266,441<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 19, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,311<br/>
+単語数 (Number of Words): 266,541<br/><br/>
 </div>
 
 ## Symbols
@@ -2071,6 +2071,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Today, year-end party</strong></em> (and Xmas party) was held in the laboratory o...](../posts/0004_today-year-end-party/)
 - [<strong><em>Todo no Tsumari</strong></em> (とどのつまり - "After All")](../posts/1849_todo-no-tsumari/)
 - [<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 1](../posts/2310_tohoho/)
+- [<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 2](../posts/2311_tohoho/)
 - [Toilet Lids](../posts/1096_toilet-lids/)
 - [<strong><em>Tokei</strong></em> (時計 - Clock/Watch)](../posts/1250_tokei/)
 - [<strong><em>Tokoroga Dokkoi</strong></em> (ところがどっこい - However)](../posts/1432_tokoroga-dokkoi/)

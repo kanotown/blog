@@ -53,4 +53,10 @@ The term 'tohō' is often used with the verb 'kureru' (暮れる - "to get dark"
 <li class="incorrect">The feeling of being at a loss, as expressed by the idiom 'tohō ni kureru', is similar to the feeling of saying 'tohoho'.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

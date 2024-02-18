@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 18, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,310<br/>
-単語数 (Number of Words): 266,441<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 19, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,311<br/>
+単語数 (Number of Words): 266,541<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2311】<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 2](../posts/2311_tohoho/)
 - [【No. 2310】<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 1](../posts/2310_tohoho/)
 - [【No. 2309】<strong><em>Ashi ga Chi ni Tsukanai</strong></em> (足が地につかない - Head in the Clouds)](../posts/2309_ashi-ga-chi-ni-tsukanai/)
 - [【No. 2308】Graduation Research Presentation](../posts/2308_graduation-research-presentation/)
