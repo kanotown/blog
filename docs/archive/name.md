@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 19, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,311<br/>
-単語数 (Number of Words): 266,541<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 20, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,312<br/>
+単語数 (Number of Words): 266,650<br/><br/>
 </div>
 
 ## Symbols
@@ -195,6 +195,7 @@ Currently, I write short texts in English every day on a language exchange socia
 ## B
 - [Baby Talk](../posts/1297_baby-talk/)
 - [Baby Talk to Represent Animals](../posts/1296_baby-talk-to-represent-animals/)
+- [<strong><em>Baji Tōfū</strong></em> (馬耳東風 - In One Ear and Out the Other)](../posts/2312_baji-tofu/)
 - [<strong><em>Baka</strong></em> (Idiot)](../posts/0871_baka/)
 - [<strong><em>Baka mo Yasumi Yasumi Ie</strong></em> (馬鹿も休み休み言え - Stop Talking Nonsense)](../posts/1965_baka-mo-yasumi-yasumi-ie/)
 - [<strong><em>Bake no Kawa ga Hagareru</strong></em> (化けの皮が剥がれる - Showing One's True Colors)](../posts/2229_bake-no-kawa-ga-hagareru/)

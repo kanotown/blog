@@ -55,4 +55,7 @@ However, note that 'tohoho' has almost become a dead word, and it is rare to hea
 </div><div class="name"><span class="just_name">Toru</span><br>
 Thank you for the correction!
 </div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
 </div>
