@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 20, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,312<br/>
-単語数 (Number of Words): 266,650<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 21, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,313<br/>
+単語数 (Number of Words): 266,784<br/><br/>
 </div>
 
 ## Symbols
@@ -373,6 +373,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Dada wo Koneru</strong></em> (駄々をこねる - Acting like a Baby)](../posts/1085_dada-wo-koneru/)
 - [<strong><em>Dai wa Shō wo Kaneru</strong></em> (大は小を兼ねる - The More, the Merrier)](../posts/1944_dai-wa-sho-wo-kaneru/)
 - [Daifuku](../posts/0793_daifuku/)
+- [<strong><em>Daigaku Nōto</strong></em> (大学ノート - Notebook)](../posts/2313_daigaku-noto/)
 - [<strong><em>Daigomi</strong></em> (醍醐味 - The True Pleasure)](../posts/1025_daigomi/)
 - [<strong><em>Daihen</strong></em> (代返 - Proxy Attendance)](../posts/2238_daihen/)
 - [Daijobu](../posts/0552_daijobu/)

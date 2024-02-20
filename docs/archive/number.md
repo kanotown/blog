@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 20, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,312<br/>
-単語数 (Number of Words): 266,650<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 21, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,313<br/>
+単語数 (Number of Words): 266,784<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2313】<strong><em>Daigaku Nōto</strong></em> (大学ノート - Notebook)](../posts/2313_daigaku-noto/)
 - [【No. 2312】<strong><em>Baji Tōfū</strong></em> (馬耳東風 - In One Ear and Out the Other)](../posts/2312_baji-tofu/)
 - [【No. 2311】<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 2](../posts/2311_tohoho/)
 - [【No. 2310】<strong><em>Tohoho</strong></em> (とほほ - Alas): Part 1](../posts/2310_tohoho/)
