@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 21, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,313<br/>
-単語数 (Number of Words): 266,784<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 22, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,314<br/>
+単語数 (Number of Words): 266,914<br/><br/>
 </div>
 
 ## Symbols
@@ -717,6 +717,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Hotchkiss](../posts/0348_hotchkiss/)
 - [<strong><em>Houfuku Zettou</strong></em> (抱腹絶倒 - Holding One's Stomach and Laughing)](../posts/1463_houfuku-zettou/)
 - [<strong><em>Houkou Onchi / Undō Onchi</strong></em> (方向音痴 / 運動音痴)](../posts/1429_houkou-onchi-undo-onchi/)
+- [<strong><em>Hourensou</strong></em> (報連相)](../posts/2314_hourensou/)
 - [Housecleaning for My Move](../posts/0453_housecleaning-for-my-move/)
 - [How many times should we knock a door?](../posts/0085_how-many-times-should-we-knock-a-door/)
 - [How to Express "Now I Understand" in Japanese](../posts/0406_how-to-express-now-i-understand-in-japanese/)
