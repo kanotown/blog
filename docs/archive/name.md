@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 22, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,314<br/>
-単語数 (Number of Words): 266,914<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 23, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,315<br/>
+単語数 (Number of Words): 267,050<br/><br/>
 </div>
 
 ## Symbols
@@ -1451,6 +1451,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ohayo</strong></em> (おはよう - Good Morning)](../posts/1039_ohayo/)
 - [<strong><em>Ohire wo Tsukeru</strong></em> (尾ひれをつける - Embellishing a Story)](../posts/0975_ohire-wo-tsukeru/)
 - [<strong><em>Ohisashi-buri Desu</strong></em> (お久しぶりです - It's been a long time)](../posts/1763_ohisashi-buri-desu/)
+- [<strong><em>Ohitashi</strong></em> (おひたし)](../posts/2315_ohitashi/)
 - [<strong><em>Ohiya</strong></em> (お冷 - Cold Water)](../posts/0960_ohiya/)
 - [<strong><em>Oi</strong></em> (おい - Hey)](../posts/0981_oi/)
 - [<strong><em>Oi no Tenarai</strong></em> (老いの手習い - It's Never Too Late to Learn)](../posts/2027_oi-no-tenarai/)
