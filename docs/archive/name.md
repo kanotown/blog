@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 23, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,315<br/>
-単語数 (Number of Words): 267,050<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 24, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,316<br/>
+単語数 (Number of Words): 267,218<br/><br/>
 </div>
 
 ## Symbols
@@ -1032,6 +1032,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kinchō no Ito ga Kireru</strong></em> (緊張の糸が切れる)](../posts/1245_kincho-no-ito-ga-kireru/)
 - [<strong><em>Kindai University</strong></em> (近畿大学)](../posts/1404_kindai-university/)
 - [Kindergarten Children in Japan](../posts/1203_kindergarten-children-in-japan/)
+- [<strong><em>Kinniku-tsū</strong></em> (筋肉痛 - Muscle Pain)](../posts/2316_kinniku-tsu/)
 - [<strong><em>Kinou no Kyou</strong></em> (昨日の今日 - A Short Period)](../posts/1501_kinou-no-kyou/)
 - [<strong><em>Kinsen ni Fureru</strong></em> (琴線に触れる - Touching a Chord)](../posts/1264_kinsen-ni-fureru/)
 - [<strong><em>Kinu wo Saku youna Koe</strong></em> (絹を裂くような声 - A Piercing Scream)](../posts/1531_kinu-wo-saku-youna-koe/)
