@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 24, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,316<br/>
-単語数 (Number of Words): 267,218<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 25, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,317<br/>
+単語数 (Number of Words): 267,378<br/><br/>
 </div>
 
 ## Symbols
@@ -1704,6 +1704,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Self-introduction updates.](../posts/0003_self-introduction-updates/)
 - [Seminar](../posts/0813_seminar/)
 - [Semishigure](../posts/0584_semishigure/)
+- [<strong><em>Senri no Michi mo Ippo kara</strong></em> (千里の道も一歩から - A Journey of a Thousand Miles Begins with a Single Step)](../posts/2317_senri-no-michi-mo-ippo-kara/)
 - [<strong><em>Senrihin</strong></em> (戦利品 - Spoils of Battle)](../posts/2262_senrihin/)
 - [<strong><em>Sensa Banbetsu</strong></em> (千差万別 - Divers)](../posts/2293_sensa-banbetsu/)
 - [<strong><em>Senshi Bankō</strong></em> (千紫万紅/千思万考 - Multitude of Colors / Repetitice Thinking)](../posts/2286_senshi-banko/)

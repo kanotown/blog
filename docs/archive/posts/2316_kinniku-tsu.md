@@ -74,4 +74,10 @@ Generally, the term 'kinniku-tsū' refers to this type of muscle <span class="f_
 To avoid muscle<span class="f_blue"> soreness/pain</span>, make sure to exercise on a regular basis and remember to stretch before and after exercise.
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>

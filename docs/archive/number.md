@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 24, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,316<br/>
-単語数 (Number of Words): 267,218<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 25, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,317<br/>
+単語数 (Number of Words): 267,378<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2317】<strong><em>Senri no Michi mo Ippo kara</strong></em> (千里の道も一歩から - A Journey of a Thousand Miles Begins with a Single Step)](../posts/2317_senri-no-michi-mo-ippo-kara/)
 - [【No. 2316】<strong><em>Kinniku-tsū</strong></em> (筋肉痛 - Muscle Pain)](../posts/2316_kinniku-tsu/)
 - [【No. 2315】<strong><em>Ohitashi</strong></em> (おひたし)](../posts/2315_ohitashi/)
 - [【No. 2314】<strong><em>Hourensou</strong></em> (報連相)](../posts/2314_hourensou/)
