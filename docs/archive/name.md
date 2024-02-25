@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 25, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,317<br/>
-単語数 (Number of Words): 267,378<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 26, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,318<br/>
+単語数 (Number of Words): 267,483<br/><br/>
 </div>
 
 ## Symbols
@@ -803,6 +803,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Ikitsuke</strong></em> (行きつけ - Regular)](../posts/2118_ikitsuke/)
 - [<strong><em>Ikken Rakuchaku</strong></em> (一件落着 - Problem Solved)](../posts/1519_ikken-rakuchaku/)
 - [<strong><em>Ikki Ichiyū</strong></em> (一喜一憂 - Alternate Joy and Despair)](../posts/1172_ikki-ichiyu/)
+- [<strong><em>Ikkyo Ichidō</strong></em> (一挙一動 - One's Every Action)](../posts/2318_ikkyo-ichido/)
 - [<strong><em>Iku Dō-on</strong></em> (異口同音 - Unanimously)](../posts/1820_iku-do-on/)
 - [Imoni Kai](../posts/0667_imoni-kai/)
 - [<strong><em>Imoppoi</strong></em> (いもっぽい - Countrified)](../posts/1041_imoppoi/)

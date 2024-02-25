@@ -76,4 +76,10 @@ slug: "2317_senri-no-michi-mo-ippo-kara"
 This proverb originates from the words of the ancient Chinese philosopher <span class="f_bold">Laozi.</span>
 </li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the correction!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
