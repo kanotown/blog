@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 26, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,318<br/>
-単語数 (Number of Words): 267,483<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 27, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,319<br/>
+単語数 (Number of Words): 267,607<br/><br/>
 </div>
 
 ## Symbols
@@ -1116,6 +1116,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kutakuta and Hetoheto</strong></em> (「くたくた」と「へとへと」 - Exhausted)](../posts/1121_kutakuta-and-hetoheto/)
 - [<strong><em>Kuwasemono</strong></em> (食わせもの)](../posts/1384_kuwasemono/)
 - [<strong><em>Kuwazu Girai</strong></em> (食わず嫌い - Having a Prejudice)](../posts/1229_kuwazu-girai/)
+- [<strong><em>Kyodoru</strong></em> (キョドる - Acting suspiciously)](../posts/2319_kyodoru/)
 - [<strong><em>Kyoro kyoro</strong></em> (きょろきょろ)](../posts/0912_kyoro-kyoro/)
 - [Kyoto Sightseeing](../posts/0268_kyoto-sightseeing/)
 - [<strong><em>Kyōka Suigetsu</strong></em> (鏡花水月 - Phantom)](../posts/2188_kyoka-suigetsu/)

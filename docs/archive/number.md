@@ -4,12 +4,13 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 26, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,318<br/>
-単語数 (Number of Words): 267,483<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 27, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,319<br/>
+単語数 (Number of Words): 267,607<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2319】<strong><em>Kyodoru</strong></em> (キョドる - Acting suspiciously)](../posts/2319_kyodoru/)
 - [【No. 2318】<strong><em>Ikkyo Ichidō</strong></em> (一挙一動 - One's Every Action)](../posts/2318_ikkyo-ichido/)
 - [【No. 2317】<strong><em>Senri no Michi mo Ippo kara</strong></em> (千里の道も一歩から - A Journey of a Thousand Miles Begins with a Single Step)](../posts/2317_senri-no-michi-mo-ippo-kara/)
 - [【No. 2316】<strong><em>Kinniku-tsū</strong></em> (筋肉痛 - Muscle Pain)](../posts/2316_kinniku-tsu/)
