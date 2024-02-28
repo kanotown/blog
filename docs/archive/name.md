@@ -4,9 +4,9 @@
 
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
-<div style="margin:15px;text-align:right;"><strong>[As of February 28, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,320<br/>
-単語数 (Number of Words): 267,725<br/><br/>
+<div style="margin:15px;text-align:right;"><strong>[As of February 29, 2024]</strong><br/>
+投稿数 (Number of Posts): 2,321<br/>
+単語数 (Number of Words): 267,882<br/><br/>
 </div>
 
 ## Symbols
@@ -1055,6 +1055,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Kodomo no Hi</strong></em> (Children's Day)](../posts/0869_kodomo-no-hi/)
 - [<strong><em>Kodomo wa Kaze no Ko</strong></em> (子供は風の子 - Children Are Open-air Creatures)](../posts/2028_kodomo-wa-kaze-no-ko/)
 - [<strong><em>Kodomobeya Ojisan</strong></em> (子供部屋おじさん - Middle-aged Men in Children's Rooms)](../posts/1789_kodomobeya-ojisan/)
+- [<strong><em>Koeru</strong></em> (肥える - Gaining Weight): Part 2](../posts/2321_koeru/)
 - [<strong><em>Koeru</strong></em> (肥える - Getting Weight): Part 1](../posts/2320_koeru/)
 - [<strong><em>Kogarashi</strong></em> (木枯らし - Cold Autumn Wind)](../posts/1038_kogarashi/)
 - [<strong><em>Koibumi</strong></em> (恋文 - Love Letter)](../posts/1323_koibumi/)

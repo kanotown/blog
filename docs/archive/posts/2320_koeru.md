@@ -20,7 +20,7 @@ slug: "2320_koeru"
 肥える Part 1<br/><br/>今日は「肥える」という動詞の使い方について紹介します。<br/><br/>「肥える」は、人や動物に肉がついて太ることを意味する動詞です。<br/><br/>栄養を取り入れて太るニュアンスが含まれるため、単に「太る」と言うよりも健康的に聞こえるかもしれません。<br/><br/>（もちろん、他人に対して使うと失礼になることが多いので注意してください。）<br/><br/>単に「肥える」と言うと、「太る」に近い意味になりますが、人体の特定の器官に対して使うと違う意味を持ちます。
 </div></div>
 
-## Corrections (1)
+## Corrections (2)
 <div id="block"><div class="first_name"> No. 1　<span class="just_name">O-Star</span></div><div id="block2">
 <ul class="correction_field">
 <li class="incorrect">Koeru (肥える - Getting Weight): Part 1</li>
@@ -62,4 +62,49 @@ Since it includes the nuance of gaining weight by absorbing nutrition, it will s
 <li class="incorrect">However, when it is used for a specific organ of the human body, it has a different meaning.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you for the corrections!
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome.
+</div>
+</div>
+<div id="block"><div class="first_name"> No. 2　<span class="just_name">friendfromfaraway</span></div><div id="block2">
+<ul class="correction_field">
+<li class="incorrect">Today, I would like to introduce the usage of the verb 'koeru' (肥える).</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">Since it includes the nuance of gaining weight by absorbing nutrition, it will sound healthier than simply saying 'futoru' (太る - meaning "to get weight" or "to get fat").</li>
+<li class="corrected correct">
+Since it includes the nuance of gaining weight by absorbing nutrition, it has a <span class="f_blue">connotation of being</span> healthier than simply saying 'futoru' (太る - meaning "to get weight" or "to get fat").
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">(Of course, note that it can often be rude to use these words towards someone else.)</li>
+<li class="corrected correct">
+(Of course, note that it can often be rude to use <span class="f_blue">either of </span>these words towards someone else.)
+</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">As mentioned above, 'koeru' has a meaning similar to 'futoru' when used by itself toward a person or animal.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<ul class="correction_field">
+<li class="incorrect">However, when it is used for a specific organ of the human body, it has a different meaning.</li>
+<li class="corrected perfect">This sentence is perfect! No correction needed!</li>
+</ul>
+<p class="comment_small">
+ Hello Toru! Thank you again for your enlightening post, as always.
+ <br/>
+ <br/>
+ With Lang-8 shutting down, do you plan to continue posting on either Nyan-8 and/or LangCorrect? I am a member of both those sites using the same username as the one I have now.
+ <br/>
+ <br/>
+ It's been a pleasure learning so much from your awesome journal entries, and I hope to see you again sometime in the future!
+</p>
+
+</div><div class="name"><span class="just_name">Toru</span><br>
+Hello, friendfromfaraway-san. Thank you for always checking my entries. :)<br/>I've also registered on Nyan-8 with the same username and exported my data! I'm considering whether to post on Nyan-8, on X (<a href="https://twitter.com/kanotown" target="_blank">https://twitter.com/kanotown</a>), or on my own website. I would be happy to maintain our relationship moving forward!
+</div>
+</div>
