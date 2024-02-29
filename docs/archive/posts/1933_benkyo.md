@@ -8,10 +8,10 @@ comments: true
 slug: "1933_benkyo"
 ---
 
-# 【No. 1933】<strong><em>Benkyō</strong></em> (勉強 - Discounting/Study)
+# 【No. 1933】<strong><em>Benkyō</em></strong> (勉強 - Discounting/Study)
 <div class="date">Aug 11, 2021 14:03</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Benkyō</strong></em><br/><br/>There is a Japanese term, <strong><em>benkyō</em></strong> (勉強), which means "study."<br/><br/>Japanese language learning textbooks will always explain that <em>benkyō</em> means "study" or something similar.<br/><br/>However, in commercial transactions, <em>benkyō</em> is sometimes used to mean "discounting."<br/><br/>Originally, <em>benkyō</em> meant "to be forced to do something" or "to force oneself."<br/><br/>In other words, forcing oneself for merchants means "discounting."<br/><br/>It is believed that such an indirect expression came to be used because using direct expressions such as <strong><em>takai</em></strong> (高い - meaning "expensive") or <strong><em>nebiki</em></strong> (値引き - meaning "discount") is sometimes impolite in negotiations.
+<strong><em>Benkyō</em></strong><br/><br/>There is a Japanese term, <strong><em>benkyō</em></strong> (勉強), which means "study."<br/><br/>Japanese language learning textbooks will always explain that <em>benkyō</em> means "study" or something similar.<br/><br/>However, in commercial transactions, <em>benkyō</em> is sometimes used to mean "discounting."<br/><br/>Originally, <em>benkyō</em> meant "to be forced to do something" or "to force oneself."<br/><br/>In other words, forcing oneself for merchants means "discounting."<br/><br/>It is believed that such an indirect expression came to be used because using direct expressions such as <strong><em>takai</em></strong> (高い - meaning "expensive") or <strong><em>nebiki</em></strong> (値引き - meaning "discount") is sometimes impolite in negotiations.
 </div></div>
 
 <!-- more -->

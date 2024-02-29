@@ -8,10 +8,10 @@ comments: true
 slug: "2071_sode-furi-au-mo-tasho-no-en"
 ---
 
-# 【No. 2071】<strong><em>Sode Furi-au mo Tashō no En</strong></em> (袖振り合うも他生の縁 - Even a Chance Meetings Are Preordained)
+# 【No. 2071】<strong><em>Sode Furi-au mo Tashō no En</em></strong> (袖振り合うも他生の縁 - Even a Chance Meetings Are Preordained)
 <div class="date">Jun 23, 2023 10:50</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sode Furi-au mo Tashō no En</strong></em><br/><br/>In Japan, there is a belief that we should cherish every relationship, even a small one.<br/><br/>The proverb <strong><em>sode furi-au mo tashō no en</em></strong> (袖振り合うも他生の縁) expresses this belief.<br/><br/>Since <strong><em>sode</em></strong> (袖) means "sleeve," <strong><em>furi-au</em></strong> (振り合う/触り合う) means "to touch each other," <strong><em>tashō</em></strong> (他生) means "previous/after life," and <strong><em>en</em></strong> (縁) means "fate/karma," the literal meaning of this proverb is "to touch sleeves each other is karma from a previous life."<br/><br/>In other words, this proverb says that we should cherish every encounter and relationship, no matter how trivial, because it is not by chance but karma from a previous life.
+<strong><em>Sode Furi-au mo Tashō no En</em></strong><br/><br/>In Japan, there is a belief that we should cherish every relationship, even a small one.<br/><br/>The proverb <strong><em>sode furi-au mo tashō no en</em></strong> (袖振り合うも他生の縁) expresses this belief.<br/><br/>Since <strong><em>sode</em></strong> (袖) means "sleeve," <strong><em>furi-au</em></strong> (振り合う/触り合う) means "to touch each other," <strong><em>tashō</em></strong> (他生) means "previous/after life," and <strong><em>en</em></strong> (縁) means "fate/karma," the literal meaning of this proverb is "to touch sleeves each other is karma from a previous life."<br/><br/>In other words, this proverb says that we should cherish every encounter and relationship, no matter how trivial, because it is not by chance but karma from a previous life.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0891_gotaku-wo-naraberu"
 ---
 
-# 【No. 0891】<strong><em>Gotaku wo Naraberu</strong></em> (Give a Song and Dance )
+# 【No. 0891】<strong><em>Gotaku wo Naraberu</em></strong> (Give a Song and Dance )
 <div class="date">May 27, 2017 18:21</div>
 <div id="post"><div id="body_show_ori">
 Woman: "Why were you late for our date today?"<br/><br/>Man: "Yesterday, I played a game until midnight after work. The game is an online game, and I played with my friends. You know, we have to cherish friends, right? <br/>It also can release stress of my work. Although I played the game, I got up early in the morning. Believe me. However, it was hard to decide my hairstyle..."<br/><br/>Woman: "Enough. Don't line up gotaku (Don't give me a song and dance)!"<br/><br/>The idiom "gotaku wo naraberu" means to say selfish reasons in a snobbish manner like this man.<br/><br/>"Gotaku" is an abbreviation for "gotakusen," which means to say someone's thought as if it were a statement of God, and "naraberu" means to "line up something."<br/><br/>In such a case, you should say sorry first instead of lining up gotaku.

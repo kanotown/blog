@@ -8,10 +8,10 @@ comments: true
 slug: "2246_shirazu-shirazu"
 ---
 
-# 【No. 2246】<strong><em>Shirazu Shirazu</strong></em> (知らず知らず - Unconsciously)
+# 【No. 2246】<strong><em>Shirazu Shirazu</em></strong> (知らず知らず - Unconsciously)
 <div class="date">Dec 15, 2023 17:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shirazu Shirazu</strong></em><br/><br/>The Japanese phrase <strong><em>shirazu shirazu</em></strong> (知らず知らず) is used to describe a situation where you are unaware that you are doing something or being in a certain state.<br/><br/>Since <strong><em>shiru/shira</em></strong> (知る/知ら) means "to know," and <strong><em>zu</em></strong> (ず) is a negative suffix, the literal meaning of <em>shirazu shirazu</em> is "not knowing not knowing."<br/><br/>In other words, this phrase implies that you are doing something without knowing or realizing it.<br/><br/>In many cases, it is used as <strong><em>shirazu shirazu no uchi ni</em></strong> (知らず知らずのうちに), together with <strong><em>no uchi ni</em></strong> (のうちに - meaning "while" or "during").
+<strong><em>Shirazu Shirazu</em></strong><br/><br/>The Japanese phrase <strong><em>shirazu shirazu</em></strong> (知らず知らず) is used to describe a situation where you are unaware that you are doing something or being in a certain state.<br/><br/>Since <strong><em>shiru/shira</em></strong> (知る/知ら) means "to know," and <strong><em>zu</em></strong> (ず) is a negative suffix, the literal meaning of <em>shirazu shirazu</em> is "not knowing not knowing."<br/><br/>In other words, this phrase implies that you are doing something without knowing or realizing it.<br/><br/>In many cases, it is used as <strong><em>shirazu shirazu no uchi ni</em></strong> (知らず知らずのうちに), together with <strong><em>no uchi ni</em></strong> (のうちに - meaning "while" or "during").
 </div></div>
 
 <!-- more -->

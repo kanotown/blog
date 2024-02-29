@@ -8,7 +8,7 @@ comments: true
 slug: "0608_hito-no-uwasa-mo-shichijugo-nichi"
 ---
 
-# 【No. 0608】<strong><em>Hito no Uwasa mo Shichijugo-nichi</strong></em> (Gossip Lasts 75 Days)
+# 【No. 0608】<strong><em>Hito no Uwasa mo Shichijugo-nichi</em></strong> (Gossip Lasts 75 Days)
 <div class="date">Aug 17, 2016 02:56</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese proverb "hito no uwasa mo shichijugo-nichi" (gossip lasts 75 days).<br/><br/>As the term suggests, this proverb means that any gossip doesn't last more than 75 days, and it will be forgotten naturally in due course.<br/><br/>We often use this proverb as comforting words for a person who is depressed due to his/her bad gossip, e.g., "It's okay because gossip lasts less than only 75 days. "<br/><br/>The most acceptable reason why the number 75 is used is that there were five seasons once in Japan, and one season is around 75 days.<br/><br/>That is to say, our ancestors thought that any gossip would faded when seasons change.

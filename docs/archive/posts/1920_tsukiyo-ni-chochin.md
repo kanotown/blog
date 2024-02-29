@@ -8,10 +8,10 @@ comments: true
 slug: "1920_tsukiyo-ni-chochin"
 ---
 
-# 【No. 1920】<strong><em>Tsukiyo ni Chōchin</strong></em> (月夜に提灯 - Unnecessary)
+# 【No. 1920】<strong><em>Tsukiyo ni Chōchin</em></strong> (月夜に提灯 - Unnecessary)
 <div class="date">Jul 29, 2021 14:29</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tsukiyo ni Chōchin</strong></em><br/><br/>Unnecessary or useless things are sometimes described as <strong><em>tsukiyo ni chōchin</em></strong> (月夜に提灯) in Japanese.<br/><br/>Since <strong><em>tsuki</em></strong> (月) means "moon," <strong><em>yo</em></strong> (夜) means "night," and <strong><em>chōchin</em></strong> (提灯) means "(traditional Japanese) lantern," the literal meaning of <em>tsukiyo ni chōchin</em> is "a Japanese lantern on a moonlit night."<br/><br/>"Moonlit night" here refers especially to "a night with a full and bright moon."<br/><br/>Such a night is already bright enough, so lanterns are unnecessary.<br/><br/>However, in my opinion, a scene with a traditional Japanese lantern on a moonlit night is atmospheric and attractive. 
+<strong><em>Tsukiyo ni Chōchin</em></strong><br/><br/>Unnecessary or useless things are sometimes described as <strong><em>tsukiyo ni chōchin</em></strong> (月夜に提灯) in Japanese.<br/><br/>Since <strong><em>tsuki</em></strong> (月) means "moon," <strong><em>yo</em></strong> (夜) means "night," and <strong><em>chōchin</em></strong> (提灯) means "(traditional Japanese) lantern," the literal meaning of <em>tsukiyo ni chōchin</em> is "a Japanese lantern on a moonlit night."<br/><br/>"Moonlit night" here refers especially to "a night with a full and bright moon."<br/><br/>Such a night is already bright enough, so lanterns are unnecessary.<br/><br/>However, in my opinion, a scene with a traditional Japanese lantern on a moonlit night is atmospheric and attractive. 
 </div></div>
 
 <!-- more -->

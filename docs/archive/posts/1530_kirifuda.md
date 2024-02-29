@@ -8,10 +8,10 @@ comments: true
 slug: "1530_kirifuda"
 ---
 
-# 【No. 1530】<strong><em>Kirifuda</strong></em> (切り札 - Trump)
+# 【No. 1530】<strong><em>Kirifuda</em></strong> (切り札 - Trump)
 <div class="date">Feb 25, 2019 22:12</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kirifuda</strong></em><br/><br/>Yesterday, I introduced you to the Japanese term <strong><em>denka no houtou</em></strong> (伝家の宝刀), which means a measure of last resort that you use in an emergency.<br/><br/>There is another Japanese term that has a similar meaning, <strong><em>kirifuda</em></strong> (切り札).<br/><br/><strong><em>Kiri</em></strong> (切り) means "cut," <strong><em>fuda</em></strong> (札) means "card," and <em>kirifuda</em> was originally used to mean the strongest card in card games.<br/><br/>As you can guess, the strongest card is a measure/thing that you can use in an emergency.<br/><br/>There are several theories about its etymology, but one of them explains that it comes from the fact that the strongest card could cut other cards.
+<strong><em>Kirifuda</em></strong><br/><br/>Yesterday, I introduced you to the Japanese term <strong><em>denka no houtou</em></strong> (伝家の宝刀), which means a measure of last resort that you use in an emergency.<br/><br/>There is another Japanese term that has a similar meaning, <strong><em>kirifuda</em></strong> (切り札).<br/><br/><strong><em>Kiri</em></strong> (切り) means "cut," <strong><em>fuda</em></strong> (札) means "card," and <em>kirifuda</em> was originally used to mean the strongest card in card games.<br/><br/>As you can guess, the strongest card is a measure/thing that you can use in an emergency.<br/><br/>There are several theories about its etymology, but one of them explains that it comes from the fact that the strongest card could cut other cards.
 </div></div>
 
 <!-- more -->

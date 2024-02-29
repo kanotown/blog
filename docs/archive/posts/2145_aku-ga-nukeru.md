@@ -8,10 +8,10 @@ comments: true
 slug: "2145_aku-ga-nukeru"
 ---
 
-# 【No. 2145】<strong><em>Aku ga Nukeru</strong></em> (灰汁が抜ける - Becoming Refined)
+# 【No. 2145】<strong><em>Aku ga Nukeru</em></strong> (灰汁が抜ける - Becoming Refined)
 <div class="date">Sep 5, 2023 19:54</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Aku ga Nukeru</strong></em><br/><br/>The Japanese idiom, <strong><em>aku ga nukeru</em></strong> (灰汁が抜ける), describes that someone's personality or appearance loses its negative aspects and becomes refined.<br/><br/>The term <strong><em>aku</em></strong> (灰汁 - literally "lye") refers to the bitter, astringent, or harsh taste in food, and it is often removed in cooking to make the dish tastier.<br/><br/>In addition, <strong><em>nukeru</em></strong> (抜ける) means "to be removed," so the literal meaning of <em>aku ga nukeru</em> is "a bad taste is removed."<br/><br/>In other words, in this idiom, <em>aku</em>, the ingredients that make the dish taste bad, is a metaphor for the negative aspects of a person.
+<strong><em>Aku ga Nukeru</em></strong><br/><br/>The Japanese idiom, <strong><em>aku ga nukeru</em></strong> (灰汁が抜ける), describes that someone's personality or appearance loses its negative aspects and becomes refined.<br/><br/>The term <strong><em>aku</em></strong> (灰汁 - literally "lye") refers to the bitter, astringent, or harsh taste in food, and it is often removed in cooking to make the dish tastier.<br/><br/>In addition, <strong><em>nukeru</em></strong> (抜ける) means "to be removed," so the literal meaning of <em>aku ga nukeru</em> is "a bad taste is removed."<br/><br/>In other words, in this idiom, <em>aku</em>, the ingredients that make the dish taste bad, is a metaphor for the negative aspects of a person.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0288_darashinai"
 ---
 
-# 【No. 0288】<strong><em>Darashinai</strong></em> (Scruffy)
+# 【No. 0288】<strong><em>Darashinai</em></strong> (Scruffy)
 <div class="date">Oct 2, 2015 12:26</div>
 <div id="post"><div id="body_show_ori">
 Today, I'd like to introduce a Japanese term "darashi-nai."<br/><br/>"Darashi-nai" means something like "scruffy" or "sloppy."<br/><br/>However, no Japanese can explain what is "darashi."<br/><br/>Actually, "darashi" has no meaning, and "darashi-nai" is an anagram of "shidara-nai."<br/><br/>"Shidara" is derived from "Zidaraku(means sloppy)," and "nai" emphasize "shidara."<br/><br/>The reason why "shidaranai" became "darashinai" is thought that initial dullness could give a bad impression, or it's similar to the Japanese imitative word "daradara(means lazy)."

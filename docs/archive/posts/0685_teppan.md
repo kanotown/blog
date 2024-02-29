@@ -8,7 +8,7 @@ comments: true
 slug: "0685_teppan"
 ---
 
-# 【No. 0685】<strong><em>Teppan</strong></em> (Iron Plate)
+# 【No. 0685】<strong><em>Teppan</em></strong> (Iron Plate)
 <div class="date">Nov 2, 2016 21:06</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese slang "teppan".<br/><br/>"Teppan" usually means "a iron plate" literally, but it has also the adjective meaning of "no doubt" or "reliable".<br/><br/>For example, if you say "a teppan joke," it will mean "a joke that surely makes everyone laugh."<br/><br/>The etymology is very simple: a teppan (an iron plate) has an image as solid.<br/><br/>This slang has been used since the mid Showa era (around 50 years ago) among gamblers.<br/><br/>For example, if you say "a teppan race" on a horse racing, it will mean "a race that is almost certain to win (though the payment rate is low)."<br/><br/>In recent year, this slang has rapidly spread to our lives through comedians.

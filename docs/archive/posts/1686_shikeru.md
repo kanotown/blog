@@ -8,10 +8,10 @@ comments: true
 slug: "1686_shikeru"
 ---
 
-# 【No. 1686】<strong><em>Shikeru</strong></em> (時化る - Stormy Sea)
+# 【No. 1686】<strong><em>Shikeru</em></strong> (時化る - Stormy Sea)
 <div class="date">Jul 31, 2019 18:15</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shikeru</strong></em><br/><br/>The Japanese term <strong><em>shikeru</em></strong> (時化る) means that a storm makes the rough sea or the rough sea brings a poor haul.<br/><br/><em>Shikeru</em> comes from <strong><em>Shikke</em></strong> (湿気), which means "humidity/moisture," and it was originally meant cloudy weather.<br/><br/>Later, <em>shikeru</em> came to mean the stormy sea from the meaning of cloudy weather.<br/><br/>In addition, it can also mean deterioration in the economy or feeling depressed.<br/><br/>For example, you can say <strong><em>shiketa mise</em></strong> (しけた店 - which means "seedy store") or <strong><em>shiketa kao</em></strong> (しけた顔 which means "glum look").
+<strong><em>Shikeru</em></strong><br/><br/>The Japanese term <strong><em>shikeru</em></strong> (時化る) means that a storm makes the rough sea or the rough sea brings a poor haul.<br/><br/><em>Shikeru</em> comes from <strong><em>Shikke</em></strong> (湿気), which means "humidity/moisture," and it was originally meant cloudy weather.<br/><br/>Later, <em>shikeru</em> came to mean the stormy sea from the meaning of cloudy weather.<br/><br/>In addition, it can also mean deterioration in the economy or feeling depressed.<br/><br/>For example, you can say <strong><em>shiketa mise</em></strong> (しけた店 - which means "seedy store") or <strong><em>shiketa kao</em></strong> (しけた顔 which means "glum look").
 </div></div>
 
 <!-- more -->

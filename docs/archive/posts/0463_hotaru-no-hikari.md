@@ -8,7 +8,7 @@ comments: true
 slug: "0463_hotaru-no-hikari"
 ---
 
-# 【No. 0463】<strong><em>Hotaru no Hikari</strong></em> (Glowing Firefly)
+# 【No. 0463】<strong><em>Hotaru no Hikari</em></strong> (Glowing Firefly)
 <div class="date">Mar 25, 2016 19:11</div>
 <div id="post"><div id="body_show_ori">
 March is the season of graduation in Japan.<br/><br/>In Japanese commencement ceremonies, we often sing "hotaru no hikari (glowing firefly)" as a farewell song.<br/><br/>The original song of "hotaru no hikari" is the Scottish folk song "Auld Lang Syne," which is comparable to the Scottish national anthem.<br/><br/>Also, "Auld Lang Syne" has spread all over the world. <br/><br/>Actually, Japanese people sing in favor of songs that were derived from Scottish folk songs in addition to "Auld Lang Syne."<br/><br/>One of the reasons is thought that the musical scale of Scottish folk songs is the same as the Japanese traditional one (5 musical scale).<br/>

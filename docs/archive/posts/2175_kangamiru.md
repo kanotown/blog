@@ -8,10 +8,10 @@ comments: true
 slug: "2175_kangamiru"
 ---
 
-# 【No. 2175】<strong><em>Kangamiru</strong></em> (鑑みる - Reflecting On)
+# 【No. 2175】<strong><em>Kangamiru</em></strong> (鑑みる - Reflecting On)
 <div class="date">Oct 5, 2023 10:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kangamiru</strong></em><br/><br/>To consider something with reference to examples is called <strong><em>kangamiru</em></strong> (鑑みる) in Japanese.<br/><br/><em>Kangamiru</em> was created by verbalizing the word <strong><em>kagami</em></strong> (鏡) or <strong><em>kagami</em></strong> (鑑), which means "mirror."<br/><br/>Originally, the kanji characters 鏡 and 鑑 shared the same meaning. However, today, 鏡 is often used to mean "a tool that reflects objects with light (i.e. a mirror)," while 鑑 is used to mean "reference" or "model."<br/><br/>Incidentally, people sometimes debate whether the appropriate particle to use before <em>kangamiru</em> is <strong><em>ni</em></strong> (に) or <strong><em>wo</em></strong> (を).<br/><br/>Traditionally, <em>ni</em> has been considered appropriate, but the use of <em>wo</em> has been increased, and both are becoming accepted.
+<strong><em>Kangamiru</em></strong><br/><br/>To consider something with reference to examples is called <strong><em>kangamiru</em></strong> (鑑みる) in Japanese.<br/><br/><em>Kangamiru</em> was created by verbalizing the word <strong><em>kagami</em></strong> (鏡) or <strong><em>kagami</em></strong> (鑑), which means "mirror."<br/><br/>Originally, the kanji characters 鏡 and 鑑 shared the same meaning. However, today, 鏡 is often used to mean "a tool that reflects objects with light (i.e. a mirror)," while 鑑 is used to mean "reference" or "model."<br/><br/>Incidentally, people sometimes debate whether the appropriate particle to use before <em>kangamiru</em> is <strong><em>ni</em></strong> (に) or <strong><em>wo</em></strong> (を).<br/><br/>Traditionally, <em>ni</em> has been considered appropriate, but the use of <em>wo</em> has been increased, and both are becoming accepted.
 </div></div>
 
 <!-- more -->

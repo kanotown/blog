@@ -8,7 +8,7 @@ comments: true
 slug: "1104_yakatabune"
 ---
 
-# 【No. 1104】<strong><em>Yakatabune</strong></em> (屋形船 - Houseboat)
+# 【No. 1104】<strong><em>Yakatabune</em></strong> (屋形船 - Houseboat)
 <div class="date">Dec 26, 2017 17:07</div>
 <div id="post"><div id="body_show_ori">
 I'd like to take a 屋形船 (yakatabune) someday.<br/><br/>屋形船 means a Japanese style boat that is equipped with a roof and tatami mats, and it is mainly used for enjoying meals and sightseeing while cruising.<br/><br/>Here the 屋形 (yakata) means a mansion of nobles and the 船 (fune/bune) means a boat/ship.<br/><br/>Formerly, 屋形船 was used by nobles for enjoying cherry blossom viewing, moon viewing,  and fireworks.<br/><br/>These days everyone can enjoy 屋形船, but the cost to reserve it is expensive, so it's not easy to take it.<br/><br/>If you have time, check for "yakatabune" or "屋形船" on Google Images.

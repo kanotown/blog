@@ -8,7 +8,7 @@ comments: true
 slug: "1730_atarimae"
 ---
 
-# 【No. 1730】<strong><em>Atarimae</strong></em> (当たり前 - Of Course) Part 2
+# 【No. 1730】<strong><em>Atarimae</em></strong> (当たり前 - Of Course) Part 2
 <div class="date">Sep 12, 2019 14:52</div>
 <div id="post"><div id="body_show_ori">
 Atariame Part 2<br/><br/>This entry is a continuation of yesterday's post.<br/><br/>The other theory of <strong><em>atarimae</em></strong> (当たり前 - "of course/natural/obvious") is that it comes from the phonetic equivalent.<br/><br/>Since 当 and 前 can be read as <em>tō</em> and <em>zen</em>, respectively, the combination 当前 can be read as <em>tōzen</em>, and the phonetic equivalent term <strong><em>tōzen</em></strong> (当然) means "of course" or "by rights."<br/><br/>By using Japanese readings for 当前, the term <strong><em>atarimae</em></strong> (当たり前) was borne.<br/><br/>Incidentally, please be careful when you use <em>atarimae</em>, because it is often used sarcastically.

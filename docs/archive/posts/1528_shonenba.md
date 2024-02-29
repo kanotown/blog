@@ -8,10 +8,10 @@ comments: true
 slug: "1528_shonenba"
 ---
 
-# 【No. 1528】<strong><em>Shōnenba</strong></em> (正念場 - A Crucial Phase)
+# 【No. 1528】<strong><em>Shōnenba</em></strong> (正念場 - A Crucial Phase)
 <div class="date">Feb 23, 2019 04:04</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shōnenba</strong></em><br/><br/>In the meeting of my university several days ago, the word <strong><em>shōnenba</em></strong> (正念場) was used to the university operations next fiscal year.<br/><br/><em>Shōnenba</em> means a crucial phase or situation.<br/><br/><strong><em>Shōnen</em></strong> (正念) is a Buddhist term, meaning to seek the right mind or the truth.<br/><br/>In addition, <strong><em>ba</em></strong> (場) means "field" or "situation."<br/><br/>That is to say, <em>shōnenba</em> represents a very important situation that requires the right heart or the truth.<br/><br/>[Example]<br/><strong><em>Senkyo ga shōnenba wo mukaeru</em></strong> (選挙が正念場を迎える - "The election faces a crucial stage").
+<strong><em>Shōnenba</em></strong><br/><br/>In the meeting of my university several days ago, the word <strong><em>shōnenba</em></strong> (正念場) was used to the university operations next fiscal year.<br/><br/><em>Shōnenba</em> means a crucial phase or situation.<br/><br/><strong><em>Shōnen</em></strong> (正念) is a Buddhist term, meaning to seek the right mind or the truth.<br/><br/>In addition, <strong><em>ba</em></strong> (場) means "field" or "situation."<br/><br/>That is to say, <em>shōnenba</em> represents a very important situation that requires the right heart or the truth.<br/><br/>[Example]<br/><strong><em>Senkyo ga shōnenba wo mukaeru</em></strong> (選挙が正念場を迎える - "The election faces a crucial stage").
 </div></div>
 
 <!-- more -->

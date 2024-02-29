@@ -8,10 +8,10 @@ comments: true
 slug: "1213_daishiteru"
 ---
 
-# 【No. 1213】<strong><em>Daishiteru</strong></em> (だいしてる - I Love You)
+# 【No. 1213】<strong><em>Daishiteru</em></strong> (だいしてる - I Love You)
 <div class="date">Apr 14, 2018 13:16</div>
 <div id="post"><div id="body_show_ori">
-I think that if you are learning Japanese, you would know the meanings of Japanese phrases, "daisuki" (大好き) and "aishiteru" (愛してる).<br/><br/>"Daisuki" means "I like you very much," and "aishiteru" means "I love you."<br/><br/>Today, I learned that recent young women use a coined word "daishiteru" (だいしてる), which is short for "daisuki, aishiteru."<br/><br/>In fact, "daishiteru" ranked as the number 3 on "Gyaru Ryukogo Taisho" (ギャル流行語大賞 - Girls' Keywords-of-the-Year contest) in 2017.<br/><br/>However, note that since "dai" (だい/大) is sometimes used as a metaphor for "stool," some people might regard "daishiteru" as "I'm stooling."
+<strong><em>Daishiteru</em></strong><br/><br/>I think that if you are learning Japanese, you would know the meanings of Japanese phrases, "daisuki" (大好き) and "aishiteru" (愛してる).<br/><br/>"Daisuki" means "I like you very much," and "aishiteru" means "I love you."<br/><br/>Today, I learned that recent young women use a coined word "daishiteru" (だいしてる), which is short for "daisuki, aishiteru."<br/><br/>In fact, "daishiteru" ranked as the number 3 on "Gyaru Ryukogo Taisho" (ギャル流行語大賞 - Girls' Keywords-of-the-Year contest) in 2017.<br/><br/>However, note that since "dai" (だい/大) is sometimes used as a metaphor for "stool," some people might regard "daishiteru" as "I'm stooling."
 </div></div>
 
 <!-- more -->

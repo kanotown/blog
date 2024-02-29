@@ -8,10 +8,10 @@ comments: true
 slug: "1696_shiko-sakugo"
 ---
 
-# 【No. 1696】<strong><em>Shikō Sakugo</strong></em> (試行錯誤 - Trial and Error)
+# 【No. 1696】<strong><em>Shikō Sakugo</em></strong> (試行錯誤 - Trial and Error)
 <div class="date">Aug 11, 2019 15:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shikō Sakugo</strong></em><br/><br/>I like a kind of methods for solving problems, <strong><em>shikō sakugo</em></strong> (試行錯誤).<br/><br/><strong><em>Shikō</em></strong> (試行) means "to try something" and <strong><em>sakugo</em></strong> (錯誤) means "error" or "mistake."<br/><br/>That is to say, <em>sikō sakugo</em> means that you try to find a method for solving a problem by repeating trial and error.<br/><br/>As mentioned above, this four-character idiom is often translated as "trial and error."<br/><br/>However, somehow many Japanese people refer to "trial and error" as <strong><em>torai ando erā</em></strong> (トライアンドエラー - "try and error").
+<strong><em>Shikō Sakugo</em></strong><br/><br/>I like a kind of methods for solving problems, <strong><em>shikō sakugo</em></strong> (試行錯誤).<br/><br/><strong><em>Shikō</em></strong> (試行) means "to try something" and <strong><em>sakugo</em></strong> (錯誤) means "error" or "mistake."<br/><br/>That is to say, <em>sikō sakugo</em> means that you try to find a method for solving a problem by repeating trial and error.<br/><br/>As mentioned above, this four-character idiom is often translated as "trial and error."<br/><br/>However, somehow many Japanese people refer to "trial and error" as <strong><em>torai ando erā</em></strong> (トライアンドエラー - "try and error").
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2002_shunmin-akatsuki-wo-oboezu"
 ---
 
-# 【No. 2002】<strong><em>Shunmin Akatsuki wo Oboezu</strong></em> (春眠暁を覚えず - In Spring One Sleeps a Sleep That Knows No Dawn)
+# 【No. 2002】<strong><em>Shunmin Akatsuki wo Oboezu</em></strong> (春眠暁を覚えず - In Spring One Sleeps a Sleep That Knows No Dawn)
 <div class="date">Apr 15, 2023 12:10</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shunmin Akatsuki wo Oboezu</strong></em><br/><br/>The temperature was so pleasant today's morning that I overslept.<br/><br/>It is <strong><em>shunmin akatsuki wo oboezu</em></strong> (春眠暁を覚えず).<br/><br/>Since <strong><em>shun</em></strong> (春) means "spring," <strong><em>min</em></strong> (眠) means "sleep," <strong><em>akatsuki</em></strong> (暁) means "dawn," <strong><em>oboe/oboeru</em></strong> (覚える) means "to memorize/feel," and <strong><em>zu</em></strong> (ず) is a negative suffix, the literal meaning of this proverb is "spring sleep does not let you feel the dawn."<br/><br/>In other words, spring nights are so comfortable for sleeping that you do not notice the dawn and tend to oversleep.<br/><br/>This proverb comes from Chinese poetry.
+<strong><em>Shunmin Akatsuki wo Oboezu</em></strong><br/><br/>The temperature was so pleasant today's morning that I overslept.<br/><br/>It is <strong><em>shunmin akatsuki wo oboezu</em></strong> (春眠暁を覚えず).<br/><br/>Since <strong><em>shun</em></strong> (春) means "spring," <strong><em>min</em></strong> (眠) means "sleep," <strong><em>akatsuki</em></strong> (暁) means "dawn," <strong><em>oboe/oboeru</em></strong> (覚える) means "to memorize/feel," and <strong><em>zu</em></strong> (ず) is a negative suffix, the literal meaning of this proverb is "spring sleep does not let you feel the dawn."<br/><br/>In other words, spring nights are so comfortable for sleeping that you do not notice the dawn and tend to oversleep.<br/><br/>This proverb comes from Chinese poetry.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1660_tariki-hongan"
 ---
 
-# 【No. 1660】<strong><em>Tariki Hongan</strong></em> (他力本願 - Relying on Someone)
+# 【No. 1660】<strong><em>Tariki Hongan</em></strong> (他力本願 - Relying on Someone)
 <div class="date">Jul 5, 2019 16:35</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tariki Hongan</strong></em><br/><br/>Relying on someone or leaving your work to someone is sometimes called <strong><em>tariki hongan</em></strong> (他力本願) in Japanese.<br/><br/><strong><em>Ta</em></strong> (他) means "other," <strong><em>riki</em></strong> (力) means "power," <strong><em>hon</em></strong> (本) means "true," and <strong><em>gan</em></strong> (願) means "wish," so you may think that this four-character idiom expresses its literal meaning.<br/><br/>However, both <strong><em>tariki</em></strong> (他力) and <strong><em>hongan</em></strong> (本願) are Buddhist terms -- <em>tariki</em> means "the power of Amitabha Buddha" and <em>hongan</em> means "a wish to have people become Buddha."<br/><br/>That is to say, originally <em>tariki hongan</em> means "to become a Buddha relying on the power of Amitabha Buddha."<br/><br/>It is thought that the meaning of "relying on someone" was made from the meaning of each kanji, then it became popular.
+<strong><em>Tariki Hongan</em></strong><br/><br/>Relying on someone or leaving your work to someone is sometimes called <strong><em>tariki hongan</em></strong> (他力本願) in Japanese.<br/><br/><strong><em>Ta</em></strong> (他) means "other," <strong><em>riki</em></strong> (力) means "power," <strong><em>hon</em></strong> (本) means "true," and <strong><em>gan</em></strong> (願) means "wish," so you may think that this four-character idiom expresses its literal meaning.<br/><br/>However, both <strong><em>tariki</em></strong> (他力) and <strong><em>hongan</em></strong> (本願) are Buddhist terms -- <em>tariki</em> means "the power of Amitabha Buddha" and <em>hongan</em> means "a wish to have people become Buddha."<br/><br/>That is to say, originally <em>tariki hongan</em> means "to become a Buddha relying on the power of Amitabha Buddha."<br/><br/>It is thought that the meaning of "relying on someone" was made from the meaning of each kanji, then it became popular.
 </div></div>
 
 <!-- more -->

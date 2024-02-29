@@ -8,10 +8,10 @@ comments: true
 slug: "1956_anzuru-yori-umu-ga-yasushi"
 ---
 
-# 【No. 1956】<strong><em>Anzuru yori Umu ga Yasushi</strong></em> (案ずるより産むが易し - Fear Often Exaggerates Danger)
+# 【No. 1956】<strong><em>Anzuru yori Umu ga Yasushi</em></strong> (案ずるより産むが易し - Fear Often Exaggerates Danger)
 <div class="date">Sep 3, 2021 08:13</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Anzuru yori Umu ga Yasushi</strong></em><br/><br/>Today, I will get a COVID-19 vaccine.<br/><br/>I am nervous because of the possibility of adverse reactions, but I believe in the proverb, <strong><em>anzuru yori umu ga yasushi</em></strong> (案ずるより産むが易し).<br/><br/>Since <strong><em>anzuru</em></strong> (案ずる) means "to worry," <strong><em>yori</em></strong> (より) means "more than," <strong><em>umu</em></strong> (産む) means "to give birth," and <strong><em>yasushi</em></strong> (易し) means "easy," the literal meaning of <em>anzuru yori umu ga yasushi</em> is "It is easier to give birth than to worry about it."<br/><br/>Pregnant women tend to worry about giving birth, but after the birth, they are often calm as if nothing happened.<br/><br/>For this reason, this proverb means that people worry too much before doing something, but it is often not a big deal.
+<strong><em>Anzuru yori Umu ga Yasushi</em></strong><br/><br/>Today, I will get a COVID-19 vaccine.<br/><br/>I am nervous because of the possibility of adverse reactions, but I believe in the proverb, <strong><em>anzuru yori umu ga yasushi</em></strong> (案ずるより産むが易し).<br/><br/>Since <strong><em>anzuru</em></strong> (案ずる) means "to worry," <strong><em>yori</em></strong> (より) means "more than," <strong><em>umu</em></strong> (産む) means "to give birth," and <strong><em>yasushi</em></strong> (易し) means "easy," the literal meaning of <em>anzuru yori umu ga yasushi</em> is "It is easier to give birth than to worry about it."<br/><br/>Pregnant women tend to worry about giving birth, but after the birth, they are often calm as if nothing happened.<br/><br/>For this reason, this proverb means that people worry too much before doing something, but it is often not a big deal.
 </div></div>
 
 <!-- more -->

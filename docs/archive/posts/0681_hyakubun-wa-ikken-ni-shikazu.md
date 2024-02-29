@@ -8,7 +8,7 @@ comments: true
 slug: "0681_hyakubun-wa-ikken-ni-shikazu"
 ---
 
-# 【No. 0681】<strong><em>Hyakubun wa Ikken ni Shikazu</strong></em> (Seeing is Believing)
+# 【No. 0681】<strong><em>Hyakubun wa Ikken ni Shikazu</em></strong> (Seeing is Believing)
 <div class="date">Oct 29, 2016 15:25</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the proverb "hyakubun wa ikken ni shikazu."<br/><br/>"Hyakubun" means "to hear something 100 times," "ikken" means "to see something once," and this proverb expresses that you can get better understanding by seeing once than hearing 100 times.<br/><br/>For example, a beautiful scenery is certainly fit the "hyakubun wa ikken ni shikazu."<br/><br/>Currently, this proverb is also used to mean that since hearsay information might be wrong, you should see it for yourself.<br/><br/>In other words, it says that before you believe every word someone says, you should confirm them with your eyes.<br/><br/>By the way, this proverb comes from historical records of the Han Dynasty.

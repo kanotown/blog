@@ -8,10 +8,10 @@ comments: true
 slug: "1402_tama-ni-kizu"
 ---
 
-# 【No. 1402】<strong><em>Tama ni Kizu</strong></em> (玉に瑕 - Even the Sun Has Spots)
+# 【No. 1402】<strong><em>Tama ni Kizu</em></strong> (玉に瑕 - Even the Sun Has Spots)
 <div class="date">Oct 20, 2018 15:32</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tama ni Kizu</strong></em><br/><br/>Is there a perfect person or thing around you?<br/><br/>I think that most people and things have shortcomings, even if they look perfect.<br/><br/>If you want to describe a person or thing that looks perfect but has a slight shortcoming like this, you can use the proverb <strong><em>tama ni kizu</em></strong> (玉に瑕).<br/><br/><strong><em>Tama</em></strong> (玉) means "jewelry" and <strong><em>kizu</em></strong> (瑕) means "scratch" or "fault."<br/><br/>This proverb was born in China, and originally it literally meant "a slight scratch/scar on a beautiful jewelry," but these days it often used to mean "a person who looks perfect but has a small fault."
+<strong><em>Tama ni Kizu</em></strong><br/><br/>Is there a perfect person or thing around you?<br/><br/>I think that most people and things have shortcomings, even if they look perfect.<br/><br/>If you want to describe a person or thing that looks perfect but has a slight shortcoming like this, you can use the proverb <strong><em>tama ni kizu</em></strong> (玉に瑕).<br/><br/><strong><em>Tama</em></strong> (玉) means "jewelry" and <strong><em>kizu</em></strong> (瑕) means "scratch" or "fault."<br/><br/>This proverb was born in China, and originally it literally meant "a slight scratch/scar on a beautiful jewelry," but these days it often used to mean "a person who looks perfect but has a small fault."
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1997_sou-wa-tonya-ga-orosanai"
 ---
 
-# 【No. 1997】<strong><em>Sou wa Tonya ga Orosanai</strong></em> (そうは問屋が卸さない - No Such Luck)
+# 【No. 1997】<strong><em>Sou wa Tonya ga Orosanai</em></strong> (そうは問屋が卸さない - No Such Luck)
 <div class="date">Apr 10, 2023 17:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sou wa Tonya ga Orosanai</strong></em><br/><br/>When things do not work out as expected, you can use the expression <strong><em>sou wa tonya ga orosanai</em></strong> (そうは問屋が卸さない).<br/><br/>Since <strong><em>sou</em></strong> (そう) means "such," <strong><em>tonya</em></strong> (問屋) means "wholesaler," <strong><em>orosu/orosa</em></strong> (卸す/卸さ) means "to distribute," and <strong><em>nai</em></strong> (ない) is a negative prefix, the literal meaning of this phrase is "Wholesalers will not distribute such a thing."<br/><br/>A more precise expression would be, "Wholesalers will not the goods at such a low price."<br/><br/>You can use this when someone has a shallow thought or when things fail contrary to one's expectations.
+<strong><em>Sou wa Tonya ga Orosanai</em></strong><br/><br/>When things do not work out as expected, you can use the expression <strong><em>sou wa tonya ga orosanai</em></strong> (そうは問屋が卸さない).<br/><br/>Since <strong><em>sou</em></strong> (そう) means "such," <strong><em>tonya</em></strong> (問屋) means "wholesaler," <strong><em>orosu/orosa</em></strong> (卸す/卸さ) means "to distribute," and <strong><em>nai</em></strong> (ない) is a negative prefix, the literal meaning of this phrase is "Wholesalers will not distribute such a thing."<br/><br/>A more precise expression would be, "Wholesalers will not the goods at such a low price."<br/><br/>You can use this when someone has a shallow thought or when things fail contrary to one's expectations.
 </div></div>
 
 <!-- more -->

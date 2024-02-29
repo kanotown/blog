@@ -8,10 +8,10 @@ comments: true
 slug: "1399_inase"
 ---
 
-# 【No. 1399】<strong><em>Inase</strong></em> (いなせ)
+# 【No. 1399】<strong><em>Inase</em></strong> (いなせ)
 <div class="date">Oct 17, 2018 21:24</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Inase</strong></em><br/><br/>We sometimes use the word <strong><em>inase</em></strong> (いなせ) to describe a gallant and fresh young man.<br/><br/>This word comes from a hairstyle called <strong><em>inase icho</em></strong> (鯔背銀杏), which was popular among young people in fish markets in the late Edo period.<br/><br/><strong><em>Ina</em></strong> (鯔) means "flathead grey mullet," <strong><em>se</em></strong> (背) means "back," so <em>inase</em> means "flathead grey mullet's back."<br/><br/>In addition, <strong><em>icho</em></strong> (銀杏) is short for <strong><em>icho-mage</em></strong> (銀杏髷), which was the most common male hairstyle in the Edo period.<br/><br/>That is to say, <em>inase icho</em> is a hairstyle looks like flathead grey mullet's back, and young men with such a hairstyle were masculine, so <em>inase</em> came to have its current meaning.
+<strong><em>Inase</em></strong><br/><br/>We sometimes use the word <strong><em>inase</em></strong> (いなせ) to describe a gallant and fresh young man.<br/><br/>This word comes from a hairstyle called <strong><em>inase icho</em></strong> (鯔背銀杏), which was popular among young people in fish markets in the late Edo period.<br/><br/><strong><em>Ina</em></strong> (鯔) means "flathead grey mullet," <strong><em>se</em></strong> (背) means "back," so <em>inase</em> means "flathead grey mullet's back."<br/><br/>In addition, <strong><em>icho</em></strong> (銀杏) is short for <strong><em>icho-mage</em></strong> (銀杏髷), which was the most common male hairstyle in the Edo period.<br/><br/>That is to say, <em>inase icho</em> is a hairstyle looks like flathead grey mullet's back, and young men with such a hairstyle were masculine, so <em>inase</em> came to have its current meaning.
 </div></div>
 
 <!-- more -->

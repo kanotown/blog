@@ -9,10 +9,10 @@ comments: true
 slug: "2143_kansuto"
 ---
 
-# 【No. 2143】<strong><em>Kansuto</strong></em> (カンスト - Maximum Value)
+# 【No. 2143】<strong><em>Kansuto</em></strong> (カンスト - Maximum Value)
 <div class="date">Sep 3, 2023 23:06</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kansuto</strong></em><br/><br/>Today, I played a certain game a lot and reached <strong><em>kansuto</em></strong> (カンスト) score. <br/><br/>The term <em>kansuto</em> is short for <strong><em>kauntā sutoppu</em></strong> (カウンターストップ) or "counter stop" in English, which means a state where a player has reached the maximum level or score of a video game.<br/><br/>Since <em>kansuto</em> is a Japanese-English word and probably not understood by native English speakers.<br/><br/>In English, it can be expressed as "maximum value" or "maximum score."<br/><br/>Incidentally, the game in which I reached <em>kansuto</em> is Salmon Run in Splatoon 3.
+<strong><em>Kansuto</em></strong><br/><br/>Today, I played a certain game a lot and reached <strong><em>kansuto</em></strong> (カンスト) score. <br/><br/>The term <em>kansuto</em> is short for <strong><em>kauntā sutoppu</em></strong> (カウンターストップ) or "counter stop" in English, which means a state where a player has reached the maximum level or score of a video game.<br/><br/>Since <em>kansuto</em> is a Japanese-English word and probably not understood by native English speakers.<br/><br/>In English, it can be expressed as "maximum value" or "maximum score."<br/><br/>Incidentally, the game in which I reached <em>kansuto</em> is Salmon Run in Splatoon 3.
 </div></div>
 
 <!-- more -->

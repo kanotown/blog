@@ -8,7 +8,7 @@ comments: true
 slug: "0674_gyofu-no-ri"
 ---
 
-# 【No. 0674】<strong><em>Gyofu no Ri</strong></em> (Fisherman's Benefits)
+# 【No. 0674】<strong><em>Gyofu no Ri</em></strong> (Fisherman's Benefits)
 <div class="date">Oct 22, 2016 14:15</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the proverb "gyofu no ri."<br/><br/>"Gyofu" means "fisherman", "ri" means "benefits", and "gyofu no ri" is used as an example of that a third party grabs benefits without pain when two parties conflict with each other.<br/><br/>This proverb is derived from a Chonese story called "Sengoku strategies."<br/><br/>The story is something like the following:<br/><br/>A snipe tried to eat the inside of clam, but its beak was sandwiched.<br/><br/>The snipe said "you'll die in dry if you don't open the shell and return to the sea," but the clam said "you'll die in starvation if you don't pull out your beak."<br/><br/>Both of them stood firm.<br/><br/>Then a fisherman came here, and he caught both the snipe and calm.

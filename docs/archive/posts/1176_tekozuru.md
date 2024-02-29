@@ -8,10 +8,10 @@ comments: true
 slug: "1176_tekozuru"
 ---
 
-# 【No. 1176】<strong><em>Tekozuru</strong></em> (てこずる - Having Trouble with Something)
+# 【No. 1176】<strong><em>Tekozuru</em></strong> (てこずる - Having Trouble with Something)
 <div class="date">Mar 8, 2018 14:10</div>
 <div id="post"><div id="body_show_ori">
-When you cannot handle something and have trouble with it, we express it using the Japanese verb てこずる (tekozuru).<br/><br/>There are several theories about the etymology of "tekozuru."<br/><br/>According to a theory, てこ (teko) means "leverage" and ずる (zuru) means "to slither."<br/><br/>In this theory, "tekozuru" comes from the situation where even if you tried to move something using the power of leverage, it slithered and didn't work.<br/><br/>According to another theory, "teko" means "helper" and "zuru" means "to trouble someone."<br/><br/>In this theory, "tekozuru" comes from the situation where you needed a helpers and troubled him/her.
+<strong><em>Tekozuru</em></strong><br/><br/>When you cannot handle something and have trouble with it, we express it using the Japanese verb てこずる (tekozuru).<br/><br/>There are several theories about the etymology of "tekozuru."<br/><br/>According to a theory, てこ (teko) means "leverage" and ずる (zuru) means "to slither." In this theory, "tekozuru" comes from the situation where even if you tried to move something using the power of leverage, it slithered and didn't work.<br/><br/>According to another theory, "teko" means "helper" and "zuru" means "to trouble someone." In this theory, "tekozuru" comes from the situation where you needed a helpers and troubled him/her.
 </div></div>
 
 <!-- more -->

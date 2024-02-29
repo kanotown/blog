@@ -8,10 +8,10 @@ comments: true
 slug: "1505_tatetsuku"
 ---
 
-# 【No. 1505】<strong><em>Tatetsuku</strong></em> (盾突く - Defying)
+# 【No. 1505】<strong><em>Tatetsuku</em></strong> (盾突く - Defying)
 <div class="date">Jan 31, 2019 22:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tatetsuku</strong></em><br/><br/>To defy or talk back to a person of higher rank is referred to as <strong><em>tatetsuku</em></strong> (盾突く) in Japanese. <br/><br/><strong><em>Tate</em></strong> (盾) means "shield" and <strong><em>tsuku</em></strong> (突く) means "to thrust" or "to prod," so the literal meaning of this term is "to thrust a shield."<br/><br/>In other words, this term implies that you resist against enemy's attacks by thrusting a shield into the ground.<br/><br/>Originally, this was said as <strong><em>tate wo tsuku</em></strong> (盾を突く) with the particle <strong><em>wo</em></strong> (を), but these days, I think that most people say <em>tatetsuku</em> for short.
+<strong><em>Tatetsuku</em></strong><br/><br/>To defy or talk back to a person of higher rank is referred to as <strong><em>tatetsuku</em></strong> (盾突く) in Japanese. <br/><br/><strong><em>Tate</em></strong> (盾) means "shield" and <strong><em>tsuku</em></strong> (突く) means "to thrust" or "to prod," so the literal meaning of this term is "to thrust a shield."<br/><br/>In other words, this term implies that you resist against enemy's attacks by thrusting a shield into the ground.<br/><br/>Originally, this was said as <strong><em>tate wo tsuku</em></strong> (盾を突く) with the particle <strong><em>wo</em></strong> (を), but these days, I think that most people say <em>tatetsuku</em> for short.
 </div></div>
 
 <!-- more -->

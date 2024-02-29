@@ -8,10 +8,10 @@ comments: true
 slug: "1698_petto-botoru"
 ---
 
-# 【No. 1698】<strong><em>Petto Botoru</strong></em> (ペットボトル - Plastic Bottles)
+# 【No. 1698】<strong><em>Petto Botoru</em></strong> (ペットボトル - Plastic Bottles)
 <div class="date">Aug 13, 2019 15:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Petto Botoru</strong></em><br/><br/>Plastic bottles are called <strong><em>petto botoru</em></strong> (ペットボトル) in Japanese.<br/><br/><em>Petto botoru</em> can be written as "PET bottle" in English, and "PET" is short for a kind of plastic, "polyethylene terephthalate."<br/><br/>That is to say, the literal meaning of <em>petto botoru</em> is "bottle made of polyethylene terephthalate."<br/><br/>If English speakers hear that you say "pet bottle," they can make a big misunderstanding, so please be careful when using this term.<br/><br/>Incidentally, the consumption of plastic bottles in the world exceeds one million every minute, and the garbage problem is getting more acute.
+<strong><em>Petto Botoru</em></strong><br/><br/>Plastic bottles are called <strong><em>petto botoru</em></strong> (ペットボトル) in Japanese.<br/><br/><em>Petto botoru</em> can be written as "PET bottle" in English, and "PET" is short for a kind of plastic, "polyethylene terephthalate."<br/><br/>That is to say, the literal meaning of <em>petto botoru</em> is "bottle made of polyethylene terephthalate."<br/><br/>If English speakers hear that you say "pet bottle," they can make a big misunderstanding, so please be careful when using this term.<br/><br/>Incidentally, the consumption of plastic bottles in the world exceeds one million every minute, and the garbage problem is getting more acute.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0777_otoko-mae"
 ---
 
-# 【No. 0777】<strong><em>Otoko-mae</strong></em> (Manly Look/Attitude)
+# 【No. 0777】<strong><em>Otoko-mae</em></strong> (Manly Look/Attitude)
 <div class="date">Feb 2, 2017 23:32</div>
 <div id="post"><div id="body_show_ori">
 Yesterday I talked about the Japanese word "iro-otoko," which mean a good-looking man or a ladies' man.<br/><br/>Today I'd like to talk about the word "otoko-mae," which means a manly look or attitude.<br/><br/>"Otoko" in "otoko-mae" means a man and "mae" means "front."<br/><br/>Here, "mae" can make a noun that expresses a function or state of something by attaching after another noun.<br/><br/>For example, there is "ude-mae" (ude means an arm and ude-mae means skill.)<br/><br/>Originally, "otoko-mae" means something like the role of a man.<br/><br/>However, now it usually means that someone is nice as a man, that is, someone has a manly look or attitude.

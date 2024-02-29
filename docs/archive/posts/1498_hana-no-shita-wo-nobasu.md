@@ -8,10 +8,10 @@ comments: true
 slug: "1498_hana-no-shita-wo-nobasu"
 ---
 
-# 【No. 1498】<strong><em>Hana no Shita wo Nobasu</strong></em> (鼻の下を伸ばす - Spoony)
+# 【No. 1498】<strong><em>Hana no Shita wo Nobasu</em></strong> (鼻の下を伸ばす - Spoony)
 <div class="date">Jan 24, 2019 21:01</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hana no Shita wo Nobasu</strong></em><br/><br/>When you womanize or have a loose face due to an attractive woman, it can be described as an idiom, <strong><em>hana no shita wo nobasu</em></strong> (鼻の下を伸ばす).<br/><br/><strong><em>Hana</em></strong> (鼻) means "nose," <strong><em>shita</em></strong> (下) means "under," and <strong><em>nobasu</em></strong> (伸ばす) means "to stretch/extend," so the literal meaning of this idiom is "to stretch/extend the area under one's nose."<br/><br/>In fact, when a man is attracted by a woman, his face would be loosened, and the area under his nose would seem to be stretched.<br/><br/>Because of this, <em>hana no shita wo nobasu</em> came to have its current meaning.
+<strong><em>Hana no Shita wo Nobasu</em></strong><br/><br/>When you womanize or have a loose face due to an attractive woman, it can be described as an idiom, <strong><em>hana no shita wo nobasu</em></strong> (鼻の下を伸ばす).<br/><br/><strong><em>Hana</em></strong> (鼻) means "nose," <strong><em>shita</em></strong> (下) means "under," and <strong><em>nobasu</em></strong> (伸ばす) means "to stretch/extend," so the literal meaning of this idiom is "to stretch/extend the area under one's nose."<br/><br/>In fact, when a man is attracted by a woman, his face would be loosened, and the area under his nose would seem to be stretched.<br/><br/>Because of this, <em>hana no shita wo nobasu</em> came to have its current meaning.
 </div></div>
 
 <!-- more -->

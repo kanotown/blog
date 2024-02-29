@@ -8,7 +8,7 @@ comments: true
 slug: "1132_okotoba-ni-amaete"
 ---
 
-# 【No. 1132】<strong><em>Okotoba ni Amaete</strong></em> (お言葉に甘えて - If You Insist)
+# 【No. 1132】<strong><em>Okotoba ni Amaete</em></strong> (お言葉に甘えて - If You Insist)
 <div class="date">Jan 23, 2018 10:56</div>
 <div id="post"><div id="body_show_ori">
 Today I'd like to talk about the convenient Japanese expression, お言葉に甘えて (okotoba ni amaete), which can be used in various situations.<br/><br/>"Okotoba ni amaete" is used when you want to accept someone's kind offer willingly.<br/><br/>お (o) in お言葉 (okotoba) is a polite prefix, and 言葉 (kotoba) means "words."<br/><br/>Also, 甘えて (amaete) means "to depend on somsething."<br/><br/>Therefore, the literal meaning of "okotoba ni amaete" is "I depend on your words."<br/><br/>Here, "your words" implies "your kind offer," so this expression actually means "I'll take you on that" or "If you insist."

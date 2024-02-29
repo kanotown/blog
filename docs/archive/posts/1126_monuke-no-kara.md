@@ -8,7 +8,7 @@ comments: true
 slug: "1126_monuke-no-kara"
 ---
 
-# 【No. 1126】<strong><em>Monuke no Kara</strong></em> (もぬけの殻 - Completely Empty)
+# 【No. 1126】<strong><em>Monuke no Kara</em></strong> (もぬけの殻 - Completely Empty)
 <div class="date">Jan 17, 2018 11:01</div>
 <div id="post"><div id="body_show_ori">
 If there are completely no people in a building, the situation is called もぬけの殻 (monuke no kara) in Japanese.<br/><br/>もぬけ "monuke" comes from the Japanese verb: もぬける (monukeru), which means that cicadas or snakes cast their shells/skins.<br/><br/>殻 (kara) means "shell" or "slough," so "monuke no kara" originally meant "cicada shell" or "snake's slough."<br/><br/>Later, this has come to be used for buildings where no one is present or containers with nothing.<br/><br/>Also, it is thought that も (mo) of "monukeru" comes from 身 (mi - body) or 裳 (mo - kimono/clothes), so "monukeru" implies that "one's body leave" or "one leave by clothes."<br/>(Note that 抜ける(nukeru) of "monukeru" means to leave by somewhere.)

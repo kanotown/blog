@@ -8,10 +8,10 @@ comments: true
 slug: "1349_shikaesi-fukushu-houfuku"
 ---
 
-# 【No. 1349】<strong><em>Shikaesi, Fukushū, Houfuku</strong></em> (仕返し、復讐、報復）
+# 【No. 1349】<strong><em>Shikaesi, Fukushū, Houfuku</em></strong> (仕返し、復讐、報復）
 <div class="date">Aug 28, 2018 20:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shikaesi, Fukushū, Houfuku</strong></em><br/><br/>I introduced you to the Japanese term <strong><em>shippe gaeshi</em></strong> (しっぺ返し - paying back) yesterday.<br/><br/>In addition to it, there are other terms that mean something like "revenge" -- <strong><em>shikaeshi</em></strong> (仕返し), <strong><em>fukushū</em></strong> (復讐) and <strong><em>houfuku</em></strong> (報復).<br/><br/>The most common one is shikaeshi, and it is often used for petty things such as quarrels.<br/><br/>On the other hand, when the scale of the given harm is large, fukushū or houfuku would be used.<br/><br/>Houfuku contains a nuance of an acute resentment.<br/><br/>Fukushū can be used for not only personal matters but also groups or countries.<br/><br/>Additionally, shippe gaeshi is usually used for petty things as well as shikaeshi, but it has a nuance of "immediately" or "in the same way."
+<strong><em>Shikaesi, Fukushū, Houfuku</em></strong><br/><br/>I introduced you to the Japanese term <strong><em>shippe gaeshi</em></strong> (しっぺ返し - paying back) yesterday.<br/><br/>In addition to it, there are other terms that mean something like "revenge" -- <strong><em>shikaeshi</em></strong> (仕返し), <strong><em>fukushū</em></strong> (復讐) and <strong><em>houfuku</em></strong> (報復).<br/><br/>The most common one is shikaeshi, and it is often used for petty things such as quarrels.<br/><br/>On the other hand, when the scale of the given harm is large, fukushū or houfuku would be used.<br/><br/>Houfuku contains a nuance of an acute resentment.<br/><br/>Fukushū can be used for not only personal matters but also groups or countries.<br/><br/>Additionally, shippe gaeshi is usually used for petty things as well as shikaeshi, but it has a nuance of "immediately" or "in the same way."
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1168_datsubou"
 ---
 
-# 【No. 1168】<strong><em>Datsubou</strong></em> (脱帽 - Taking One's Hat Off)
+# 【No. 1168】<strong><em>Datsubou</em></strong> (脱帽 - Taking One's Hat Off)
 <div class="date">Feb 28, 2018 15:45</div>
 <div id="post"><div id="body_show_ori">
 There is a Japanese term: 脱帽 (datsubou).<br/><br/>脱 (datsu) means "to take off" and 帽 (bou) means "hat," so the literal meaning of the combination is "to take one's hat off."<br/><br/>Interestingly, the Japanese term "datsubou" and its literal English translation "to take one's hat off" have almost the same meaning.<br/><br/>That is to say, "datsubou" means to be impressive by someone or admire someone for an achievement.<br/><br/>Also, "datsubou" can mean a feeling of giving up in addition to the above meanings.<br/><br/>Normally, this term is used like 脱帽する (datsubou suru) by adding する (suru), which can convert a noun into a verb.

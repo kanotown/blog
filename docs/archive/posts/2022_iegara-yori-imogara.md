@@ -8,10 +8,10 @@ comments: true
 slug: "2022_iegara-yori-imogara"
 ---
 
-# 【No. 2022】<strong><em>Iegara yori Imogara</strong></em> (家柄より芋がら - Actions Speak Louder than Words.)
+# 【No. 2022】<strong><em>Iegara yori Imogara</em></strong> (家柄より芋がら - Actions Speak Louder than Words.)
 <div class="date">May 5, 2023 15:38</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Iegara yori Imogara</strong></em><br/><br/>Have you ever been aware of people's family status?<br/><br/>Even if a person has a good family background, boasting it without any accompanying abilities may look foolish.<br/><br/>There is a sarcastic Japanese proverb regarding such a person: <strong><em>iegara yori imogara</em></strong> (家柄より芋がら).<br/><br/>Since <strong><em>iegara</em></strong> (家柄) means "family status," <strong><em>yori</em></strong> (より) means "rather than," <strong><em>imogara</em></strong> (芋がら) means "dried taro leafstalks," the literal meaning of <em>iegara yori imogara</em> is "dried taro leafstalks rather than family background."<br/><br/>In other words, this proverb says that eatable dried taro leafstalks are more valuable than a family status that cannot fill one's stomach by itself.
+<strong><em>Iegara yori Imogara</em></strong><br/><br/>Have you ever been aware of people's family status?<br/><br/>Even if a person has a good family background, boasting it without any accompanying abilities may look foolish.<br/><br/>There is a sarcastic Japanese proverb regarding such a person: <strong><em>iegara yori imogara</em></strong> (家柄より芋がら).<br/><br/>Since <strong><em>iegara</em></strong> (家柄) means "family status," <strong><em>yori</em></strong> (より) means "rather than," <strong><em>imogara</em></strong> (芋がら) means "dried taro leafstalks," the literal meaning of <em>iegara yori imogara</em> is "dried taro leafstalks rather than family background."<br/><br/>In other words, this proverb says that eatable dried taro leafstalks are more valuable than a family status that cannot fill one's stomach by itself.
 </div></div>
 
 <!-- more -->

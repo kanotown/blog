@@ -8,7 +8,7 @@ comments: true
 slug: "0653_saji-o-nageru"
 ---
 
-# 【No. 0653】<strong><em>Saji o Nageru</strong></em> (Throw a Spoon)
+# 【No. 0653】<strong><em>Saji o Nageru</em></strong> (Throw a Spoon)
 <div class="date">Oct 1, 2016 00:10</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese idiom "saji o nageru."<br/><br/>The literal meaning is "to throw a spoon," and this spoon expresses a spoon that is used in pharmaceutical preparations.<br/><br/>In the past, (Chinese medicine) doctors prepared medicines for curing patients.<br/><br/>However, when any approach to treatment wasn't found, they gave up and threw the spoons for preparing medicines.<br/><br/>From this story, "saji o nageru" came to mean "to conclude there is no chances and give up."<br/><br/>In the Edo period, there was a senryu （satirical haiku/poem） "inaka isha saji o nagete ha uma de nige," which means that a rural doctor threw a spoon and ran away riding a horse.

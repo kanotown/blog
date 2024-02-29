@@ -8,10 +8,10 @@ comments: true
 slug: "1864_aji-wo-shimeru"
 ---
 
-# 【No. 1864】<strong><em>Aji wo Shimeru</strong></em> (味をしめる - Getting a Taste)
+# 【No. 1864】<strong><em>Aji wo Shimeru</em></strong> (味をしめる - Getting a Taste)
 <div class="date">Jun 3, 2021 22:49</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Aji wo Shimeru</strong></em><br/><br/>Have you ever had an experience where something went well and you expected it to be the same again?<br/><br/>Such a situation can be expressed as <strong><em>aji wo shimeru</em></strong> (味をしめる) in Japanese.<br/><br/>The common meaning of <strong><em>aji</em></strong> (味) is "taste," but in this case, it means "the feeling after experiencing something."<br/><br/>In addition, <strong><em>shimeru</em></strong> (しめる) is written in kanji as 占める, which means "to get something."<br/><br/>That is to say, <em>aji wo shimeru</em> means "to get the experience of things going well," which leads to the meaning of expecting the same thing again.
+<strong><em>Aji wo Shimeru</em></strong><br/><br/>Have you ever had an experience where something went well and you expected it to be the same again?<br/><br/>Such a situation can be expressed as <strong><em>aji wo shimeru</em></strong> (味をしめる) in Japanese.<br/><br/>The common meaning of <strong><em>aji</em></strong> (味) is "taste," but in this case, it means "the feeling after experiencing something."<br/><br/>In addition, <strong><em>shimeru</em></strong> (しめる) is written in kanji as 占める, which means "to get something."<br/><br/>That is to say, <em>aji wo shimeru</em> means "to get the experience of things going well," which leads to the meaning of expecting the same thing again.
 </div></div>
 
 <!-- more -->

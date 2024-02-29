@@ -8,10 +8,10 @@ comments: true
 slug: "1873_kao-ga-ureru"
 ---
 
-# 【No. 1873】<strong><em>Kao ga Ureru</strong></em> (顔が売れる - Becoming Famous)
+# 【No. 1873】<strong><em>Kao ga Ureru</em></strong> (顔が売れる - Becoming Famous)
 <div class="date">Jun 12, 2021 13:04</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kao ga Ureru</strong></em><br/><br/>Becoming famous or well-known is expressed as <strong><em>kao ga ureru</em></strong> (顔が売れる) in Japanese.<br/><br/>Since <strong><em>kao</em></strong> (顔) means "face" and <strong><em>ureru</em></strong> (売れる) means "to sell," the literal meaning of <em>kao ga ureru</em> is "one's face sells."<br/><br/>Here, "face" implies someone's name-recognition or honor in society. <br/><br/>In addition, "to sell (to the world)" implies that something becomes well-known.<br/><br/>Because of this, <em>kao ga ureru</em> has the above meaning.<br/><br/>You can also say <strong><em>na ga ureru</em></strong> (名が売れる) in the same meaning of <em>kao ga ureru</em>, by using <strong><em>na</em></strong> (名 - meaning "name") instead of <strong><em>kao</em></strong> (顔 - meaning "face").
+<strong><em>Kao ga Ureru</em></strong><br/><br/>Becoming famous or well-known is expressed as <strong><em>kao ga ureru</em></strong> (顔が売れる) in Japanese.<br/><br/>Since <strong><em>kao</em></strong> (顔) means "face" and <strong><em>ureru</em></strong> (売れる) means "to sell," the literal meaning of <em>kao ga ureru</em> is "one's face sells."<br/><br/>Here, "face" implies someone's name-recognition or honor in society. <br/><br/>In addition, "to sell (to the world)" implies that something becomes well-known.<br/><br/>Because of this, <em>kao ga ureru</em> has the above meaning.<br/><br/>You can also say <strong><em>na ga ureru</em></strong> (名が売れる) in the same meaning of <em>kao ga ureru</em>, by using <strong><em>na</em></strong> (名 - meaning "name") instead of <strong><em>kao</em></strong> (顔 - meaning "face").
 </div></div>
 
 <!-- more -->

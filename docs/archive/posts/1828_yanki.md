@@ -8,10 +8,10 @@ comments: true
 slug: "1828_yanki"
 ---
 
-# 【No. 1828】<strong><em>Yankī</strong></em> (ヤンキー - "bad boy/girl")
+# 【No. 1828】<strong><em>Yankī</em></strong> (ヤンキー - "bad boy/girl")
 <div class="date">Apr 28, 2021 17:48</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yankī</strong></em><br/><br/>In my post yesterday, I introduced the Japanese term <strong><em>furyō</em></strong> (不良), which means "bad state/boy/girl."<br/><br/>To express "bad boy/girl," you can also say <strong><em>yankī</em></strong> (ヤンキー) instead of <em>furyō</em>.<br/><br/><em>Yankī</em> came from the slang term "Yankee," which refers to people from the Northern United States.<br/><br/>In Japan, young people who wander the streets while wearing flashy clothes such as Hawaiian shirts were called <em>yankī</em>. Later, <em>yankī</em> has come to refer to "bad boy/girl."<br/><br/>Incidentally, when the <em>yankī</em> is not so aggressive and bad, and loves the hometown, he/she is sometimes called <strong><em>mairudo yankī</em></strong> (マイルドヤンキー - "mild-mannered bad boy/girl").
+<strong><em>Yankī</em></strong><br/><br/>In my post yesterday, I introduced the Japanese term <strong><em>furyō</em></strong> (不良), which means "bad state/boy/girl."<br/><br/>To express "bad boy/girl," you can also say <strong><em>yankī</em></strong> (ヤンキー) instead of <em>furyō</em>.<br/><br/><em>Yankī</em> came from the slang term "Yankee," which refers to people from the Northern United States.<br/><br/>In Japan, young people who wander the streets while wearing flashy clothes such as Hawaiian shirts were called <em>yankī</em>. Later, <em>yankī</em> has come to refer to "bad boy/girl."<br/><br/>Incidentally, when the <em>yankī</em> is not so aggressive and bad, and loves the hometown, he/she is sometimes called <strong><em>mairudo yankī</em></strong> (マイルドヤンキー - "mild-mannered bad boy/girl").
 </div></div>
 
 <!-- more -->

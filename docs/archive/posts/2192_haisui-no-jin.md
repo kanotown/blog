@@ -8,10 +8,10 @@ comments: true
 slug: "2192_haisui-no-jin"
 ---
 
-# 【No. 2192】<strong><em>Haisui no Jin</strong></em> (背水の陣 - Burning One's Boats)
+# 【No. 2192】<strong><em>Haisui no Jin</em></strong> (背水の陣 - Burning One's Boats)
 <div class="date">Oct 22, 2023 16:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Haisui no Jin</strong></em><br/><br/>When one is in a critical situation where they cannot step back and face challenges with a do-or-die resolve, it is described as <strong><em>haisui no jin</em></strong> (背水の陣).<br/><br/>Since <strong><em>hai</em></strong> (背) means "back," <strong><em>sui</em></strong> (水) means "water," and <strong><em>jin</em></strong> (陣) means "formation," the literal meaning of <em>haisui no jin</em> is "formation with one's back to the water."<br/><br/>This idiom originates from a biography contained in <strong><em>Shiki</em></strong> (史記 - "Records of the Grand Historian").<br/><br/>When the warlord Han Xin battled the army of Zhao, he positioned his soldiers with their backs to the river.<br/><br/>By placing them in such a situation where they could not step back, the soldiers fought with determination and won.
+<strong><em>Haisui no Jin</em></strong><br/><br/>When one is in a critical situation where they cannot step back and face challenges with a do-or-die resolve, it is described as <strong><em>haisui no jin</em></strong> (背水の陣).<br/><br/>Since <strong><em>hai</em></strong> (背) means "back," <strong><em>sui</em></strong> (水) means "water," and <strong><em>jin</em></strong> (陣) means "formation," the literal meaning of <em>haisui no jin</em> is "formation with one's back to the water."<br/><br/>This idiom originates from a biography contained in <strong><em>Shiki</em></strong> (史記 - "Records of the Grand Historian").<br/><br/>When the warlord Han Xin battled the army of Zhao, he positioned his soldiers with their backs to the river.<br/><br/>By placing them in such a situation where they could not step back, the soldiers fought with determination and won.
 </div></div>
 
 <!-- more -->

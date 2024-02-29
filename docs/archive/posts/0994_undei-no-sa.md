@@ -8,7 +8,7 @@ comments: true
 slug: "0994_undei-no-sa"
 ---
 
-# 【No. 0994】<strong><em>Undei no Sa</strong></em> (雲泥の差 - A World of Difference)
+# 【No. 0994】<strong><em>Undei no Sa</em></strong> (雲泥の差 - A World of Difference)
 <div class="date">Sep 7, 2017 19:57</div>
 <div id="post"><div id="body_show_ori">
 You will feel "undei no sa" (雲泥の差) for various things, as long as you live a life.<br/><br/>"Undei no sa" means a very big difference or a huge gap of something.<br/><br/>The "un" (雲) means "cloud," the "deo" (泥) means "dirt," the "sa" (差) means "difference," so the literal meaning of the combination is "differences between cloud and dirt."<br/><br/>Here the cloud implies the sky, and the dirt implies the ground.<br/><br/>That is to say, the phrase "undei no sa" represents a big difference/gap, like the distance between the sky and the ground.

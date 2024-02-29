@@ -8,10 +8,10 @@ comments: true
 slug: "1421_shippo-wo-dasu"
 ---
 
-# 【No. 1421】<strong><em>Shippo wo Dasu</strong></em> (尻尾を出す - Revealing One's Secret Unintentionally)
+# 【No. 1421】<strong><em>Shippo wo Dasu</em></strong> (尻尾を出す - Revealing One's Secret Unintentionally)
 <div class="date">Nov 8, 2018 17:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shippo wo Dasu</strong></em><br/><br/>Yesterday, I introduced you to the idion <strong><em>boro ga deru</em></strong> (ぼろが出る), which means to reveal one's secret faults/weaknesses unintentionally.<br/><br/>There is another idiom, <strong><em>shippo wo dasu</em></strong> (尻尾を出す), which has the similar meaning of this.<br/><br/><strong><em>Shippo</em></strong> (尻尾) means "tail" and <strong><em>dasu</em></strong> (出す) means "to come out" or "to reveal," so the literal meaning of <em>shippo wo dasu</em> is "to reveal one's tail."<br/><br/>Here, the tail represents the tail of a raccoon dog or fox -- Japanese people have believed that raccoon dogs and foxes deceive people by changing their figure.<br/><br/>Even if they change their figure into something else, you can detect the truth by seeing their tail, so <em>shippo wo dasu</em> has come to mean that someone reveals his/her secret unintentionally.
+<strong><em>Shippo wo Dasu</em></strong><br/><br/>Yesterday, I introduced you to the idion <strong><em>boro ga deru</em></strong> (ぼろが出る), which means to reveal one's secret faults/weaknesses unintentionally.<br/><br/>There is another idiom, <strong><em>shippo wo dasu</em></strong> (尻尾を出す), which has the similar meaning of this.<br/><br/><strong><em>Shippo</em></strong> (尻尾) means "tail" and <strong><em>dasu</em></strong> (出す) means "to come out" or "to reveal," so the literal meaning of <em>shippo wo dasu</em> is "to reveal one's tail."<br/><br/>Here, the tail represents the tail of a raccoon dog or fox -- Japanese people have believed that raccoon dogs and foxes deceive people by changing their figure.<br/><br/>Even if they change their figure into something else, you can detect the truth by seeing their tail, so <em>shippo wo dasu</em> has come to mean that someone reveals his/her secret unintentionally.
 </div></div>
 
 <!-- more -->

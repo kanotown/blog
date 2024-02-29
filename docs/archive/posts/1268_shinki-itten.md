@@ -8,10 +8,10 @@ comments: true
 slug: "1268_shinki-itten"
 ---
 
-# 【No. 1268】<strong><em>Shinki Itten</strong></em> (心機一転 - Turning Over a New Leaf)
+# 【No. 1268】<strong><em>Shinki Itten</em></strong> (心機一転 - Turning Over a New Leaf)
 <div class="date">Jun 8, 2018 22:49</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shinki Itten</strong></em><br/><br/>Two days ago, I introduced you to the phrase "ki ga ki de nai" (気が気でない - anxious), because I was terribly anxious about a result of a certain thing.<br/><br/>Unfortunately, I received a negative result and was very depressed yesterday.<br/><br/>However, I would like to renew my mind and do my best from today.<br/><br/>To express this my thought, I can say the four-character idiom, shinki itten (心機一転).<br/><br/>Shin (心) means <em>heart,</em> ki (機) means <em>impulse,</em> i/ichi (一) means <em>one,</em> and ten (転) means 'rolling.'<br/><br/>That is to say, shinki means "mind movement," itten means "something changes drastically," and the combination means "to turn over a new leaf."
+<strong><em>Shinki Itten</em></strong><br/><br/>Two days ago, I introduced you to the phrase "ki ga ki de nai" (気が気でない - anxious), because I was terribly anxious about a result of a certain thing.<br/><br/>Unfortunately, I received a negative result and was very depressed yesterday.<br/><br/>However, I would like to renew my mind and do my best from today.<br/><br/>To express this my thought, I can say the four-character idiom, shinki itten (心機一転).<br/><br/>Shin (心) means <em>heart,</em> ki (機) means <em>impulse,</em> i/ichi (一) means <em>one,</em> and ten (転) means 'rolling.'<br/><br/>That is to say, shinki means "mind movement," itten means "something changes drastically," and the combination means "to turn over a new leaf."
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0643_inu-and-kame"
 ---
 
-# 【No. 0643】<strong><em>Inu and Kame</strong></em> (Dogs and Turtles)
+# 【No. 0643】<strong><em>Inu and Kame</em></strong> (Dogs and Turtles)
 <div class="date">Sep 21, 2016 14:11</div>
 <div id="post"><div id="body_show_ori">
 Dogs are called "inu" in Japan.<br/><br/>However, in the Meiji era, dogs (especially western dogs) were called "kame," which means turtles.<br/><br/>Also, "kame" was popular as a name of dogs at that time.<br/><br/>This came from misunderstanding of an English phrase.<br/><br/>It is said that Japanese people thought that Western people called dogs "kame ya" when they said "come here."<br/><br/>(In Japan, when people call someone or an animal, "ya" is sometimes put after the name.)<br/><br/>This misunderstanding was spread, and this is why Japanese people called dogs "kame".<br/><br/>Note that by no means the word "kame" means as dogs today.

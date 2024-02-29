@@ -8,10 +8,10 @@ comments: true
 slug: "1466_mukuchi"
 ---
 
-# 【No. 1466】<strong><em>Mukuchi</strong></em> (無口 - Having Few Words)
+# 【No. 1466】<strong><em>Mukuchi</em></strong> (無口 - Having Few Words)
 <div class="date">Dec 23, 2018 14:54</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mukuchi</strong></em><br/><br/>Yesterday, I introduced you to the Japanese <strong><em>oshaberi</em></strong> (おしゃべり), which means to talk a lot about something.<br/><br/>On the other hand, if you want to mean to talk little, you can use the word <strong><em>mukuchi</em></strong> (無口).<br/><br/>Since <strong><em>mu</em></strong> (無) means "nothing" and <strong><em>kuchi</em></strong> (口) means "mouth," the literal meaning of <em>mukuchi</em> is "nothing mouth."<br/><br/>Just like <em>oshabery</em> can mean a person who talks a lot, <em>mukuchi</em> can also mean a person who talks little.<br/><br/>However, we often call such a person <strong><em>mukuchi na hito</em></strong> (無口な人), by adding <strong><em>hito</em></strong> (人 - literally meaning "person")
+<strong><em>Mukuchi</em></strong><br/><br/>Yesterday, I introduced you to the Japanese <strong><em>oshaberi</em></strong> (おしゃべり), which means to talk a lot about something.<br/><br/>On the other hand, if you want to mean to talk little, you can use the word <strong><em>mukuchi</em></strong> (無口).<br/><br/>Since <strong><em>mu</em></strong> (無) means "nothing" and <strong><em>kuchi</em></strong> (口) means "mouth," the literal meaning of <em>mukuchi</em> is "nothing mouth."<br/><br/>Just like <em>oshabery</em> can mean a person who talks a lot, <em>mukuchi</em> can also mean a person who talks little.<br/><br/>However, we often call such a person <strong><em>mukuchi na hito</em></strong> (無口な人), by adding <strong><em>hito</em></strong> (人 - literally meaning "person")
 </div></div>
 
 <!-- more -->

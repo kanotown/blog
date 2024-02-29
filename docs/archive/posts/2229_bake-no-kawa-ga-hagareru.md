@@ -8,10 +8,10 @@ comments: true
 slug: "2229_bake-no-kawa-ga-hagareru"
 ---
 
-# 【No. 2229】<strong><em>Bake no Kawa ga Hagareru</strong></em> (化けの皮が剥がれる - Showing One's True Colors)
+# 【No. 2229】<strong><em>Bake no Kawa ga Hagareru</em></strong> (化けの皮が剥がれる - Showing One's True Colors)
 <div class="date">Nov 28, 2023 19:49</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Bake no Kawa ga Hagareru</strong></em><br/><br/>When someone's hidden secret or nature is revealed, the situation can be described as <strong><em>bake no kawa ga hagareru</em></strong> (化けの皮が剥がれる).<br/><br/>Since <strong><em>bake</em></strong> (化け) means "disguise," <strong><em>kawa</em></strong> (皮) means "skin," and <strong><em>hagareru</em></strong> (剥がれる) means "to be peeled off," the literal meaning of this idiom is "one's skin of the disguise is peeled off."<br/><br/>In this idiom, <em>bake no kawa</em> metaphorically represents a false appearance to hide one's true nature.<br/><br/>Note that this idiom is typically used in a negative context.
+<strong><em>Bake no Kawa ga Hagareru</em></strong><br/><br/>When someone's hidden secret or nature is revealed, the situation can be described as <strong><em>bake no kawa ga hagareru</em></strong> (化けの皮が剥がれる).<br/><br/>Since <strong><em>bake</em></strong> (化け) means "disguise," <strong><em>kawa</em></strong> (皮) means "skin," and <strong><em>hagareru</em></strong> (剥がれる) means "to be peeled off," the literal meaning of this idiom is "one's skin of the disguise is peeled off."<br/><br/>In this idiom, <em>bake no kawa</em> metaphorically represents a false appearance to hide one's true nature.<br/><br/>Note that this idiom is typically used in a negative context.
 </div></div>
 
 <!-- more -->

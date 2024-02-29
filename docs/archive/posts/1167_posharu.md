@@ -8,7 +8,7 @@ comments: true
 slug: "1167_posharu"
 ---
 
-# 【No. 1167】<strong><em>Posharu</strong></em> (ポシャる - Falling Through)
+# 【No. 1167】<strong><em>Posharu</em></strong> (ポシャる - Falling Through)
 <div class="date">Feb 27, 2018 11:31</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to the Japanese term "ojan," which means that a plan or a thing goes up in smoke.<br/><br/>Today I'd like to talk about the slang term ポシャる (posharu), which has almost the same meaning of "ojan."<br/><br/>It is thought that "posharu" comes from the French word "chapeau," which means "hat."<br/><br/>By swapping the pronunciation of "chapeau" and adding the suffix る (ru) that can convert a noun into a verb, the verb "posharu" was created.<br/><br/>The reason why "posharu" has come to its current meaning is because taking off a 兜 (kabuto - helmet) meant giving up and people viewed the kabuto as the closest thing to a hat.

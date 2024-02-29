@@ -8,7 +8,7 @@ comments: true
 slug: "1198_hana-yori-dango"
 ---
 
-# 【No. 1198】<strong><em>Hana yori Dango</strong></em> (花より団子 - Dumplings rather than Flowers)
+# 【No. 1198】<strong><em>Hana yori Dango</em></strong> (花より団子 - Dumplings rather than Flowers)
 <div class="date">Mar 30, 2018 14:25</div>
 <div id="post"><div id="body_show_ori">
 The season of cherry blossoms is gradually approaching.<br/><br/>Speaking of cherry blossoms, many Japanese people will image 花見 (hanami - literally "bloom viewing").<br/><br/>Also, 団子 (dango - dumpling) is often prepared while "hanami."<br/><br/>Since a long time ago in Japan, there has been a custom to view cherry blossoms while eating some food such as dumplings.<br/><br/>However, some people might be interested in dumplings than cherry blossoms.<br/><br/>Like this way, when someone chooses a practicable thing such as dumplings over an aesthetic or gracious act, we use the proverb 花より団子 (hana yori dango - literally "dumplings rather than flowers").

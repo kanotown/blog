@@ -8,10 +8,10 @@ comments: true
 slug: "2106_bunsuirei"
 ---
 
-# 【No. 2106】<strong><em>Bunsuirei</strong></em> (分水嶺 - Watershed)
+# 【No. 2106】<strong><em>Bunsuirei</em></strong> (分水嶺 - Watershed)
 <div class="date">Jul 28, 2023 09:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Bunsuirei</strong></em><br/><br/>In Japanese, we sometimes refer to the critical turning point where the direction of things is determined as <strong><em>bunsuirei</em></strong> (分水嶺).<br/><br/>Since <strong><em>bun</em></strong> (分) means "part/separate," <strong><em>sui</em></strong> (水) means "water," and <strong><em>rei</em></strong> (嶺) means "ridge," the literal meaning of <em>bunsuirei</em> is "a ridge separating water."<br/><br/>Literally, <em>bunsuirei</em> can also refer to a ridge that separates the directions where rainwater flows.<br/><br/>This term has metaphorically come to mean a crucial turning point determining the direction of events or situations.<br/><br/><em>Bunsuirei</em> can be translated into English as "watershed," and like in Japanese, it carries two major meanings.
+<strong><em>Bunsuirei</em></strong><br/><br/>In Japanese, we sometimes refer to the critical turning point where the direction of things is determined as <strong><em>bunsuirei</em></strong> (分水嶺).<br/><br/>Since <strong><em>bun</em></strong> (分) means "part/separate," <strong><em>sui</em></strong> (水) means "water," and <strong><em>rei</em></strong> (嶺) means "ridge," the literal meaning of <em>bunsuirei</em> is "a ridge separating water."<br/><br/>Literally, <em>bunsuirei</em> can also refer to a ridge that separates the directions where rainwater flows.<br/><br/>This term has metaphorically come to mean a crucial turning point determining the direction of events or situations.<br/><br/><em>Bunsuirei</em> can be translated into English as "watershed," and like in Japanese, it carries two major meanings.
 </div></div>
 
 <!-- more -->

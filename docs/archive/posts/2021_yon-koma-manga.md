@@ -9,10 +9,10 @@ comments: true
 slug: "2021_yon-koma-manga"
 ---
 
-# 【No. 2021】<strong><em>Yon-koma Manga</strong></em> (4コマ漫画 - Four-frame Manga)
+# 【No. 2021】<strong><em>Yon-koma Manga</em></strong> (4コマ漫画 - Four-frame Manga)
 <div class="date">May 4, 2023 19:22</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yon-koma Manga</strong></em><br/><br/>I have recently begun drawing yon-koma manga (4コマ漫画).<br/><br/>Since <em>yon</em> means "four," <strong><em>koma</em></strong> (コマ) means "frame," and <strong><em>manga</em></strong> (漫画) means "manga/comic," <em>yon-koma manga</em> literally means "four-frame manga/comic."<br/><br/>The content of the manga is a brief introduction to an article that I submitted to Lang-8.<br/><br/>In the manga world, some characters such as <strong><em>Chikuwa-kun</em></strong> (ちくわ君), a chipmunk, <strong><em>Omochi-kun</em></strong> (おもち君), a rabbit are featured.<br/><br/>I learned that it takes a lot of time and effort to make a manga, even though it is only four frames.<br/><br/>I will do my best to submit <em>yon-koma manga</em>, on Twitter from now on, so please check them if you have time.<br/><br/><a href="https://twitter.com/kanotown" target="_blank">https://twitter.com/kanotown</a>
+<strong><em>Yon-koma Manga</em></strong><br/><br/>I have recently begun drawing yon-koma manga (4コマ漫画).<br/><br/>Since <em>yon</em> means "four," <strong><em>koma</em></strong> (コマ) means "frame," and <strong><em>manga</em></strong> (漫画) means "manga/comic," <em>yon-koma manga</em> literally means "four-frame manga/comic."<br/><br/>The content of the manga is a brief introduction to an article that I submitted to Lang-8.<br/><br/>In the manga world, some characters such as <strong><em>Chikuwa-kun</em></strong> (ちくわ君), a chipmunk, <strong><em>Omochi-kun</em></strong> (おもち君), a rabbit are featured.<br/><br/>I learned that it takes a lot of time and effort to make a manga, even though it is only four frames.<br/><br/>I will do my best to submit <em>yon-koma manga</em>, on Twitter from now on, so please check them if you have time.<br/><br/><a href="https://twitter.com/kanotown" target="_blank">https://twitter.com/kanotown</a>
 </div></div>
 
 <!-- more -->

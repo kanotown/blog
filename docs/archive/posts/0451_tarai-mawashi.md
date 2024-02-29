@@ -8,7 +8,7 @@ comments: true
 slug: "0451_tarai-mawashi"
 ---
 
-# 【No. 0451】<strong><em>Tarai Mawashi</strong></em> (Acrobatic Barrel-Rolling)
+# 【No. 0451】<strong><em>Tarai Mawashi</em></strong> (Acrobatic Barrel-Rolling)
 <div class="date">Mar 13, 2016 17:02</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese phrase "tarai mawashi."<br/><br/>The phrase "tarai mawashi" expresses an acrobatic barrel-rolling performance using your feet, but this has been converted to mean that things are shifted from one section to another repeatedly.<br/><br/>For example, it's a situation such as: when you went to hospital A, you were said "please go to hospital B," then you went to hospital B, but you were said "please go to hospital C," so you went to hospital C, but you were said "please go to hospital A."<br/><br/>If you want to experience such "tarai mawashi," please visit an Uncyclopedia page about "tarai mawashi" shown in the following URL.<br/><br/><a href="http://ja.uncyclopedia.info/wiki/" target="_blank">http://ja.uncyclopedia.info/wiki/</a>%E7%9B%A5%E5%9B%9E%E3%81%97<br/><br/>You will be prompted to refer to different pages one after another.<br/><br/>This is really "tarai mawashi."

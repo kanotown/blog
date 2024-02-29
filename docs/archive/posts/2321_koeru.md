@@ -84,4 +84,10 @@ When the verb 'koeru' (肥える - "to gain weight") is used <span class="f_blue
 <li class="incorrect">However, please note that they can also be used sarcastically towards someone who has become unsatisfied with ordinary work or dishes.</li>
 <li class="corrected perfect">This sentence is perfect! No correction needed!</li>
 </ul>
-</div></div>
+</div><div class="name"><span class="just_name">Toru</span><br>
+Thank you so much for always checking my entries and correcting them! (^^)
+</div>
+<div class="name"><span class="just_name">O-Star</span><br>
+You're welcome!
+</div>
+</div>

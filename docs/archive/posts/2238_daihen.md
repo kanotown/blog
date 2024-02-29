@@ -8,10 +8,10 @@ comments: true
 slug: "2238_daihen"
 ---
 
-# 【No. 2238】<strong><em>Daihen</strong></em> (代返 - Proxy Attendance)
+# 【No. 2238】<strong><em>Daihen</em></strong> (代返 - Proxy Attendance)
 <div class="date">Dec 7, 2023 10:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Daihen</strong></em> <br/><br/>Yesterday, I introduced the slang term <strong><em>pinige</em></strong> (ピ逃げ), which refers to registering attendance and running away from a lecture.<br/><br/>When I was a university student, the term <em>pinige</em> did not exist, but there was something similar called <strong><em>daihen</em></strong> (代返).<br/><br/>Since <strong><em>dai</em></strong> (代) means "substitute," and <em>hen</em> is short for <strong><em>henji</em></strong> (返事), meaning "response," the literal meaning of <em>daihen</em> is "substitute response."<br/><br/>In other words, <em>daihen</em> refers to a kind of dishonest act where someone else responds on your behalf when your name is called during attendance checks.<br/><br/>Please do not waste your tuition fees by conducting <em>pinige</em> or <em>daihen</em>.
+<strong><em>Daihen</em></strong> <br/><br/>Yesterday, I introduced the slang term <strong><em>pinige</em></strong> (ピ逃げ), which refers to registering attendance and running away from a lecture.<br/><br/>When I was a university student, the term <em>pinige</em> did not exist, but there was something similar called <strong><em>daihen</em></strong> (代返).<br/><br/>Since <strong><em>dai</em></strong> (代) means "substitute," and <em>hen</em> is short for <strong><em>henji</em></strong> (返事), meaning "response," the literal meaning of <em>daihen</em> is "substitute response."<br/><br/>In other words, <em>daihen</em> refers to a kind of dishonest act where someone else responds on your behalf when your name is called during attendance checks.<br/><br/>Please do not waste your tuition fees by conducting <em>pinige</em> or <em>daihen</em>.
 </div></div>
 
 <!-- more -->

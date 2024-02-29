@@ -8,10 +8,10 @@ comments: true
 slug: "2174_gaba-eimu"
 ---
 
-# 【No. 2174】<strong><em>Gaba Eimu</strong></em> (ガバエイム - Unsteady Aim)
+# 【No. 2174】<strong><em>Gaba Eimu</em></strong> (ガバエイム - Unsteady Aim)
 <div class="date">Oct 4, 2023 20:14</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gaba Eimu</strong></em><br/><br/>I sometimes get into a state called <strong><em>gaba eimu</em></strong> (ガバエイム).<br/><br/><em>Gaba eimu</em> is a slang term used in FPS (First-Person Shooter) or TPS (Third-Person Shooter) to describe situations where you cannot hit the opponent with bullets at all.<br/><br/><strong><em>Gaba</em></strong> (ガバ) is short for the onomatopoeic word <strong><em>gaba gaba</em></strong> (ガバガバ), describing that something is large and loose.<br/><br/>In addition, <strong><em>eimu</em></strong> (エイム) refers to "aim," which implies the ability to target accurately.<br/><br/>In other words, <em>gaba eimu</em> means "one's aim is loose and unsteady," indicating the above situations.
+<strong><em>Gaba Eimu</em></strong><br/><br/>I sometimes get into a state called <strong><em>gaba eimu</em></strong> (ガバエイム).<br/><br/><em>Gaba eimu</em> is a slang term used in FPS (First-Person Shooter) or TPS (Third-Person Shooter) to describe situations where you cannot hit the opponent with bullets at all.<br/><br/><strong><em>Gaba</em></strong> (ガバ) is short for the onomatopoeic word <strong><em>gaba gaba</em></strong> (ガバガバ), describing that something is large and loose.<br/><br/>In addition, <strong><em>eimu</em></strong> (エイム) refers to "aim," which implies the ability to target accurately.<br/><br/>In other words, <em>gaba eimu</em> means "one's aim is loose and unsteady," indicating the above situations.
 </div></div>
 
 <!-- more -->

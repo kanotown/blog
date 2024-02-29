@@ -8,10 +8,10 @@ comments: true
 slug: "1447_mochihada"
 ---
 
-# 【No. 1447】<strong><em>Mochihada</strong></em> (餅肌 - Velvety Skin)
+# 【No. 1447】<strong><em>Mochihada</em></strong> (餅肌 - Velvety Skin)
 <div class="date">Dec 4, 2018 15:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mochihada</strong></em><br/><br/>My skins have been rough lately.<br/><br/>Because of this, when I say a person who has <strong><em>mochihada</em></strong> (餅肌), I feel faintly jealous.<br/><br/><strong><em>Mochi</em></strong> (餅) means "rice cake" and <strong><em>hada</em></strong> (肌) means "skin," so the literal meaning of <em>mochihada</em> is "rice cake skins" or "skins like a rice cake."<br/><br/>Freshly pounded rice cakes have various properties -- fine-grained, smooth, elastic, white and beautiful.<br/><br/>In other words, <em>mochihada</em> is a compliment that is used to a person who has such a beautiful skin.<br/><br/>Incidentally, in English, it can be expressed as "velvety skin," which is based on the texture of a velvet.
+<strong><em>Mochihada</em></strong><br/><br/>My skins have been rough lately.<br/><br/>Because of this, when I say a person who has <strong><em>mochihada</em></strong> (餅肌), I feel faintly jealous.<br/><br/><strong><em>Mochi</em></strong> (餅) means "rice cake" and <strong><em>hada</em></strong> (肌) means "skin," so the literal meaning of <em>mochihada</em> is "rice cake skins" or "skins like a rice cake."<br/><br/>Freshly pounded rice cakes have various properties -- fine-grained, smooth, elastic, white and beautiful.<br/><br/>In other words, <em>mochihada</em> is a compliment that is used to a person who has such a beautiful skin.<br/><br/>Incidentally, in English, it can be expressed as "velvety skin," which is based on the texture of a velvet.
 </div></div>
 
 <!-- more -->

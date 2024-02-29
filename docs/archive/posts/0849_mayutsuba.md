@@ -8,7 +8,7 @@ comments: true
 slug: "0849_mayutsuba"
 ---
 
-# 【No. 0849】<strong><em>Mayutsuba</strong></em> (Cock-and-Bull Story)
+# 【No. 0849】<strong><em>Mayutsuba</em></strong> (Cock-and-Bull Story)
 <div class="date">Apr 15, 2017 09:18</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the Japanese term "mayutsuba."<br/><br/>"Mayu" of "mayutsuba" means "eyebrow," "tsuba" menas "saliva," and "mayutsuba" means to be careful not to be deceived.<br/><br/>Also, it also means things that the truth or false is not clear or untrustworthy things.<br/>(In this case, it is often called "mayutsuba mono," which means "mayutsuba thing.")<br/><br/>This term comes from a superstition that you will not be deceived by foxes or tanuki (raccoon dogs) by putting spit on your eyebrows.<br/><br/>It is believed that foxes deceive people by counting the number of eyebrows of a person, so you can prevent it by spitting on your eyebrows.

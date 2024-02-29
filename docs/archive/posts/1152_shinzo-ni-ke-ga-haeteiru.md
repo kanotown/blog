@@ -8,7 +8,7 @@ comments: true
 slug: "1152_shinzo-ni-ke-ga-haeteiru"
 ---
 
-# 【No. 1152】<strong><em>Shinzo ni Ke ga Haeteiru</strong></em> (心臓に毛が生えている - Stout)
+# 【No. 1152】<strong><em>Shinzo ni Ke ga Haeteiru</em></strong> (心臓に毛が生えている - Stout)
 <div class="date">Feb 12, 2018 13:39</div>
 <div id="post"><div id="body_show_ori">
 We sometimes call a person who is stout and brazen 心臓に毛が生えている (shinzo ni ke ga haeteiru).<br/><br/>心臓 (shinzo) means "heart," "毛" means "hair," "生えている" means "sprouting hair," so the literal meaning of this expression is "hairs are sprouted on one's heart."<br/><br/>Originally, this expression was said as 肝に毛が生える (kimo ni ke ga haeru), by using 肝 (kimo - liver) instead of 心臓 (shinzo - heart).<br/><br/>In Japan, "liver" was regarded as a symbol of courage, and it was thought that people who are stout and manful have strong hairy livers.<br/><br/>Later, "kimo" (liver) changed to "shinzo" (heart), influenced by Western thought that our spirits/minds/feelings are in our hearts.

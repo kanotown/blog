@@ -8,7 +8,7 @@ comments: true
 slug: "1182_oshaka-ni-naru"
 ---
 
-# 【No. 1182】<strong><em>Oshaka ni Naru</strong></em> (おしゃかになる - Becoming Useless)
+# 【No. 1182】<strong><em>Oshaka ni Naru</em></strong> (おしゃかになる - Becoming Useless)
 <div class="date">Mar 14, 2018 17:47</div>
 <div id="post"><div id="body_show_ori">
 When things are ruined, or something is broken and become useless, we refer to it as おしゃかになる (oshaka ni naru) in Japanese.<br/><br/>お (o) is a polite prefix and しゃか (Shaka) is Buddha, the founder of Buddhism.<br/><br/>There are several theories about the etymology of this term, but the famous one is something like the following.<br/><br/>One day, a casting craftworker was trying to cast a statue of 阿弥陀仏 (Amida Buddha), but accidentally he cast a statue of "Shaka."<br/>(Note that "Amida" and "Shaka" are completely different.)<br/><br/>Because of this, "oshaka ni naru" (becoming oshaka) has come to have the current meaning.<br/><br/>This term is similar to おじゃん (ojan), to which I introduced you.<br/><a href="http://lang-8.com/kanotown/journals/175639051782742719229043226410411131950" target="_blank">http://lang-8.com/kanotown/journals/175639051782742719229043226410411131950</a>

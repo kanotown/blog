@@ -8,10 +8,10 @@ comments: true
 slug: "1604_shufu-and-shufu"
 ---
 
-# 【No. 1604】<strong><em>Shufu and Shufu</strong></em> (主婦と主夫 - Homemaker)
+# 【No. 1604】<strong><em>Shufu and Shufu</em></strong> (主婦と主夫 - Homemaker)
 <div class="date">May 10, 2019 16:12</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shufu and Shufu</strong></em><br/><br/>A married woman who manages her family's home and caring for her children is called <strong><em>shufu</em></strong> (主婦 - "housewife") in Japanese.<br/><br/>Since <strong><em>shu</em></strong> (主) means "principal" and <strong><em>fu</em></strong> (婦) means "lady," the literal meaning of <strong><em>shufu</em></strong> (主婦) is "principal lady."<br/><br/>On the other hand, these days men who manage his family's home are increasing, so another term <strong><em>shufu</em></strong> (主夫 - "househusband") has come to be used.<br/><br/>Since <strong><em>fu</em></strong> (夫) means "husband," the literal meaning of <strong><em>shufu</em></strong> (主夫) is "principal husband."<br/><br/>Note that both 主婦 and 主夫 have the same pronunciation.
+<strong><em>Shufu and Shufu</em></strong><br/><br/>A married woman who manages her family's home and caring for her children is called <strong><em>shufu</em></strong> (主婦 - "housewife") in Japanese.<br/><br/>Since <strong><em>shu</em></strong> (主) means "principal" and <strong><em>fu</em></strong> (婦) means "lady," the literal meaning of <strong><em>shufu</em></strong> (主婦) is "principal lady."<br/><br/>On the other hand, these days men who manage his family's home are increasing, so another term <strong><em>shufu</em></strong> (主夫 - "househusband") has come to be used.<br/><br/>Since <strong><em>fu</em></strong> (夫) means "husband," the literal meaning of <strong><em>shufu</em></strong> (主夫) is "principal husband."<br/><br/>Note that both 主婦 and 主夫 have the same pronunciation.
 </div></div>
 
 <!-- more -->

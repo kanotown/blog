@@ -8,10 +8,10 @@ comments: true
 slug: "1574_yubiori"
 ---
 
-# 【No. 1574】<strong><em>Yubiori</strong></em> (指折り - One of the Best)
+# 【No. 1574】<strong><em>Yubiori</em></strong> (指折り - One of the Best)
 <div class="date">Apr 10, 2019 22:42</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yubiori</strong></em><br/><br/>Human beings sometimes bend their fingers one by one when counting something.<br/><br/>To count something by bending fingers is referred to as <strong><em>yubiori</em></strong> (指折り) or <strong><em>yubi wo oru</em></strong> (指を折る) in Japanese.<br/><br/>Literally, <strong><em>yubi</em></strong> (指) means "finger" and <strong><em>ori/oru</em></strong> (折る) means "to bend something" or "to fold something."<br/><br/>However, this term has another meaning -- it is "one of the best," because you can count the top five on your one hand fingers.<br/><br/>[Example] <strong><em>Kare wa nihon de yubiori no pianisuto da</em></strong> (彼は日本で指折りのピアニストだ - "He is one of the best pianists in Japan").
+<strong><em>Yubiori</em></strong><br/><br/>Human beings sometimes bend their fingers one by one when counting something.<br/><br/>To count something by bending fingers is referred to as <strong><em>yubiori</em></strong> (指折り) or <strong><em>yubi wo oru</em></strong> (指を折る) in Japanese.<br/><br/>Literally, <strong><em>yubi</em></strong> (指) means "finger" and <strong><em>ori/oru</em></strong> (折る) means "to bend something" or "to fold something."<br/><br/>However, this term has another meaning -- it is "one of the best," because you can count the top five on your one hand fingers.<br/><br/>[Example] <strong><em>Kare wa nihon de yubiori no pianisuto da</em></strong> (彼は日本で指折りのピアニストだ - "He is one of the best pianists in Japan").
 </div></div>
 
 <!-- more -->

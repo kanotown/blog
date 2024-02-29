@@ -8,7 +8,7 @@ comments: true
 slug: "0976_shinsho-boudai"
 ---
 
-# 【No. 0976】<strong><em>Shinshō Boudai</strong></em> (針小棒大 - Making Mountains out of Molehills)
+# 【No. 0976】<strong><em>Shinshō Boudai</em></strong> (針小棒大 - Making Mountains out of Molehills)
 <div class="date">Aug 20, 2017 14:12</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced the Japanese idiom, "ohire wo tsukeru" (尾ひれを付ける), which menas to embellish or exaggerate a story using something that's not true.<br/><br/>Today I would like to talk about the Japanese four-character idiom, "shinshō boudai" (針小棒大), which has the similar meaning of "ohire wo tsukeru."<br/><br/>The "shin" (針) means "needle," the "shō" (小) means "small," the "bou" (棒) means "stick," and the "dai" (大) means "big."<br/><br/>Therefore, this idiom means to talk about or express a small needle as if it would be a big stick.<br/><br/>The usage example is: "Hanashi wo shinshō boudai ni iu" (話を針小棒大に言う - I talk about a story like shinshō boudai).

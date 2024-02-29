@@ -8,10 +8,10 @@ comments: true
 slug: "2173_zutsu-no-tane"
 ---
 
-# 【No. 2173】<strong><em>Zutsū no Tane</strong></em> (頭痛の種 - Headache)
+# 【No. 2173】<strong><em>Zutsū no Tane</em></strong> (頭痛の種 - Headache)
 <div class="date">Oct 3, 2023 21:06</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Zutsū no Tane</strong></em><br/><br/>The source of worries or cause of concerns is sometimes referred to as <strong><em>nayami no tane</em></strong> (悩みの種) in Japanese.<br/><br/>Since <strong><em>zutsū</em></strong> (頭痛) means "headache," and <strong><em>tane</em></strong> (種) means "seed,' the literal meaning of <em>zutsū no tane</em> is "seed of headache."<br/><br/>In this context, "headache" is used as a metaphor for "worry" or "concern."<br/><br/>In addition, <em>tane</em> also has the meaning of "cause of things," so <em>zutsū no tane</em> can be translated as "cause of worries or concerns."<br/><br/>If you have some <em>zutsū no tane</em>, it is best to address and remove them before the "seeds" sprout.
+<strong><em>Zutsū no Tane</em></strong><br/><br/>The source of worries or cause of concerns is sometimes referred to as <strong><em>nayami no tane</em></strong> (悩みの種) in Japanese.<br/><br/>Since <strong><em>zutsū</em></strong> (頭痛) means "headache," and <strong><em>tane</em></strong> (種) means "seed,' the literal meaning of <em>zutsū no tane</em> is "seed of headache."<br/><br/>In this context, "headache" is used as a metaphor for "worry" or "concern."<br/><br/>In addition, <em>tane</em> also has the meaning of "cause of things," so <em>zutsū no tane</em> can be translated as "cause of worries or concerns."<br/><br/>If you have some <em>zutsū no tane</em>, it is best to address and remove them before the "seeds" sprout.
 </div></div>
 
 <!-- more -->

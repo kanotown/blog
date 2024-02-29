@@ -8,10 +8,10 @@ comments: true
 slug: "1554_sihou-happou"
 ---
 
-# 【No. 1554】<strong><em>Sihou Happou</strong></em> (四方八方 - Every Direction)
+# 【No. 1554】<strong><em>Sihou Happou</em></strong> (四方八方 - Every Direction)
 <div class="date">Mar 21, 2019 20:58</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sihou Happou</strong></em><br/><br/>In my previous post, I introduced the word <strong><em>happou</em></strong> (八方), which means every direction in the surroundings.<br/><br/>Of course, <em>happou</em> itself makes sense, but if you want to emphasize that directions are diverse, you can use the four-character idiom <strong><em>sihou happou</em></strong> (四方八方).<br/><br/><strong><em>Shi</em></strong> (四) means "four," <strong><em>ha/hachi</em></strong> (八) means "eight," <strong><em>hou/pou</em></strong> (方) means "direction," so the literal meaning of this idioms is "four directions and eight directions."<br/><br/>Both <strong><em>sihou</em></strong> (四方) and <strong><em>happou</em></strong> (八方) mean every direction, but in the narrow sense, the former means north, south, east and west, and the latter means northeast, northwest, southeast and northeast in addition to <em>sihou</em>.
+<strong><em>Sihou Happou</em></strong><br/><br/>In my previous post, I introduced the word <strong><em>happou</em></strong> (八方), which means every direction in the surroundings.<br/><br/>Of course, <em>happou</em> itself makes sense, but if you want to emphasize that directions are diverse, you can use the four-character idiom <strong><em>sihou happou</em></strong> (四方八方).<br/><br/><strong><em>Shi</em></strong> (四) means "four," <strong><em>ha/hachi</em></strong> (八) means "eight," <strong><em>hou/pou</em></strong> (方) means "direction," so the literal meaning of this idioms is "four directions and eight directions."<br/><br/>Both <strong><em>sihou</em></strong> (四方) and <strong><em>happou</em></strong> (八方) mean every direction, but in the narrow sense, the former means north, south, east and west, and the latter means northeast, northwest, southeast and northeast in addition to <em>sihou</em>.
 </div></div>
 
 <!-- more -->

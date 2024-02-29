@@ -8,7 +8,7 @@ comments: true
 slug: "0617_utsusemi"
 ---
 
-# 【No. 0617】<strong><em>Utsusemi</strong></em> (Cicada Shell)
+# 【No. 0617】<strong><em>Utsusemi</em></strong> (Cicada Shell)
 <div class="date">Aug 26, 2016 14:07</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese "空蝉 (utsusemi)."<br/><br/>"空" menas "empty," and "蝉" menas "cicada," and "空蝉" expresses "cicada shell."<br/><br/>Actually, this word originally comes from "現人 (utsushiomi)."<br/><br/>"現人" means "people who live in the world" or "this ephemeral world."<br/><br/>These meanings of "現人" are also included in "空蝉."<br/><br/>I think that it's interesting to describe "living" or "the world" as "空蝉."<br/><br/>By the way, since "semi" (cicada) is the summer insect, "空蝉" is a summer season word.

@@ -8,10 +8,10 @@ comments: true
 slug: "2190_kachu-no-kuri-wo-hirou"
 ---
 
-# 【No. 2190】<strong><em>Kachū no Kuri wo Hirou</strong></em> (火中の栗を拾う - Taking a Risk for Someone): Part 2
+# 【No. 2190】<strong><em>Kachū no Kuri wo Hirou</em></strong> (火中の栗を拾う - Taking a Risk for Someone): Part 2
 <div class="date">Oct 20, 2023 09:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kachū no Kuri wo Hirou</strong></em>: Part 2<br/><br/>Based on the fable "The Monkey and the Cat (Le Singe et le Chat)," the French proverb "tirer les marrons du feu" was born, the literal meaning of which is "to pull someone's chestnuts out of the fire."<br/><br/>While its literal meaning suggests "to take a risk for someone," in France, it seems to be commonly used as a proverb meaning "to benefit from someone's risky work."<br/><br/>Incidentally, this proverb is the origin of the American idiom "a cat's paw," which means "to be used as a tool by someone."<br/><br/>Similarly, in Japan, it became the proverb <strong><em>kachū no kuri wo hirou</em></strong> (火中の栗を拾う). However, it is often used in a positive sense, "to take a risk for someone's benefit," rather than in a negative sense as in foreign countries.
+<strong><em>Kachū no Kuri wo Hirou</em></strong>: Part 2<br/><br/>Based on the fable "The Monkey and the Cat (Le Singe et le Chat)," the French proverb "tirer les marrons du feu" was born, the literal meaning of which is "to pull someone's chestnuts out of the fire."<br/><br/>While its literal meaning suggests "to take a risk for someone," in France, it seems to be commonly used as a proverb meaning "to benefit from someone's risky work."<br/><br/>Incidentally, this proverb is the origin of the American idiom "a cat's paw," which means "to be used as a tool by someone."<br/><br/>Similarly, in Japan, it became the proverb <strong><em>kachū no kuri wo hirou</em></strong> (火中の栗を拾う). However, it is often used in a positive sense, "to take a risk for someone's benefit," rather than in a negative sense as in foreign countries.
 </div></div>
 
 <!-- more -->

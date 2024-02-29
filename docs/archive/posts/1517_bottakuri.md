@@ -9,10 +9,10 @@ comments: true
 slug: "1517_bottakuri"
 ---
 
-# 【No. 1517】<strong><em>Bottakuri</strong></em> (ぼったくり - RIp-Off)
+# 【No. 1517】<strong><em>Bottakuri</em></strong> (ぼったくり - RIp-Off)
 <div class="date">Feb 12, 2019 23:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Bottakuri</strong></em><br/><br/>I am in Italy now.<br/><br/>Unfortunately, today I experienced <strong><em>bottakuri</em></strong> (ぼったくり) at a pizza store.<br/><br/><em>Bottakuri</em> means to be requested an exorbitant fee.<br/><br/>I ordered one kebab of four euros.<br/><br/>After placing the money on a tray, it was picked up by the store owner.<br/><br/>In addition, when the kebab was made, he further claimed four euros.<br/><br/>I complained several times that I had already paid for the kebab, but he did not get my message.<br/><br/>Probably, the first four euros on which I placed was regarded as a payment for a pizza of another person (In fact, another person ordered and received a piece of pizza, and it seemed that he did not pay money).<br/><br/>Eventually, I paid eight euros in total -- it was very frustrating.
+<strong><em>Bottakuri</em></strong><br/><br/>I am in Italy now.<br/><br/>Unfortunately, today I experienced <strong><em>bottakuri</em></strong> (ぼったくり) at a pizza store.<br/><br/><em>Bottakuri</em> means to be requested an exorbitant fee.<br/><br/>I ordered one kebab of four euros.<br/><br/>After placing the money on a tray, it was picked up by the store owner.<br/><br/>In addition, when the kebab was made, he further claimed four euros.<br/><br/>I complained several times that I had already paid for the kebab, but he did not get my message.<br/><br/>Probably, the first four euros on which I placed was regarded as a payment for a pizza of another person (In fact, another person ordered and received a piece of pizza, and it seemed that he did not pay money).<br/><br/>Eventually, I paid eight euros in total -- it was very frustrating.
 </div></div>
 
 <!-- more -->

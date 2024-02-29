@@ -8,10 +8,10 @@ comments: true
 slug: "1891_kata-wo-kasu"
 ---
 
-# 【No. 1891】<strong><em>Kata wo Kasu</strong></em> (肩を貸す - Lending a Hand)
+# 【No. 1891】<strong><em>Kata wo Kasu</em></strong> (肩を貸す - Lending a Hand)
 <div class="date">Jun 30, 2021 17:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kata wo Kasu</strong></em><br/><br/>To assist or help someone is expressed as <strong><em>kata wo kasu</em></strong> (肩を貸す) in Japanese.<br/><br/>Since <strong><em>kata</em></strong> (肩) means "shoulder" and <strong><em>kasu</em></strong> (貸す) means "to lend," the literal meaning of <em>kata wo kasu</em> is "to lend one's shoulder."<br/><br/>Of course, this phrase can mean its literal meanings: such as "to lend (use) one's shoulder to carry something" or "to lend (use) one's shoulder as a support for a person to stand up."<br/><br/>As you can guess, these acts of lending one's shoulder are usually done for helping someone, which is how this phrase came to have the above meaning.
+<strong><em>Kata wo Kasu</em></strong><br/><br/>To assist or help someone is expressed as <strong><em>kata wo kasu</em></strong> (肩を貸す) in Japanese.<br/><br/>Since <strong><em>kata</em></strong> (肩) means "shoulder" and <strong><em>kasu</em></strong> (貸す) means "to lend," the literal meaning of <em>kata wo kasu</em> is "to lend one's shoulder."<br/><br/>Of course, this phrase can mean its literal meanings: such as "to lend (use) one's shoulder to carry something" or "to lend (use) one's shoulder as a support for a person to stand up."<br/><br/>As you can guess, these acts of lending one's shoulder are usually done for helping someone, which is how this phrase came to have the above meaning.
 </div></div>
 
 <!-- more -->

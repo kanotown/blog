@@ -8,10 +8,10 @@ comments: true
 slug: "1814_totte-tsuketa-youna"
 ---
 
-# 【No. 1814】<strong><em>Totte Tsuketa Youna</strong></em> (取って付けたような - Unnatural/Artificial)
+# 【No. 1814】<strong><em>Totte Tsuketa Youna</em></strong> (取って付けたような - Unnatural/Artificial)
 <div class="date">Apr 14, 2021 13:22</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Totte Tsuketa Youna</strong></em><br/><br/>When someone's words or attitudes are unnatural and artificial, you can describe it as <strong><em>totte tsuketa youna</em></strong> (取って付けたような).<br/><br/>Since <strong><em>totte</em></strong> (取って) means "to take (off)," <strong><em>tsuketa</em></strong> (付けた) means "to attach," and <strong><em>youna</em></strong> (ような) means "as if," the literal meaning of <em>totte tsuketa youna</em> is "as if it is taken off and attached."<br/><br/>As you can imagine, if you take something off from somewhere and attach it to another place, it will not be smoothly connected and make others feel unnatural.<br/><br/>Because of this, <em>totte tsuketa youna</em> has the meaning of unnatural and artificial.
+<strong><em>Totte Tsuketa Youna</em></strong><br/><br/>When someone's words or attitudes are unnatural and artificial, you can describe it as <strong><em>totte tsuketa youna</em></strong> (取って付けたような).<br/><br/>Since <strong><em>totte</em></strong> (取って) means "to take (off)," <strong><em>tsuketa</em></strong> (付けた) means "to attach," and <strong><em>youna</em></strong> (ような) means "as if," the literal meaning of <em>totte tsuketa youna</em> is "as if it is taken off and attached."<br/><br/>As you can imagine, if you take something off from somewhere and attach it to another place, it will not be smoothly connected and make others feel unnatural.<br/><br/>Because of this, <em>totte tsuketa youna</em> has the meaning of unnatural and artificial.
 </div></div>
 
 <!-- more -->

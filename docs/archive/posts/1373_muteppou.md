@@ -8,10 +8,10 @@ comments: true
 slug: "1373_muteppou"
 ---
 
-# 【No. 1373】<strong><em>Muteppou</strong></em> (無鉄砲 - Reckless)
+# 【No. 1373】<strong><em>Muteppou</em></strong> (無鉄砲 - Reckless)
 <div class="date">Sep 21, 2018 20:43</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Muteppou</strong></em><br/><br/>I am not, but some people are called <strong><em>muteppou</em></strong> (無鉄砲) in Japanese.<br/><br/>Muteppou means that someone acts recklessly without considering the consequences.<br/><br/><strong><em>Mu</em></strong> (無) means "nothing" and <strong><em>teppou</em></strong> (鉄砲) means "gun."<br/><br/>Therefore, some people probably think that the etymology of muteppou is that someone attacks an enemy's camp without having guns. <br/><br/>However, it is said that muteppou comes from <strong><em>mutehou</em></strong> (無手法).<br/><br/>The literal meaning of mutepou is "not having anything in one's hands" or "there is no means," and it has come to have the current meaning.
+<strong><em>Muteppou</em></strong><br/><br/>I am not, but some people are called <strong><em>muteppou</em></strong> (無鉄砲) in Japanese.<br/><br/>Muteppou means that someone acts recklessly without considering the consequences.<br/><br/><strong><em>Mu</em></strong> (無) means "nothing" and <strong><em>teppou</em></strong> (鉄砲) means "gun."<br/><br/>Therefore, some people probably think that the etymology of muteppou is that someone attacks an enemy's camp without having guns. <br/><br/>However, it is said that muteppou comes from <strong><em>mutehou</em></strong> (無手法).<br/><br/>The literal meaning of mutepou is "not having anything in one's hands" or "there is no means," and it has come to have the current meaning.
 </div></div>
 
 <!-- more -->

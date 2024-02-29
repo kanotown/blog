@@ -8,7 +8,7 @@ comments: true
 slug: "0941_narai-juku"
 ---
 
-# 【No. 0941】<strong><em>Narai-juku</strong></em> (奈良井宿)
+# 【No. 0941】<strong><em>Narai-juku</em></strong> (奈良井宿)
 <div class="date">Jul 16, 2017 22:29</div>
 <div id="post"><div id="body_show_ori">
 Today was a holiday, so I went to Nagano Prefecture with my friends.<br/>(We really love Nagano.)<br/><br/>Originally, we planned to climb a mountain, but we changed to go to Narai-juku because of the bad weather.<br/><br/>Narai-juku is an inn town that has flourished with a lot of travelers, and traditional Japanese buildings and houses still remain there as Groups of Traditional Buildings.<br/><br/>Since there are many shops that sell traditional things, such as woodworks, lacquerware and local foods, we could enjoy a lot.<br/><br/>After that, we went to "Tateshina Amusement Suizokukan," which is a aquarium located in the highest attitude in the world.<br/><br/>It was relatively small aquarium with only freshwater fish, but it was interesting because there were a lot of unusual fish.<br/><br/>It was a fulfilling day, however I got caught in a terrible traffic jam on my way home, I was really exhausted.

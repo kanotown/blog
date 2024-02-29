@@ -8,10 +8,10 @@ comments: true
 slug: "2184_garyo-tensei-wo-kaku"
 ---
 
-# 【No. 2184】<strong><em>Garyō Tensei wo Kaku</strong></em> (画竜点睛を欠く - Lacking the Finishing Touch)
+# 【No. 2184】<strong><em>Garyō Tensei wo Kaku</em></strong> (画竜点睛を欠く - Lacking the Finishing Touch)
 <div class="date">Oct 14, 2023 17:42</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Garyō Tensei wo Kaku</strong></em><br/><br/>When the most important part of completing something is missing, you can express the situation with the idiom <strong><em>garyō tensei wo kaku</em></strong> (画竜点睛を欠く).<br/><br/><strong><em>Garyō</em></strong> (画竜) means "painted dragon," <strong><em>tensei</em></strong> (点睛) means "to draw eyes," and <strong><em>kaku</em></strong> (欠く) means "to miss." Therefore, the literal meaning of <strong><em>garyō tensei wo kaku</em></strong> (画竜点睛を欠く) is "to miss drawing the dragon's eyes."<br/><br/> This idiom originates from the story of the Chinese painter "Zhang Sengyou."<br/><br/>Zhang was commissioned to paint four dragons on the temple wall, and he completed a great painting in three days. However, he did not draw the dragons' eyes, reasoning that the dragons would fly out of the wall.<br/><br/>When people called Zhang a liar, he reluctantly drew the eyes of the two dragons. Then the dragons became real and flew away into the sky.
+<strong><em>Garyō Tensei wo Kaku</em></strong><br/><br/>When the most important part of completing something is missing, you can express the situation with the idiom <strong><em>garyō tensei wo kaku</em></strong> (画竜点睛を欠く).<br/><br/><strong><em>Garyō</em></strong> (画竜) means "painted dragon," <strong><em>tensei</em></strong> (点睛) means "to draw eyes," and <strong><em>kaku</em></strong> (欠く) means "to miss." Therefore, the literal meaning of <strong><em>garyō tensei wo kaku</em></strong> (画竜点睛を欠く) is "to miss drawing the dragon's eyes."<br/><br/> This idiom originates from the story of the Chinese painter "Zhang Sengyou."<br/><br/>Zhang was commissioned to paint four dragons on the temple wall, and he completed a great painting in three days. However, he did not draw the dragons' eyes, reasoning that the dragons would fly out of the wall.<br/><br/>When people called Zhang a liar, he reluctantly drew the eyes of the two dragons. Then the dragons became real and flew away into the sky.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1998_isshin-ittai-and-niten-santen"
 ---
 
-# 【No. 1998】<strong><em>Isshin Ittai and Niten Santen</strong></em> (一進一退と二転三転 - Back-and-Forth and Change Again and Again)
+# 【No. 1998】<strong><em>Isshin Ittai and Niten Santen</em></strong> (一進一退と二転三転 - Back-and-Forth and Change Again and Again)
 <div class="date">Apr 11, 2023 19:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Isshin Ittai and Niten Santen</strong></em><br/><br/>The four-character idiom <strong><em>isshin ittai</em></strong> (一進一退) describes that things do not progress smoothly or that things get better and worse repeatedly.<br/><br/>Since <strong><em>i/ichi</em></strong> (一) means "one," <strong><em>shin</em></strong> (進) means "progress," <strong><em>tai</em></strong> (退) means "regression," <em>isshin ittai</em> literally means "one progress and one regression."<br/><br/>Whereas, the four-character idiom <strong><em>niten santen</em></strong> (二転三転) describes that the state of things changes many times.<br/><br/>Since <strong><em>ni</em></strong> (二) means "two," <strong><em>ten</em></strong> (転) means "turn," <strong><em>san</em></strong> (三) means "three," the literal meaning of <em>niten santen</em> is "two turns and three turns."<br/><br/>Both idioms are similar in the sense that the state of things is unstable.
+<strong><em>Isshin Ittai and Niten Santen</em></strong><br/><br/>The four-character idiom <strong><em>isshin ittai</em></strong> (一進一退) describes that things do not progress smoothly or that things get better and worse repeatedly.<br/><br/>Since <strong><em>i/ichi</em></strong> (一) means "one," <strong><em>shin</em></strong> (進) means "progress," <strong><em>tai</em></strong> (退) means "regression," <em>isshin ittai</em> literally means "one progress and one regression."<br/><br/>Whereas, the four-character idiom <strong><em>niten santen</em></strong> (二転三転) describes that the state of things changes many times.<br/><br/>Since <strong><em>ni</em></strong> (二) means "two," <strong><em>ten</em></strong> (転) means "turn," <strong><em>san</em></strong> (三) means "three," the literal meaning of <em>niten santen</em> is "two turns and three turns."<br/><br/>Both idioms are similar in the sense that the state of things is unstable.
 </div></div>
 
 <!-- more -->

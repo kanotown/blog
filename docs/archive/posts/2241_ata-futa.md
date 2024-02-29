@@ -8,10 +8,10 @@ comments: true
 slug: "2241_ata-futa"
 ---
 
-# 【No. 2241】<strong><em>Ata Futa</strong></em> (あたふた - Feverishly)
+# 【No. 2241】<strong><em>Ata Futa</em></strong> (あたふた - Feverishly)
 <div class="date">Dec 10, 2023 21:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ata Futa</strong></em><br/><br/>When someone is very flustered and upset, the state can be described as the term <strong><em>ata futa</em></strong> (あたふた).<br/><br/><em>Ata futa</em> is treated as an onomatopoeic word, but its etymology is an abbreviation of the phrase <strong><em>awate furameku</em></strong> (慌てふためく).<br/><br/>Sinve <strong><em>awate</em></strong> (慌て) means "to panic," and <strong><em>futameku</em></strong> (ふためく) means "to be flustered," the literal meaning of <em>awate furameku</em> is "to panic and be flustered."<br/><br/>Its simple abbreviation would be <strong><em>awa futa</em></strong> (あわふた), but it is believed that it became <em>atafuta</em> for better for a better sound.
+<strong><em>Ata Futa</em></strong><br/><br/>When someone is very flustered and upset, the state can be described as the term <strong><em>ata futa</em></strong> (あたふた).<br/><br/><em>Ata futa</em> is treated as an onomatopoeic word, but its etymology is an abbreviation of the phrase <strong><em>awate furameku</em></strong> (慌てふためく).<br/><br/>Sinve <strong><em>awate</em></strong> (慌て) means "to panic," and <strong><em>futameku</em></strong> (ふためく) means "to be flustered," the literal meaning of <em>awate furameku</em> is "to panic and be flustered."<br/><br/>Its simple abbreviation would be <strong><em>awa futa</em></strong> (あわふた), but it is believed that it became <em>atafuta</em> for better for a better sound.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1074_nemimi-ni-mizu"
 ---
 
-# 【No. 1074】<strong><em>Nemimi ni Mizu</strong></em> (寝耳に水 - Bombshell)
+# 【No. 1074】<strong><em>Nemimi ni Mizu</em></strong> (寝耳に水 - Bombshell)
 <div class="date">Nov 26, 2017 17:26</div>
 <div id="post"><div id="body_show_ori">
 If you encounter an unexpected event suddenly, you will be very surprised.<br/><br/>The Japanese proverb "nemimi ni mizu" (寝耳に水) means such a situation.<br/><br/>The "ne" (寝) means "sleep," the "mimi" (耳) means "ear," and the "mizu" (水) means "water."<br/><br/>In the past in Japan, rivers were often flooded.<br/><br/>If you hear the flooded water sound while sleeping, you will be very surprised.<br/><br/>Because of this, "nemimi ni mizu" has come to mean that you're surprised by something unexpected.<br/>

@@ -8,10 +8,10 @@ comments: true
 slug: "2193_yanagi-ni-kaze"
 ---
 
-# 【No. 2193】<strong><em>Yanagi ni Kaze</strong></em> (柳に風 - Warding Off)
+# 【No. 2193】<strong><em>Yanagi ni Kaze</em></strong> (柳に風 - Warding Off)
 <div class="date">Oct 23, 2023 14:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yanagi ni Kaze</strong></em><br/><br/>People who do not oppose others and smoothly ward things off are sometimes described as <strong><em>yanagi ni kaze</em></strong> (柳に風).<br/><br/><br/>Since <strong><em>yanagi</em></strong> (柳) means "willow," and <strong><em>kaze</em></strong> (風) means "wind," the literal meaning of <em>yanagi ni kaze</em> is "wind against willows."<br/><br/>Willows have long, thin, drooping branches and leaves, and even when a strong wind blows, they sway flexibly and let the wind pass through.<br/><br/>This nature of the willow has given <em>yanagi ni kaze</em> its current meaning.<br/><br/>This idiom is sometimes cited as life's tips for navigating difficulties well.
+<strong><em>Yanagi ni Kaze</em></strong><br/><br/>People who do not oppose others and smoothly ward things off are sometimes described as <strong><em>yanagi ni kaze</em></strong> (柳に風).<br/><br/><br/>Since <strong><em>yanagi</em></strong> (柳) means "willow," and <strong><em>kaze</em></strong> (風) means "wind," the literal meaning of <em>yanagi ni kaze</em> is "wind against willows."<br/><br/>Willows have long, thin, drooping branches and leaves, and even when a strong wind blows, they sway flexibly and let the wind pass through.<br/><br/>This nature of the willow has given <em>yanagi ni kaze</em> its current meaning.<br/><br/>This idiom is sometimes cited as life's tips for navigating difficulties well.
 </div></div>
 
 <!-- more -->

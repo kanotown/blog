@@ -8,7 +8,7 @@ comments: true
 slug: "0925_wanpaku"
 ---
 
-# 【No. 0925】<strong><em>Wanpaku</strong></em> (わんぱく - Mischief)
+# 【No. 0925】<strong><em>Wanpaku</em></strong> (わんぱく - Mischief)
 <div class="date">Jun 30, 2017 17:10</div>
 <div id="post"><div id="body_show_ori">
 We sometimes call a child who is naughty and beyond control of adults "wanpaku" (わんぱく).<br/><br/>Wanpaku is written as "腕白" in kanji, here "腕" means "arm" and "白" means "white."<br/><br/>However, since these kanjis are just phonetic symbols, there is no relationship between wanpaku and white arms.<br/><br/>The most widely accepted theory of its etymology is that kanpaku changed into wanpaku.<br/><br/>Kanpaku refers to a bureaucratic position that do politics instead of the Emperor.<br/><br/>That is to say, wanpaku children can exert their powers as a kanpaku with authority can.

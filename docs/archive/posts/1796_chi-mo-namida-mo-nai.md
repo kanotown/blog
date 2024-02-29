@@ -8,10 +8,10 @@ comments: true
 slug: "1796_chi-mo-namida-mo-nai"
 ---
 
-# 【No. 1796】<strong><em>Chi mo Namida mo Nai</strong></em> (血も涙もない - Cold-blooded)
+# 【No. 1796】<strong><em>Chi mo Namida mo Nai</em></strong> (血も涙もない - Cold-blooded)
 <div class="date">Mar 27, 2021 15:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chi mo Namida mo Nai</strong></em><br/><br/>A ruthless person who has no human kindness can be described as <strong><em>chi mom namida mo nai</em></strong> (血も涙もない).<br/><br/>Since <strong><em>chi</em></strong> (血) means "blood," <strong><em>namida</em></strong> (涙) means "tear," and <strong><em>nai</em></strong> (ない) means "nothing/no," the literal meaning of <em>chi mo namida mo nai</em> is "no blood or tears."<br/><br/>This phrase comes from the image that a ruthless person would not shed his/her blood or tears in any situation.<br/><br/>Such a person can be described using "blood" in English, such as "bloodless" or "cold-blooded."
+<strong><em>Chi mo Namida mo Nai</em></strong><br/><br/>A ruthless person who has no human kindness can be described as <strong><em>chi mom namida mo nai</em></strong> (血も涙もない).<br/><br/>Since <strong><em>chi</em></strong> (血) means "blood," <strong><em>namida</em></strong> (涙) means "tear," and <strong><em>nai</em></strong> (ない) means "nothing/no," the literal meaning of <em>chi mo namida mo nai</em> is "no blood or tears."<br/><br/>This phrase comes from the image that a ruthless person would not shed his/her blood or tears in any situation.<br/><br/>Such a person can be described using "blood" in English, such as "bloodless" or "cold-blooded."
 </div></div>
 
 <!-- more -->

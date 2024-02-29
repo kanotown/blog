@@ -8,10 +8,10 @@ comments: true
 slug: "1434_kinakusai"
 ---
 
-# 【No. 1434】<strong><em>Kinakusai</strong></em> (きな臭い - Suspicious)
+# 【No. 1434】<strong><em>Kinakusai</em></strong> (きな臭い - Suspicious)
 <div class="date">Nov 21, 2018 18:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kinakusai</strong></em><br/><br/>When describing that something is suspicious, you can use the Japanese <strong><em>kinakusai</em></strong> (きな臭い).<br/><br/><strong><em>kusai</em></strong> (臭い) means "to smell/stink," but there are several theories about <strong><em>kina</em></strong> (きな) -- they say that it comes from <strong><em>kinu</em></strong> (きぬ - "clothes"), <strong><em>ki</em></strong> (木 - "tree"), etc.<br/><br/>Originally, <em>kinakusai</em> means a distinctive burnt smell that is generated when clothes or trees burn.<br/><br/>Since such a smell would be generated when bad incidents such as a fire or war would be about to occur, <em>kinakusai</em> came to have the meaning of "suspicious."
+<strong><em>Kinakusai</em></strong><br/><br/>When describing that something is suspicious, you can use the Japanese <strong><em>kinakusai</em></strong> (きな臭い).<br/><br/><strong><em>kusai</em></strong> (臭い) means "to smell/stink," but there are several theories about <strong><em>kina</em></strong> (きな) -- they say that it comes from <strong><em>kinu</em></strong> (きぬ - "clothes"), <strong><em>ki</em></strong> (木 - "tree"), etc.<br/><br/>Originally, <em>kinakusai</em> means a distinctive burnt smell that is generated when clothes or trees burn.<br/><br/>Since such a smell would be generated when bad incidents such as a fire or war would be about to occur, <em>kinakusai</em> came to have the meaning of "suspicious."
 </div></div>
 
 <!-- more -->

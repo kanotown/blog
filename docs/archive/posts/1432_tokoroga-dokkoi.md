@@ -8,10 +8,10 @@ comments: true
 slug: "1432_tokoroga-dokkoi"
 ---
 
-# 【No. 1432】<strong><em>Tokoroga Dokkoi</strong></em> (ところがどっこい - However)
+# 【No. 1432】<strong><em>Tokoroga Dokkoi</em></strong> (ところがどっこい - However)
 <div class="date">Nov 19, 2018 10:39</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tokoroga Dokkoi</strong></em><br/><br/>A few days ago, I used the term <strong><em>tokoroga dokkoi</em></strong> (ところがどっこい) (though it is not often used).<br/><br/><strong><em>Tokoroga</em></strong> (ところが) is a conjunction that is used to say something contrary to general expectations, and it can be translated in English as "however" or "although."<br/><br/><strong><em>Dokkoi</em></strong> (どっこい) is a kind of exclamation that is used when putting your strength, and it is also said as <strong><em>dokkoisho</em></strong> (どっこいしょ).<br/><br/>However, in this case, <em>dokkoi</em> is just used to emphasize the previous term, <em>tokoroga</em>.<br/><br/>That is to say, if you use <em>tokoroga dokkoi</em>, it implies that you will say something that listeners never expect/image.
+<strong><em>Tokoroga Dokkoi</em></strong><br/><br/>A few days ago, I used the term <strong><em>tokoroga dokkoi</em></strong> (ところがどっこい) (though it is not often used).<br/><br/><strong><em>Tokoroga</em></strong> (ところが) is a conjunction that is used to say something contrary to general expectations, and it can be translated in English as "however" or "although."<br/><br/><strong><em>Dokkoi</em></strong> (どっこい) is a kind of exclamation that is used when putting your strength, and it is also said as <strong><em>dokkoisho</em></strong> (どっこいしょ).<br/><br/>However, in this case, <em>dokkoi</em> is just used to emphasize the previous term, <em>tokoroga</em>.<br/><br/>That is to say, if you use <em>tokoroga dokkoi</em>, it implies that you will say something that listeners never expect/image.
 </div></div>
 
 <!-- more -->

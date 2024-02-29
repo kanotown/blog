@@ -8,7 +8,7 @@ comments: true
 slug: "1054_suna-wo-kamu"
 ---
 
-# 【No. 1054】<strong><em>Suna wo Kamu</strong></em> (砂を噛む)
+# 【No. 1054】<strong><em>Suna wo Kamu</em></strong> (砂を噛む)
 <div class="date">Nov 6, 2017 17:22</div>
 <div id="post"><div id="body_show_ori">
 There is a Japanese phrase, "suna wo kamu youna omoi" (砂を噛むような思い).<br/><br/>The "suna" (砂) means "sand," the "kamu" means "to bite," and the "omoi" means "feeling," so the literal meaning of the combination is "feeling like biting sand."<br/><br/>Can you guess how this phrase is used?<br/><br/>Today, I will show you three choices, so please think about which one is correct.<br/><br/>A. Extremely frustrating feeling.<br/><br/>B. Feeling that something isn't interesting.<br/><br/>C. Feeling that everything is happy.<br/><br/>This term represents that you feel things are dull because it has no taste.<br/><br/>Therefore, the correct answer is the second choice.

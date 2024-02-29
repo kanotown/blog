@@ -8,10 +8,10 @@ comments: true
 slug: "1649_shiodoki"
 ---
 
-# 【No. 1649】<strong><em>Shiodoki</strong></em> (潮時 - Time/Chance)
+# 【No. 1649】<strong><em>Shiodoki</em></strong> (潮時 - Time/Chance)
 <div class="date">Jun 24, 2019 22:38</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shiodoki</strong></em><br/><br/>Everything has its <strong><em>shiodoki</em></strong> (潮時).<br/><br/><strong><em>Shio</em></strong> (潮) means "tide" abd <strong><em>doki/toki</em></strong> (時) means "time," so the literal meaning of <em>shiodoki</em> is "time when the tide comes in and goes out."<br/> <br/>Originally, <em>shiodoki</em> was used to its literal meaning among fishermen.<br/><br/>For the fishermen, such moments of high tide and low tide were one of the most important indicators to decide when to go out to sea.<br/><br/>Because of this, <em>shiodoki</em> came to be widely used as a word that means the best time to start or finish something.<br/><br/>Incidentally, about 40% of Japanese people mistake the meaning of <em>shiodoki</em> to be "time to quit/leave (in a negative sense)." 
+<strong><em>Shiodoki</em></strong><br/><br/>Everything has its <strong><em>shiodoki</em></strong> (潮時).<br/><br/><strong><em>Shio</em></strong> (潮) means "tide" abd <strong><em>doki/toki</em></strong> (時) means "time," so the literal meaning of <em>shiodoki</em> is "time when the tide comes in and goes out."<br/> <br/>Originally, <em>shiodoki</em> was used to its literal meaning among fishermen.<br/><br/>For the fishermen, such moments of high tide and low tide were one of the most important indicators to decide when to go out to sea.<br/><br/>Because of this, <em>shiodoki</em> came to be widely used as a word that means the best time to start or finish something.<br/><br/>Incidentally, about 40% of Japanese people mistake the meaning of <em>shiodoki</em> to be "time to quit/leave (in a negative sense)." 
 </div></div>
 
 <!-- more -->

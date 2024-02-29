@@ -8,10 +8,10 @@ comments: true
 slug: "1216_oriitte"
 ---
 
-# 【No. 1216】<strong><em>Oriitte</strong></em> (折り入って - Earnestly)
+# 【No. 1216】<strong><em>Oriitte</em></strong> (折り入って - Earnestly)
 <div class="date">Apr 17, 2018 10:21</div>
 <div id="post"><div id="body_show_ori">
-Today I would like to talk about the Japanese term "oriitte" (折り入って) that I will use it later.<br/><br/>"Oriitte" is used as an adverb, and it represents that you ask a favor or have a consultation with someone in a serious manner.<br/><br/>This term was derived from the verb "oriiru" (折り入る), which means to do something with one's whole heart.<br/>(Note that "oriiru" is no longer used now.)<br/><br/>For example, you can use it as the followings:<br/>"Oriitte onegai ga arimasu" (折り入ってお願いがあります - I have a special favor to ask of you).<br/>"Oriitte gosoudan ga arimasu" (折り入ってご相談があります - I'd like to have a private word with you).<br/><br/>We don't say this word frequently, but I think that it is one of beautiful tongues in Japanese.
+<strong><em>Oriitte</em></strong><br/><br/>Today I would like to talk about the Japanese term "oriitte" (折り入って) that I will use it later.<br/><br/>"Oriitte" is used as an adverb, and it represents that you ask a favor or have a consultation with someone in a serious manner.<br/><br/>This term was derived from the verb "oriiru" (折り入る), which means to do something with one's whole heart.<br/>(Note that "oriiru" is no longer used now.)<br/><br/>For example, you can use it as the followings:<br/>"Oriitte onegai ga arimasu" (折り入ってお願いがあります - I have a special favor to ask of you).<br/>"Oriitte gosoudan ga arimasu" (折り入ってご相談があります - I'd like to have a private word with you).<br/><br/>We don't say this word frequently, but I think that it is one of beautiful tongues in Japanese.
 </div></div>
 
 <!-- more -->

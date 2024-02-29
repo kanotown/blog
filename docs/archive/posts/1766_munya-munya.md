@@ -8,10 +8,10 @@ comments: true
 slug: "1766_munya-munya"
 ---
 
-# 【No. 1766】<strong><em>Munya Munya</strong></em> (むにゃむにゃ - Muttering)
+# 【No. 1766】<strong><em>Munya Munya</em></strong> (むにゃむにゃ - Muttering)
 <div class="date">Feb 24, 2021 17:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Munya Munya</strong></em><br/><br/>Muttering words that do not make sense is sometimes expressed by an onomatopoeia, <strong><em>munya munya</em></strong> (むにゃむにゃ).<br/><br/>This onomatopoeia was probably made just by imitating someone's words that do not make sense; there is no complex etymology.<br/><br/>An online dictionary says that one of the meanings of <em>munya munya</em> is "talking with food in one's mouth," however, I think that this description is wrong.<br/><br/><em>Munya munya</em> can express that one chews and eats food slowly, whereas the most appropriate onomatopoeia, which means to talk with food in one's mouth, is <strong><em>mogo mogo</em></strong> (もごもご).
+<strong><em>Munya Munya</em></strong><br/><br/>Muttering words that do not make sense is sometimes expressed by an onomatopoeia, <strong><em>munya munya</em></strong> (むにゃむにゃ).<br/><br/>This onomatopoeia was probably made just by imitating someone's words that do not make sense; there is no complex etymology.<br/><br/>An online dictionary says that one of the meanings of <em>munya munya</em> is "talking with food in one's mouth," however, I think that this description is wrong.<br/><br/><em>Munya munya</em> can express that one chews and eats food slowly, whereas the most appropriate onomatopoeia, which means to talk with food in one's mouth, is <strong><em>mogo mogo</em></strong> (もごもご).
 </div></div>
 
 <!-- more -->

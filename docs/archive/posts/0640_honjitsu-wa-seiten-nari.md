@@ -8,7 +8,7 @@ comments: true
 slug: "0640_honjitsu-wa-seiten-nari"
 ---
 
-# 【No. 0640】<strong><em>Honjitsu wa Seiten Nari</strong></em> (It's Fine Today)
+# 【No. 0640】<strong><em>Honjitsu wa Seiten Nari</em></strong> (It's Fine Today)
 <div class="date">Sep 18, 2016 02:15</div>
 <div id="post"><div id="body_show_ori">
 Japanese people often say "honzitsu wa seiten nari" when testing microphones or wireless applications.<br/><br/>In the radio station operation guideline, this phrase is defined as the test words when emitting radio signals.<br/><br/>Actually, this is the literal translation of "It's fine today," which is often used for microphone tests in English-speaking countries.<br/><br/>Since "It's fine today" contains plosive and fricative sounds that are difficult to pick up by microphones, and has a wide frequency band, it's thought that the phrase is optimal for testing microphones.<br/><br/>On the other hand, since the translated phrase "honjitsu wa seiten nari" doesn't contain such elements that should be checked in microphone tests, the Japanese version seems to be unreasonable.<br/><br/>I heard that Japanese public address engineers use "maiku chekku wan too" (microphone check one two) when they check microphones.

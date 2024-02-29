@@ -8,10 +8,10 @@ comments: true
 slug: "1462_rekki-toshita"
 ---
 
-# 【No. 1462】<strong><em>Rekki toshita</strong></em> (れっきとした - Respectable/Authentic)
+# 【No. 1462】<strong><em>Rekki toshita</em></strong> (れっきとした - Respectable/Authentic)
 <div class="date">Dec 19, 2018 23:30</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Rekki toshita</strong></em><br/><br/>When describing that someone is highly respectable or something is authentic with no shadow of doubt, you can say <strong><em>rekki toshita</em></strong> (れっきとした) in Japanese.<br/><br/>Originally, <em>rekki</em> was written as 歴 in kanji, and was read as <em>reki</em>.<br/><br/>The character 歴 has the meaning of "clear" or "obvious".<br/><br/>In addition, <strong><em>toshita</em></strong> (とした) means that something is being so.<br/><br/>Because of this, <em>rekki toshita</em> came to mean that someone/something is obviously respectable/authentic.<br/><br/>For example, you can say <strong><em>kare wa rekki toshita isha da</em></strong> (彼はれっきとした医者だ - "He is a highly respectable doctor."
+<strong><em>Rekki toshita</em></strong><br/><br/>When describing that someone is highly respectable or something is authentic with no shadow of doubt, you can say <strong><em>rekki toshita</em></strong> (れっきとした) in Japanese.<br/><br/>Originally, <em>rekki</em> was written as 歴 in kanji, and was read as <em>reki</em>.<br/><br/>The character 歴 has the meaning of "clear" or "obvious".<br/><br/>In addition, <strong><em>toshita</em></strong> (とした) means that something is being so.<br/><br/>Because of this, <em>rekki toshita</em> came to mean that someone/something is obviously respectable/authentic.<br/><br/>For example, you can say <strong><em>kare wa rekki toshita isha da</em></strong> (彼はれっきとした医者だ - "He is a highly respectable doctor."
 </div></div>
 
 <!-- more -->

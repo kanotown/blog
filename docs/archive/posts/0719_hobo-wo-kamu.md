@@ -8,7 +8,7 @@ comments: true
 slug: "0719_hobo-wo-kamu"
 ---
 
-# 【No. 0719】<strong><em>Hobo wo Kamu</strong></em> (To Bite a Belly Button)
+# 【No. 0719】<strong><em>Hobo wo Kamu</em></strong> (To Bite a Belly Button)
 <div class="date">Dec 6, 2016 11:57</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the idiom "hozo wo kamu."<br/><br/>"Hozo" means "a belly button" ("hozo" is commonly said as "heso" in Japan), "kamu" means "to bite", and "hozo wo kamu" describes to bitterly regret or to cry over split milk.<br/><br/>This idiom comes from the fact that even if you try to bite your belly button, your mouth would never reach it.<br/><br/>It has been confirmed that this idiom had been used in ancient Chinese stories during the Chunqiu period.<br/><br/>By the way, although both "heso" and "hozo" have the same meaning "a belly button" and the same kanji character "臍", "heso wo kamu" is regarded as a wrong usage.

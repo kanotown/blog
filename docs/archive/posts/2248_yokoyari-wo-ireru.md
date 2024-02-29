@@ -8,10 +8,10 @@ comments: true
 slug: "2248_yokoyari-wo-ireru"
 ---
 
-# 【No. 2248】<strong><em>Yokoyari wo Ireru</strong></em> (横槍を入れる - Interrupting)
+# 【No. 2248】<strong><em>Yokoyari wo Ireru</em></strong> (横槍を入れる - Interrupting)
 <div class="date">Dec 17, 2023 17:08</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yokoyari wo Ireru</strong></em><br/><br/>The Japanese idiom <strong><em>yokoyari wo ireru</em></strong> (横槍を入れる) means to interrupt someone else's conversation or work.<br/><br/>Since <strong><em>yoko</em></strong> (横) means "side," <strong><em>yari</em></strong> (槍) means "spear," and <strong><em>ireru</em></strong> (入れる) means "to insert," the literal meaning of <em>yokoyari wo ireru</em> is "to insert a spear from the side."<br/><br/>Originally, this phrase described a kind of attack on a battlefield; during a battle between two armies, you would launch an attack from the side.<br/><br/>Later, it came to be used in everyday conversation to mean a third party interferes from the side.
+<strong><em>Yokoyari wo Ireru</em></strong><br/><br/>The Japanese idiom <strong><em>yokoyari wo ireru</em></strong> (横槍を入れる) means to interrupt someone else's conversation or work.<br/><br/>Since <strong><em>yoko</em></strong> (横) means "side," <strong><em>yari</em></strong> (槍) means "spear," and <strong><em>ireru</em></strong> (入れる) means "to insert," the literal meaning of <em>yokoyari wo ireru</em> is "to insert a spear from the side."<br/><br/>Originally, this phrase described a kind of attack on a battlefield; during a battle between two armies, you would launch an attack from the side.<br/><br/>Later, it came to be used in everyday conversation to mean a third party interferes from the side.
 </div></div>
 
 <!-- more -->

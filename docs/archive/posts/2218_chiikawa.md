@@ -9,10 +9,10 @@ comments: true
 slug: "2218_chiikawa"
 ---
 
-# 【No. 2218】<strong><em>Chiikawa</strong></em> (ちいかわ)
+# 【No. 2218】<strong><em>Chiikawa</em></strong> (ちいかわ)
 <div class="date">Nov 17, 2023 19:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chiikawa</strong></em><br/><br/>Have you heard of <strong><em>Chiikawa</em></strong> (ちいかわ), which has become a social phenomenon in Japan.<br/><br/><em>Chiikawa</em>, also known as <em>Nanka Chiisakute Kawaii Yatsu</em>, is a very popular manga drawn by illustrator Nagano. It has been seriezed on X(Twitter) since 2020.<br/><br/><strong><em>Nanka</em></strong> (何か) means "something," <strong><em>chiisaku/chiisai</em></strong> (小さく/小さい) means "small," <strong><em>kawaii</em></strong> (かわいい) means "cute," and <strong><em>yatsu</em></strong> (やつ) means "guy" or "something." Therefore, the literal meaning of the title is "something small and cute."<br/><br/>The surreal combination of adorable characters and realistic, absurd stories is believed to be one of the reasons for its popularity.<br/><br/>My favorite character in <em>Chiikawa</em> is <strong><em>Hachiware</em></strong> (ハチワレ), who looks like a cat.
+<strong><em>Chiikawa</em></strong><br/><br/>Have you heard of <strong><em>Chiikawa</em></strong> (ちいかわ), which has become a social phenomenon in Japan.<br/><br/><em>Chiikawa</em>, also known as <em>Nanka Chiisakute Kawaii Yatsu</em>, is a very popular manga drawn by illustrator Nagano. It has been seriezed on X(Twitter) since 2020.<br/><br/><strong><em>Nanka</em></strong> (何か) means "something," <strong><em>chiisaku/chiisai</em></strong> (小さく/小さい) means "small," <strong><em>kawaii</em></strong> (かわいい) means "cute," and <strong><em>yatsu</em></strong> (やつ) means "guy" or "something." Therefore, the literal meaning of the title is "something small and cute."<br/><br/>The surreal combination of adorable characters and realistic, absurd stories is believed to be one of the reasons for its popularity.<br/><br/>My favorite character in <em>Chiikawa</em> is <strong><em>Hachiware</em></strong> (ハチワレ), who looks like a cat.
 </div></div>
 
 <!-- more -->

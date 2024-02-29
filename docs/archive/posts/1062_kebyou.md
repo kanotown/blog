@@ -8,7 +8,7 @@ comments: true
 slug: "1062_kebyou"
 ---
 
-# 【No. 1062】<strong><em>Kebyou</strong></em> (仮病 - Pretended Illness)
+# 【No. 1062】<strong><em>Kebyou</em></strong> (仮病 - Pretended Illness)
 <div class="date">Nov 14, 2017 12:36</div>
 <div id="post"><div id="body_show_ori">
 In recent years, the number of young people who are absent from school or work due to "kebyou" (仮病) has been increased.<br/><br/>The "ke" (仮) means "temporary" or "fake," the "byou" (病) means "illness," and the combination "kebyou" means "to pretend to be illness."<br/><br/>As the symptoms of kebyou, headache, stomach ache, nausea and fever are often used.<br/><br/>Especially headache and stomach ache seem to be commonly used because it's difficult to confirm the symptom by a third party.<br/><br/>Also, people also use "miuchi no fukou" (身内の不幸 - bereavement) as a reason for playing hooky.<br/><br/>They make a story something like that their families or relatives were dead.<br/><br/>You should never tell such a lie.

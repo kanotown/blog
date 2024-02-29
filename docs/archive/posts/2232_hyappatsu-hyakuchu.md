@@ -8,10 +8,10 @@ comments: true
 slug: "2232_hyappatsu-hyakuchu"
 ---
 
-# 【No. 2232】<strong><em>Hyappatsu Hyakuchū</strong></em> (百発百中 - Deadly Accuracy)
+# 【No. 2232】<strong><em>Hyappatsu Hyakuchū</em></strong> (百発百中 - Deadly Accuracy)
 <div class="date">Dec 1, 2023 19:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hyappatsu Hyakuchū</strong></em><br/><br/>The four-character idiom <strong><em>hyappatsu hyakuchū</em></strong> (百発百中) describes a situation where a bullet or an arrow always hits the target, or every plan or prediction turns out exactly as intended.<br/><br/>Since <strong><em>hya/hyaku</em></strong> (百) means "hundred," <strong><em>hatsu/patsu</em></strong> (発) means "shot," and <strong><em>chū</em></strong> (中) means "hit," the literal meaning of <em>hyappatsu hyakuchū</em> is "a hundred shots, a hundred hits."<br/><br/>This idiom originates from the legendary archer Yang Youji, who appears in the ancient Chinese text "Strategies of the Warring States."<br/><br/>In the story, Yang shot a hundred arrows from a hundred paces away from a willow tree, and all the arrows hit the willow leaves.
+<strong><em>Hyappatsu Hyakuchū</em></strong><br/><br/>The four-character idiom <strong><em>hyappatsu hyakuchū</em></strong> (百発百中) describes a situation where a bullet or an arrow always hits the target, or every plan or prediction turns out exactly as intended.<br/><br/>Since <strong><em>hya/hyaku</em></strong> (百) means "hundred," <strong><em>hatsu/patsu</em></strong> (発) means "shot," and <strong><em>chū</em></strong> (中) means "hit," the literal meaning of <em>hyappatsu hyakuchū</em> is "a hundred shots, a hundred hits."<br/><br/>This idiom originates from the legendary archer Yang Youji, who appears in the ancient Chinese text "Strategies of the Warring States."<br/><br/>In the story, Yang shot a hundred arrows from a hundred paces away from a willow tree, and all the arrows hit the willow leaves.
 </div></div>
 
 <!-- more -->

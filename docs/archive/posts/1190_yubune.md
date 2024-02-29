@@ -8,7 +8,7 @@ comments: true
 slug: "1190_yubune"
 ---
 
-# 【No. 1190】<strong><em>Yubune</strong></em> (湯船 - Bathtub)
+# 【No. 1190】<strong><em>Yubune</em></strong> (湯船 - Bathtub)
 <div class="date">Mar 22, 2018 09:09</div>
 <div id="post"><div id="body_show_ori">
 Most Japanese houses have 湯船 (yubune).<br/><br/>湯 (yu) means "hot water," 船 (fune/bune) means "boat," and "yubune" is a large container to keep hot water for bath, that is to say, it's a bathtub.<br/><br/>In the Edo period in Japan, the custom of getting in a bathtub became gradually popular.<br/><br/>At that time, 銭湯 (sento - public bath house) was common, but the number of "sento" was limited because it needed a lot of hot water.<br/><br/>Because of this, a mobile bath house made by renovating a boat was born.<br/><br/>This is the derivation of the Japanese word 湯船 (yubune - lit. a hot water boat).

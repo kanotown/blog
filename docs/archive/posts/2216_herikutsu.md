@@ -8,10 +8,10 @@ comments: true
 slug: "2216_herikutsu"
 ---
 
-# 【No. 2216】<strong><em>Herikutsu</strong></em> (屁理屈 - Quibble)
+# 【No. 2216】<strong><em>Herikutsu</em></strong> (屁理屈 - Quibble)
 <div class="date">Nov 15, 2023 17:43</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Herikutsu</strong></em><br/><br/>A sophistical argument or a logic that does not make sense is referred to as <strong><em>herikutu</em></strong> (屁理屈) in Japanese.<br/><br/>Since <strong><em>he</em></strong> (屁) means "fart," and <strong><em>rikutsu</em></strong> (理屈) means "logic," the literal meaning of <em>herikutsu</em> is "fart logic."<br/><br/>In this context, <em>he</em> is used as a metaphor for something trivial or worthless.<br/><br/>In other words, <em>herikutsu</em> implies a trivial or worthless logic.<br/><br/>You can use this term with verbs like <strong><em>iu</em></strong> (言う - meaning "to say") or <strong><em>koneru</em></strong> (こねる - meaning "to mix").<br/><br/>Be careful not to quibble all the time.
+<strong><em>Herikutsu</em></strong><br/><br/>A sophistical argument or a logic that does not make sense is referred to as <strong><em>herikutu</em></strong> (屁理屈) in Japanese.<br/><br/>Since <strong><em>he</em></strong> (屁) means "fart," and <strong><em>rikutsu</em></strong> (理屈) means "logic," the literal meaning of <em>herikutsu</em> is "fart logic."<br/><br/>In this context, <em>he</em> is used as a metaphor for something trivial or worthless.<br/><br/>In other words, <em>herikutsu</em> implies a trivial or worthless logic.<br/><br/>You can use this term with verbs like <strong><em>iu</em></strong> (言う - meaning "to say") or <strong><em>koneru</em></strong> (こねる - meaning "to mix").<br/><br/>Be careful not to quibble all the time.
 </div></div>
 
 <!-- more -->

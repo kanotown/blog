@@ -8,10 +8,10 @@ comments: true
 slug: "2247_ishin-denshin"
 ---
 
-# 【No. 2247】<strong><em>Ishin Denshin</strong></em> (以心伝心 - Heart-to-Heart Communication)
+# 【No. 2247】<strong><em>Ishin Denshin</em></strong> (以心伝心 - Heart-to-Heart Communication)
 <div class="date">Dec 16, 2023 10:06</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ishin Denshin</strong></em><br/><br/>The four-character idiom <strong><em>ishin denshin</em></strong> (以心伝心) describes a situation where you and someone else understand each other's thoughts without using words.<br/><br/>This idiom can be read in kunyomi (Japanese reading) as <strong><em>kokoro wo motte kokoro ni tsutau</em></strong> (心を以て心に伝う).<br/><br/><strong><em>Kokoro</em></strong> (心) means "mind," <strong><em>motte</em></strong> (以て) means "with," and <strong><em>tsutau/tsutaeru</em></strong> (伝う/伝える) means "to convey." Therefore, the literal meaning of this expression is "to convey from one mind to another with the mind."<br/><br/>Originally, <em>ishin denshin</em> was a Buddhist term, referring to the transmission of Buddhism's profound teachings from a master to the disciple through the mind.
+<strong><em>Ishin Denshin</em></strong><br/><br/>The four-character idiom <strong><em>ishin denshin</em></strong> (以心伝心) describes a situation where you and someone else understand each other's thoughts without using words.<br/><br/>This idiom can be read in kunyomi (Japanese reading) as <strong><em>kokoro wo motte kokoro ni tsutau</em></strong> (心を以て心に伝う).<br/><br/><strong><em>Kokoro</em></strong> (心) means "mind," <strong><em>motte</em></strong> (以て) means "with," and <strong><em>tsutau/tsutaeru</em></strong> (伝う/伝える) means "to convey." Therefore, the literal meaning of this expression is "to convey from one mind to another with the mind."<br/><br/>Originally, <em>ishin denshin</em> was a Buddhist term, referring to the transmission of Buddhism's profound teachings from a master to the disciple through the mind.
 </div></div>
 
 <!-- more -->

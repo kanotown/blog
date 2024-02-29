@@ -8,7 +8,7 @@ comments: true
 slug: "0666_nuka-yorokobi"
 ---
 
-# 【No. 0666】<strong><em>Nuka Yorokobi</strong></em> (Short-lived Joy)
+# 【No. 0666】<strong><em>Nuka Yorokobi</em></strong> (Short-lived Joy)
 <div class="date">Oct 14, 2016 00:04</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese phrase "nuka yorokobi."<br/><br/>"Nuka" means pericarp and seed coat that are produced after polishing grains (bran), "yorokobi" means a joy, and "nuka yorokobi" expresses a short-lived joy.<br/><br/>Originally, "nuka" also expressed "small" or "fine" because of the look.<br/><br/>From this fact, it came to mean something like short-lived, and we came to refer to "a short-lived joy" as "nuka yorokobi."<br/><br/>For example, imagine a situation that you won the big lottery and went to a bank with joy, but one digit was actually different.<br/><br/>This is nuka yorokobi.<br/><br/>By the way, there is no relationship with today's topic, but this entry is the 666th post.

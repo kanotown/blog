@@ -8,10 +8,10 @@ comments: true
 slug: "1532_nami-no-hana"
 ---
 
-# 【No. 1532】<strong><em>Nami no Hana</strong></em> (波の花)
+# 【No. 1532】<strong><em>Nami no Hana</em></strong> (波の花)
 <div class="date">Feb 27, 2019 19:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nami no Hana</strong></em><br/><br/>Today, I would like to introduce the term <strong><em>nami no hana</em></strong> (波の花), which even Japanese people do not use frequently.<br/><br/><strong><em>Nami</em></strong> (波) means "(sea) wave," and <strong><em>hana</em></strong> (花) means "flower," but can you imagine what the combination <strong><em>nami no hana</em></strong> (literally means "flowers of waves") means?<br/><br/>There are two answers.<br/><br/>One is simple -- it means sea waves with white foam.<br/><br/>The sea foam is regarded as flowers or ears of rice.<br/><br/>The other is "salt," which is made from seawater.<br/><br/>In the past, since the word <strong><em>shio</em></strong> (塩 - "salt") could be misunderstood as <strong><em>shi wo</em></strong> (死を - "death to you"), court ladies used <em>nami no hana</em> instead of <em>shio</em>.
+<strong><em>Nami no Hana</em></strong><br/><br/>Today, I would like to introduce the term <strong><em>nami no hana</em></strong> (波の花), which even Japanese people do not use frequently.<br/><br/><strong><em>Nami</em></strong> (波) means "(sea) wave," and <strong><em>hana</em></strong> (花) means "flower," but can you imagine what the combination <strong><em>nami no hana</em></strong> (literally means "flowers of waves") means?<br/><br/>There are two answers.<br/><br/>One is simple -- it means sea waves with white foam.<br/><br/>The sea foam is regarded as flowers or ears of rice.<br/><br/>The other is "salt," which is made from seawater.<br/><br/>In the past, since the word <strong><em>shio</em></strong> (塩 - "salt") could be misunderstood as <strong><em>shi wo</em></strong> (死を - "death to you"), court ladies used <em>nami no hana</em> instead of <em>shio</em>.
 </div></div>
 
 <!-- more -->

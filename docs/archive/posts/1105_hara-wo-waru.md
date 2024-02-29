@@ -8,7 +8,7 @@ comments: true
 slug: "1105_hara-wo-waru"
 ---
 
-# 【No. 1105】<strong><em>Hara wo Waru</strong></em> (腹を割る - Heart to Heart)
+# 【No. 1105】<strong><em>Hara wo Waru</em></strong> (腹を割る - Heart to Heart)
 <div class="date">Dec 27, 2017 12:23</div>
 <div id="post"><div id="body_show_ori">
 Sometimes it is important to talk with someone heart to heart.<br/><br/>To lay one's heart bare like this is expressed as 腹を割る (hara wo waru) in Japanese.<br/><br/>The 腹 (hara) means "stomach" and the 割る (waru) means "to split," so the literal meaning of idiom is "to split one's stomach."<br/><br/>Before the age of science, people seemed to believe that one’s stomach thought things, and one’s heart (mind) was located in the stomach.<br/><br/>Because of this, 腹を割る (hara wo waru - to split one's stomach) has come to mean to talk heart to heart.

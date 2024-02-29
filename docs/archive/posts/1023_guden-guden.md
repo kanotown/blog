@@ -8,7 +8,7 @@ comments: true
 slug: "1023_guden-guden"
 ---
 
-# 【No. 1023】<strong><em>Guden Guden</strong></em> (ぐでんぐでん)
+# 【No. 1023】<strong><em>Guden Guden</em></strong> (ぐでんぐでん)
 <div class="date">Oct 6, 2017 11:20</div>
 <div id="post"><div id="body_show_ori">
 Yesterday we held a drinking party.<br/><br/>I got back to work in the middle of the second party, but some people might have become a state called "guden guden" (ぐでんぐでん).<br/><br/>"Guden guden" is a term that means that someone gets so drunk that he doesn't know who he is.<br/><br/>The "guden" (ぐでん) of "guden guden" comes from "kiden" (貴殿), which is a honorific title for a man.<br/><br/>The "ki" (貴) of "kiden" means "you," and "guden" was born by replacing it with "gu" (愚), which means "fool."<br/><br/>Previously, I introduced the Japanese term "hebereke," which means a drunk state, but "guden guden" represents a much wors state than that.<br/><br/>[ Hebereke (へべれけ) ]<br/><a href="http://lang-8.com/kanotown/journals/9388743911506033614267133588286983646" target="_blank">http://lang-8.com/kanotown/journals/9388743911506033614267133588286983646</a>

@@ -9,10 +9,10 @@ comments: true
 slug: "2255_nengajo"
 ---
 
-# 【No. 2255】<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 2
+# 【No. 2255】<strong><em>Nengajō</em></strong> (年賀状 - New Year's Greeting Card): Part 2
 <div class="date">Dec 24, 2023 17:07</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nengajō</strong></em>: Part 2<br/><br/>On the <strong><em>nengajō</em></strong> (年賀状 - "New Year's greeting card"), the zodiac animal of the year is often included with a New Year's greeting.<br/><br/>Every year, I try to draw the zodiac animal on my <em>nengajō</em>, using my favorite mathematical formulas and programming.<br/><br/>Since 2024 is <strong><em>tatsu-doshi</em></strong> (辰年 - "year of the dragon"), I was considering drawing a fractal figure, the dragon curve.<br/><br/>However, it looked too plain, so I decided to draw a dragon-like picture based on a unique three-dimensional fractal.<br/><br/>It took much time to adjust the parameters, but I managed to finish <em>nengajō</em>.<br/><br/>I will post the three-dimensional fractal dragon on January 1.
+<strong><em>Nengajō</em></strong>: Part 2<br/><br/>On the <strong><em>nengajō</em></strong> (年賀状 - "New Year's greeting card"), the zodiac animal of the year is often included with a New Year's greeting.<br/><br/>Every year, I try to draw the zodiac animal on my <em>nengajō</em>, using my favorite mathematical formulas and programming.<br/><br/>Since 2024 is <strong><em>tatsu-doshi</em></strong> (辰年 - "year of the dragon"), I was considering drawing a fractal figure, the dragon curve.<br/><br/>However, it looked too plain, so I decided to draw a dragon-like picture based on a unique three-dimensional fractal.<br/><br/>It took much time to adjust the parameters, but I managed to finish <em>nengajō</em>.<br/><br/>I will post the three-dimensional fractal dragon on January 1.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2244_konamikan"
 ---
 
-# 【No. 2244】<strong><em>Konamikan</strong></em> (小並感 - Child-like Opinion)
+# 【No. 2244】<strong><em>Konamikan</em></strong> (小並感 - Child-like Opinion)
 <div class="date">Dec 13, 2023 16:21</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Konamikan</strong></em><br/><br/>Yesterday, I introduced the internet slang term '(goiryoku)' (語彙力), which means limited vocabulary.<br/><br/>Similarly, there is another slang term, <strong><em>konamikan</em></strong> (小並感).<br/><br/><em>Konamikan</em> is short for <strong><em>shōgakusei nami no kansō</em></strong> (小学生並みの感想).<br/><br/><strong><em>Shōgakusei</em></strong> (小学生) means "elementary school student," <strong><em>nami</em></strong> (並み) means "on the level of," and <strong><em>kansō</em></strong> (感想) means "opinions," the literal meaning of <em>konamikan</em> is "opinions on the level of an elementary school student."<br/><br/>This term is used at the end of a sentence to self-deprecate the childishness of one's opinions or limited vocabulary.<br/><br/>For example, it is used like 「すごい（小並感）」, where <strong><em>sugoi</em></strong> (すごい) means "amazing."
+<strong><em>Konamikan</em></strong><br/><br/>Yesterday, I introduced the internet slang term '(goiryoku)' (語彙力), which means limited vocabulary.<br/><br/>Similarly, there is another slang term, <strong><em>konamikan</em></strong> (小並感).<br/><br/><em>Konamikan</em> is short for <strong><em>shōgakusei nami no kansō</em></strong> (小学生並みの感想).<br/><br/><strong><em>Shōgakusei</em></strong> (小学生) means "elementary school student," <strong><em>nami</em></strong> (並み) means "on the level of," and <strong><em>kansō</em></strong> (感想) means "opinions," the literal meaning of <em>konamikan</em> is "opinions on the level of an elementary school student."<br/><br/>This term is used at the end of a sentence to self-deprecate the childishness of one's opinions or limited vocabulary.<br/><br/>For example, it is used like 「すごい（小並感）」, where <strong><em>sugoi</em></strong> (すごい) means "amazing."
 </div></div>
 
 <!-- more -->

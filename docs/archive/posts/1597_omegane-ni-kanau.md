@@ -8,10 +8,10 @@ comments: true
 slug: "1597_omegane-ni-kanau"
 ---
 
-# 【No. 1597】<strong><em>Omegane ni Kanau</strong></em> (御眼鏡に適う - Giving Favor with Someone)
+# 【No. 1597】<strong><em>Omegane ni Kanau</em></strong> (御眼鏡に適う - Giving Favor with Someone)
 <div class="date">May 3, 2019 21:23</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Omegane ni Kanau</strong></em><br/><br/>Several days ago, I introduced Japanese terms, <strong><em>megane</em></strong> (眼鏡 - "glasses"), <strong><em>mushimegane</em></strong> (虫眼鏡 - "magnifying glass"), and <strong><em>iromegane</em></strong> (色眼鏡 - "colored glasses").<br/><br/>There is a famous idiom that uses <em>megane</em> -- it is <strong><em>omegane ni kanau</em></strong> (御眼鏡に適う).<br/><br/><strong><em>O</em></strong> (御) is a polite prefix, <strong><em>megane</em></strong> (眼鏡) means "glasses," and <strong><em>kanau</em></strong> (適う) means "to suit," so the literal meaning of <em>omegane ni kanau</em> is "to suit one's glasses."<br/><br/>Here, glasses imply that someone's ability to assess things.<br/><br/>In other words, <em>omegane ni kanau</em> means to gain favor with someone.
+<strong><em>Omegane ni Kanau</em></strong><br/><br/>Several days ago, I introduced Japanese terms, <strong><em>megane</em></strong> (眼鏡 - "glasses"), <strong><em>mushimegane</em></strong> (虫眼鏡 - "magnifying glass"), and <strong><em>iromegane</em></strong> (色眼鏡 - "colored glasses").<br/><br/>There is a famous idiom that uses <em>megane</em> -- it is <strong><em>omegane ni kanau</em></strong> (御眼鏡に適う).<br/><br/><strong><em>O</em></strong> (御) is a polite prefix, <strong><em>megane</em></strong> (眼鏡) means "glasses," and <strong><em>kanau</em></strong> (適う) means "to suit," so the literal meaning of <em>omegane ni kanau</em> is "to suit one's glasses."<br/><br/>Here, glasses imply that someone's ability to assess things.<br/><br/>In other words, <em>omegane ni kanau</em> means to gain favor with someone.
 </div></div>
 
 <!-- more -->

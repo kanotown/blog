@@ -8,10 +8,10 @@ comments: true
 slug: "1762_tajitatan"
 ---
 
-# 【No. 1762】<strong><em>Tajitatan</strong></em> (多事多端 - Eventful)
+# 【No. 1762】<strong><em>Tajitatan</em></strong> (多事多端 - Eventful)
 <div class="date">Nov 15, 2019 22:30</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tajitatan</strong></em><br/><br/>This is the first post for a month.<br/><br/>I could not write English essays on Lang-8 because I have been given a lot of work from several facilities.<br/><br/>To describe situations where you need to do many things and are busy, you can say the four-character idiom <strong><em>tajitatan</em></strong> (多事多端).<br/><br/>Since <strong><em>ta</em></strong> (多) means "many," <strong><em>ji</em></strong> (事) means "thing," and <strong><em>tan</em></strong> (端) means "beginning/edge," the literal meaning of <em>tajitatan</em> is "many things and beginnings."<br/><br/>As you can image, a situation where there are many things that you have to begin is a very busy situation.
+<strong><em>Tajitatan</em></strong><br/><br/>This is the first post for a month.<br/><br/>I could not write English essays on Lang-8 because I have been given a lot of work from several facilities.<br/><br/>To describe situations where you need to do many things and are busy, you can say the four-character idiom <strong><em>tajitatan</em></strong> (多事多端).<br/><br/>Since <strong><em>ta</em></strong> (多) means "many," <strong><em>ji</em></strong> (事) means "thing," and <strong><em>tan</em></strong> (端) means "beginning/edge," the literal meaning of <em>tajitatan</em> is "many things and beginnings."<br/><br/>As you can image, a situation where there are many things that you have to begin is a very busy situation.
 </div></div>
 
 <!-- more -->

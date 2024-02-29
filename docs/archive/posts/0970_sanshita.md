@@ -8,7 +8,7 @@ comments: true
 slug: "0970_sanshita"
 ---
 
-# 【No. 0970】<strong><em>Sanshita</strong></em> (三下 - Small Fry)
+# 【No. 0970】<strong><em>Sanshita</em></strong> (三下 - Small Fry)
 <div class="date">Aug 14, 2017 07:19</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the Japanese word "sanshita" (三下), which means a lower-level member of an organization.<br/><br/>Here the "san" (三) means "three," and the "shita" (下) means "under," so the literal meaning of "sanshita" is just "under three."<br/><br/>Originally, "sanshita" was used to mean a lower-level person among gamblers.<br/><br/>In Japanese gambling using dice, one and two (under three) were weak, so losers have come to be called "sanshita."<br/><br/>From this, lower-level people/small fry have come to be called "sanshita" even outside the field of gambling.<br/><br/>I work at a university, but I have the least experience among teachers, that is, I'm a sanshita.

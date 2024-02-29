@@ -8,7 +8,7 @@ comments: true
 slug: "1151_kokoro"
 ---
 
-# 【No. 1151】<strong><em>Kokoro</strong></em> (心 - Heart)
+# 【No. 1151】<strong><em>Kokoro</em></strong> (心 - Heart)
 <div class="date">Feb 11, 2018 14:55</div>
 <div id="post"><div id="body_show_ori">
 One's mind, that would be basis of human feelings, knowledge, or intention, is called 心 (kokoro) in Japanese.<br/><br/>There is a theory that this word comes from the fact that we called organs of poultry animals 凝る (koru) or 凝こる (kokoru).<br/><br/>Here, the verb "koru" means that something concentrates on one point.<br/><br/>Originally, "kokoro" meant organs, but it came to mean a human's organ (especially heart), and later, it has come to mean a mind.<br/><br/>Also, there is another theory that "kokoro" comes from an onomatopoeia: コロコロ (koro koro), which expresses that something is rotating/changing.<br/><br/>In this theory, it's implied that human mind or thought is easy to change.<br/><br/>Incidentally, if you want to mean a heart of organs, you should say 心臓 (shinzō) by adding 臓 (zō - organ) to 心 (shin - heart).

@@ -8,7 +8,7 @@ comments: true
 slug: "1110_zorome"
 ---
 
-# 【No. 1110】<strong><em>Zorome</strong></em> (ゾロ目 - Repdigit) 
+# 【No. 1110】<strong><em>Zorome</em></strong> (ゾロ目 - Repdigit) 
 <div class="date">Jan 1, 2018 16:56</div>
 <div id="post"><div id="body_show_ori">
 Happy New Year.<br/><br/>Today is January 1st, and this is 1111th post. <br/><br/>When same numbers line up like this, it is called ゾロ目 (zorome) in Japanese.<br/><br/>"Zorome" was created by emphasizing the word, 揃い目 (soroime).<br/><br/>Here, the 揃い (soroi) means "to much up" or "to get together," and the 目 (me) means "pips of a dice."<br/><br/>Because of this, "zorome" originally meant that two dices show the same number.<br/><br/>These days, it has come to mean that same numbers line up.<br/><br/>Incidentally, there is no perfect power in zorome natural numbers composed of two or more digits (e.g., 111, 3333).

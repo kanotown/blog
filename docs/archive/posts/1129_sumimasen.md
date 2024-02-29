@@ -8,7 +8,7 @@ comments: true
 slug: "1129_sumimasen"
 ---
 
-# 【No. 1129】<strong><em>Sumimasen</strong></em> (すみません - Sorry/Thanks)
+# 【No. 1129】<strong><em>Sumimasen</em></strong> (すみません - Sorry/Thanks)
 <div class="date">Jan 20, 2018 14:48</div>
 <div id="post"><div id="body_show_ori">
 Japanese people often say すみません (sumimasen) when they want to express their feelings of apology or appreciation.<br/><br/>"Sumimasen" is a polite form of すまぬ (sumanu), and "sumanu" is composed of the verb 済む (sumu) and the negative word ぬ (nu).<br/><br/>Here, "sumu" originally means "to be finished" or "to be solved," and it can also mean "to feel cheerful" or "to feel comfortable."<br/><br/>That is to say, "sumimasen," the negative form of "sumu," means that "you don't feel cheerful."<br/><br/>If you bring trouble to someone, or are helped by someone while taking much time, your feeling won't be cheerful/comfortable.<br/><br/>Because of this, "sumimasen" has come to be used to express the feeling of apology or appreciation.

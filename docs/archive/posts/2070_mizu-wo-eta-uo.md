@@ -8,10 +8,10 @@ comments: true
 slug: "2070_mizu-wo-eta-uo"
 ---
 
-# 【No. 2070】<strong><em>Mizu wo Eta Uo</strong></em> (水を得た魚 - A Fish to Water)
+# 【No. 2070】<strong><em>Mizu wo Eta Uo</em></strong> (水を得た魚 - A Fish to Water)
 <div class="date">Jun 22, 2023 19:29</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mizu wo Eta Uo</strong></em><br/><br/>Have you ever seen someone who has become lively in their areas of expertise or in a situation where they can shine?<br/><br/>Such a person can be described as <strong><em>mizu wo eta uo</em></strong> (水を得た魚) in Japanese.<br/><br/>Since <strong><em>mizu</em></strong> (水) means "water," <strong><em>eta</em></strong> (得た) means "got," and <strong><em>uo/sakana</em></strong> (魚) means "fish," the literal meaning of <em>mizu wo eta uo</em> is "a fish that got the water."<br/><br/>A fish released into the water will swim lively.<br/><br/>That is to say, the phrase <em>mizu wo eta uo</em> is a metaphor for a lively person in their areas of expertise as a fish swimming lively.
+<strong><em>Mizu wo Eta Uo</em></strong><br/><br/>Have you ever seen someone who has become lively in their areas of expertise or in a situation where they can shine?<br/><br/>Such a person can be described as <strong><em>mizu wo eta uo</em></strong> (水を得た魚) in Japanese.<br/><br/>Since <strong><em>mizu</em></strong> (水) means "water," <strong><em>eta</em></strong> (得た) means "got," and <strong><em>uo/sakana</em></strong> (魚) means "fish," the literal meaning of <em>mizu wo eta uo</em> is "a fish that got the water."<br/><br/>A fish released into the water will swim lively.<br/><br/>That is to say, the phrase <em>mizu wo eta uo</em> is a metaphor for a lively person in their areas of expertise as a fish swimming lively.
 </div></div>
 
 <!-- more -->

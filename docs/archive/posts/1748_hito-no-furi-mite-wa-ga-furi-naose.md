@@ -8,10 +8,10 @@ comments: true
 slug: "1748_hito-no-furi-mite-wa-ga-furi-naose"
 ---
 
-# 【No. 1748】<strong><em>Hito no Furi mite Wa-ga Furi Naose</strong></em> (人の振り見て我が振り直せ)
+# 【No. 1748】<strong><em>Hito no Furi mite Wa-ga Furi Naose</em></strong> (人の振り見て我が振り直せ)
 <div class="date">Oct 1, 2019 15:06</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hito no Furi mite Wa-ga Furi Naose</strong></em><br/><br/>The day before yesterday, I introduced the idiom <strong><em>hanmen kyōshi</em></strong> (反面教師), which comes from China and means a negative exemplar.<br/><br/>There is a Japanese proverb that has a similar meaning to this -- it is <strong><em>hito no furi mite wa-ga furi naose</em></strong> (人の振り見て我が振り直せ).<br/><br/>Since <strong><em>hito</em></strong> (人) means "person," <strong><em>furi</em></strong> (振り) means "behavior," '<strong><em>mite</em></strong> (見て) means "look," wa-ga' (我が) means "my," and <strong><em>naose</em></strong> (直せ) means "fix," the literal meaning of this proverb is "Fix your behavior by looking other's behavior."<br/><br/>I think there is no need to explain the etymology.<br/><br/>It just says that you should learn what to do and what not to do from other's behavior.
+<strong><em>Hito no Furi mite Wa-ga Furi Naose</em></strong><br/><br/>The day before yesterday, I introduced the idiom <strong><em>hanmen kyōshi</em></strong> (反面教師), which comes from China and means a negative exemplar.<br/><br/>There is a Japanese proverb that has a similar meaning to this -- it is <strong><em>hito no furi mite wa-ga furi naose</em></strong> (人の振り見て我が振り直せ).<br/><br/>Since <strong><em>hito</em></strong> (人) means "person," <strong><em>furi</em></strong> (振り) means "behavior," '<strong><em>mite</em></strong> (見て) means "look," wa-ga' (我が) means "my," and <strong><em>naose</em></strong> (直せ) means "fix," the literal meaning of this proverb is "Fix your behavior by looking other's behavior."<br/><br/>I think there is no need to explain the etymology.<br/><br/>It just says that you should learn what to do and what not to do from other's behavior.
 </div></div>
 
 <!-- more -->

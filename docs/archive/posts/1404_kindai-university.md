@@ -8,10 +8,10 @@ comments: true
 slug: "1404_kindai-university"
 ---
 
-# 【No. 1404】<strong><em>Kindai University</strong></em> (近畿大学)
+# 【No. 1404】<strong><em>Kindai University</em></strong> (近畿大学)
 <div class="date">Oct 22, 2018 13:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kindai University</strong></em><br/><br/>There is a famous private university called <strong><em>Kinki Daigaku</em></strong> (近畿大学 - literally "Kinki University") in Osaka, Japan.<br/><br/><strong><em>Kinki</em></strong> (近畿) means the Kansai region (the area of western Japan), but its pronunciation sounds like "kinky," so the name "Kinki University" became a diplomatic problem.<br/><br/>Therefore, it had started considering to change the name to another one around 10 years ago, and it has changed to "Kindai University" since 2016.<br/><br/><strong><em>Kin</em></strong> (近) and <strong><em>dai</em></strong> (大) are short for <strong><em>Kinki</em></strong> (近畿) and <strong><em>daigaku</em></strong> (大学), respectively -- in fact, this university is known familiarly as <strong><em>Kindai</em></strong> (近大).<br/><br/>Since both <em>dai</em> and "university" means "university," the literal meaning of Kindai University is "Kinki University University," but it can't be helped.
+<strong><em>Kindai University</em></strong><br/><br/>There is a famous private university called <strong><em>Kinki Daigaku</em></strong> (近畿大学 - literally "Kinki University") in Osaka, Japan.<br/><br/><strong><em>Kinki</em></strong> (近畿) means the Kansai region (the area of western Japan), but its pronunciation sounds like "kinky," so the name "Kinki University" became a diplomatic problem.<br/><br/>Therefore, it had started considering to change the name to another one around 10 years ago, and it has changed to "Kindai University" since 2016.<br/><br/><strong><em>Kin</em></strong> (近) and <strong><em>dai</em></strong> (大) are short for <strong><em>Kinki</em></strong> (近畿) and <strong><em>daigaku</em></strong> (大学), respectively -- in fact, this university is known familiarly as <strong><em>Kindai</em></strong> (近大).<br/><br/>Since both <em>dai</em> and "university" means "university," the literal meaning of Kindai University is "Kinki University University," but it can't be helped.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1009_ashi-ga-deru"
 ---
 
-# 【No. 1009】<strong><em>Ashi ga Deru</strong></em> (足が出る - Running over the Budget)
+# 【No. 1009】<strong><em>Ashi ga Deru</em></strong> (足が出る - Running over the Budget)
 <div class="date">Sep 22, 2017 18:50</div>
 <div id="post"><div id="body_show_ori">
 This month, I spent more money than my income.<br/><br/>We say "ashi ga deru" (足が出る) in such a case, which means that expenditure become higher than the budget or your income.<br/><br/>The "ashi" (足) means "leg," the "deru" (出る) means "to protrude," so the literal meaning of the composition is "a leg protrudes."<br/><br/>There are mainly two theories about the etymology of this term.<br/><br/>One is that the "ashi" (足 - leg) implies money.<br/><br/>In fact, since money runs around the world, mone is sometimes called "oashi" (here the "o" is a polite suffix) in Japan.<br/><br/>The other one is that it comes from the following fact;<br/>when making a kimono (traditional Japanese clothes), if you don't have enough textures due to lack of budget, your legs will protrude from the kimono.

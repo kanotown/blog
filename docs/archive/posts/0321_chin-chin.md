@@ -8,7 +8,7 @@ comments: true
 slug: "0321_chin-chin"
 ---
 
-# 【No. 0321】<strong><em>Chin-chin</strong></em> (dialect)
+# 【No. 0321】<strong><em>Chin-chin</em></strong> (dialect)
 <div class="date">Nov 4, 2015 12:31</div>
 <div id="post"><div id="body_show_ori">
 Today, I'd like to explain a dialect "chin-chin" in Aichi Prefecture where I was born.<br/><br/>It represents that something is very hot, we use it in the following manner.<br/><br/>・The kettle is chin-chin.<br/>・The tea is chin-chin.<br/><br/>This phrase came from a sound of a kettle's lid when water is boiling.<br/><br/>However, this is just a dialect, and it could become a different meaning in other areas.<br/><br/>Therefore, please use it with utmost caution.

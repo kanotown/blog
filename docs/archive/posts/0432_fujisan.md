@@ -8,7 +8,7 @@ comments: true
 slug: "0432_fujisan"
 ---
 
-# 【No. 0432】<strong><em>Fujisan</strong></em> (Mount Fuji) Day
+# 【No. 0432】<strong><em>Fujisan</em></strong> (Mount Fuji) Day
 <div class="date">Feb 23, 2016 17:56</div>
 <div id="post"><div id="body_show_ori">
 Today, February 23 is the Fujisan Day.<br/><br/>The reason is because we can read "2" as "fu(tatsu)" and "ji," and "3" as "san."<br/><br/>This day was established by Shizuoka Prefecture and Yamanashi Prefecture, where the Mount Fuji is located.<br/><br/>In many public schools in Shizuoka Prefecture, today seems to be a holiday.<br/><br/>Also, there are a lot of events related to Mount Fuji in various places.<br/><br/>It sounds fun, but there is almost no event in other prefecture.<br/><br/>Actually, I just found out the day today.

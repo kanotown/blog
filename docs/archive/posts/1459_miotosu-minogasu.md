@@ -8,10 +8,10 @@ comments: true
 slug: "1459_miotosu-minogasu"
 ---
 
-# 【No. 1459】<strong><em>Miotosu/Minogasu</strong></em> (見落とす/見逃す - Missing)
+# 【No. 1459】<strong><em>Miotosu/Minogasu</em></strong> (見落とす/見逃す - Missing)
 <div class="date">Dec 16, 2018 22:33</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Miotosu/Minogasu</strong></em><br/><br/>Today, I was checking again the corrections that I received on Lang-8.<br/><br/>At that time, I found that I forgot to say "Thank you" for about 20 corrections.<br/><br/>I replied to them, but I feel sorry for not being able to notice them soon.<br/><br/>Like this case, to miss something is said as <strong><em>miotosu</em></strong> (見落とす) or <strong><em>minogasu</em></strong> (見逃す) in Japanese.<br/><br/><strong><em>Mi</em></strong> (見) means "look," <strong><em>otosu</em></strong> (落とす) means "drop," and <strong><em>nogasu</em></strong> (逃す) means "miss."<br/><br/>Both of them have the meaning of "to miss something," but <em>miotosu</em> can also mean to pretend not to see something.
+<strong><em>Miotosu/Minogasu</em></strong><br/><br/>Today, I was checking again the corrections that I received on Lang-8.<br/><br/>At that time, I found that I forgot to say "Thank you" for about 20 corrections.<br/><br/>I replied to them, but I feel sorry for not being able to notice them soon.<br/><br/>Like this case, to miss something is said as <strong><em>miotosu</em></strong> (見落とす) or <strong><em>minogasu</em></strong> (見逃す) in Japanese.<br/><br/><strong><em>Mi</em></strong> (見) means "look," <strong><em>otosu</em></strong> (落とす) means "drop," and <strong><em>nogasu</em></strong> (逃す) means "miss."<br/><br/>Both of them have the meaning of "to miss something," but <em>miotosu</em> can also mean to pretend not to see something.
 </div></div>
 
 <!-- more -->

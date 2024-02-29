@@ -8,10 +8,10 @@ comments: true
 slug: "2207_mizu-wo-mukeru"
 ---
 
-# 【No. 2207】<strong><em>Mizu wo Mukeru</strong></em> (水を向ける - Providing an Opening)
+# 【No. 2207】<strong><em>Mizu wo Mukeru</em></strong> (水を向ける - Providing an Opening)
 <div class="date">Nov 6, 2023 18:25</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mizu wo Mukeru</strong></em><br/><br/>The act of prompting someone to speak comfortably is sometimes expressed as <strong><em>mizu wo mukeru</em></strong> (水を向ける).<br/><br/>Since <strong><em>mizu</em></strong> (水) means "water," and <strong><em>mukeru</em></strong> (向ける) means "to direct," the literal meaning of <em>mizu wo mukeru</em> is "to direct water."<br/><br/>This expression is believed to have originated from the ancient practice where a <strong><em>miko</em></strong> (巫女 - meaning "priestess") used to pour water into a bowl and present it as a way to call up the spirits of the dead.<br/><br/>This act was equivalent to calling the spirits and making them speak, so <em>mizu wo mukeru</em> came to acquire its current metaphorical meaning.
+<strong><em>Mizu wo Mukeru</em></strong><br/><br/>The act of prompting someone to speak comfortably is sometimes expressed as <strong><em>mizu wo mukeru</em></strong> (水を向ける).<br/><br/>Since <strong><em>mizu</em></strong> (水) means "water," and <strong><em>mukeru</em></strong> (向ける) means "to direct," the literal meaning of <em>mizu wo mukeru</em> is "to direct water."<br/><br/>This expression is believed to have originated from the ancient practice where a <strong><em>miko</em></strong> (巫女 - meaning "priestess") used to pour water into a bowl and present it as a way to call up the spirits of the dead.<br/><br/>This act was equivalent to calling the spirits and making them speak, so <em>mizu wo mukeru</em> came to acquire its current metaphorical meaning.
 </div></div>
 
 <!-- more -->

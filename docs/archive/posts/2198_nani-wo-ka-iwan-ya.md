@@ -8,10 +8,10 @@ comments: true
 slug: "2198_nani-wo-ka-iwan-ya"
 ---
 
-# 【No. 2198】<strong><em>Nani wo ka Iwan ya</strong></em> (何をか言わんや - Having Nothing to Say)
+# 【No. 2198】<strong><em>Nani wo ka Iwan ya</em></strong> (何をか言わんや - Having Nothing to Say)
 <div class="date">Oct 28, 2023 14:07</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nani wo ka Iwan ya</strong></em><br/><br/>When you are discouraged about something and have nothing to say, you can use the phrase, <strong><em>nani wo ka iwan ya</em></strong> (何をか言わんや).<br/><br/>Since <strong><em>nani</em></strong> (何) means "what," <strong><em>iwan</em></strong> (言わん) means "to say something," and <strong><em>ya</em></strong> (や) is a particle indicating an irony, the literal meaning of <em>nani wo ka iwan ya</em> is "What should I say? No, I have nothing to say."<br/><br/>Due to its archaic grammatical structure and sound, this phrase can create a more stern and elegant nuance than simply saying something like <strong><em>akireta</em></strong> (呆れた - meaning "I'm disgusted")
+<strong><em>Nani wo ka Iwan ya</em></strong><br/><br/>When you are discouraged about something and have nothing to say, you can use the phrase, <strong><em>nani wo ka iwan ya</em></strong> (何をか言わんや).<br/><br/>Since <strong><em>nani</em></strong> (何) means "what," <strong><em>iwan</em></strong> (言わん) means "to say something," and <strong><em>ya</em></strong> (や) is a particle indicating an irony, the literal meaning of <em>nani wo ka iwan ya</em> is "What should I say? No, I have nothing to say."<br/><br/>Due to its archaic grammatical structure and sound, this phrase can create a more stern and elegant nuance than simply saying something like <strong><em>akireta</em></strong> (呆れた - meaning "I'm disgusted")
 </div></div>
 
 <!-- more -->

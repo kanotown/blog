@@ -8,10 +8,10 @@ comments: true
 slug: "2234_nariwai"
 ---
 
-# 【No. 2234】<strong><em>Nariwai</strong></em> (生業 - Occupation)
+# 【No. 2234】<strong><em>Nariwai</em></strong> (生業 - Occupation)
 <div class="date">Dec 3, 2023 23:57</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nariwai</strong></em><br/><br/>The Japanese term <strong><em>nariwai</em></strong> (生業) refers to one's occupation or work that supports their livelihood.<br/><br/><strong><em>Nari</em></strong> (生) means "life" or "living," and <strong><em>wai/waza</em></strong> (業) means "work" or "occupation." Thus, the literal meaning of <em>nariwai</em> is "work for a living." Originally, <em>nariwai</em> meant the cultivation of crops or the efforts to make them.<br/><br/>It evolved to mean any work that provides income for living, not just agriculture.<br/><br/>For example, you can say <strong><em>e wo kaku koto wo nariwai to shiteimasu</em></strong> (絵を描くことを生業としています - "I make my living by painting pictures").
+<strong><em>Nariwai</em></strong><br/><br/>The Japanese term <strong><em>nariwai</em></strong> (生業) refers to one's occupation or work that supports their livelihood.<br/><br/><strong><em>Nari</em></strong> (生) means "life" or "living," and <strong><em>wai/waza</em></strong> (業) means "work" or "occupation." Thus, the literal meaning of <em>nariwai</em> is "work for a living." Originally, <em>nariwai</em> meant the cultivation of crops or the efforts to make them.<br/><br/>It evolved to mean any work that provides income for living, not just agriculture.<br/><br/>For example, you can say <strong><em>e wo kaku koto wo nariwai to shiteimasu</em></strong> (絵を描くことを生業としています - "I make my living by painting pictures").
 </div></div>
 
 <!-- more -->

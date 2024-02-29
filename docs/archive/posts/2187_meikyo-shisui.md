@@ -8,10 +8,10 @@ comments: true
 slug: "2187_meikyo-shisui"
 ---
 
-# 【No. 2187】<strong><em>Meikyō Shisui</strong></em> (明鏡止水 -  Clear and Serene)
+# 【No. 2187】<strong><em>Meikyō Shisui</em></strong> (明鏡止水 -  Clear and Serene)
 <div class="date">Oct 17, 2023 18:09</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Meikyō Shisui</strong></em><br/><br/>When someone's mind is completely free of distraction and is perfectly clear, the state is sometimes described as <strong><em>meikyō shisui</em></strong> (明鏡止水).<br/><br/>Since <strong><em>mei</em></strong> (明) means "clear," and <strong><em>kyō</em></strong> (鏡) means "mirror," <strong><em>meikyō</em></strong> (明鏡) means "a clear and spotless mirror."<br/><br/>In addition, <strong><em>shi</em></strong> (止) means "still," and <strong><em>sui</em></strong> (水) means "water," so <strong><em>shisui</em></strong> (止水) means "water that is still."<br/><br/>Both <em>meikyo</em> and <em>shisui</em> can reflect the shape and form of things as they are, which is why the idiom <em>meikyō shisui</em> has come to be used as a metaphor for a "clear mind."
+<strong><em>Meikyō Shisui</em></strong><br/><br/>When someone's mind is completely free of distraction and is perfectly clear, the state is sometimes described as <strong><em>meikyō shisui</em></strong> (明鏡止水).<br/><br/>Since <strong><em>mei</em></strong> (明) means "clear," and <strong><em>kyō</em></strong> (鏡) means "mirror," <strong><em>meikyō</em></strong> (明鏡) means "a clear and spotless mirror."<br/><br/>In addition, <strong><em>shi</em></strong> (止) means "still," and <strong><em>sui</em></strong> (水) means "water," so <strong><em>shisui</em></strong> (止水) means "water that is still."<br/><br/>Both <em>meikyo</em> and <em>shisui</em> can reflect the shape and form of things as they are, which is why the idiom <em>meikyō shisui</em> has come to be used as a metaphor for a "clear mind."
 </div></div>
 
 <!-- more -->

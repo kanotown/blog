@@ -8,10 +8,10 @@ comments: true
 slug: "2012_amayo-no-tsuki"
 ---
 
-# 【No. 2012】<strong><em>Amayo no Tsuki</strong></em> (雨夜の月 - Something That Exists but Is Invisible)
+# 【No. 2012】<strong><em>Amayo no Tsuki</em></strong> (雨夜の月 - Something That Exists but Is Invisible)
 <div class="date">Apr 26, 2023 11:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Amayo no Tsuki</strong></em><br/><br/>Something that exists there but is not visible, or an imaginary thing that does not exist is sometimes described as <strong><em>amayo no tsuki</em></strong> (雨夜の月).<br/><br/>Since <strong><em>ama/ame</em></strong> (雨) means "rain," <strong><em>yo</em></strong> (夜) means "night," and <strong><em>tsuki</em></strong> (月) means "moon," the literal meaning of <em>amayo no tsuki</em> is "moon on a rainy night."<br/><br/>This phrase was used in a poem of the <strong><em>Shika Wakashū</em></strong> (詞花和歌集 - "Collection of Verbal Flowers") written around 1151, as a metaphor for the moon hidden by clouds on a rainy night to a loved person one cannot meet, then it came to have the current meaning.<br/><br/>Sometimes it simply means "the harvest(full) moon which cannot be seen because of the rain."
+<strong><em>Amayo no Tsuki</em></strong><br/><br/>Something that exists there but is not visible, or an imaginary thing that does not exist is sometimes described as <strong><em>amayo no tsuki</em></strong> (雨夜の月).<br/><br/>Since <strong><em>ama/ame</em></strong> (雨) means "rain," <strong><em>yo</em></strong> (夜) means "night," and <strong><em>tsuki</em></strong> (月) means "moon," the literal meaning of <em>amayo no tsuki</em> is "moon on a rainy night."<br/><br/>This phrase was used in a poem of the <strong><em>Shika Wakashū</em></strong> (詞花和歌集 - "Collection of Verbal Flowers") written around 1151, as a metaphor for the moon hidden by clouds on a rainy night to a loved person one cannot meet, then it came to have the current meaning.<br/><br/>Sometimes it simply means "the harvest(full) moon which cannot be seen because of the rain."
 </div></div>
 
 <!-- more -->

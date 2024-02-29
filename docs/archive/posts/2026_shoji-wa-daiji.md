@@ -8,10 +8,10 @@ comments: true
 slug: "2026_shoji-wa-daiji"
 ---
 
-# 【No. 2026】<strong><em>Shōji wa Daiji</strong></em> (小事は大事 - Big Things Have Small Beginnings)
+# 【No. 2026】<strong><em>Shōji wa Daiji</em></strong> (小事は大事 - Big Things Have Small Beginnings)
 <div class="date">May 9, 2023 13:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shōji wa Daiji</strong></em><br/><br/>We should be aware that even small things could become significant things.<br/><br/>The proverb <strong><em>shōji was daiji</em></strong> (小事は大事) describes such a situation.<br/><br/>Since <strong><em>shō</em></strong> (小) means "small," <strong><em>ji</em></strong> (事) means "thing/matter," and <strong><em>dai</em></strong> (大) means "big," the literal meaning of this proverb is "a small thing is a big thing."<br/><br/>In other words, we should consider small things synonymous with big things and be reminded not to neglect them.<br/><br/>In English, it can be translated as  "Big things have small beginnings" or "From small beginnings come great things." 
+<strong><em>Shōji wa Daiji</em></strong><br/><br/>We should be aware that even small things could become significant things.<br/><br/>The proverb <strong><em>shōji was daiji</em></strong> (小事は大事) describes such a situation.<br/><br/>Since <strong><em>shō</em></strong> (小) means "small," <strong><em>ji</em></strong> (事) means "thing/matter," and <strong><em>dai</em></strong> (大) means "big," the literal meaning of this proverb is "a small thing is a big thing."<br/><br/>In other words, we should consider small things synonymous with big things and be reminded not to neglect them.<br/><br/>In English, it can be translated as  "Big things have small beginnings" or "From small beginnings come great things." 
 </div></div>
 
 <!-- more -->

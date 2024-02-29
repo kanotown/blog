@@ -8,7 +8,7 @@ comments: true
 slug: "1170_tokoton"
 ---
 
-# 【No. 1170】<strong><em>Tokoton</strong></em> (とことん - Thoroughly)
+# 【No. 1170】<strong><em>Tokoton</em></strong> (とことん - Thoroughly)
 <div class="date">Mar 2, 2018 11:22</div>
 <div id="post"><div id="body_show_ori">
 When you want to express the end of things or doing something thoroughly, you can use the Japanese term とことん (tokoton).<br/><br/>This term comes from the rhythmic stepping sound トコトントコトン (tokoton tokoton), which represents a Japanese dance.<br/><br/>There are two theories about the etymology of this sound -- one says that "toko" means "floor" and "ton" is an onomatopoeia that represents the stepping sound, and the other says that "tokoton" itself is the onomatopoeia.<br/><br/>Also, the reason why "tokoton" has come to have the current meaning is because the Japanese military song とことんやれ節 (tokoton yare bushi) had become popular in 1868.<br/><br/>Where やれ (yare) means "do it," and 節 (bushi) means "melody."<br/><br/>It's thought that since the discipline of the military was very strict, "tokoton yare" (tokoton do it) was considered as "do it thoroughly until the end."

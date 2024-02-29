@@ -8,7 +8,7 @@ comments: true
 slug: "1095_guchi"
 ---
 
-# 【No. 1095】<strong><em>Guchi</strong></em> (愚痴 - Moaning)
+# 【No. 1095】<strong><em>Guchi</em></strong> (愚痴 - Moaning)
 <div class="date">Dec 17, 2017 14:54</div>
 <div id="post"><div id="body_show_ori">
 I want to say some "guchi" (愚痴) now.<br/><br/>However, in most cases, since "guchi" makes others feel bad, I shouldn't say it.<br/><br/>"Guchi" means to say something silly or complain about something people have no power over.<br/><br/>Originally, this is a Buddhist term, which means that someone has no heart to understand the truth, or is ignorance.<br/><br/>After the beginning of the Edo period came, "guchi" came to be used to mean "to say something silly," and since the middle of the Edo period, it has come to mean "to complain about something people have no power over."

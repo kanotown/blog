@@ -8,7 +8,7 @@ comments: true
 slug: "0516_takeyabu"
 ---
 
-# 【No. 0516】<strong><em>Takeyabu</strong></em> (Bamboo Fence)
+# 【No. 0516】<strong><em>Takeyabu</em></strong> (Bamboo Fence)
 <div class="date">May 17, 2016 20:49</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about a tongue twister that I can't say.<br/><br/>"Kono takegaki ni take tatekaketano ha take tatekaketakatta kara take tatekaketa."<br/>(The reason why I leaned a bamboo against this bamboo fence is because I wanted to lean a bamboo, so I leaned a bamboo.)<br/><br/>Although it's easy to say "take" and "tatekakeru" respectively, it's very hard for me to say them consecutively, like "take tatekakeru."<br/><br/>This sentence is very popular as a tongue twister, but I think this is a little unnatural as Japanese.<br/><br/>I guess if I were in this situation, I would say something like:<br/><br/>"Kono takegaki ni take wo tatekaketa riyu ha, tada tan ni sositakatta kara desu."<br/>(The reason why I leaned a bamboo against this bamboo fence is because just I wanted to do so.)

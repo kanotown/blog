@@ -5,8 +5,8 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of February 29, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,321<br/>
-単語数 (Number of Words): 267,882<br/><br/>
+投稿数 (Number of Posts): 2,322<br/>
+単語数 (Number of Words): 268,051<br/><br/>
 </div>
 
 ## Symbols
@@ -510,6 +510,7 @@ Currently, I write short texts in English every day on a language exchange socia
 - [<strong><em>Furyō</strong></em> (不良 - Rogue/Hood)](../posts/1676_furyo/)
 - [<strong><em>Fuseki</strong></em> (布石 - Preparation)](../posts/1344_fuseki/)
 - [<strong><em>Fusessei</strong></em> (不摂生 - Intemperance)](../posts/1355_fusessei/)
+- [<strong><em>Fushime</strong></em> (節目 - Milestone)](../posts/2322_fushime/)
 - [<strong><em>Futodoki</strong></em> (不届き - Unscrupulous)](../posts/0916_futodoki/)
 - [<strong><em>Futokoro ga Atatakai</strong></em> (懐が暖かい - Having a Fat Purse)](../posts/1939_futokoro-ga-atatakai/)
 - [<strong><em>Futokoro ga Samui</strong></em> (懐が寒い - Having a Thin Purse)](../posts/1940_futokoro-ga-samui/)
@@ -882,8 +883,8 @@ Currently, I write short texts in English every day on a language exchange socia
 - [Japan "KARAAGE" Association](../posts/0303_japan-karaage-association/)
 - [Japanese Airline](../posts/1523_japanese-airline/)
 - [Japanese Common People Names](../posts/0247_japanese-common-people-names/)
-- [Japanese Convenience Stores Part 1](../posts/1208_japanese-convenience-stores-part-1/)
-- [Japanese Convenience Stores Part 2](../posts/1209_japanese-convenience-stores-part-2/)
+- [Japanese Convenience Stores: Part 1](../posts/1208_japanese-convenience-stores-part-1/)
+- [Japanese Convenience Stores: Part 2](../posts/1209_japanese-convenience-stores-part-2/)
 - [Japanese Customs at the Summer Solstice](../posts/1882_japanese-customs-at-the-summer-solstice/)
 - [Japanese Language Proficiency Test and The Japanese Language Examination](../posts/0619_japanese-language-proficiency-test-and-the-japanese-language-examination/)
 - [Japanese Like a Kleenex.](../posts/0233_japanese-like-a-kleenex/)

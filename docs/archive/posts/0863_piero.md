@@ -8,7 +8,7 @@ comments: true
 slug: "0863_piero"
 ---
 
-# 【No. 0863】<strong><em>Piero</strong></em> (Pierrot)
+# 【No. 0863】<strong><em>Piero</em></strong> (Pierrot)
 <div class="date">Apr 29, 2017 21:25</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the word "piero."<br/><br/>"Piero" means a performer who puts on lots of makeup and entertains people by his funny looks and actions.<br/><br/>There is the Japanese word "doukeshi," which has the same meaning of "piero," but "piero" is more commonly used.<br/><br/>The word "piero" was derived from the French word "pierrot," which is a nickname of a role in a comedy show.<br/><br/>Actually, "piero" that is referred to in Japan is equivalent to "clown" for other countries, including France.<br/><br/>I heard that Japanese called "clown" "piero" by mistake, and it has become widespread.

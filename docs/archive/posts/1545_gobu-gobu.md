@@ -8,10 +8,10 @@ comments: true
 slug: "1545_gobu-gobu"
 ---
 
-# 【No. 1545】<strong><em>Gobu Gobu</strong></em> (五分五分 - Half and Half)
+# 【No. 1545】<strong><em>Gobu Gobu</em></strong> (五分五分 - Half and Half)
 <div class="date">Mar 12, 2019 18:20</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gobu Gobu</strong></em><br/><br/>Yesterday, I introduced you to the four-character idiom <strong><em>kubu kurin</em></strong> (九分九厘), which means that a probability or achievement is almost 100% (literally means 99%).<br/><br/>If you want to express that the probability is about 50%, you can use the four-character idiom <strong><em>gobu gobu</em></strong> (五分五分).<br/><br/><strong><em>Go</em></strong> (五) means "five," <strong><em>bu</em></strong> (分) is a unit representing ratios, and <strong><em>ichibu</em></strong> (一分 - "one bu") is 10%, so the literal meaning of this idiom is "50% and 50%."<br/><br/><em>Gobu gobu</em> can mean not only probability but also that there is no priority between two persons (or two things).
+<strong><em>Gobu Gobu</em></strong><br/><br/>Yesterday, I introduced you to the four-character idiom <strong><em>kubu kurin</em></strong> (九分九厘), which means that a probability or achievement is almost 100% (literally means 99%).<br/><br/>If you want to express that the probability is about 50%, you can use the four-character idiom <strong><em>gobu gobu</em></strong> (五分五分).<br/><br/><strong><em>Go</em></strong> (五) means "five," <strong><em>bu</em></strong> (分) is a unit representing ratios, and <strong><em>ichibu</em></strong> (一分 - "one bu") is 10%, so the literal meaning of this idiom is "50% and 50%."<br/><br/><em>Gobu gobu</em> can mean not only probability but also that there is no priority between two persons (or two things).
 </div></div>
 
 <!-- more -->

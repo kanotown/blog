@@ -8,7 +8,7 @@ comments: true
 slug: "0990_hitohada-nugu"
 ---
 
-# 【No. 0990】<strong><em>Hitohada Nugu</strong></em> (一肌脱ぐ - Giving Someone A Helping Hand)
+# 【No. 0990】<strong><em>Hitohada Nugu</em></strong> (一肌脱ぐ - Giving Someone A Helping Hand)
 <div class="date">Sep 3, 2017 17:33</div>
 <div id="post"><div id="body_show_ori">
 Have you ever give assistance to someone in earnest?<br/><br/>Such an act is called "hitohada nugu" (一肌脱ぐ) in Japanese.<br/><br/>The "hito" (一) means "one," "hada" (肌) means "skin," and "nugu" (脱ぐ) means "to take off clothes/something."<br/><br/>In the past, Japanese people wear kimonos that have wide sleeves.<br/><br/>Also, when they did something in earnest, they took off one the kimono from one side of the shoulder, in order not to be disturbed by the sleeve of the kimono.<br/><br/>Because of this fact, "hitohada nugu" has come to be used the current meaning.

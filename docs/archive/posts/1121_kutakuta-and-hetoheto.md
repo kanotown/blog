@@ -8,7 +8,7 @@ comments: true
 slug: "1121_kutakuta-and-hetoheto"
 ---
 
-# 【No. 1121】<strong><em>Kutakuta and Hetoheto</strong></em> (「くたくた」と「へとへと」 - Exhausted)
+# 【No. 1121】<strong><em>Kutakuta and Hetoheto</em></strong> (「くたくた」と「へとへと」 - Exhausted)
 <div class="date">Jan 12, 2018 16:36</div>
 <div id="post"><div id="body_show_ori">
 There are Japanese onomatopoeia, くたくた (kutakuta) and へとへと (hetoheto),  both of which mean that someone is exhausted.<br/><br/>Both of kutakuta and hetoheto are often used in the same situation, but the degrees of tiredness that are expressed are different. <br/><br/>Kutakuta implies that you are tired, but you will get active if you take a little rest.<br/><br/>Hetoheto implies that you are exhausted, and it is difficult to you to not only move but also get up.<br/><br/>Also, kutakuta can be used to mean that things are shabby, but hetoheto is used to only people.<br/><br/>Incidentally, I'm now kutakuta.

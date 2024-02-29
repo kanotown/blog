@@ -8,10 +8,10 @@ comments: true
 slug: "1633_aruki-sumaho"
 ---
 
-# 【No. 1633】<strong><em>Aruki Sumaho</strong></em> (歩きスマホ - Smartphone Zombie)
+# 【No. 1633】<strong><em>Aruki Sumaho</em></strong> (歩きスマホ - Smartphone Zombie)
 <div class="date">Jun 8, 2019 21:57</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Aruki Sumaho</strong></em><br/><br/>In accordance with the prevalence of smartphones, <strong><em>aruki sumaho</em></strong> (歩きスマホ) has become a big problem in the world.<br/><br/>Since <strong><em>aruki</em></strong> (歩き) means "walking," and <strong><em>sumaho</em></strong> (スマホ) is short for <strong><em>sumātofon</em></strong> (スマートフォン - "smartphone"), <em>aruki sumaho</em> literally means "to use a smartphone while walking."<br/><br/>The use of smartphones while walking makes you have a very narrow view of things, so it is extremely dangerous<br/><br/>In the US, such people using smartphones while walking are called "smartphone zombie," because they walk slowly without worrying about surroundings.
+<strong><em>Aruki Sumaho</em></strong><br/><br/>In accordance with the prevalence of smartphones, <strong><em>aruki sumaho</em></strong> (歩きスマホ) has become a big problem in the world.<br/><br/>Since <strong><em>aruki</em></strong> (歩き) means "walking," and <strong><em>sumaho</em></strong> (スマホ) is short for <strong><em>sumātofon</em></strong> (スマートフォン - "smartphone"), <em>aruki sumaho</em> literally means "to use a smartphone while walking."<br/><br/>The use of smartphones while walking makes you have a very narrow view of things, so it is extremely dangerous<br/><br/>In the US, such people using smartphones while walking are called "smartphone zombie," because they walk slowly without worrying about surroundings.
 </div></div>
 
 <!-- more -->

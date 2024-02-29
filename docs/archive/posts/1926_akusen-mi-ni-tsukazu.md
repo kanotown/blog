@@ -8,10 +8,10 @@ comments: true
 slug: "1926_akusen-mi-ni-tsukazu"
 ---
 
-# 【No. 1926】<strong><em>Akusen Mi ni Tsukazu</strong></em> (悪銭身に付かず - Easy Come, Easy Go)
+# 【No. 1926】<strong><em>Akusen Mi ni Tsukazu</em></strong> (悪銭身に付かず - Easy Come, Easy Go)
 <div class="date">Aug 4, 2021 14:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Akusen Mi ni Tsukazu</strong></em><br/><br/>Have you ever won money easily through lottery or gambling?<br/><br/>Even if you obtain money through such gambling or illegal means, you will spend it quickly and won't save.<br/><br/>This can be described as the Japanese saying <strong><em>akusen mi ni tsukazu</em></strong> (悪銭身に付かず).<br/><br/>Since <strong><em>aku</em></strong> (悪) means "bad," <strong><em>sen</em></strong> (銭) means "money," <strong><em>mi</em></strong> (身) means "body," and <strong><em>tsukazu</em></strong> (付かず) means "don't stick to," <em>akusen mi ni tsukazu</em> literally means "bad money (easy money) doesn't stick to one's body."<br/><br/>In my case, even the money I worked hard to earn doesn't stick to me very well.
+<strong><em>Akusen Mi ni Tsukazu</em></strong><br/><br/>Have you ever won money easily through lottery or gambling?<br/><br/>Even if you obtain money through such gambling or illegal means, you will spend it quickly and won't save.<br/><br/>This can be described as the Japanese saying <strong><em>akusen mi ni tsukazu</em></strong> (悪銭身に付かず).<br/><br/>Since <strong><em>aku</em></strong> (悪) means "bad," <strong><em>sen</em></strong> (銭) means "money," <strong><em>mi</em></strong> (身) means "body," and <strong><em>tsukazu</em></strong> (付かず) means "don't stick to," <em>akusen mi ni tsukazu</em> literally means "bad money (easy money) doesn't stick to one's body."<br/><br/>In my case, even the money I worked hard to earn doesn't stick to me very well.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1140_jigyaku-fu-jiman"
 ---
 
-# 【No. 1140】<strong><em>Jigyaku-fū Jiman</strong></em> (自虐風自慢 - Humblebrag)
+# 【No. 1140】<strong><em>Jigyaku-fū Jiman</em></strong> (自虐風自慢 - Humblebrag)
 <div class="date">Jan 31, 2018 04:12</div>
 <div id="post"><div id="body_show_ori">
 There is a Japanese slang term: 自虐風自慢 (jigyaku-fū jiman), which was born from the Internet.<br/><br/>自虐 (jigyaku) means "self-condemnation," 風 (fū) means "sounds like," and 自慢 (jiman) means "brag."<br/><br/>Therefore, "jigyaku-fū jiman" means one's brag that sounds like self-condemnation.<br/><br/>For example, it's something like the following utterances.<br/><br/>"Oh, I received ONLY $10,000 as a bonus in summer, it's terrible."<br/><br/>"These days various men try to ask me out almost every day, sigh.., I'm tired of refusing them."<br/><br/>Since "jigyaku-fū jiman" makes people uncomfortable, please be careful not to say it.

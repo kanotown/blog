@@ -9,10 +9,10 @@ comments: true
 slug: "1591_megane"
 ---
 
-# 【No. 1591】<strong><em>Megane</strong></em> (眼鏡 - Glasses)
+# 【No. 1591】<strong><em>Megane</em></strong> (眼鏡 - Glasses)
 <div class="date">Apr 27, 2019 23:44</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Megane</strong></em><br/><br/>Today I bought a <strong><em>megane</em></strong> (眼鏡).<br/><br/><em>Megane</em> is a Japanese word that means "glasses."<br/><br/><strong><em>Me</em></strong> (眼) means "eye," but the exact etymology of <strong><em>gane</em></strong> (鏡) has not been clarified yet.<br/><br/>One web page explains that it comes from <strong><em>sashigane</em></strong> (さしがね), which means "ruler," and another page explains that it comes from <strong><em>kagami</em></strong> (鏡), which has the same kanji for <em>gane</em> and means "mirror."<br/><br/>Incidentally, it is said that glasses were invented in Italy in 1284, and it was imported to Japan by Francisco de Xavier in 1551.
+<strong><em>Megane</em></strong><br/><br/>Today I bought a <strong><em>megane</em></strong> (眼鏡).<br/><br/><em>Megane</em> is a Japanese word that means "glasses."<br/><br/><strong><em>Me</em></strong> (眼) means "eye," but the exact etymology of <strong><em>gane</em></strong> (鏡) has not been clarified yet.<br/><br/>One web page explains that it comes from <strong><em>sashigane</em></strong> (さしがね), which means "ruler," and another page explains that it comes from <strong><em>kagami</em></strong> (鏡), which has the same kanji for <em>gane</em> and means "mirror."<br/><br/>Incidentally, it is said that glasses were invented in Italy in 1284, and it was imported to Japan by Francisco de Xavier in 1551.
 </div></div>
 
 <!-- more -->

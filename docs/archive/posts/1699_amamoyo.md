@@ -8,10 +8,10 @@ comments: true
 slug: "1699_amamoyo"
 ---
 
-# 【No. 1699】<strong><em>Amamoyō</strong></em> (雨模様 - Threatening Sky)
+# 【No. 1699】<strong><em>Amamoyō</em></strong> (雨模様 - Threatening Sky)
 <div class="date">Aug 13, 2019 18:39</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Amamoyō</strong></em><br/><br/>It was not <strong><em>amamoyō</em></strong> (雨模様) this morning, but it started to rain in the afternoon.<br/><br/><strong><em>Ama/ame</em></strong> (雨) means "rain" and <strong><em>moyō</em></strong> (模様) means "pattern," so the literal meaning of <strong><em>amamoyō</em></strong> (you can read this as 'amemoyō') is "rain pattern."<br/><br/>In actual conversations, this term is used to express a sky that looks like it is going to rain soon.<br/><br/>However, these days, people tend to use <em>amamoyō</em> when expressing rainy (drizzling) weather.<br/><br/>The latter is not the original correct meaning, but the new usage has gradually come to be accepted.
+<strong><em>Amamoyō</em></strong><br/><br/>It was not <strong><em>amamoyō</em></strong> (雨模様) this morning, but it started to rain in the afternoon.<br/><br/><strong><em>Ama/ame</em></strong> (雨) means "rain" and <strong><em>moyō</em></strong> (模様) means "pattern," so the literal meaning of <strong><em>amamoyō</em></strong> (you can read this as 'amemoyō') is "rain pattern."<br/><br/>In actual conversations, this term is used to express a sky that looks like it is going to rain soon.<br/><br/>However, these days, people tend to use <em>amamoyō</em> when expressing rainy (drizzling) weather.<br/><br/>The latter is not the original correct meaning, but the new usage has gradually come to be accepted.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1330_kokoro-ni-shimiru"
 ---
 
-# 【No. 1330】<strong><em>Kokoro ni Shimiru</strong></em> (心にしみる - Being Impressed)
+# 【No. 1330】<strong><em>Kokoro ni Shimiru</em></strong> (心にしみる - Being Impressed)
 <div class="date">Aug 9, 2018 15:22</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kokoro ni Shimiru</strong></em><br/><br/>When expressing that you are impressed by something in English, you probably say in the way that something acts on someone, such as "to be impressed by" or "to be moved by."<br/><br/>On the other hand, Japanese people usually express it in the way that the someone just acts, such as <strong><em>kandō shita</em></strong> (感動した - literally "I did kandō").<br/><br/>However, there is another Japanese expression, which uses the way of saying that something acts on someone.<br/><br/>It is <strong><em>kokoro ni shimiru</em></strong> (心にしみる).<br/><br/><strong><em>Kokoro</em></strong> (心) means "heart" and <strong><em>shimiru</em></strong> (しみる) means "to soak into."<br/><br/>Therefore, this expression means that someone is impressed as if something soaks into the one's heart.
+<strong><em>Kokoro ni Shimiru</em></strong><br/><br/>When expressing that you are impressed by something in English, you probably say in the way that something acts on someone, such as "to be impressed by" or "to be moved by."<br/><br/>On the other hand, Japanese people usually express it in the way that the someone just acts, such as <strong><em>kandō shita</em></strong> (感動した - literally "I did kandō").<br/><br/>However, there is another Japanese expression, which uses the way of saying that something acts on someone.<br/><br/>It is <strong><em>kokoro ni shimiru</em></strong> (心にしみる).<br/><br/><strong><em>Kokoro</em></strong> (心) means "heart" and <strong><em>shimiru</em></strong> (しみる) means "to soak into."<br/><br/>Therefore, this expression means that someone is impressed as if something soaks into the one's heart.
 </div></div>
 
 <!-- more -->

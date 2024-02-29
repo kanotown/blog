@@ -8,10 +8,10 @@ comments: true
 slug: "1671_jiji-kokkoku"
 ---
 
-# 【No. 1671】<strong><em>Jiji Kokkoku</strong></em> (時々刻々 - Every Moment)
+# 【No. 1671】<strong><em>Jiji Kokkoku</em></strong> (時々刻々 - Every Moment)
 <div class="date">Jul 16, 2019 20:20</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Jiji Kokkoku</strong></em><br/><br/>Things vary by <strong><em>jiji kokkoku</em></strong> (時々刻々).<br/><br/><strong><em>Ji</em></strong> (時) means "time" or "hour," <strong><em>koku</em></strong> (刻) means "moment," the kanji 々 represents a repetition, and the combination <em>jiji kokkoku/jiji kokukoku</em> means that events or changes of things occur gradually and continuously.<br/><br/>Since <strong><em>jikoku</em></strong> (時刻) means just "time (of day)," the passage of time is expressed by repeating this.<br/><br/>Incidentally, you can write <em>jiji kokkoku</em> as 時時刻刻 without using the kanji character 々.<br/><br/>In English, it can be translated as "from hour to hour" or "every moment."
+<strong><em>Jiji Kokkoku</em></strong><br/><br/>Things vary by <strong><em>jiji kokkoku</em></strong> (時々刻々).<br/><br/><strong><em>Ji</em></strong> (時) means "time" or "hour," <strong><em>koku</em></strong> (刻) means "moment," the kanji 々 represents a repetition, and the combination <em>jiji kokkoku/jiji kokukoku</em> means that events or changes of things occur gradually and continuously.<br/><br/>Since <strong><em>jikoku</em></strong> (時刻) means just "time (of day)," the passage of time is expressed by repeating this.<br/><br/>Incidentally, you can write <em>jiji kokkoku</em> as 時時刻刻 without using the kanji character 々.<br/><br/>In English, it can be translated as "from hour to hour" or "every moment."
 </div></div>
 
 <!-- more -->

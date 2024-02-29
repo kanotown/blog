@@ -8,10 +8,10 @@ comments: true
 slug: "2200_itamiwake"
 ---
 
-# 【No. 2200】<strong><em>Itamiwake</strong></em> (痛み分け - Draw)
+# 【No. 2200】<strong><em>Itamiwake</em></strong> (痛み分け - Draw)
 <div class="date">Oct 30, 2023 17:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Itamiwake</strong></em><br/><br/>In disuputes, when both sides suffer the same degree of damage or disadvantage without reaching a resolution, the situation is called <strong><em>itamiwake</em></strong> (痛み分け) in Japanese.<br/><br/>Since <strong><em>itami</em></strong> (痛み) means "pain," and <strong><em>wake</em></strong> (分け) means "to share," the literal meaning of <em>itamiwake</em> is "to share the pain."<br/><br/>Originally, this term was used in sumo wrestling to describe a match ending in a draw due to one or both sides getting injured.<br/><br/>Over time, it has also come to be used in various disputes.<br/><br/>Incidentally, in the game Pokémon, there is a move called <em>itamiwake</em> that calculates the combined HP of both Pokémon and divides it evenly between them.
+<strong><em>Itamiwake</em></strong><br/><br/>In disuputes, when both sides suffer the same degree of damage or disadvantage without reaching a resolution, the situation is called <strong><em>itamiwake</em></strong> (痛み分け) in Japanese.<br/><br/>Since <strong><em>itami</em></strong> (痛み) means "pain," and <strong><em>wake</em></strong> (分け) means "to share," the literal meaning of <em>itamiwake</em> is "to share the pain."<br/><br/>Originally, this term was used in sumo wrestling to describe a match ending in a draw due to one or both sides getting injured.<br/><br/>Over time, it has also come to be used in various disputes.<br/><br/>Incidentally, in the game Pokémon, there is a move called <em>itamiwake</em> that calculates the combined HP of both Pokémon and divides it evenly between them.
 </div></div>
 
 <!-- more -->

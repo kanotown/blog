@@ -8,10 +8,10 @@ comments: true
 slug: "1309_ukkari"
 ---
 
-# 【No. 1309】<strong><em>Ukkari</strong></em> (うっかり - Carelessly)
+# 【No. 1309】<strong><em>Ukkari</em></strong> (うっかり - Carelessly)
 <div class="date">Jul 19, 2018 21:17</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ukkari</strong></em><br/><br/>Several days ago, I <strong><em>ukkari</em></strong> (うっかり) made a mistake.<br/><br/><em>Ukkari</em> is a Japanese adverb that represents that someone is careless and distracted. <br/><br/><em>Ukkari</em> was originally called <strong><em>ukari</em></strong> (浮かり), and it seemed to come from the verb <strong><em>uku</em></strong> (浮く), which means to float.<br/><br/>That is to say, it implies a state that one's heart is floating.<br/><br/>I heard that in the past <em>ukkari</em> could represent that someone would be fascinated with a beautiful thing, but now it is mostly used to mean a mistake due to carelessness or distraction.
+<strong><em>Ukkari</em></strong><br/><br/>Several days ago, I <strong><em>ukkari</em></strong> (うっかり) made a mistake.<br/><br/><em>Ukkari</em> is a Japanese adverb that represents that someone is careless and distracted. <br/><br/><em>Ukkari</em> was originally called <strong><em>ukari</em></strong> (浮かり), and it seemed to come from the verb <strong><em>uku</em></strong> (浮く), which means to float.<br/><br/>That is to say, it implies a state that one's heart is floating.<br/><br/>I heard that in the past <em>ukkari</em> could represent that someone would be fascinated with a beautiful thing, but now it is mostly used to mean a mistake due to carelessness or distraction.
 </div></div>
 
 <!-- more -->

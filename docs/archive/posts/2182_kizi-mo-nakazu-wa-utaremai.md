@@ -8,10 +8,10 @@ comments: true
 slug: "2182_kizi-mo-nakazu-wa-utaremai"
 ---
 
-# 【No. 2182】<strong><em>Kizi mo Nakazu wa Utaremai</strong></em> (雉も鳴かずば撃たれまい - Silence Keeps Your Safe)
+# 【No. 2182】<strong><em>Kizi mo Nakazu wa Utaremai</em></strong> (雉も鳴かずば撃たれまい - Silence Keeps Your Safe)
 <div class="date">Oct 12, 2023 18:30</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kizi mo Nakazu wa Utaremai</strong></em><br/><br/>Have you ever faced misfortune because you said something unnecessary?<br/><br/>If you find yourself in such a situation, remember the proverb, <strong><em>kizi mo nakazu wa utaremai</em></strong> (雉も鳴かずば撃たれまい).<br/><br/><strong><em>Kizi</em></strong> (雉) means "pheasant," <strong><em>naka/naku</em></strong> (鳴か/鳴く) means "to cry," <strong><em>zu</em></strong> (ず) is a negative suffix, <strong><em>utare/utareru</em></strong> (撃たれ/撃たれる) means "to be shot," and <strong><em>mai</em></strong> (まい) indicates "naturally" or "appropriately." Therefore, the literal meaning of this proverb is "if a pheasant does not cry, it will naturally not be shot."<br/><br/>In other words, when a pheasant cries, hunters will notice it, leading it to be shot.
+<strong><em>Kizi mo Nakazu wa Utaremai</em></strong><br/><br/>Have you ever faced misfortune because you said something unnecessary?<br/><br/>If you find yourself in such a situation, remember the proverb, <strong><em>kizi mo nakazu wa utaremai</em></strong> (雉も鳴かずば撃たれまい).<br/><br/><strong><em>Kizi</em></strong> (雉) means "pheasant," <strong><em>naka/naku</em></strong> (鳴か/鳴く) means "to cry," <strong><em>zu</em></strong> (ず) is a negative suffix, <strong><em>utare/utareru</em></strong> (撃たれ/撃たれる) means "to be shot," and <strong><em>mai</em></strong> (まい) indicates "naturally" or "appropriately." Therefore, the literal meaning of this proverb is "if a pheasant does not cry, it will naturally not be shot."<br/><br/>In other words, when a pheasant cries, hunters will notice it, leading it to be shot.
 </div></div>
 
 <!-- more -->

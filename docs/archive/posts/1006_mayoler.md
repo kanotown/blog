@@ -8,7 +8,7 @@ comments: true
 slug: "1006_mayoler"
 ---
 
-# 【No. 1006】<strong><em>Mayoler</strong></em> (マヨラー - Mayonnaise Lovers)
+# 【No. 1006】<strong><em>Mayoler</em></strong> (マヨラー - Mayonnaise Lovers)
 <div class="date">Sep 19, 2017 10:45</div>
 <div id="post"><div id="body_show_ori">
 Do you like mayonnaise?<br/><br/>In Japan, people who love mayonnaise and eat various dishes with a lot of mayonnaise are called "mayoler."<br/><br/>The "ler" of "mayoler" comes from the English suffix "-er," which is used in forming nouns designating persons.<br/><br/>Some mayolers seem to suck or drink mayonnaise.<br/><br/>According to the theory of a Japanese scholar, the reason why mayolers are born is because a intracerebral narcotic substance called β-endorphin is produced by a large amount of fat contained in mayonnaise.<br/><br/>Incidentally, people who love ketchup are called "kechaler" (ケチャラー) in Japan.<br/><br/>Note that both "mayoler" and "kechaler" are slang terms.

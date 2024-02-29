@@ -9,10 +9,10 @@ comments: true
 slug: "2199_nuruge"
 ---
 
-# 【No. 2199】<strong><em>Nurugē</strong></em> (ヌルゲー - Easy Video Game)
+# 【No. 2199】<strong><em>Nurugē</em></strong> (ヌルゲー - Easy Video Game)
 <div class="date">Oct 29, 2023 16:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nurugē</strong></em><br/><br/>Today, I completed "Super Mario Bros. Wonder."<br/><br/>It was a very rewarding and fun game.<br/><br/>This game provides various features for those who are not good at action games. For example, you can choose invincible characters, equip badges to enhance character abilities and cooperate with players online.<br/><br/>However, relying too much on these features could make this game <strong><em>nurugē</em></strong> (ヌルゲー).<br/><br/><em>Nurugē</em> is short for <strong><em>nurui gēmu</em></strong> (ぬるいゲーム), the literal meaning of which is a lukewarm game, indicating an easy-to-clear game.<br/><br/>This slang term can be used to describe various easy situations in addition to games.
+<strong><em>Nurugē</em></strong><br/><br/>Today, I completed "Super Mario Bros. Wonder."<br/><br/>It was a very rewarding and fun game.<br/><br/>This game provides various features for those who are not good at action games. For example, you can choose invincible characters, equip badges to enhance character abilities and cooperate with players online.<br/><br/>However, relying too much on these features could make this game <strong><em>nurugē</em></strong> (ヌルゲー).<br/><br/><em>Nurugē</em> is short for <strong><em>nurui gēmu</em></strong> (ぬるいゲーム), the literal meaning of which is a lukewarm game, indicating an easy-to-clear game.<br/><br/>This slang term can be used to describe various easy situations in addition to games.
 </div></div>
 
 <!-- more -->

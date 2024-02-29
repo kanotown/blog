@@ -8,7 +8,7 @@ comments: true
 slug: "1193_nodoka"
 ---
 
-# 【No. 1193】<strong><em>Nodoka</strong></em> (のどか - Peaceful)
+# 【No. 1193】<strong><em>Nodoka</em></strong> (のどか - Peaceful)
 <div class="date">Mar 25, 2018 14:56</div>
 <div id="post"><div id="body_show_ori">
 I love a situation expressed as のどか (nodoka).<br/><br/>"Nodoka" means that something is quiet, calm, and relaxing, or the weather is serene and mild.<br/><br/>For example, you can say 今日はのどかだなあ (kyou wa nodoka dana - Today is peaceful).<br/><br/>のど (nodo) of "nodoka" is an ancient word that means that something is calm.<br/><br/>By adding the suffix か (ka) that means that something is in a certain state to "nodo", "nodoka" was created.<br/><br/>"Nodoka" is usually used for a mood or weather.<br/><br/>However, note that if you use it for a person, it can be an ironic meaning.

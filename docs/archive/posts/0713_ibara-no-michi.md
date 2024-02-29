@@ -8,7 +8,7 @@ comments: true
 slug: "0713_ibara-no-michi"
 ---
 
-# 【No. 0713】<strong><em>Ibara no Michi</strong></em> (Thorny Path)
+# 【No. 0713】<strong><em>Ibara no Michi</em></strong> (Thorny Path)
 <div class="date">Nov 30, 2016 10:21</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the idiom "ibara no michi".<br/><br/>"Ibara" means "thorn", "michi" means "path", therefore "ibara no michi" sometimes literally means "a path where thorns are growing."<br/><br/>However, in many cases, this idiom is used to express a difficult situation or a life full of hardships.<br/><br/>This comes from the fact that it's very difficult to follow a path covered with thorns.<br/><br/>The English word "thorn" and "thorny" even mean something like "hardship", so this idiom "ibara no michi" might have come from English.<br/><br/>By the way, I heard that "thorn" symbolizes "curse" in the Bible.

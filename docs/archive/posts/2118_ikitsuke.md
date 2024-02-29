@@ -9,10 +9,10 @@ comments: true
 slug: "2118_ikitsuke"
 ---
 
-# 【No. 2118】<strong><em>Ikitsuke</strong></em> (行きつけ - Regular)
+# 【No. 2118】<strong><em>Ikitsuke</em></strong> (行きつけ - Regular)
 <div class="date">Aug 9, 2023 09:24</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ikitsuke</strong></em><br/><br/>I go to a nearby hot spring two to three times a week.<br/><br/>You can use the Japanese term, <strong><em>ikitsuke</em></strong> (行きつけ), to describe such a facility, shop, or restaurant, that you frequently visit.<br/><br/>Since <strong><em>iki</em></strong> (行き) means "go," and <strong><em>tsuke</em></strong> (つけ) means "always," the literal meaning of <em>ikitsuke</em> is "always go."<br/><br/>This term is often used for restaurants or hair salons, and it is especially fitting for cases where you are familiar with the staff or owner.<br/><br/>For a hospital or dental clinic that you always visit (or the doctor there), you can use <strong><em>kakari</em></strong> (かかり - meaning "be treated") and say <strong><em>kakaritsuke</em></strong> (かかりつけ).
+<strong><em>Ikitsuke</em></strong><br/><br/>I go to a nearby hot spring two to three times a week.<br/><br/>You can use the Japanese term, <strong><em>ikitsuke</em></strong> (行きつけ), to describe such a facility, shop, or restaurant, that you frequently visit.<br/><br/>Since <strong><em>iki</em></strong> (行き) means "go," and <strong><em>tsuke</em></strong> (つけ) means "always," the literal meaning of <em>ikitsuke</em> is "always go."<br/><br/>This term is often used for restaurants or hair salons, and it is especially fitting for cases where you are familiar with the staff or owner.<br/><br/>For a hospital or dental clinic that you always visit (or the doctor there), you can use <strong><em>kakari</em></strong> (かかり - meaning "be treated") and say <strong><em>kakaritsuke</em></strong> (かかりつけ).
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1031_jigajisan"
 ---
 
-# 【No. 1031】<strong><em>Jigajisan</strong></em> (自画自賛 - Self-Admiration)
+# 【No. 1031】<strong><em>Jigajisan</em></strong> (自画自賛 - Self-Admiration)
 <div class="date">Oct 14, 2017 12:23</div>
 <div id="post"><div id="body_show_ori">
 I think that everyone would like to praise himself/herself sometimes.<br/><br/>To praise oneself is often referred to as "jigajisan" (自画自賛) in Japanese.<br/><br/>Here the "ji" (自) means "my" or "myself," and "ga" (画) means "painting."<br/><br/>Also, in Oriental paintings, inscriptions/poetry related to the painting are called "san" (賛).<br/><br/>That is to say, the original meaning of "jigajisan" is to write an inscription/poetry of your painting.<br/><br/>It is thought that since the kanji "賛" (san) include the meaning of "praise," this term has come to mean "praising oneself" or "self-admiration."

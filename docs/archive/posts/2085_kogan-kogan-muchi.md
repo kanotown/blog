@@ -8,10 +8,10 @@ comments: true
 slug: "2085_kogan-kogan-muchi"
 ---
 
-# 【No. 2085】<strong><em>Kōgan/Kōgan Muchi</strong></em> (厚顔/厚顔無恥 - Shameless Audacity)
+# 【No. 2085】<strong><em>Kōgan/Kōgan Muchi</em></strong> (厚顔/厚顔無恥 - Shameless Audacity)
 <div class="date">Jul 7, 2023 11:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kōgan/Kōgan Muchi</strong></em><br/><br/>People who are shameless and audacious can be described with the term <strong><em>kōgan</em></strong> (厚顔).<br/><br/>Since <strong><em>kō</em></strong> (厚) means "thick," and <strong><em>gan</em></strong> (顔) means "face," the literal meaning of <em>kōgan</em> is "thick face."<br/><br/>The etymology of this term is the same as that of <strong><em>tsura no kawa ga atsui</em></strong> (面の皮が厚い) in my yesterday's entry.<br/><br/>You can also add <strong><em>muchi</em></strong> (無恥 - meaning "shameless") to <em>kōgan</em> and say the four-character idiom, <strong><em>kōgan muchi</em></strong> (厚顔無恥 - meaning "shameless and audacious").<br/><br/>This four-character idiom came from the oldest Chinese poetry, <strong><em>Shikyō</em></strong> (詩経 - "Shijing," also known as the "Classic of Poetry").
+<strong><em>Kōgan/Kōgan Muchi</em></strong><br/><br/>People who are shameless and audacious can be described with the term <strong><em>kōgan</em></strong> (厚顔).<br/><br/>Since <strong><em>kō</em></strong> (厚) means "thick," and <strong><em>gan</em></strong> (顔) means "face," the literal meaning of <em>kōgan</em> is "thick face."<br/><br/>The etymology of this term is the same as that of <strong><em>tsura no kawa ga atsui</em></strong> (面の皮が厚い) in my yesterday's entry.<br/><br/>You can also add <strong><em>muchi</em></strong> (無恥 - meaning "shameless") to <em>kōgan</em> and say the four-character idiom, <strong><em>kōgan muchi</em></strong> (厚顔無恥 - meaning "shameless and audacious").<br/><br/>This four-character idiom came from the oldest Chinese poetry, <strong><em>Shikyō</em></strong> (詩経 - "Shijing," also known as the "Classic of Poetry").
 </div></div>
 
 <!-- more -->

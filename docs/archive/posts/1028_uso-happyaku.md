@@ -8,7 +8,7 @@ comments: true
 slug: "1028_uso-happyaku"
 ---
 
-# 【No. 1028】<strong><em>Uso Happyaku</strong></em> (嘘八百 - A Lot of Lies)
+# 【No. 1028】<strong><em>Uso Happyaku</em></strong> (嘘八百 - A Lot of Lies)
 <div class="date">Oct 11, 2017 13:30</div>
 <div id="post"><div id="body_show_ori">
 Have you ever been surrounded by a lot of lies?<br/><br/>Such a situation where as if everything is lie is called "uso happyaku" (嘘八百) in Japan.<br/><br/>Here "uso" (嘘) means "lie," and "happyaku" (八百) means "eight hundred."<br/><br/>In Japan, eight hundred is a number that represents that the number of things is huge.<br/><br/>It is said that this comes from the fact that the number <em>eight</em> has been used for saying an enormous number in Buddhism.<br/><br/>Incidentally, "uso happyaku" can also means "a complete lie," in addition to "a lot of lies."

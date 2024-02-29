@@ -8,10 +8,10 @@ comments: true
 slug: "2237_pi-nige"
 ---
 
-# 【No. 2237】<strong><em>Pi-nige</strong></em> (ピ逃げ - Registering Attendance and Running Away)
+# 【No. 2237】<strong><em>Pi-nige</em></strong> (ピ逃げ - Registering Attendance and Running Away)
 <div class="date">Dec 6, 2023 18:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Pi-nige</strong></em><br/><br/>Recently, the lang term <strong><em>pi-nige</em></strong> (ピ逃げ) has been coined and used among university students.<br/><br/><strong><em>Pi</em></strong> (ピ) represents the sound of an IC card being tapped on a card reader, and <strong><em>nige</em></strong> (逃げ) means "to run away."<br/><br/>Recent university student IDs have been digitized into IC cards, and many universities confirm attendance at lectures by having students tap their student ID cards on an IC card reader.<br/><br/>Therefore, <em>pi-nige</em> refers to the act of tapping a student ID card on the card reader to register attendance and then running away from the lecture.
+<strong><em>Pi-nige</em></strong><br/><br/>Recently, the lang term <strong><em>pi-nige</em></strong> (ピ逃げ) has been coined and used among university students.<br/><br/><strong><em>Pi</em></strong> (ピ) represents the sound of an IC card being tapped on a card reader, and <strong><em>nige</em></strong> (逃げ) means "to run away."<br/><br/>Recent university student IDs have been digitized into IC cards, and many universities confirm attendance at lectures by having students tap their student ID cards on an IC card reader.<br/><br/>Therefore, <em>pi-nige</em> refers to the act of tapping a student ID card on the card reader to register attendance and then running away from the lecture.
 </div></div>
 
 <!-- more -->

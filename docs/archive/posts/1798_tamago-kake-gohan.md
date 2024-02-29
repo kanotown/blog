@@ -8,10 +8,10 @@ comments: true
 slug: "1798_tamago-kake-gohan"
 ---
 
-# 【No. 1798】<strong><em>Tamago Kake Gohan</strong></em> (卵かけご飯 - Egg on Rice) Part 2
+# 【No. 1798】<strong><em>Tamago Kake Gohan</em></strong> (卵かけご飯 - Egg on Rice) Part 2
 <div class="date">Mar 29, 2021 18:55</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tamago Kake Gohan</strong></em> Part 2<br/><br/>One of the reasons that "egg on rice" is popular in Japan is the thorough hygiene management for raw eggs.<br/><br/>For all eggs sold in Japan, the expiration date and egg gathering information are printed on the shells (or stickers put on the shells) based on the Food Sanitation Act.<br/><br/>The printed expiration date printed on an egg refers to the time limit for eating it raw and safely, which is usually about two to three weeks from the collection date.<br/><br/>When exceeding the expiration date, salmonella, which causes food poisoning, could infest, so it is dangerous to eat the raw egg.<br/><br/>However, since salmonella is weak against heat, you can eat the egg safely if you heat it enough.
+<strong><em>Tamago Kake Gohan</em></strong> Part 2<br/><br/>One of the reasons that "egg on rice" is popular in Japan is the thorough hygiene management for raw eggs.<br/><br/>For all eggs sold in Japan, the expiration date and egg gathering information are printed on the shells (or stickers put on the shells) based on the Food Sanitation Act.<br/><br/>The printed expiration date printed on an egg refers to the time limit for eating it raw and safely, which is usually about two to three weeks from the collection date.<br/><br/>When exceeding the expiration date, salmonella, which causes food poisoning, could infest, so it is dangerous to eat the raw egg.<br/><br/>However, since salmonella is weak against heat, you can eat the egg safely if you heat it enough.
 </div></div>
 
 <!-- more -->

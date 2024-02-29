@@ -8,7 +8,7 @@ comments: true
 slug: "1086_poka-poka"
 ---
 
-# 【No. 1086】<strong><em>Poka Poka</strong></em> (ぽかぽか)
+# 【No. 1086】<strong><em>Poka Poka</em></strong> (ぽかぽか)
 <div class="date">Dec 8, 2017 14:32</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to introduce the Japanese onomatopoeia "poka poka" (ぽかぽか), which has two different meanings.<br/><br/>Can you imagine what "poka poka" express?<br/><br/>In most cases, "poka poka" means comfortable warmth that you feel.<br/><br/>For example, "Haru no youki de karadaga poka poka suru" (春の陽気で体がぽかぽかする - I feel a comfortable warmth because of the spring sun.)<br/><br/>Also, this onomatopoeia is sometimes used to mean repeated tapping sounds in comical manga.<br/><br/>For example, "Kanojo ga kareshi wo poka poka to tataite iru" (彼女が彼氏をポカポカと叩いている - She is hitting her boyfriend repeatedly).

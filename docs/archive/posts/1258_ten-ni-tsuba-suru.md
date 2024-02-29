@@ -8,7 +8,7 @@ comments: true
 slug: "1258_ten-ni-tsuba-suru"
 ---
 
-# 【No. 1258】<strong><em>Ten ni Tsuba Suru</strong></em> (天に唾する - Slander Flings Stones at Itself)
+# 【No. 1258】<strong><em>Ten ni Tsuba Suru</em></strong> (天に唾する - Slander Flings Stones at Itself)
 <div class="date">May 29, 2018 10:36</div>
 <div id="post"><div id="body_show_ori">
 Have you ever hurt yourself as a result of trying to harm others?<br/><br/>Such a situation is expressed as the proverb ten ni tsuba suru (天に唾する).<br/><br/>Ten (天) means "sky" and tsuba suru (唾する) means "to spit," so the literal meaning of the combination is "to spit on the sky."<br/><br/>As you would guess, even if you spit while looking up, you can't dirty the sky, and your face will get dirty.<br/><br/>Because of this, this proverb is used as the current meaning.<br/><br/>Incidentally, about 20% of Japanese people think that this proverb means "to defile a person in a position higher than myself."

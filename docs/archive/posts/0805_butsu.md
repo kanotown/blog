@@ -8,7 +8,7 @@ comments: true
 slug: "0805_butsu"
 ---
 
-# 【No. 0805】<strong><em>Butsu</strong></em> (Stuff)
+# 【No. 0805】<strong><em>Butsu</em></strong> (Stuff)
 <div class="date">Mar 2, 2017 21:01</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the slang term "butsu."<br/><br/>"Butsu" is one of pronunciations of "物," which means "things," and it is used as a pronoun to indicate some kind of things literally<br/><br/>When you want to refer to general things, "物" is read as "mono," but if you read it as "butsu" in on-yomi (Chinese readings), it will mean "antisocial things" or "illegal things" in most cases.<br/><br/>For example, there are drugs, stimulants, guns, and etc. as subjects that are called "butsu."<br/><br/>Also, "薬," which means drugs or medicine, is usually read as "kusuri," but if you read it as "yaku" in on-yomi, it will especially mean illicit drugs or stimulants.

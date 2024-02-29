@@ -8,7 +8,7 @@ comments: true
 slug: "0743_mushi-no-shirase"
 ---
 
-# 【No. 0743】<strong><em>Mushi no Shirase</strong></em> (Word of Insects)
+# 【No. 0743】<strong><em>Mushi no Shirase</em></strong> (Word of Insects)
 <div class="date">Dec 30, 2016 18:16</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the idiom "mushi no shirase", the literal meaning of which is "word of insects".<br/><br/>"Mushi no shirase" means to feel that something will happen.<br/><br/>In many cases, this idiom is used to bad events, such as a death in family/friends, a traffic accident or a disaster.<br/><br/>There are two major theories as the etymology.<br/><br/>One is derived from the fact that in Edo period, people thought that insects lived in human bodies and they affected emotions and consciousness.<br/><br/>The other one is derived from the fact that in Taoism of China, it is thought that three insects are live in human bodies since humans were born, and these insects inform God of humans' guilts while humans are sleeping.

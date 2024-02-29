@@ -9,10 +9,10 @@ comments: true
 slug: "2201_tarenagashi"
 ---
 
-# 【No. 2201】<strong><em>Tarenagashi</strong></em> (垂れ流し - Streaming Continuously)
+# 【No. 2201】<strong><em>Tarenagashi</em></strong> (垂れ流し - Streaming Continuously)
 <div class="date">Oct 31, 2023 17:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tarenagashi</strong></em><br/><br/>I often work while doing <strong><em>tarenagashi</em></strong> (垂れ流し) of YouTube videos or music.<br/><br/>Since <strong><em>tare</em></strong> (垂れ) means "dripping," and <strong><em>nagashi</em></strong> (流し) means "flowing," the literal meaning of <em>tarenagashi</em> is "dripping and flowing."<br/><br/>Originally, <em>tarenagashi</em> referred to the continuous release of undesirable fluids such as wastewater or excrement. However, it can also be used metaphorically to describe the continuous streaming of videos or music.<br/><br/>Currently, in celebration of the 25th anniversary of the ONE PIECE anime, all episodes (1081 as of today) are being live-streamed repeatedly.<br/><br/>This streaming started on October 29 and will continue 24/7 for over a year, and I am now doing <em>tarenagashi</em> of this anime.<br/><br/>However, while memorable episodes are streamed, I often find myself pausing my work, reducing my productivity.
+<strong><em>Tarenagashi</em></strong><br/><br/>I often work while doing <strong><em>tarenagashi</em></strong> (垂れ流し) of YouTube videos or music.<br/><br/>Since <strong><em>tare</em></strong> (垂れ) means "dripping," and <strong><em>nagashi</em></strong> (流し) means "flowing," the literal meaning of <em>tarenagashi</em> is "dripping and flowing."<br/><br/>Originally, <em>tarenagashi</em> referred to the continuous release of undesirable fluids such as wastewater or excrement. However, it can also be used metaphorically to describe the continuous streaming of videos or music.<br/><br/>Currently, in celebration of the 25th anniversary of the ONE PIECE anime, all episodes (1081 as of today) are being live-streamed repeatedly.<br/><br/>This streaming started on October 29 and will continue 24/7 for over a year, and I am now doing <em>tarenagashi</em> of this anime.<br/><br/>However, while memorable episodes are streamed, I often find myself pausing my work, reducing my productivity.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2003_yama-takakereba-tani-fukashi"
 ---
 
-# 【No. 2003】<strong><em>Yama Takakereba Tani Fukashi</strong></em> (山高ければ谷深し - What Goes Up Must Come Down)
+# 【No. 2003】<strong><em>Yama Takakereba Tani Fukashi</em></strong> (山高ければ谷深し - What Goes Up Must Come Down)
 <div class="date">Apr 16, 2023 06:42</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yama Takakereba Tani Fukashi</strong></em><br/><br/>Today I would like to introduce a saying, <strong><em>yama takakereba tani fukashi</em></strong> (山高ければ谷深し).<br/><br/>Since <strong><em>yama</em></strong> (山) means "mountain," <strong><em>takai</em></strong> (高い) means "high," <strong><em>tani</em></strong> (谷) means "valley," and <strong><em>fukai</em></strong> (深い) means "deep," the literal meaning of this saying is "the higher the mountain, the deeper the valley."<br/><br/>Can you guess in which situations the saying is used?<br/><br/>The answer is in the stock market, especially when price fluctuations are violent.<br/><br/>In other words, when prices rise sharply, they also fall sharply.
+<strong><em>Yama Takakereba Tani Fukashi</em></strong><br/><br/>Today I would like to introduce a saying, <strong><em>yama takakereba tani fukashi</em></strong> (山高ければ谷深し).<br/><br/>Since <strong><em>yama</em></strong> (山) means "mountain," <strong><em>takai</em></strong> (高い) means "high," <strong><em>tani</em></strong> (谷) means "valley," and <strong><em>fukai</em></strong> (深い) means "deep," the literal meaning of this saying is "the higher the mountain, the deeper the valley."<br/><br/>Can you guess in which situations the saying is used?<br/><br/>The answer is in the stock market, especially when price fluctuations are violent.<br/><br/>In other words, when prices rise sharply, they also fall sharply.
 </div></div>
 
 <!-- more -->

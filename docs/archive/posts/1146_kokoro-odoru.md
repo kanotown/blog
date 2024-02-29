@@ -8,7 +8,7 @@ comments: true
 slug: "1146_kokoro-odoru"
 ---
 
-# 【No. 1146】<strong><em>Kokoro Odoru</strong></em> (心躍る - Exciting)
+# 【No. 1146】<strong><em>Kokoro Odoru</em></strong> (心躍る - Exciting)
 <div class="date">Feb 6, 2018 19:07</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to the Japanese term 胸騒ぎ (munasawagi), which means to have a bad feeling.<br/><br/>Today I'd like to talk about another Japanese term: 心躍る (kokoro odoru), which means to be excited with expecting good things.<br/><br/>心 (kokoro) means "heart" and 躍る (odoru) means "to leap up," so the literal meaning of this term si "one's heart leaps up."<br/><br/>This is comes from the fact that your heart skip a beat as if it would leap up when you're excited.<br/><br/>Remember that "munasawagi" is usually used for a bad feeling, but it can also used when expecting good things.<br/><br/>On the other hand, "kokoro odoru" is only used as a good meaning.

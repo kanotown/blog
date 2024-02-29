@@ -8,7 +8,7 @@ comments: true
 slug: "0957_yodare"
 ---
 
-# 【No. 0957】<strong><em>Yodare</strong></em> (よだれ - Saliva)
+# 【No. 0957】<strong><em>Yodare</em></strong> (よだれ - Saliva)
 <div class="date">Aug 1, 2017 20:37</div>
 <div id="post"><div id="body_show_ori">
 Today, I found a student who was sleeping while dribbling "yodare" (よだれ).<br/><br/>"Yodare" means saliva dribbling unconsciously from a mouth.<br/><br/>This term was called "yodari" (よだり) or "yotari" (よたり) until the Heian period.<br/><br/>Here, "tari" is a noun form of the verb "taru" (垂る), which means to dribble.<br/><br/>There are several theories about the etymology of "yo" -- one of them is that it comes from "yoyomu," which means to become an old person.<br/><br/>Incidentally, if you say "yodare wo tarasu" (よだれを垂らす - dribbling yodare), it could literally mean to dribble saliva, but it also used as a phrase that means to have a hunger to eat/do something.

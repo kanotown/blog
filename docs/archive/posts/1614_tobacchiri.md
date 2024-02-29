@@ -8,10 +8,10 @@ comments: true
 slug: "1614_tobacchiri"
 ---
 
-# 【No. 1614】<strong><em>Tobacchiri</strong></em> (とばっちり - By-Blow)
+# 【No. 1614】<strong><em>Tobacchiri</em></strong> (とばっちり - By-Blow)
 <div class="date">May 20, 2019 14:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tobacchiri</strong></em><br/><br/>Have you ever been involved in an irrelevant accident caused by someone?<br/><br/>Such an event is described as <strong><em>tobacchiri</em></strong> (とばっちり) in Japanese.<br/><br/>This term comes from an old Japanese verb, <strong><em>tobashiru</em></strong> (とばしる), which means that water is splattered or someone is splashed with water.<br/><br/>In fact, <em>tobasshiri</em> also has the meaning of splattered water.<br/><br/>That is to say, this term compares receiving splattered water with involving in an irrelevant accident.<br/><br/>In actual situations, it is used something like <strong><em>tobacchiri wo ukeru</em></strong> (とばっちりを受ける) by combining with <strong><em>ukeru</em></strong> (受ける - "to receive").
+<strong><em>Tobacchiri</em></strong><br/><br/>Have you ever been involved in an irrelevant accident caused by someone?<br/><br/>Such an event is described as <strong><em>tobacchiri</em></strong> (とばっちり) in Japanese.<br/><br/>This term comes from an old Japanese verb, <strong><em>tobashiru</em></strong> (とばしる), which means that water is splattered or someone is splashed with water.<br/><br/>In fact, <em>tobasshiri</em> also has the meaning of splattered water.<br/><br/>That is to say, this term compares receiving splattered water with involving in an irrelevant accident.<br/><br/>In actual situations, it is used something like <strong><em>tobacchiri wo ukeru</em></strong> (とばっちりを受ける) by combining with <strong><em>ukeru</em></strong> (受ける - "to receive").
 </div></div>
 
 <!-- more -->

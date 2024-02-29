@@ -8,10 +8,10 @@ comments: true
 slug: "1985_kane-ga-mono-wo-iu"
 ---
 
-# 【No. 1985】<strong><em>Kane ga Mono wo Iu</strong></em> (金が物を言う - Money Talks)
+# 【No. 1985】<strong><em>Kane ga Mono wo Iu</em></strong> (金が物を言う - Money Talks)
 <div class="date">Oct 2, 2021 18:03</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kane ga Mono wo Iu</strong></em><br/><br/>Sometimes a difficult situation can be solved with much money.<br/><br/>In such situations, you can use the Japanese idiom <strong><em>kane ga mono wo iu</em></strong> (金が物を言う).<br/><br/>Since <strong><em>kane</em></strong> (金) means "money," <strong><em>mono</em></strong> (物) means "thing," and <strong><em>iu</em></strong> (言う) means "to say," the literal meaning of <em>kane ga mono wo iu</em> is "money says something."<br/><br/>This idiom came from the fact that it looks as if money talks or expresses an opinion in situations where money can solve problems.<br/><br/>In addition, when you use much money to control something to your own desires, it can be described as <strong><em>kane ni mono wo iwaseru</em></strong> (金に物を言わせる - literally means "let money talk").
+<strong><em>Kane ga Mono wo Iu</em></strong><br/><br/>Sometimes a difficult situation can be solved with much money.<br/><br/>In such situations, you can use the Japanese idiom <strong><em>kane ga mono wo iu</em></strong> (金が物を言う).<br/><br/>Since <strong><em>kane</em></strong> (金) means "money," <strong><em>mono</em></strong> (物) means "thing," and <strong><em>iu</em></strong> (言う) means "to say," the literal meaning of <em>kane ga mono wo iu</em> is "money says something."<br/><br/>This idiom came from the fact that it looks as if money talks or expresses an opinion in situations where money can solve problems.<br/><br/>In addition, when you use much money to control something to your own desires, it can be described as <strong><em>kane ni mono wo iwaseru</em></strong> (金に物を言わせる - literally means "let money talk").
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1821_robashin"
 ---
 
-# 【No. 1821】<strong><em>Rōbashin</strong></em> (老婆心 - Excessive  Kindness)
+# 【No. 1821】<strong><em>Rōbashin</em></strong> (老婆心 - Excessive  Kindness)
 <div class="date">Apr 21, 2021 08:33</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Rōbashin</strong></em><br/><br/>The feeling of worrying about someone or the desire to give someone a word of advice is referred to as <strong><em>rōbashin</em></strong> (老婆心) in Japanese.<br/><br/>Since <strong><em>rō</em></strong> (老) means "old," <strong><em>ba/baba</em></strong> (婆) means "old lady" or "grandmother," and <strong><em>shin</em></strong> (心) means "heart," the literal meaning of <em>rōbashin</em> is "an old lady's heart."<br/><br/>Elderly women have experienced a lot in life and tend to care and worry about their children/grandchildren more than necessary, so such excessive kindness has come to be called <em>rōbashin</em>.<br/><br/>It is often used as <strong><em>rōbashin nagara</em></strong> (老婆心ながら - meaning "though it may not be necessary") with the adversative conjunction <strong><em>nagara</em></strong> (ながら).
+<strong><em>Rōbashin</em></strong><br/><br/>The feeling of worrying about someone or the desire to give someone a word of advice is referred to as <strong><em>rōbashin</em></strong> (老婆心) in Japanese.<br/><br/>Since <strong><em>rō</em></strong> (老) means "old," <strong><em>ba/baba</em></strong> (婆) means "old lady" or "grandmother," and <strong><em>shin</em></strong> (心) means "heart," the literal meaning of <em>rōbashin</em> is "an old lady's heart."<br/><br/>Elderly women have experienced a lot in life and tend to care and worry about their children/grandchildren more than necessary, so such excessive kindness has come to be called <em>rōbashin</em>.<br/><br/>It is often used as <strong><em>rōbashin nagara</em></strong> (老婆心ながら - meaning "though it may not be necessary") with the adversative conjunction <strong><em>nagara</em></strong> (ながら).
 </div></div>
 
 <!-- more -->

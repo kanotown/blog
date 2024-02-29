@@ -8,7 +8,7 @@ comments: true
 slug: "0965_fukushin"
 ---
 
-# 【No. 0965】<strong><em>Fukushin</strong></em> (腹心 - Confidant)
+# 【No. 0965】<strong><em>Fukushin</em></strong> (腹心 - Confidant)
 <div class="date">Aug 9, 2017 15:05</div>
 <div id="post"><div id="body_show_ori">
 Do you have a friend or a follower to whom you can talk about your any problem or thought?<br/><br/>Trusting someone deeply like this, or just such a man, is called "fukushin" (腹心) in Japan.<br/> <br/>Originally, "fukushin" means literally "stomach and heart" (the "fuku" means "stomach" and the "shin" means "heart"), and it also means "deep inside of one's mind."<br/><br/>Furthermore, it has come to mean that you can trust enough to talk about your heart of hearts, and such trustworthy person.<br/><br/>There are many idioms/terms related to "hara/fuku" (腹 - stomach) in Japan, but most of them are related to "heart/mind."

@@ -8,10 +8,10 @@ comments: true
 slug: "1208_japanese-convenience-stores-part-1"
 ---
 
-# 【No. 1208】Japanese Convenience Stores Part 1
+# 【No. 1208】Japanese Convenience Stores: Part 1
 <div class="date">Apr 9, 2018 10:23</div>
 <div id="post"><div id="body_show_ori">
-Two days ago, I talked about a convenience store.<br/><br/>Today I'd like to introduce you to several services that are offered by Japanese convenience stores.<br/><br/>I don't know, but these services might be offered in convenience stores in other countries as well.<br/><br/>【ATM】<br/>Automatic teller machines (ATMs) are installed in most convenience stores, and you can place and withdraw cash any time.<br/><br/>【Utilities Payments】<br/>In most convenience stores, you can pay bills of utilities, such as water, sewer, electricity, etc.<br/><br/>【Ticket Purchases】<br/>In most convenience stores, you can reserve and purchase tickets for buses, airplanes, concerts, sports events, etc.<br/><br/>To be continued.
+Japanese Convenience Stores: Part 1<br/><br/>Two days ago, I talked about a convenience store.<br/><br/>Today I'd like to introduce you to several services that are offered by Japanese convenience stores.<br/><br/>I don't know, but these services might be offered in convenience stores in other countries as well.<br/><br/>【ATM】<br/>Automatic teller machines (ATMs) are installed in most convenience stores, and you can place and withdraw cash any time.<br/><br/>【Utilities Payments】<br/>In most convenience stores, you can pay bills of utilities, such as water, sewer, electricity, etc.<br/><br/>【Ticket Purchases】<br/>In most convenience stores, you can reserve and purchase tickets for buses, airplanes, concerts, sports events, etc.<br/><br/>To be continued.
 </div></div>
 
 <!-- more -->

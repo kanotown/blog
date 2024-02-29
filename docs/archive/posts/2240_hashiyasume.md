@@ -8,10 +8,10 @@ comments: true
 slug: "2240_hashiyasume"
 ---
 
-# 【No. 2240】<strong><em>Hashiyasume</strong></em> (箸休め - Palate Cleanser)
+# 【No. 2240】<strong><em>Hashiyasume</em></strong> (箸休め - Palate Cleanser)
 <div class="date">Dec 9, 2023 13:38</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hashiyasume</strong></em><br/><br/>In Japanese cuisine, small dishes like pickles or vinegared vegetables served between main dishes are called <strong><em>hashiyasume</em></strong> (箸休め).<br/><br/>Since <strong><em>hashi</em></strong> (箸) means "chopsticks," and <strong><em>yasume</em></strong> (休め) means "resting," the literal meaning of <em>hashiyasume</em> is "resting chopsticks."<br/><br/>By giving your chopsticks a rest with the above small dishes (i.e., 'hashiyasume'), you can enhance your enjoyment of the main dish.<br/><br/>In addition, the term <em>hashiyasume</em> can also be used metaphorically in some situations as well as for a dish.<br/><br/>For example, it can mean "aside" or "side stories" in a discussion, implying a break from the main topic.
+<strong><em>Hashiyasume</em></strong><br/><br/>In Japanese cuisine, small dishes like pickles or vinegared vegetables served between main dishes are called <strong><em>hashiyasume</em></strong> (箸休め).<br/><br/>Since <strong><em>hashi</em></strong> (箸) means "chopsticks," and <strong><em>yasume</em></strong> (休め) means "resting," the literal meaning of <em>hashiyasume</em> is "resting chopsticks."<br/><br/>By giving your chopsticks a rest with the above small dishes (i.e., 'hashiyasume'), you can enhance your enjoyment of the main dish.<br/><br/>In addition, the term <em>hashiyasume</em> can also be used metaphorically in some situations as well as for a dish.<br/><br/>For example, it can mean "aside" or "side stories" in a discussion, implying a break from the main topic.
 </div></div>
 
 <!-- more -->

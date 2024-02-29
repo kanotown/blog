@@ -11,13 +11,13 @@ slug: "1156_snowboarding-and-skiing"
 # 【No. 1156】Snowboarding and Skiing
 <div class="date">Feb 16, 2018 20:19</div>
 <div id="post"><div id="body_show_ori">
-I've been a snow mountain since yesterday due to my work.<br/><br/>Yesterday, I tried to do snowboarding.<br/><br/>Since I had little experience about snowboarding, I tipped over many times, but finally I somehow managed to be able to turn continuously.<br/><br/>Unfortunately, I felt a severe muscle pain, I thought that I couldn't do snowboarding today.<br/><br/>Instead, I skied because I thought that skiing is less influence to the body.<br/><br/>It was my first skiing in about 18 years, but I remembered how to ski somewhat, so it was fun.<br/><br/>I also fun very nice hot springs.<br/><br/>I will ski again tomorrow.
+Snowboarding and Skiing<br/><br/>I've been a snow mountain since yesterday due to my work.<br/><br/>Yesterday, I tried to do snowboarding.<br/><br/>Since I had little experience about snowboarding, I tipped over many times, but finally I somehow managed to be able to turn continuously.<br/><br/>Unfortunately, I felt a severe muscle pain, I thought that I couldn't do snowboarding today.<br/><br/>Instead, I skied because I thought that skiing is less influence to the body.<br/><br/>It was my first skiing in about 18 years, but I remembered how to ski somewhat, so it was fun.<br/><br/>I also fun very nice hot springs.<br/><br/>I will ski again tomorrow.
 </div></div>
 
 <!-- more -->
 
 <div id="post_ja"><div id="body_show_mo">
-スノーボードとスキー<br/><br/>仕事の関係で、昨日から雪山に来ています。<br/><br/>昨日はスノーボードをすべりました。<br/><br/>ほとんど経験が無かったので、何度も転びましたが、最終的にはなんとか連続でターンができるようになりました。<br/><br/>しかし今日は筋肉痛で、まともに滑れそうにありませんでした。<br/><br/>その代わりに、体への負担が少ないと思われるスキーを滑りました。<br/><br/>約18年ぶりのスキーでしたが、ある程度滑り方を覚えていたようで、楽しく滑ることができました。
+スノーボードとスキー<br/><br/>仕事の関係で、昨日から雪山に来ています。<br/><br/>昨日はスノーボードをすべりました。<br/><br/>ほとんど経験が無かったので、何度も転びましたが、最終的にはなんとか連続でターンができるようになりました。<br/><br/>しかし今日は筋肉痛で、まともに滑れそうにありませんでした。<br/><br/>その代わりに、体への負担が少ないと思われるスキーを滑りました。<br/><br/>約18年ぶりのスキーでしたが、ある程度滑り方を覚えていたようで、楽しく滑ることができました。<br/><br/>とても素敵な温泉も楽しみました。<br/><br/>明日もスキーをする予定です。
 </div></div>
 
 ## Corrections (2)

@@ -8,10 +8,10 @@ comments: true
 slug: "1932_kaya-no-soto"
 ---
 
-# 【No. 1932】<strong><em>Kaya no Soto</strong></em> (蚊帳の外 - Leaving out)
+# 【No. 1932】<strong><em>Kaya no Soto</em></strong> (蚊帳の外 - Leaving out)
 <div class="date">Aug 10, 2021 16:25</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kaya no Soto</strong></em> <br/><br/>Have you ever been ignored or treated unfairly, and found yourself unable to get involved in something?<br/><br/>A person in such a situation is described as <strong><em>kaya no soto</em></strong> (蚊帳の外) in Japanese.<br/><br/>Since <strong><em>kaya</em></strong> (蚊帳) is a net used to protect people from harmful insects such as mosquitoes, which is equivalent to "mosquito (bed) net" in English, and <strong><em>soto</em></strong> (外) means "outside," the literal meaning of <em>kaya no soto</em> is "outside a mosquito net."<br/><br/>Inside a mosquito net is safe, but if you are outside the mosquito net, you will be attacked by mosquitoes or harmful insects.<br/><br/>Because of this, <em>kaya no soto</em> came to have its current meaning.<br/><br/>In addition, it is often used to mean just "leaving someone out."
+<strong><em>Kaya no Soto</em></strong> <br/><br/>Have you ever been ignored or treated unfairly, and found yourself unable to get involved in something?<br/><br/>A person in such a situation is described as <strong><em>kaya no soto</em></strong> (蚊帳の外) in Japanese.<br/><br/>Since <strong><em>kaya</em></strong> (蚊帳) is a net used to protect people from harmful insects such as mosquitoes, which is equivalent to "mosquito (bed) net" in English, and <strong><em>soto</em></strong> (外) means "outside," the literal meaning of <em>kaya no soto</em> is "outside a mosquito net."<br/><br/>Inside a mosquito net is safe, but if you are outside the mosquito net, you will be attacked by mosquitoes or harmful insects.<br/><br/>Because of this, <em>kaya no soto</em> came to have its current meaning.<br/><br/>In addition, it is often used to mean just "leaving someone out."
 </div></div>
 
 <!-- more -->

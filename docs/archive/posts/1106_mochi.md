@@ -8,7 +8,7 @@ comments: true
 slug: "1106_mochi"
 ---
 
-# 【No. 1106】<strong><em>Mochi</strong></em> (餅 - Rice Cake)
+# 【No. 1106】<strong><em>Mochi</em></strong> (餅 - Rice Cake)
 <div class="date">Dec 28, 2017 21:04</div>
 <div id="post"><div id="body_show_ori">
 Today I did 餅つき (mochitsuki).<br/><br/>Mochitsuki is a traditional Japanese event that people make 餅 (mochi - rice cake) -- I explained about that just one year ago in the following entry.<br/><a href="http://lang-8.com/kanotown/journals/76091474305243240897493045035997627438" target="_blank">http://lang-8.com/kanotown/journals/76091474305243240897493045035997627438</a><br/><br/>Today, I'd like to talk about one accepted theory about the reason why Japanese people eat mochi on New Year holidays.<br/><br/>The theory says that it comes from 歯固めの儀 (hagatame no gi - teeth hardening ritual), which was held during the Heian period.<br/><br/>In this ritual, people ate hard food from January 1st to 3rd in order to make their teeth strong, while wishing for longevity and health.<br/><br/>Here mochi were used as hard food.

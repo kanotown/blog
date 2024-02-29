@@ -8,10 +8,10 @@ comments: true
 slug: "2226_geta-wo-azukeru"
 ---
 
-# 【No. 2226】<strong><em>Geta wo Azukeru</strong></em> (下駄を預ける - Leaving the Matter)
+# 【No. 2226】<strong><em>Geta wo Azukeru</em></strong> (下駄を預ける - Leaving the Matter)
 <div class="date">Nov 25, 2023 19:43</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Geta wo Azukeru</strong></em><br/><br/>The act of entrusting someone with the handling and responsibility of something is referred to as <strong><em>geta wo azukeru</em></strong> (下駄を預ける) in Japanese.<br/><br/>Since <strong><em>geta</em></strong> (下駄) is a traditional Japanese wooden footwear, and <strong><em>azukeru</em></strong> (預ける) means "to entrust," the literal meaning of <em>geta wo azukeru</em> is "to entrust one's <em>geta</em> to someone."<br/><br/>When one entrusts their <em>geta</em> to someone, the person without <em>geta</em> cannot move freely.<br/><br/>In other words, everything depends on the person to whom the <em>geta</em> are entrusted.<br/><br/>The idiom <em>geta wo azukeru</em> can represent trust in the other person or irresponsibility.
+<strong><em>Geta wo Azukeru</em></strong><br/><br/>The act of entrusting someone with the handling and responsibility of something is referred to as <strong><em>geta wo azukeru</em></strong> (下駄を預ける) in Japanese.<br/><br/>Since <strong><em>geta</em></strong> (下駄) is a traditional Japanese wooden footwear, and <strong><em>azukeru</em></strong> (預ける) means "to entrust," the literal meaning of <em>geta wo azukeru</em> is "to entrust one's <em>geta</em> to someone."<br/><br/>When one entrusts their <em>geta</em> to someone, the person without <em>geta</em> cannot move freely.<br/><br/>In other words, everything depends on the person to whom the <em>geta</em> are entrusted.<br/><br/>The idiom <em>geta wo azukeru</em> can represent trust in the other person or irresponsibility.
 </div></div>
 
 <!-- more -->

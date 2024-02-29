@@ -8,10 +8,10 @@ comments: true
 slug: "1396_sawari"
 ---
 
-# 【No. 1396】<strong><em>Sawari</strong></em> (さわり - Touch/Point)
+# 【No. 1396】<strong><em>Sawari</em></strong> (さわり - Touch/Point)
 <div class="date">Oct 14, 2018 22:02</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sawari</strong></em><br/><br/>Today, I would like to introduce you to the term <strong><em>sawari</em></strong> (さわり), which many Japanese misunderstand.<br/><br/>Originally, sawari is a noun that means "touch" or "feel."<br/><br/>However, this can be used for a story/song, such as <strong><em>hanashi/kyoku no sawari</em></strong> (話/曲のさわり - "a sawari of a story/song").<br/><br/>According to the opinion poll, a majority of Japanese people interpret <em>hanashi/kyoku no sawari</em> as "a beginning part of a story/song."<br/><br/>Actually, I also thought like that.<br/><br/>However, <em>hanashi no sawari</em> means "the point of a story," and <em>kyoku no sawari</em> means "the best part of a song."
+<strong><em>Sawari</em></strong><br/><br/>Today, I would like to introduce you to the term <strong><em>sawari</em></strong> (さわり), which many Japanese misunderstand.<br/><br/>Originally, sawari is a noun that means "touch" or "feel."<br/><br/>However, this can be used for a story/song, such as <strong><em>hanashi/kyoku no sawari</em></strong> (話/曲のさわり - "a sawari of a story/song").<br/><br/>According to the opinion poll, a majority of Japanese people interpret <em>hanashi/kyoku no sawari</em> as "a beginning part of a story/song."<br/><br/>Actually, I also thought like that.<br/><br/>However, <em>hanashi no sawari</em> means "the point of a story," and <em>kyoku no sawari</em> means "the best part of a song."
 </div></div>
 
 <!-- more -->

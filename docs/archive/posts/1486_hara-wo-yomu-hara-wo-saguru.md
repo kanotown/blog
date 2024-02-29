@@ -8,10 +8,10 @@ comments: true
 slug: "1486_hara-wo-yomu-hara-wo-saguru"
 ---
 
-# 【No. 1486】<strong><em>Hara wo Yomu/Hara wo Saguru</strong></em> (腹を読む/腹を探る - Reading One's Mind/Sounding out One's Mind)
+# 【No. 1486】<strong><em>Hara wo Yomu/Hara wo Saguru</em></strong> (腹を読む/腹を探る - Reading One's Mind/Sounding out One's Mind)
 <div class="date">Jan 12, 2019 21:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hara wo Yomu/Hara wo Saguru</strong></em><br/><br/>In Japan, long ago it was thought that the stomach contains one's feelings or mind, and there are many idioms using <strong><em>hara</em></strong> (腹 - meaning "stomach").<br/><br/>Today I would like to introduce you to two idioms among them, <strong><em>hara wo yomu</em></strong> (腹を読む) and <strong><em>hara wo saguru</em></strong> (腹を探る).<br/><br/><strong><em>Yomu</em></strong> (読む) means "to read," and <strong><em>saguru</em></strong> (探る) means "to search."<br/><br/>The literal meaning of <em>hara wo yomu</em> is "to read one's stomach," and its actual meaning is "to read one's mind."<br/><br/>The literal meaning of <em>hara wo saguru</em> is "to search one's stomach," and its actual meaning is "to sound out one's mind."
+<strong><em>Hara wo Yomu/Hara wo Saguru</em></strong><br/><br/>In Japan, long ago it was thought that the stomach contains one's feelings or mind, and there are many idioms using <strong><em>hara</em></strong> (腹 - meaning "stomach").<br/><br/>Today I would like to introduce you to two idioms among them, <strong><em>hara wo yomu</em></strong> (腹を読む) and <strong><em>hara wo saguru</em></strong> (腹を探る).<br/><br/><strong><em>Yomu</em></strong> (読む) means "to read," and <strong><em>saguru</em></strong> (探る) means "to search."<br/><br/>The literal meaning of <em>hara wo yomu</em> is "to read one's stomach," and its actual meaning is "to read one's mind."<br/><br/>The literal meaning of <em>hara wo saguru</em> is "to search one's stomach," and its actual meaning is "to sound out one's mind."
 </div></div>
 
 <!-- more -->

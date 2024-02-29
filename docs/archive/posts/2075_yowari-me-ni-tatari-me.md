@@ -9,10 +9,10 @@ comments: true
 slug: "2075_yowari-me-ni-tatari-me"
 ---
 
-# 【No. 2075】<strong><em>Yowari Me ni Tatari Me</strong></em> (弱り目に祟り目 - Misfortunes Never Come Singly)
+# 【No. 2075】<strong><em>Yowari Me ni Tatari Me</em></strong> (弱り目に祟り目 - Misfortunes Never Come Singly)
 <div class="date">Jun 27, 2023 17:23</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yowari Me ni Tatari Me</strong></em><br/><br/>I had used my iPhone for two years without a case or film, and there was no scratch on it; however, several days ago, I dropped it on concrete, and now it has many scratches.<br/><br/>Even more unfortunately, today I dropped my MacBook Pro, which I bought a year ago for about $350,000, hard on the floor and it is now distorted.<br/><br/>I am very, very sad.<br/><br/>Such a situation can be described with the proverb, <strong><em>yowari me ni tatari me</em></strong> (弱り目に祟り目).<br/><br/>Since <strong><em>yowari</em></strong> (弱り) means "weak/weakened," <strong><em>me</em></strong> (目) means "condition," <strong><em>tatari</em></strong> (祟り) means "curse," the literal meaning of this proverb is "weakened condition, and curse condition."<br/><br/>In other words, it represents a situation where further misfortune happens when one's mind or body is weak.
+<strong><em>Yowari Me ni Tatari Me</em></strong><br/><br/>I had used my iPhone for two years without a case or film, and there was no scratch on it; however, several days ago, I dropped it on concrete, and now it has many scratches.<br/><br/>Even more unfortunately, today I dropped my MacBook Pro, which I bought a year ago for about $350,000, hard on the floor and it is now distorted.<br/><br/>I am very, very sad.<br/><br/>Such a situation can be described with the proverb, <strong><em>yowari me ni tatari me</em></strong> (弱り目に祟り目).<br/><br/>Since <strong><em>yowari</em></strong> (弱り) means "weak/weakened," <strong><em>me</em></strong> (目) means "condition," <strong><em>tatari</em></strong> (祟り) means "curse," the literal meaning of this proverb is "weakened condition, and curse condition."<br/><br/>In other words, it represents a situation where further misfortune happens when one's mind or body is weak.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2032_saki-ga-omoiyarareru"
 ---
 
-# 【No. 2032】<strong><em>Saki ga Omoiyarareru</strong></em> (先が思いやられる - Being Worried about the Future)
+# 【No. 2032】<strong><em>Saki ga Omoiyarareru</em></strong> (先が思いやられる - Being Worried about the Future)
 <div class="date">May 15, 2023 19:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Saki ga Omoiyarareru</strong></em><br/><br/>When you are worried that a bad situation is about to happen in the future, you can say <strong><em>saki ga omoiyarareru</em></strong> (先が思いやられる).<br/><br/>Since <strong><em>saki</em></strong> (先) means "future," and <strong><em>omoiyarareru</em></strong> (思いやられる) is the combination of <strong><em>omoiyaru</em></strong> (思いやる - meaning "to be worried") with the spontaneous auxiliary verb <strong><em>reru</em></strong> (れる), this phrase means "to be worried about the future."<br/><br/>In most cases, <em>omoiyarareru</em> is used with words describing the future.<br/><br/>For example, you can say <strong><em>yukusue ga omoiyarareru</em></strong> (行く末が思いやられる) by replacing <em>saki</em> with <strong><em>yukusue</em></strong> (行く末 - meaning "future/fate").
+<strong><em>Saki ga Omoiyarareru</em></strong><br/><br/>When you are worried that a bad situation is about to happen in the future, you can say <strong><em>saki ga omoiyarareru</em></strong> (先が思いやられる).<br/><br/>Since <strong><em>saki</em></strong> (先) means "future," and <strong><em>omoiyarareru</em></strong> (思いやられる) is the combination of <strong><em>omoiyaru</em></strong> (思いやる - meaning "to be worried") with the spontaneous auxiliary verb <strong><em>reru</em></strong> (れる), this phrase means "to be worried about the future."<br/><br/>In most cases, <em>omoiyarareru</em> is used with words describing the future.<br/><br/>For example, you can say <strong><em>yukusue ga omoiyarareru</em></strong> (行く末が思いやられる) by replacing <em>saki</em> with <strong><em>yukusue</em></strong> (行く末 - meaning "future/fate").
 </div></div>
 
 <!-- more -->

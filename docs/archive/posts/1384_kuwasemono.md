@@ -8,10 +8,10 @@ comments: true
 slug: "1384_kuwasemono"
 ---
 
-# 【No. 1384】<strong><em>Kuwasemono</strong></em> (食わせもの)
+# 【No. 1384】<strong><em>Kuwasemono</em></strong> (食わせもの)
 <div class="date">Oct 2, 2018 21:47</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kuwasemono</strong></em><br/><br/>Two days ago, I introduced the term <strong><em>kuwasu</em></strong> (食わす) in my post.<br/><br/>In addition, I explained that the literal meaning of kuwasu is "to feed someone" or "to have someone eat," but it can also mean "to deceive."<br/><br/>There is a term that uses the kuwasu meaning "to deceive" -- it is <strong><em>kuwasemono</em></strong> (食わせもの).<br/><br/>Kuwasemono means an insidious person who cannot be judged by its appearance, or something fake that has only a good look.<br/><br/>If you want to use it as the former meaning, write 食わせ者 by using 者 (mono - "person").<br/><br/>If you want to use it as the latter meaning, write 食わせ物 by using 物 (mono - "thing").
+<strong><em>Kuwasemono</em></strong><br/><br/>Two days ago, I introduced the term <strong><em>kuwasu</em></strong> (食わす) in my post.<br/><br/>In addition, I explained that the literal meaning of kuwasu is "to feed someone" or "to have someone eat," but it can also mean "to deceive."<br/><br/>There is a term that uses the kuwasu meaning "to deceive" -- it is <strong><em>kuwasemono</em></strong> (食わせもの).<br/><br/>Kuwasemono means an insidious person who cannot be judged by its appearance, or something fake that has only a good look.<br/><br/>If you want to use it as the former meaning, write 食わせ者 by using 者 (mono - "person").<br/><br/>If you want to use it as the latter meaning, write 食わせ物 by using 物 (mono - "thing").
 </div></div>
 
 <!-- more -->

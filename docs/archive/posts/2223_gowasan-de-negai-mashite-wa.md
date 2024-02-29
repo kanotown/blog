@@ -9,10 +9,10 @@ comments: true
 slug: "2223_gowasan-de-negai-mashite-wa"
 ---
 
-# 【No. 2223】<strong><em>Gowasan de Negai Mashite wa</strong></em> (ご破算で願いましては - Starting Afresh)
+# 【No. 2223】<strong><em>Gowasan de Negai Mashite wa</em></strong> (ご破算で願いましては - Starting Afresh)
 <div class="date">Nov 22, 2023 21:39</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gowasan de Negai Mashite wa</strong></em><br/><br/>Have you ever used <strong><em>soroban</em></strong> (そろばん - "Japanese abacus")?<br/><br/>In one of the Japanese abacus calculation exercises, a student adds numbers read aloud by an instructor. This exercise usually begins with the phrase <strong><em>gowasan de onegai mashi-mase</em></strong> (ご破算で願いましては) or simply <strong><em>negai mashite wa</em></strong> (願いましては).<br/><br/><strong><em>Go</em></strong> (ご) is a polite prefix, <strong><em>wasan/hasan</em></strong> (破算) means "to reset the abacus to zero," and <strong><em>negai mashite</em></strong> (願いまして) means "please." Therefore, the literal meaning of <em>gowasan negai mashite wa</em> is "please reset your abacus to zero (for a new calculation)."<br/><br/>As a child, I heard this phrase almost every day in abacus classes.<br/><br/>By the way, now I am almost in the state of <strong><em>hasan</em></strong> (破産), meaning "bankruptcy."
+<strong><em>Gowasan de Negai Mashite wa</em></strong><br/><br/>Have you ever used <strong><em>soroban</em></strong> (そろばん - "Japanese abacus")?<br/><br/>In one of the Japanese abacus calculation exercises, a student adds numbers read aloud by an instructor. This exercise usually begins with the phrase <strong><em>gowasan de onegai mashi-mase</em></strong> (ご破算で願いましては) or simply <strong><em>negai mashite wa</em></strong> (願いましては).<br/><br/><strong><em>Go</em></strong> (ご) is a polite prefix, <strong><em>wasan/hasan</em></strong> (破算) means "to reset the abacus to zero," and <strong><em>negai mashite</em></strong> (願いまして) means "please." Therefore, the literal meaning of <em>gowasan negai mashite wa</em> is "please reset your abacus to zero (for a new calculation)."<br/><br/>As a child, I heard this phrase almost every day in abacus classes.<br/><br/>By the way, now I am almost in the state of <strong><em>hasan</em></strong> (破産), meaning "bankruptcy."
 </div></div>
 
 <!-- more -->

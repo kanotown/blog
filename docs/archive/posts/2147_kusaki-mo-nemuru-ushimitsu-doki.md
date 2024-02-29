@@ -8,10 +8,10 @@ comments: true
 slug: "2147_kusaki-mo-nemuru-ushimitsu-doki"
 ---
 
-# 【No. 2147】<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em> (草木も眠る丑三つ時 - Witching Hour): Part 2
+# 【No. 2147】<strong><em>Kusaki mo Nemuru Ushimitsu Doki</em></strong> (草木も眠る丑三つ時 - Witching Hour): Part 2
 <div class="date">Sep 7, 2023 21:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em>: Part 2<br/><br/>In Japan, it is believed that we should avoid going out between <strong><em>ushimitsu doki</em></strong> (丑三つ時 - referring to "2:00 a.m. to 2:30 a.m.") because ghosts and specters become active during that time.<br/><br/>In addition, it is also traditionally believed that we should not do practices like <strong><em>awase kagami</em></strong> (合わせ鏡 - meaning "two mirrors facing each other") or <strong><em>morishio</em></strong> (盛り塩 - meaning "pile of salt") during <em>ushimitsu doki</em>.<br/><br/>Similarly, in other countries, midnight is sometimes called "witching hour," and it is believed that witches, demons, and ghosts are most likely to appear during this time.<br/><br/>These are probably superstitions aimed at keeping people from being active at midnight. Regardless, it is best to sleep well at night for a healthy life cycle.
+<strong><em>Kusaki mo Nemuru Ushimitsu Doki</em></strong>: Part 2<br/><br/>In Japan, it is believed that we should avoid going out between <strong><em>ushimitsu doki</em></strong> (丑三つ時 - referring to "2:00 a.m. to 2:30 a.m.") because ghosts and specters become active during that time.<br/><br/>In addition, it is also traditionally believed that we should not do practices like <strong><em>awase kagami</em></strong> (合わせ鏡 - meaning "two mirrors facing each other") or <strong><em>morishio</em></strong> (盛り塩 - meaning "pile of salt") during <em>ushimitsu doki</em>.<br/><br/>Similarly, in other countries, midnight is sometimes called "witching hour," and it is believed that witches, demons, and ghosts are most likely to appear during this time.<br/><br/>These are probably superstitions aimed at keeping people from being active at midnight. Regardless, it is best to sleep well at night for a healthy life cycle.
 </div></div>
 
 <!-- more -->

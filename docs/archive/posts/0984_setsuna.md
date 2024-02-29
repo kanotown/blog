@@ -8,7 +8,7 @@ comments: true
 slug: "0984_setsuna"
 ---
 
-# 【No. 0984】<strong><em>Setsuna</strong></em> (刹那 - Moment)
+# 【No. 0984】<strong><em>Setsuna</em></strong> (刹那 - Moment)
 <div class="date">Aug 28, 2017 10:50</div>
 <div id="post"><div id="body_show_ori">
 We usually use "second," "minute" and "hour" as units of time, and this fact is worldwide.<br/><br/>Apart from such general units in the world, Japanese people sometimes use "setsuna" (刹那) when expressing just a moment.<br/><br/>"Setsuna" is one of the concepts of time in Buddhism, and it refers to an extremely short time.<br/><br/>There are several detailed definitions -- one of most famous definitions is that the moment of flicking your fingers is equal to 65 setsuna.<br/><br/>Also, in countries that use the Chinese writing system, setsuna is used as a numerical unit that represents 10 to the power of -18.

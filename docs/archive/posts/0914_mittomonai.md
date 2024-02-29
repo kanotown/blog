@@ -8,7 +8,7 @@ comments: true
 slug: "0914_mittomonai"
 ---
 
-# 【No. 0914】<strong><em>Mittomonai</strong></em> (みっともない - disgraceful)
+# 【No. 0914】<strong><em>Mittomonai</em></strong> (みっともない - disgraceful)
 <div class="date">Jun 19, 2017 13:32</div>
 <div id="post"><div id="body_show_ori">
 When I started wearing a suit, my shirt tail was often put out from my pants.<br/><br/>Every time my mother found it, and she told me "mittomonai" (みっともない).<br/><br/>Mittomonai is an adjective that means that something looks awkward or someone looks disgraceful.<br/><br/>This term comes from "mitakumonashi" (見たくもなし), the literal meaning of which is "I don't want to see it."<br/><br/>In the past, mittomonai was used to mean that you don't want to see something, but now it's mostly used in the meaning that something/someone looks disgraceful.

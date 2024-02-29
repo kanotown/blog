@@ -8,7 +8,7 @@ comments: true
 slug: "0995_tsuki-to-suppon"
 ---
 
-# 【No. 0995】<strong><em>Tsuki to Suppon</strong></em> (月とスッポン - As Different as Day and Night)
+# 【No. 0995】<strong><em>Tsuki to Suppon</em></strong> (月とスッポン - As Different as Day and Night)
 <div class="date">Sep 8, 2017 18:13</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced the Japanese phrase, "undei no sa," which means a very big difference.<br/><br/>In Japanese, there is another phrase, "tsuki to suppon" (月とスッポン), which has the similar meaning of it.<br/><br/>Here, "tsuki" (月) means "moon," "to" (と) means "and," and "スッポン" means "soft-shell turtle."<br/><br/>Both the full moon and a shell of a soft-shell turtle are round.<br/><br/>However, in Japan, the moon is a symbol of beauty, whereas it's said that the soft-shell turtle lives in dirty and has ugly face.<br/><br/>Because of this, "tsuki to suppon" has come to mean something two that are very different from each other, though they have one thing in common.

@@ -8,7 +8,7 @@ comments: true
 slug: "0650_daikon-ashi"
 ---
 
-# 【No. 0650】<strong><em>Daikon-ashi</strong></em> (Daikon Radish Legs)
+# 【No. 0650】<strong><em>Daikon-ashi</em></strong> (Daikon Radish Legs)
 <div class="date">Sep 28, 2016 00:18</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese word "daikon-ashi".<br/><br/>The literal meaning is "daikon/Japanese radish legs", and it is used for comparing women legs to daikon radishes in many cases.<br/><br/>(The kanji "足" (feet) is commonly used for the "ashi" in the "daikon-ashi", but it means "脚" (legs) in this word.)<br/><br/>Currently, this word is used as a bad meaning, and implies that the woman's legs are thick like a daikon radish.<br/><br/>However, daikon radishes were actually very thin in the past.<br/><br/>Therefore, comparing women's legs or arms to daikon radishes meant "they're thin and white," and was a compliment expression.<br/><br/>If you make a slip of the tongue and say "daikon-ashi" to a woman, you should say "of course in the past meaning" quickly.

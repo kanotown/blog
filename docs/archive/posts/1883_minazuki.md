@@ -8,10 +8,10 @@ comments: true
 slug: "1883_minazuki"
 ---
 
-# 【No. 1883】<strong><em>Minazuki</strong></em> (水無月 - June)
+# 【No. 1883】<strong><em>Minazuki</em></strong> (水無月 - June)
 <div class="date">Jun 22, 2021 11:00</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Minazuki</strong></em><br/><br/>In Japan, when referring to months such as "January" or "May," we almost always say the number of the month (1-12) first, followed by <strong><em>gatsu</em></strong> (月 - meaning "month").<br/><br/>However, in the past, Japanese people used a unique way of referring to months, called <strong><em>wafū getsumei</em></strong> (和風月名 - literally meaning "Japanese-style month names"), which is still sometimes used.<br/><br/>Now, June is <strong><em>minazuki</em></strong> (水無月).<br/><br/>Since <strong><em>mi/mizu</em></strong> (水) means "water," <strong><em>na</em></strong> (無) usually means "no/nothing" but here it means "of," and <strong><em>zuki/tsuki</em></strong> (月) means "month," the literal meaning of <em>minazuki</em> is "month of water."<br/><br/>It is said that the name <em>minazuki</em> came from the fact that people let water flow to a rice field in this month.
+<strong><em>Minazuki</em></strong><br/><br/>In Japan, when referring to months such as "January" or "May," we almost always say the number of the month (1-12) first, followed by <strong><em>gatsu</em></strong> (月 - meaning "month").<br/><br/>However, in the past, Japanese people used a unique way of referring to months, called <strong><em>wafū getsumei</em></strong> (和風月名 - literally meaning "Japanese-style month names"), which is still sometimes used.<br/><br/>Now, June is <strong><em>minazuki</em></strong> (水無月).<br/><br/>Since <strong><em>mi/mizu</em></strong> (水) means "water," <strong><em>na</em></strong> (無) usually means "no/nothing" but here it means "of," and <strong><em>zuki/tsuki</em></strong> (月) means "month," the literal meaning of <em>minazuki</em> is "month of water."<br/><br/>It is said that the name <em>minazuki</em> came from the fact that people let water flow to a rice field in this month.
 </div></div>
 
 <!-- more -->

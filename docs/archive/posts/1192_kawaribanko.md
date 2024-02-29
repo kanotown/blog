@@ -8,7 +8,7 @@ comments: true
 slug: "1192_kawaribanko"
 ---
 
-# 【No. 1192】<strong><em>Kawaribanko</strong></em> (かわりばんこ - Switching)
+# 【No. 1192】<strong><em>Kawaribanko</em></strong> (かわりばんこ - Switching)
 <div class="date">Mar 24, 2018 17:37</div>
 <div id="post"><div id="body_show_ori">
 When people switch or change places repeatedly, we refer to the action as the Japanese term かわりばんこ (kawaribanko).<br/><br/>かわり (kawari) means "switch," "change," or "rotate," but there are two theories about the etymology of ばんこ (banko).<br/><br/>One is that it comes from the fact that we called steelworkers who switched their tasks frequently 番子 (banko).<br/><br/>The other one is that "kawaribanko" was created by adding 子 (ko - child) to 代わり番 (kawariban).<br/>(When expressing something informally, we sometimes adding "ko.")<br/><br/>番 (ban) means "sequential order," and "kawariban" has the same meaning as "kawaribanko."

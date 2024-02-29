@@ -8,7 +8,7 @@ comments: true
 slug: "1287_anata"
 ---
 
-# 【No. 1287】<strong><em>Anata</strong></em> (あなた - You/Sweetheart)
+# 【No. 1287】<strong><em>Anata</em></strong> (あなた - You/Sweetheart)
 <div class="date">Jun 27, 2018 21:04</div>
 <div id="post"><div id="body_show_ori">
 I wrote about Japanese two person pronouns yesterday.<br/><br/>In that post, I said that you should not use two person pronouns blindly, such as anata (あなた) or kimi (君), in daily conversation in Japan.<br/><br/>However, anata (あなた) could be used in a specific case.<br/><br/>That is when a wife refers to her husband.<br/><br/>Originally, anata was a word to refer to something in the distance.<br/><br/>In the Edo period, since wives and husbands in samurai families often acted independently, wives seemed to call their husbands <em>anata</em> in the sense of "a person who is far away."<br/><br/>Someday, I would like someone to tell me "Okaerinasai, anata" (おかえりなさい、あなた - Welcome home, sweetheart), haha.

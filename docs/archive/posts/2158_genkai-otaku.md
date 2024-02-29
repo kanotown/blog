@@ -8,10 +8,10 @@ comments: true
 slug: "2158_genkai-otaku"
 ---
 
-# 【No. 2158】<strong><em>Genkai Otaku</strong></em> (限界オタク - Excessive Otaku)
+# 【No. 2158】<strong><em>Genkai Otaku</em></strong> (限界オタク - Excessive Otaku)
 <div class="date">Sep 18, 2023 18:21</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Genkai Otaku</strong></em><br/><br/>A few days ago, I introduced the term <strong><em>oshi</em></strong> (推し), which means "my fave."<br/><br/>In the fandom world, there are enthusiastic fans whose love for their <em>oshi</em> leads them to say embarrassing or creepy things.<br/><br/>Such people are sometimes described with the slang term, <strong><em>genkai otaku</em></strong> (限界オタク).<br/><br/>Since <strong><em>genkai</em></strong> (限界) means "limit," and <strong><em>otaku</em></strong> (オタク) is typically translated to "otaku" or "nerd," the literal meaning of <em>genkai otaku</em> is "otaku at their limit."<br/><br/>In other words, this term means an otaku who has reached the limits of their emotion, human dignity, rationality, creepiness, and so on.
+<strong><em>Genkai Otaku</em></strong><br/><br/>A few days ago, I introduced the term <strong><em>oshi</em></strong> (推し), which means "my fave."<br/><br/>In the fandom world, there are enthusiastic fans whose love for their <em>oshi</em> leads them to say embarrassing or creepy things.<br/><br/>Such people are sometimes described with the slang term, <strong><em>genkai otaku</em></strong> (限界オタク).<br/><br/>Since <strong><em>genkai</em></strong> (限界) means "limit," and <strong><em>otaku</em></strong> (オタク) is typically translated to "otaku" or "nerd," the literal meaning of <em>genkai otaku</em> is "otaku at their limit."<br/><br/>In other words, this term means an otaku who has reached the limits of their emotion, human dignity, rationality, creepiness, and so on.
 </div></div>
 
 <!-- more -->

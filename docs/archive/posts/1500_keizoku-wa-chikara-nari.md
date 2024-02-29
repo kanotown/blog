@@ -8,10 +8,10 @@ comments: true
 slug: "1500_keizoku-wa-chikara-nari"
 ---
 
-# 【No. 1500】<strong><em>Keizoku wa Chikara Nari</strong></em> (継続は力なり - Practice Makers Perfect)
+# 【No. 1500】<strong><em>Keizoku wa Chikara Nari</em></strong> (継続は力なり - Practice Makers Perfect)
 <div class="date">Jan 26, 2019 14:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Keizoku wa Chikara Nari</strong></em><br/><br/>This is my 1500th post.<br/><br/>Today I would like to introduce the phrase <strong><em>keizoku wa chikara nari</em></strong> (継続は力なり), which is the motto of many people.<br/><br/><strong><em>Keizoku</em></strong> (継続) means "continuity," <strong><em>chikara</em></strong> (力) means "power," and <strong><em>nari</em></strong> (なり) means "to be," so the literal meaning of this phrase is "continuity is power."<br/><br/>As the literal meaning says, this phrase represents the importance of continuing for anything.<br/><br/>It can be translated in English as "persistence pays off," "practice makes perfect," or "endurance makes you stronger." 
+<strong><em>Keizoku wa Chikara Nari</em></strong><br/><br/>This is my 1500th post.<br/><br/>Today I would like to introduce the phrase <strong><em>keizoku wa chikara nari</em></strong> (継続は力なり), which is the motto of many people.<br/><br/><strong><em>Keizoku</em></strong> (継続) means "continuity," <strong><em>chikara</em></strong> (力) means "power," and <strong><em>nari</em></strong> (なり) means "to be," so the literal meaning of this phrase is "continuity is power."<br/><br/>As the literal meaning says, this phrase represents the importance of continuing for anything.<br/><br/>It can be translated in English as "persistence pays off," "practice makes perfect," or "endurance makes you stronger." 
 </div></div>
 
 <!-- more -->

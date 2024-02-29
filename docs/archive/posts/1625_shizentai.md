@@ -8,10 +8,10 @@ comments: true
 slug: "1625_shizentai"
 ---
 
-# 【No. 1625】<strong><em>Shizentai</strong></em> (自然体 - Being Oneself)
+# 【No. 1625】<strong><em>Shizentai</em></strong> (自然体 - Being Oneself)
 <div class="date">May 31, 2019 22:02</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shizentai</strong></em><br/><br/>I might not be good at being <strong><em>shizentai</em></strong> (自然体).<br/><br/>Since <strong><em>shizen</em></strong> (自然) means "natural" and <strong><em>tai</em></strong> (体) means "body" or "posture," the literal meaning of <em>shizentai</em> is "natural body" or "natural posture."<br/><br/>Originally, this term was used to mean a basic standing posture/stance in <strong><em>jūdō</em></strong> (柔道 - "the Japanese art of self-defense") or <strong><em>kendō</em></strong> (剣道 - "the Japanese art of fencing").<br/><br/>Later, it came to have the meaning of a natural attitude with no pressure or tension.<br/><br/>This term can be translated into English as "being oneself."
+<strong><em>Shizentai</em></strong><br/><br/>I might not be good at being <strong><em>shizentai</em></strong> (自然体).<br/><br/>Since <strong><em>shizen</em></strong> (自然) means "natural" and <strong><em>tai</em></strong> (体) means "body" or "posture," the literal meaning of <em>shizentai</em> is "natural body" or "natural posture."<br/><br/>Originally, this term was used to mean a basic standing posture/stance in <strong><em>jūdō</em></strong> (柔道 - "the Japanese art of self-defense") or <strong><em>kendō</em></strong> (剣道 - "the Japanese art of fencing").<br/><br/>Later, it came to have the meaning of a natural attitude with no pressure or tension.<br/><br/>This term can be translated into English as "being oneself."
 </div></div>
 
 <!-- more -->

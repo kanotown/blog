@@ -8,10 +8,10 @@ comments: true
 slug: "2065_chan-chara-okashi"
 ---
 
-# 【No. 2065】<strong><em>Chan Chara Okashī</strong></em> (ちゃんちゃらおかしい - Fiddle-faddle)
+# 【No. 2065】<strong><em>Chan Chara Okashī</em></strong> (ちゃんちゃらおかしい - Fiddle-faddle)
 <div class="date">Jun 17, 2023 11:36</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chan Chara Okashī</strong></em><br/><br/>To describe something too ridiculous, you can use the slang term <strong><em>chan chara okashī</em></strong> (ちゃんちゃらおかしい).<br/><br/><strong><em>Okashī</em></strong> (おかしい) means "ridiculous" or "funny," and <strong><em>chan chara</em></strong> (ちゃんちゃら) emphasizes the following <em>okashī</em>.<br/><br/>The most accepted theory about the etymologies of <em>chan chara</em> is that it comes from <strong><em>chari</em></strong> (茶利), which means comical phrases and actions in kabuki or ningyo-joruri (traditional Japanese puppet theater).<br/><br/>However, please note that <em>chan chara okashī</em> does not describe something comical or funny but is used to scoff at something ridiculous.
+<strong><em>Chan Chara Okashī</em></strong><br/><br/>To describe something too ridiculous, you can use the slang term <strong><em>chan chara okashī</em></strong> (ちゃんちゃらおかしい).<br/><br/><strong><em>Okashī</em></strong> (おかしい) means "ridiculous" or "funny," and <strong><em>chan chara</em></strong> (ちゃんちゃら) emphasizes the following <em>okashī</em>.<br/><br/>The most accepted theory about the etymologies of <em>chan chara</em> is that it comes from <strong><em>chari</em></strong> (茶利), which means comical phrases and actions in kabuki or ningyo-joruri (traditional Japanese puppet theater).<br/><br/>However, please note that <em>chan chara okashī</em> does not describe something comical or funny but is used to scoff at something ridiculous.
 </div></div>
 
 <!-- more -->

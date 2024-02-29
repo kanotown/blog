@@ -9,10 +9,10 @@ comments: true
 slug: "2206_omatsuri-kakaku"
 ---
 
-# 【No. 2206】<strong><em>Omatsuri Kakaku</strong></em> (お祭り価格 - Festival Price)
+# 【No. 2206】<strong><em>Omatsuri Kakaku</em></strong> (お祭り価格 - Festival Price)
 <div class="date">Nov 5, 2023 16:20</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Omatsuri Kakaku</strong></em><br/><br/>Yesterday, I bought some yakisoba (fried noodles) at a university festival that was set at an <strong><em>omatsuri kakaku</em></strong> (お祭り価格).<br/><br/>Since <strong><em>omatsuri</em></strong> (お祭り) means "festival,' and <strong><em>kakaku</em></strong> (価格) means "price," the literal meanign of <em>omatsuri kakaku</em> is "festival prive."<br/><br/><em>Omatsuri kakaku</em> is a phenomenon often seen at Japanese festivals and events where prices of foods and goods are set higher than usual.<br/><br/>Caught up in the festival's fun atmosphere or valuing the special experiences unique to the event, visitors tend to pay higher prices without thinking too much about them.<br/><br/>Please be careful that there may be cases where the <em>omatsuri kakaku</em> is unusually high.
+<strong><em>Omatsuri Kakaku</em></strong><br/><br/>Yesterday, I bought some yakisoba (fried noodles) at a university festival that was set at an <strong><em>omatsuri kakaku</em></strong> (お祭り価格).<br/><br/>Since <strong><em>omatsuri</em></strong> (お祭り) means "festival,' and <strong><em>kakaku</em></strong> (価格) means "price," the literal meanign of <em>omatsuri kakaku</em> is "festival prive."<br/><br/><em>Omatsuri kakaku</em> is a phenomenon often seen at Japanese festivals and events where prices of foods and goods are set higher than usual.<br/><br/>Caught up in the festival's fun atmosphere or valuing the special experiences unique to the event, visitors tend to pay higher prices without thinking too much about them.<br/><br/>Please be careful that there may be cases where the <em>omatsuri kakaku</em> is unusually high.
 </div></div>
 
 <!-- more -->

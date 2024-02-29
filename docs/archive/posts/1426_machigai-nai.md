@@ -8,7 +8,7 @@ comments: true
 slug: "1426_machigai-nai"
 ---
 
-# 【No. 1426】<strong><em>Machigai-Nai</strong></em> (間違いない - Doubtless)
+# 【No. 1426】<strong><em>Machigai-Nai</em></strong> (間違いない - Doubtless)
 <div class="date">Nov 13, 2018 15:10</div>
 <div id="post"><div id="body_show_ori">
 Machigainai<br/><br/>Today, I saw an advertisement saying that 'Machigai-nai *** desu' (間違いない○○です) in my university.<br/><br/><strong><em>Machigai</em></strong> (間違い) means "mistake" or "error," and <strong><em>nai</em></strong> (ない) means a negative suffix, so the literal meaning of <em>machigai-nai</em> is "no mistake" or "no doubt."<br/><br/>Normally, the adjective <em>machigai-nai</em> is used to mean that there is no mistake or no room for doubt in something mentioned before.<br/><br/>However, this adjective can also be placed just before a noun, such as <strong><em>machigai-nai shōhin</em></strong> (間違いない商品 - literally "doubtless product") or <strong><em>machigai-nai aji</em></strong> (間違いない味 - literally "doubtless taste").<br/><br/>In these cases, <em>machigai-nai</em> contains the meaning of "assurance" -- in other words, it implies that you will never make a mistake if you choose this product/dish/etc.

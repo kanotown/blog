@@ -8,7 +8,7 @@ comments: true
 slug: "0701_ippiki-ookami"
 ---
 
-# 【No. 0701】<strong><em>Ippiki Ookami</strong></em> (A Lone Wolf)
+# 【No. 0701】<strong><em>Ippiki Ookami</em></strong> (A Lone Wolf)
 <div class="date">Nov 18, 2016 16:09</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese term "ippiki ookami."<br/><br/>The literal meaning is "a (lone) wolf," and it indicates a person who doesn't rely on organizations or fellows, and acts by his/her own.<br/><br/>Wolves usually make groups, but some of them get away from the herd and drift alone.<br/><br/>Such a wolf is called "ippiki ookami" (a lone wolf), and this term has come to be used for a person.<br/><br/>Several years ago, a Japanese TV show examined what a wild lone wolf is saying by using Bow-Lingual, which is a kind of communication tool with dogs made in Japan.<br/><br/>As a result, the wild lone wolf said something like "what should I do?"<br/><br/>Both lone wolves in wild and human society might not want to become lone wolves.

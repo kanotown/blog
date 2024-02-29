@@ -8,7 +8,7 @@ comments: true
 slug: "1266_ki-ga-ki-de-nai"
 ---
 
-# 【No. 1266】<strong><em>Ki ga Ki de nai</strong></em> (気が気でない - Anxious)
+# 【No. 1266】<strong><em>Ki ga Ki de nai</em></strong> (気が気でない - Anxious)
 <div class="date">Jun 6, 2018 12:45</div>
 <div id="post"><div id="body_show_ori">
 I am terribly anxious about a certain thing and unsettling now.<br/><br/>When expressing this situation, you can say "ki ga ki de nai" (気が気でない) in Japanese.<br/><br/>Ki (気) means <em>feeling</em> or <em>mind</em>.<br/><br/>Also, "A ga B de nai" (AがBでない) means "A is not B."<br/><br/>That is to say, "ki ga ki de nai" means that one's feeling is not the (normal/usual) feeling.<br/><br/>I hope the next week will come soon.<br/><br/>【Example sentence】<br/>Shiken no kekka ga kowakute ki ga ki de nai (試験の結果が怖くて気が気でない - I am deeply concerned about the result of my exam.) 

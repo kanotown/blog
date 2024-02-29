@@ -8,7 +8,7 @@ comments: true
 slug: "1072_melo-melo"
 ---
 
-# 【No. 1072】<strong><em>Melo Melo</strong></em> (めろめろ - Madly in Love)
+# 【No. 1072】<strong><em>Melo Melo</em></strong> (めろめろ - Madly in Love)
 <div class="date">Nov 24, 2017 17:19</div>
 <div id="post"><div id="body_show_ori">
 There is a Japanese term: "melo melo" (めろめろ/メロメロ).<br/><br/>Can you guess what this term means?<br/><br/>"Melo melo" means that someone has a loose face or attitude by being madly in love.<br/><br/>For example, you can say "melo melo da" (メロメロだ - I'm melo melo) to your lover or grand children.<br/><br/>The most accepted theory about the etymology of "melo melo" is that it comes from "mela mela" (めらめら), which is an onomatopoeia that represents spreading fire.<br/><br/>Incidentally, there is "melo melo" as a Pokemon's move, and this is translated into English as "Attract."

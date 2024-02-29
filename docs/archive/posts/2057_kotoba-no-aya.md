@@ -8,10 +8,10 @@ comments: true
 slug: "2057_kotoba-no-aya"
 ---
 
-# 【No. 2057】<strong><em>Kotoba no Aya</strong></em> (言葉の綾 - Figure of Speech)
+# 【No. 2057】<strong><em>Kotoba no Aya</em></strong> (言葉の綾 - Figure of Speech)
 <div class="date">Jun 9, 2023 12:09</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kotoba no Aya</strong></em><br/><br/>Have you ever been in a situation where you used a complex expression that could be interpreted in several different ways and caused misunderstanding?<br/><br/>In such a situation, especially when the expression is misunderstood in a bad way, you can use the term <strong><em>kotoba no aya</em></strong> (言葉の綾) to explain the situation.<br/><br/>Since <strong><em>kotoba</em></strong> (言葉) means "words," and <strong><em>aya</em></strong> (綾) means "various shapes and patterns," the literal meaning of <em>kotoba no aya</em> is "words in various shapes and patterns."<br/><br/>Originally, this term mainly meant "skillful wording for a matter that is difficult to express." However, it is now usually used to mean "a complex expression that could be interpreted in several different ways."
+<strong><em>Kotoba no Aya</em></strong><br/><br/>Have you ever been in a situation where you used a complex expression that could be interpreted in several different ways and caused misunderstanding?<br/><br/>In such a situation, especially when the expression is misunderstood in a bad way, you can use the term <strong><em>kotoba no aya</em></strong> (言葉の綾) to explain the situation.<br/><br/>Since <strong><em>kotoba</em></strong> (言葉) means "words," and <strong><em>aya</em></strong> (綾) means "various shapes and patterns," the literal meaning of <em>kotoba no aya</em> is "words in various shapes and patterns."<br/><br/>Originally, this term mainly meant "skillful wording for a matter that is difficult to express." However, it is now usually used to mean "a complex expression that could be interpreted in several different ways."
 </div></div>
 
 <!-- more -->

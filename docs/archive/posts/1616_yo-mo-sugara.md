@@ -8,10 +8,10 @@ comments: true
 slug: "1616_yo-mo-sugara"
 ---
 
-# 【No. 1616】<strong><em>Yo mo Sugara</strong></em> (夜もすがら - Through the Night)
+# 【No. 1616】<strong><em>Yo mo Sugara</em></strong> (夜もすがら - Through the Night)
 <div class="date">May 22, 2019 22:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yo mo Sugara</strong></em><br/><br/>Today I would like to introduce one of the classical Japanese terms that has a beautiful sound, <strong><em>yo mo sugara</em></strong> (夜もすがら).<br/><br/><strong><em>Yo</em></strong> (夜) is a noun that means "night," and <strong><em>sugara</em></strong> (すがら) is a suffix that means "from start to end."<br/><br/>That is to say, <em>yo mo sugara</em> means "all through the night" or "overnight."<br/><br/>You can also write this term in kanji as 終夜 by using 終, which means "end."<br/><br/>[Example] <strong><em>Yo mo sugara benkyō shita</em></strong> (夜もすがら勉強した - "I studied all through the night").
+<strong><em>Yo mo Sugara</em></strong><br/><br/>Today I would like to introduce one of the classical Japanese terms that has a beautiful sound, <strong><em>yo mo sugara</em></strong> (夜もすがら).<br/><br/><strong><em>Yo</em></strong> (夜) is a noun that means "night," and <strong><em>sugara</em></strong> (すがら) is a suffix that means "from start to end."<br/><br/>That is to say, <em>yo mo sugara</em> means "all through the night" or "overnight."<br/><br/>You can also write this term in kanji as 終夜 by using 終, which means "end."<br/><br/>[Example] <strong><em>Yo mo sugara benkyō shita</em></strong> (夜もすがら勉強した - "I studied all through the night").
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1225_akubi"
 ---
 
-# 【No. 1225】<strong><em>Akubi</strong></em> (あくび - Yawn)
+# 【No. 1225】<strong><em>Akubi</em></strong> (あくび - Yawn)
 <div class="date">Apr 26, 2018 14:30</div>
 <div id="post"><div id="body_show_ori">
 When you are drowsy or feel boring, you will take an act called an akubi (あくび) involuntarily.<br/><br/>An akubi is a kind of breathing, which you draw in a deep breath and blow out a shallow breath -- it is called a "yawn" in English.<br/><br/>It is considered that the term akubi comes from an old Japanese word.<br/><br/>There are two accepted theories about its origin -- one is that it comes from the verb akubu (欠くぶ), which means to yawn, and the other is that it comes from the verb akubu (飽くぶ), which means to get bored with something.<br/><br/>"Akubi" is usually written in kanji as "欠伸," but sometimes it is written just as "欠."<br/><br/>The kanji "欠" is a hieroglyphic that represents a person who open his/her mouth wide, and it has the meaning of "yawn"<br/><br/>The kanji "伸"means to stretch oneself, so the kanji expression "欠伸" implies that a person yawns while stretching.

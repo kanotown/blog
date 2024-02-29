@@ -8,10 +8,10 @@ comments: true
 slug: "2043_kishi-kaisei"
 ---
 
-# 【No. 2043】<strong><em>Kishi Kaisei</strong></em> (起死回生 - Turnning Around a Hopeless Situation)
+# 【No. 2043】<strong><em>Kishi Kaisei</em></strong> (起死回生 - Turnning Around a Hopeless Situation)
 <div class="date">May 26, 2023 16:44</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kishi Kaisei</strong></em><br/><br/>To recover from a hopeless situation and come back to life is called <strong><em>kishi kaisei</em></strong> (起死回生) in Japanese.<br/><br/>Since <strong><em>ki</em></strong> (起) means "to rise," <strong><em>shi</em></strong> (死) means "death," <strong><em>kai</em></strong> (回) means "to back," and <strong><em>sei</em></strong> (生) means "life," the literal meaning of this four-character idiom is "to rise from death and back to life."<br/><br/>Originally, this idiom literally meant a revival of the dead.<br/><br/>Now it has the meaning of recovering from a hopeless situation.<br/><br/>Incidentally, the idioms <strong><em>kishi</em></strong> (起死) and <strong><em>kaisei</em></strong> (回生) have the same meaning as <em>kishi kaisei</em>, respectively.
+<strong><em>Kishi Kaisei</em></strong><br/><br/>To recover from a hopeless situation and come back to life is called <strong><em>kishi kaisei</em></strong> (起死回生) in Japanese.<br/><br/>Since <strong><em>ki</em></strong> (起) means "to rise," <strong><em>shi</em></strong> (死) means "death," <strong><em>kai</em></strong> (回) means "to back," and <strong><em>sei</em></strong> (生) means "life," the literal meaning of this four-character idiom is "to rise from death and back to life."<br/><br/>Originally, this idiom literally meant a revival of the dead.<br/><br/>Now it has the meaning of recovering from a hopeless situation.<br/><br/>Incidentally, the idioms <strong><em>kishi</em></strong> (起死) and <strong><em>kaisei</em></strong> (回生) have the same meaning as <em>kishi kaisei</em>, respectively.
 </div></div>
 
 <!-- more -->

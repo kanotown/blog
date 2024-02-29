@@ -8,7 +8,7 @@ comments: true
 slug: "0425_bonuses-and-mochi"
 ---
 
-# 【No. 0425】<strong><em>Bonuses and Mochi</strong></em> (Rice-Cake) Payments
+# 【No. 0425】<strong><em>Bonuses and Mochi</em></strong> (Rice-Cake) Payments
 <div class="date">Feb 16, 2016 14:37</div>
 <div id="post"><div id="body_show_ori">
 Most Japanese companies pay bonuses to workers twice a year, apart from regular salaries.<br/><br/>The average amount of the bonus in Japan is about 1 million yen (8,720 dollars) a year, but it could fluctuate greatly depending on the company.<br/><br/>The bonuses are over 3.5 million yen (30,520 dollars) in leading companies, while they are 0 yen in small enterprises.<br/><br/>As a result of searching about the bonuses in overseas, I found that many countries seem to pay bonuses once a year.<br/><br/>In some countries, companies pay 13 months' salaries, and this extra part seems to correspond to bonuses.<br/><br/>By the way, some Japanese companies pay "mochi payments (rice-cake payments)," in addition to bonuses at the end of the year.<br/><br/>The reason why we call it "mochi payments" is that we often eat mochi during the New Year holidays, but it is just something like "otoshidama(New Year's gift money)."<br/><br/>Although mochi payments are around tens of thousands yen (300-500 dollars) in many cases, the Liberal Democratic Party seems to pay 1 million yen to each assembly member as mochi payments.

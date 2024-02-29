@@ -8,7 +8,7 @@ comments: true
 slug: "0823_shunbun-no-hi"
 ---
 
-# 【No. 0823】<strong><em>Shunbun no Hi</strong></em> (Vernal Equinox Day)
+# 【No. 0823】<strong><em>Shunbun no Hi</em></strong> (Vernal Equinox Day)
 <div class="date">Mar 20, 2017 13:54</div>
 <div id="post"><div id="body_show_ori">
 Today is Shunbun no Hi.<br/><br/>"Shun" means "spring," "bun" means "split," "hi" means "day," and "shunbun no hi" means "Vernal Equinox Day."<br/><br/>This day is known as a day that has almost equally long of day and night.<br/><br/>In most cases, it will be March 20th or 21st.<br/>(In 2092, it will be March 19th.)<br/><br/>The purpose of this day is to praise nature and show love of all living things.<br/><br/>In Buddhism, people often visit their ancestors' graves during a week around Shunbun no Hi.<br/><br/>This period is called "higan."<br/><br/>If you are interested, please check the following post:<br/><br/><a href="http://lang-8.com/kanotown/journals/304165317003039514992095523512588731438" target="_blank">http://lang-8.com/kanotown/journals/304165317003039514992095523512588731438</a>

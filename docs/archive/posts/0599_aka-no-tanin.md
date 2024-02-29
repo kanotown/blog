@@ -8,7 +8,7 @@ comments: true
 slug: "0599_aka-no-tanin"
 ---
 
-# 【No. 0599】<strong><em>Aka no Tanin</strong></em> (A Complete Stranger)
+# 【No. 0599】<strong><em>Aka no Tanin</em></strong> (A Complete Stranger)
 <div class="date">Aug 8, 2016 19:30</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese phrase "aka no tanin."<br/><br/>"Aka" means "red," "tanin" means "a stranger," and "aka no tanin" means "a complete stranger."<br/><br/>Since the word "aka" comes from "akiraka," which means "obvious" or "clear," it contains such meanings in addition to "red," and is sometimes used for emphasizing a noun as in the above example.<br/><br/>(By the way, "kuro" (black) comes from "kurai," which means "dark.")<br/><br/>As similar examples, there are "makka na uso" (a red lie) and "aka ppaji" (a red shame).<br/><br/>"Makka na uso" means "an absolute lie" or "an utter lie," and "aka ppaji" means "a mortal shame" or "an open disgrace."

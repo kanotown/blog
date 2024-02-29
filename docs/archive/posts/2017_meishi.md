@@ -8,10 +8,10 @@ comments: true
 slug: "2017_meishi"
 ---
 
-# 【No. 2017】<strong><em>Meishi</strong></em> (名刺 - Business/Name Card)
+# 【No. 2017】<strong><em>Meishi</em></strong> (名刺 - Business/Name Card)
 <div class="date">Apr 30, 2023 14:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Meishi</strong></em><br/><br/>Today, I designed <strong><em>meishi</em></strong> (名刺) for my new position, then requested a specialized vendor to print it.<br/><br/><em>Meishi</em> means "business card" or "name card," which is a very important item in Japanese business situations because exchanging business cards is a customary practice in Japan.<br/><br/>Here, <strong><em>mei</em></strong> (名) means "name," and <strong><em>shi</em></strong> (刺) means "wooden or bamboo plate."<br/><br/>Business cards originated in China, and people used to write their names on wooden or bamboo plates to let others know they had come, which is thought to have led to the origin of the word <em>meishi</em>.
+<strong><em>Meishi</em></strong><br/><br/>Today, I designed <strong><em>meishi</em></strong> (名刺) for my new position, then requested a specialized vendor to print it.<br/><br/><em>Meishi</em> means "business card" or "name card," which is a very important item in Japanese business situations because exchanging business cards is a customary practice in Japan.<br/><br/>Here, <strong><em>mei</em></strong> (名) means "name," and <strong><em>shi</em></strong> (刺) means "wooden or bamboo plate."<br/><br/>Business cards originated in China, and people used to write their names on wooden or bamboo plates to let others know they had come, which is thought to have led to the origin of the word <em>meishi</em>.
 </div></div>
 
 <!-- more -->

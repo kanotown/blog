@@ -8,7 +8,7 @@ comments: true
 slug: "1196_shaku"
 ---
 
-# 【No. 1196】<strong><em>Shaku</strong></em> (尺)
+# 【No. 1196】<strong><em>Shaku</em></strong> (尺)
 <div class="date">Mar 28, 2018 18:03</div>
 <div id="post"><div id="body_show_ori">
 The day before yesterday, I talked about 丈 (jō), which is used as a unit of length in East Asia.<br/><br/>There is another unit of length, 尺 (shaku), which is more common, and 1丈 is defined as 10尺.<br/><br/>Originally, "shaku" represents the length between the thumb and the index finger when spreading one's hand.<br/><br/>This length was around 18 cm, but of course, people have different hand sizes, so it was not an absolute unit.<br/><br/>Later, people decided to fix the length of the unit, and it gradually became long.<br/><br/>Finally, 1尺 became 1/3 meters in China, 10/33 meters in Japan.<br/><br/>As you can guess 1丈 (= 10尺) has also changed.<br/><br/>In the past, 1丈 (about 180 cm at that time) represented a grown man, but now it exceeds 3 meters.

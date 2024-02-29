@@ -8,10 +8,10 @@ comments: true
 slug: "2030_nanka"
 ---
 
-# 【No. 2030】<strong><em>Nanka</strong></em> (なんか - Somehow)
+# 【No. 2030】<strong><em>Nanka</em></strong> (なんか - Somehow)
 <div class="date">May 13, 2023 16:09</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nanka</strong></em><br/><br/>Young Japanese people often use the adverb <strong><em>nanka</em></strong> (なんか/何か) in daily conversation.<br/><br/>For example, you can say 'nanka samuku nai?' (なんか寒くない？ - "Isn't it somehow cold?").<br/><br/>Here <em>nanka</em> describes a situation where the reason is unclear, which could be translated as "somehow."<br/><br/>It is a useful expression that can be used at the beginning of various contexts, but note that it is also a casual expression used mainly by young people.<br/><br/>In formal situations, you can use <strong><em>nandaka</em></strong> (何だか) instead of <em>nanka</em>.<br/><br/>In any case, be careful not to overuse these expressions.
+<strong><em>Nanka</em></strong><br/><br/>Young Japanese people often use the adverb <strong><em>nanka</em></strong> (なんか/何か) in daily conversation.<br/><br/>For example, you can say 'nanka samuku nai?' (なんか寒くない？ - "Isn't it somehow cold?").<br/><br/>Here <em>nanka</em> describes a situation where the reason is unclear, which could be translated as "somehow."<br/><br/>It is a useful expression that can be used at the beginning of various contexts, but note that it is also a casual expression used mainly by young people.<br/><br/>In formal situations, you can use <strong><em>nandaka</em></strong> (何だか) instead of <em>nanka</em>.<br/><br/>In any case, be careful not to overuse these expressions.
 </div></div>
 
 <!-- more -->

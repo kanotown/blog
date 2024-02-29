@@ -8,10 +8,10 @@ comments: true
 slug: "1772_jubako-yomi"
 ---
 
-# 【No. 1772】<strong><em>Jūbako Yomi</strong></em> (重箱読み - Mixed Reading of Chinese and Japanese)
+# 【No. 1772】<strong><em>Jūbako Yomi</em></strong> (重箱読み - Mixed Reading of Chinese and Japanese)
 <div class="date">Mar 3, 2021 20:32</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Jūbako Yomi</strong></em><br/><br/>In my post yesterday, I explained that it is not standard to read 代替 as <strong><em>daigae</em></strong> (だいがえ).<br/><br/>When the reading of 代替 is <strong><em>daigae</em></strong> (だいがえ), 代 is the Chinese reading, whereas 替 is the Japanese reading.<br/><br/>The combination of the Chinese and Japanese readings in this way is called <strong><em>jūbako yomi</em></strong> (重箱読み) in Japanese.<br/><br/><strong><em>Jū</em></strong> (重) means "overlap," <strong><em>bako/hako</em></strong> (箱) means "box," and the combination <strong><em>jūbako</em></strong> (重箱) means multitiered boxes in which food is stored. <br/><br/>Here, <em>jū</em> is the Chinese reading, and <em>bako</em> is the Japanese reading.<br/><br/>In addition, <strong><em>yomi</em></strong> (読み) means "reading."<br/><br/>That is to say, <em>jūbako yomi</em> means a term that is read as a mixture of a Chinese reading and a Japanese reading like <em>jūbako</em>.
+<strong><em>Jūbako Yomi</em></strong><br/><br/>In my post yesterday, I explained that it is not standard to read 代替 as <strong><em>daigae</em></strong> (だいがえ).<br/><br/>When the reading of 代替 is <strong><em>daigae</em></strong> (だいがえ), 代 is the Chinese reading, whereas 替 is the Japanese reading.<br/><br/>The combination of the Chinese and Japanese readings in this way is called <strong><em>jūbako yomi</em></strong> (重箱読み) in Japanese.<br/><br/><strong><em>Jū</em></strong> (重) means "overlap," <strong><em>bako/hako</em></strong> (箱) means "box," and the combination <strong><em>jūbako</em></strong> (重箱) means multitiered boxes in which food is stored. <br/><br/>Here, <em>jū</em> is the Chinese reading, and <em>bako</em> is the Japanese reading.<br/><br/>In addition, <strong><em>yomi</em></strong> (読み) means "reading."<br/><br/>That is to say, <em>jūbako yomi</em> means a term that is read as a mixture of a Chinese reading and a Japanese reading like <em>jūbako</em>.
 </div></div>
 
 <!-- more -->

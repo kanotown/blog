@@ -8,10 +8,10 @@ comments: true
 slug: "2228_aritei-ni-moushi-masu-to"
 ---
 
-# 【No. 2228】<strong><em>Aritei ni Moushi Masu to</strong></em> (有り体に申しますと - To Be Honest)
+# 【No. 2228】<strong><em>Aritei ni Moushi Masu to</em></strong> (有り体に申しますと - To Be Honest)
 <div class="date">Nov 27, 2023 17:42</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Aritei ni Moushi Masu to</strong></em><br/><br/>In a formal situation, when you want to say something honestly, you can use the Japanese phrase <strong><em>aritei ni moushi masu to</em></strong> (有り体に申しますと).<br/><br/>Since <strong><em>aritei</em></strong> (有り体) means "as it is," and <strong><em>moushi/mousu</em></strong> (申し/申す) is a humble form of "to say," <em>aritei ni moushi masu to</em> literally means "if I say it as it is."<br/><br/>If you want to use a more common phrase, you can use the terms <strong><em>shōjiki</em></strong> (正直 - "honest") and <strong><em>iu</em></strong> (言う - "to say") and say <strong><em>shōjiki ni iu to</em></strong> (正直に言うと - "to be honest with you").<br/><br/>There are several other phrases that can be used when trying to say something honestly, but I think that <em>aritei ni moushi masu to</em> is the most formal expression.
+<strong><em>Aritei ni Moushi Masu to</em></strong><br/><br/>In a formal situation, when you want to say something honestly, you can use the Japanese phrase <strong><em>aritei ni moushi masu to</em></strong> (有り体に申しますと).<br/><br/>Since <strong><em>aritei</em></strong> (有り体) means "as it is," and <strong><em>moushi/mousu</em></strong> (申し/申す) is a humble form of "to say," <em>aritei ni moushi masu to</em> literally means "if I say it as it is."<br/><br/>If you want to use a more common phrase, you can use the terms <strong><em>shōjiki</em></strong> (正直 - "honest") and <strong><em>iu</em></strong> (言う - "to say") and say <strong><em>shōjiki ni iu to</em></strong> (正直に言うと - "to be honest with you").<br/><br/>There are several other phrases that can be used when trying to say something honestly, but I think that <em>aritei ni moushi masu to</em> is the most formal expression.
 </div></div>
 
 <!-- more -->

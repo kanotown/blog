@@ -9,10 +9,10 @@ comments: true
 slug: "2212_tenparu"
 ---
 
-# 【No. 2212】<strong><em>Tenparu</strong></em> (テンパる - Panic)
+# 【No. 2212】<strong><em>Tenparu</em></strong> (テンパる - Panic)
 <div class="date">Nov 11, 2023 20:54</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tenparu</strong></em><br/><br/>Today, my lab students participated in their first academic conference.<br/><br/>Both students and I were quite nervous, and one student was in a state described as <strong><em>tenparu</em></strong> (テンパる).<br/><br/><em>Tenparu</em> is a slang term that describes a state of panic caused by nervousness or anxiety.<br/><br/>It originates from the mahjong term <em>tenpai</em>  (聴牌), which refers to the state of being able to win with one more tile.<br/><br/>Originally, <em>tenparu</em> literally meant a state of readiness to win, however, now it has taken on a negative connotation, associated with the state of nervousness.
+<strong><em>Tenparu</em></strong><br/><br/>Today, my lab students participated in their first academic conference.<br/><br/>Both students and I were quite nervous, and one student was in a state described as <strong><em>tenparu</em></strong> (テンパる).<br/><br/><em>Tenparu</em> is a slang term that describes a state of panic caused by nervousness or anxiety.<br/><br/>It originates from the mahjong term <em>tenpai</em>  (聴牌), which refers to the state of being able to win with one more tile.<br/><br/>Originally, <em>tenparu</em> literally meant a state of readiness to win, however, now it has taken on a negative connotation, associated with the state of nervousness.
 </div></div>
 
 <!-- more -->

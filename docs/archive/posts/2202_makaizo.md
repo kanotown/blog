@@ -8,10 +8,10 @@ comments: true
 slug: "2202_makaizo"
 ---
 
-# 【No. 2202】<strong><em>Makaizō</strong></em> (魔改造 - Extreme Modification)
+# 【No. 2202】<strong><em>Makaizō</em></strong> (魔改造 - Extreme Modification)
 <div class="date">Nov 1, 2023 17:04</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Makaizō</strong></em><br/><br/>Japanese people are fond of <strong><em>makaizo</em></strong> (魔改造).<br/><br/>The slang term <em>makaizō</em> refers to the extensive modification of plastic models and toys, especially in cases where the modification deviated significantly from the original purpose or meaning.<br/><br/>Since <strong><em>ma</em></strong> (魔) means "devil," and <strong><em>kaizō</em></strong> (改造) means "modification," <em>makaizō</em> literally means "devilish modification."<br/><br/>There are various kinds of <em>makaizo</em>, such as changing human figurines' legs into wheels to make them movable or installing an electromagnetic acceleration mechanism in a toy that can shoot marbles (known as B-Daman) to make it more powerful.<br/><br/>You can also use the term <em>makaizō</em> for various things, such as food and beverages. Japanese ramen (originated in China) and Japanese curry (originated in India) are typical examples of <em>makaizō</em>.<br/><br/>In addition, the California Roll, a kind of sushi popular in the US, can also be considered as <em>makaizō</em> for Japanese sushi.
+<strong><em>Makaizō</em></strong><br/><br/>Japanese people are fond of <strong><em>makaizo</em></strong> (魔改造).<br/><br/>The slang term <em>makaizō</em> refers to the extensive modification of plastic models and toys, especially in cases where the modification deviated significantly from the original purpose or meaning.<br/><br/>Since <strong><em>ma</em></strong> (魔) means "devil," and <strong><em>kaizō</em></strong> (改造) means "modification," <em>makaizō</em> literally means "devilish modification."<br/><br/>There are various kinds of <em>makaizo</em>, such as changing human figurines' legs into wheels to make them movable or installing an electromagnetic acceleration mechanism in a toy that can shoot marbles (known as B-Daman) to make it more powerful.<br/><br/>You can also use the term <em>makaizō</em> for various things, such as food and beverages. Japanese ramen (originated in China) and Japanese curry (originated in India) are typical examples of <em>makaizō</em>.<br/><br/>In addition, the California Roll, a kind of sushi popular in the US, can also be considered as <em>makaizō</em> for Japanese sushi.
 </div></div>
 
 <!-- more -->

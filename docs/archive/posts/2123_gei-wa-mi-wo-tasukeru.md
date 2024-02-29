@@ -8,10 +8,10 @@ comments: true
 slug: "2123_gei-wa-mi-wo-tasukeru"
 ---
 
-# 【No. 2123】<strong><em>Gei wa Mi wo Tasukeru</strong></em> (芸は身を助ける - Art Brings Bread)
+# 【No. 2123】<strong><em>Gei wa Mi wo Tasukeru</em></strong> (芸は身を助ける - Art Brings Bread)
 <div class="date">Aug 14, 2023 22:14</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gei wa Mi wo Tasukeru</strong></em><br/><br/>Do you have a special skill that you can take pride in?<br/><br/>Such a skill can help you when you least expect it sometimes.<br/><br/>The Japanese proverb, <strong><em>gei wa mi wo tasukeru</em></strong> (芸は身を助ける), reflects this fact.<br/><br/>Since <strong><em>gei</em></strong> (芸) means "(artistic) skill," <strong><em>mi</em></strong> (身) means "body," and <strong><em>tasukeru</em></strong> (助ける) means "to help," <em>gei wa mi wo tasukeru</em> literally means "Your skill helps you."<br/><br/>Instead of <em>tasukeru</em>, its literal form, <strong><em>tasuku</em></strong> (助く), can also be used, as in <strong><em>gei wa mi wo tasuku</em></strong> (芸は身を助く).<br/><br/>Hone your special skills for the future.
+<strong><em>Gei wa Mi wo Tasukeru</em></strong><br/><br/>Do you have a special skill that you can take pride in?<br/><br/>Such a skill can help you when you least expect it sometimes.<br/><br/>The Japanese proverb, <strong><em>gei wa mi wo tasukeru</em></strong> (芸は身を助ける), reflects this fact.<br/><br/>Since <strong><em>gei</em></strong> (芸) means "(artistic) skill," <strong><em>mi</em></strong> (身) means "body," and <strong><em>tasukeru</em></strong> (助ける) means "to help," <em>gei wa mi wo tasukeru</em> literally means "Your skill helps you."<br/><br/>Instead of <em>tasukeru</em>, its literal form, <strong><em>tasuku</em></strong> (助く), can also be used, as in <strong><em>gei wa mi wo tasuku</em></strong> (芸は身を助く).<br/><br/>Hone your special skills for the future.
 </div></div>
 
 <!-- more -->

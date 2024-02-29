@@ -8,7 +8,7 @@ comments: true
 slug: "1308_himoji"
 ---
 
-# 【No. 1308】<strong><em>Himojī</strong></em> (ひもじい - Hungry)
+# 【No. 1308】<strong><em>Himojī</em></strong> (ひもじい - Hungry)
 <div class="date">Jul 18, 2018 23:17</div>
 <div id="post"><div id="body_show_ori">
 If you are hungry and painful, you can express the feeling by using the Japanese <strong><em>himojī</em></strong> (ひもじい).<br/><br/>In the past in Japan, people thought that <strong><em>hizō</em></strong> (脾臓 - spleen) became sluggish when they were hungry.<br/><br/>Because of this, people call the feeling of hungry <strong><em>hidarui</em></strong> (ひだるい), which was made by combining two wrods: <strong><em>hizō</em></strong> (脾臓 - spleen) and <strong><em>darui</em></strong> (だるい - sluggish).<br/><br/>However, since to be hungry was shameful, people said <strong><em>himoji</em></strong> (ひ文字 - hi character) as a code word of 'hidarui.'<br/><br/>Later, <em>himoji</em> became the adjective 'himojī.'

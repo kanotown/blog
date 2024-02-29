@@ -8,7 +8,7 @@ comments: true
 slug: "0659_te-wo-someru"
 ---
 
-# 【No. 0659】<strong><em>Te wo Someru</strong></em> (To Dye One's Hand)
+# 【No. 0659】<strong><em>Te wo Someru</em></strong> (To Dye One's Hand)
 <div class="date">Oct 7, 2016 00:02</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced a Japanese idiom "ashi wo arau" (to wash one's feet), which means "to quit crime or evil jobs."<br/><br/>Today, I will talk about the Japanese idiom "te wo someru" (to dye one's hand), which means "to start things or jobs."<br/><br/>The most widely accepted theory about the etymology is that "染める(someru)", which means "to dye", was originally "初める(someru)", which means "to start".<br/><br/>Also, there is another theory: once you dye your hand with dye ink, it will remain for a long time, as well as once you start something, it's hard-to-quit.<br/><br/>Since "te wo someru" is often used with words related to crime, many people think of it as "to start bad things," but it actually means just "to start something."<br/><br/>By the way, I heard that when you want to express "te wo arau" in English, you can say "to get one's feet wet."

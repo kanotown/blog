@@ -8,10 +8,10 @@ comments: true
 slug: "1365_yarukoto-nasukoto"
 ---
 
-# 【No. 1365】<strong><em>Yarukoto Nasukoto</strong></em> (やることなすこと - Everything One Does)
+# 【No. 1365】<strong><em>Yarukoto Nasukoto</em></strong> (やることなすこと - Everything One Does)
 <div class="date">Sep 13, 2018 09:49</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yarukoto Nasukoto</strong></em><br/><br/>Yesterday, I used a Japanese expression, <strong><em>yarukoto nasukoto</em></strong> (やることなすこと).<br/><br/><strong><em>Yaru</em></strong> (やる) means "do," <strong><em>koto</em></strong> (こと) means "thing," and <strong><em>nasu</em></strong> (なす) means "do."<br/><br/>The literal meaning of this expression is "What someone does, what someone does."<br/><br/>The actual meaning of that is "All things that someone does/All of someone's attitude," and it is often used in a negative context.<br/><br/>For example, people say <strong><em>yarukoto nasukoto umaku ikanai</em></strong> (やることなすことうまくいかない - Everything goes wrong).<br/><br/>On the other hand, it is sometimes used in a positive context, such as <strong><em>yarukoto nasukoto kawaii</em></strong> (やることなすことかわいい - Everything she/he does is cute).
+<strong><em>Yarukoto Nasukoto</em></strong><br/><br/>Yesterday, I used a Japanese expression, <strong><em>yarukoto nasukoto</em></strong> (やることなすこと).<br/><br/><strong><em>Yaru</em></strong> (やる) means "do," <strong><em>koto</em></strong> (こと) means "thing," and <strong><em>nasu</em></strong> (なす) means "do."<br/><br/>The literal meaning of this expression is "What someone does, what someone does."<br/><br/>The actual meaning of that is "All things that someone does/All of someone's attitude," and it is often used in a negative context.<br/><br/>For example, people say <strong><em>yarukoto nasukoto umaku ikanai</em></strong> (やることなすことうまくいかない - Everything goes wrong).<br/><br/>On the other hand, it is sometimes used in a positive context, such as <strong><em>yarukoto nasukoto kawaii</em></strong> (やることなすことかわいい - Everything she/he does is cute).
 </div></div>
 
 <!-- more -->

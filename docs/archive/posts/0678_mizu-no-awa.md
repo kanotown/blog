@@ -8,7 +8,7 @@ comments: true
 slug: "0678_mizu-no-awa"
 ---
 
-# 【No. 0678】<strong><em>Mizu no Awa</strong></em> (To End in Vain)
+# 【No. 0678】<strong><em>Mizu no Awa</em></strong> (To End in Vain)
 <div class="date">Oct 26, 2016 21:50</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese idiom "mizu no awa."<br/><br/>"Mizu" means "water", "awa" means "bubble," and "mizu no awa" can express "bubbles that float on a surface of water" literally.<br/><br/>However, in most cases, it is used when you express that your efforts or works end in vain.<br/><br/>For example, when you say "my efforts become mizu no awa (bubbles on water)," it means that your efforts disappear like fleeting bubbles that float on water.<br/><br/>Also, there is another expression "suiho ni kisu," the literal meaning of which is "to return back to bubbles on water."<br/><br/>"Suiho ni kisu" has exactly the same meaning of "mizu no awa," but I think it sounds smarter (this is my personal opinion).

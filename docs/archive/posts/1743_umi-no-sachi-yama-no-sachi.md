@@ -8,10 +8,10 @@ comments: true
 slug: "1743_umi-no-sachi-yama-no-sachi"
 ---
 
-# 【No. 1743】<strong><em>Umi no Sachi, Yama no Sachi</strong></em> (海の幸と山の幸) Part 1
+# 【No. 1743】<strong><em>Umi no Sachi, Yama no Sachi</em></strong> (海の幸と山の幸) Part 1
 <div class="date">Sep 25, 2019 09:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Umi no Sachi, Yama no Sachi</strong></em> Part 1<br/><br/>Yesterday, I introduced some foods that are often eaten in fall/autumn in Japan.<br/><br/>In particular, something caught in the sea, such as saury, is called <strong><em>umi no sachi</em></strong> (海の幸), and something caught in mountains, such as chestnuts or mushrooms, is called <strong><em>yama no sachi</em></strong> (山の幸).<br/><br/>Since <strong><em>umi</em></strong> (海) means "sea," <strong><em>yama</em></strong> (山) means "mountain," and <strong><em>sachi</em></strong> (幸) means "products," the literal meaning of <em>umi no sachi</em> and <em>yama no sachi</em> are "sea products" and "mountain products," respectively.<br/><br/>To be continued.
+<strong><em>Umi no Sachi, Yama no Sachi</em></strong> Part 1<br/><br/>Yesterday, I introduced some foods that are often eaten in fall/autumn in Japan.<br/><br/>In particular, something caught in the sea, such as saury, is called <strong><em>umi no sachi</em></strong> (海の幸), and something caught in mountains, such as chestnuts or mushrooms, is called <strong><em>yama no sachi</em></strong> (山の幸).<br/><br/>Since <strong><em>umi</em></strong> (海) means "sea," <strong><em>yama</em></strong> (山) means "mountain," and <strong><em>sachi</em></strong> (幸) means "products," the literal meaning of <em>umi no sachi</em> and <em>yama no sachi</em> are "sea products" and "mountain products," respectively.<br/><br/>To be continued.
 </div></div>
 
 <!-- more -->

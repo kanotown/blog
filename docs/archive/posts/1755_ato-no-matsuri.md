@@ -8,10 +8,10 @@ comments: true
 slug: "1755_ato-no-matsuri"
 ---
 
-# 【No. 1755】<strong><em>Ato no Matsuri</strong></em> (後の祭り - Too Late) Part 1
+# 【No. 1755】<strong><em>Ato no Matsuri</em></strong> (後の祭り - Too Late) Part 1
 <div class="date">Oct 7, 2019 18:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ato no Matsuri</strong></em> Part 1<br/><br/>I often get into a situation called <strong><em>ato no matsuri</em></strong> (後の祭り).<br/><br/>Since <strong><em>ato</em></strong> (後) means "latter" and <strong><em>matsuri</em></strong> (祭り) means "festival," the literal meaning of <em>ato no matsuri</em> is "latter festival," but it actually means a situation where something is too late.<br/><br/>There are two major theories about its etymology.<br/><br/>One theory says that it comes from the Gion Festival in Kyoto.<br/><br/>The Gion Festival takes place throughout a month, and it consists of two parts: <strong><em>Saki-matsuri</em></strong> (前祭 - "Pre-Festival") and <strong><em>Ato-matsuri</em></strong> (後祭 - "Post-Festival").<br/><br/>Since the <em>Ato-matsuri</em> is relatively low-key, it came to mean "too late" or "let a chance go by."
+<strong><em>Ato no Matsuri</em></strong> Part 1<br/><br/>I often get into a situation called <strong><em>ato no matsuri</em></strong> (後の祭り).<br/><br/>Since <strong><em>ato</em></strong> (後) means "latter" and <strong><em>matsuri</em></strong> (祭り) means "festival," the literal meaning of <em>ato no matsuri</em> is "latter festival," but it actually means a situation where something is too late.<br/><br/>There are two major theories about its etymology.<br/><br/>One theory says that it comes from the Gion Festival in Kyoto.<br/><br/>The Gion Festival takes place throughout a month, and it consists of two parts: <strong><em>Saki-matsuri</em></strong> (前祭 - "Pre-Festival") and <strong><em>Ato-matsuri</em></strong> (後祭 - "Post-Festival").<br/><br/>Since the <em>Ato-matsuri</em> is relatively low-key, it came to mean "too late" or "let a chance go by."
 </div></div>
 
 <!-- more -->

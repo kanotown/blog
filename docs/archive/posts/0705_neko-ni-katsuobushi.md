@@ -8,7 +8,7 @@ comments: true
 slug: "0705_neko-ni-katsuobushi"
 ---
 
-# 【No. 0705】<strong><em>Neko ni Katsuobushi</strong></em> (Dried Bonito to Cats)<strong><em>Neko ni Katsuobushi</strong></em> (Silver Vine to Cats)
+# 【No. 0705】<strong><em>Neko ni Katsuobushi</em></strong> (Dried Bonito to Cats)<strong><em>Neko ni Katsuobushi</em></strong> (Silver Vine to Cats)
 <div class="date">Nov 23, 2016 09:10</div>
 <div id="post"><div id="body_show_ori">
 Recently, I've talked about Japanese phrases related to cats.<br/><br/>Today I would like to talk about the two Japanese proverbs "neko ni katsuobushi" and "neko ni matatabi."<br/><br/>Cats like both "katsuobushi" and "matatabi", but the meanings of these proverbs are different from each other.<br/><br/>The literal meaning of "neko ni katsuobushi" is "dried bonito to cats," and it expresses to fall into a dangerous situation. <br/><br/>This comes from the fact that if you put dried bonito in front of a cat, the cat will eat it very quickly.<br/><br/>On the other hand, the literal meaning of "neko ni matatabi" is "silver vine to cats," and it expresses that something is very effective.<br/><br/>This comes from the fact that if you give a cat silver vine, the cat become happy  drunkenly.

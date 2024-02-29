@@ -8,7 +8,7 @@ comments: true
 slug: "1202_utage"
 ---
 
-# 【No. 1202】<strong><em>Utage</strong></em> (宴 - Banquet/Party)
+# 【No. 1202】<strong><em>Utage</em></strong> (宴 - Banquet/Party)
 <div class="date">Apr 3, 2018 12:15</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, "utage" (宴) was held at my work venue.<br/><br/>"Utage" means a banquet, drinking party, or spree.<br/><br/>This word comes from "uchiage" (打ち上げ), which means to make a sound by clapping or hitting instruments.<br/><br/>Since bustling drinking parties make sounds, "utage" has come to mean such parties.<br/><br/>These days, we often use "uchiage" to mean a drinking party that is held after finishing an event.<br/><br/>Also, "utage," which is also called "enkai" (宴会), is usually refers to a party of a certain/large scale hosted by a company or an organization.<br/><br/>On the other hand, a small party hosted by young people is often referred to as just "nomikai" (飲み会 literally "drinking party").

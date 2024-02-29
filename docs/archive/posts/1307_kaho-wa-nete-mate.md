@@ -8,10 +8,10 @@ comments: true
 slug: "1307_kaho-wa-nete-mate"
 ---
 
-# 【No. 1307】<strong><em>Kahō wa Nete Mate</strong></em> (果報は寝て待て - Everything Comes to Those who Wait)
+# 【No. 1307】<strong><em>Kahō wa Nete Mate</em></strong> (果報は寝て待て - Everything Comes to Those who Wait)
 <div class="date">Jul 17, 2018 20:33</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kahō wa Nete Mate</strong></em><br/><br/>A Japanese TV show conducted an interesting survey related to Japanese proverbs.<br/><br/>The targets are Japanese people over 80 years old, and the question is "What is the proverb that you don't believe?"<br/><br/>The first place proverb was "kahō wa nete mate" (果報は寝て待て).<br/><br/><strong><em>Kahō</em></strong> (果報) means <em>happiness</em> or <em>compensation,</em> <strong><em>nete</em></strong> (寝て) means <em>to sleep,</em> and <strong><em>mate</em></strong> (待て) means 'to wait.'<br/><br/>That is to say, this proverb means that happiness will come if you wait comfortably (after doing what you should do).<br/><br/>Note that it doesn't mean that happiness will come if you are lazy.<br/><br/>The reason why this proverb wasn't believed might be that many Japanese people thought that it would mean the latter.
+<strong><em>Kahō wa Nete Mate</em></strong><br/><br/>A Japanese TV show conducted an interesting survey related to Japanese proverbs.<br/><br/>The targets are Japanese people over 80 years old, and the question is "What is the proverb that you don't believe?"<br/><br/>The first place proverb was "kahō wa nete mate" (果報は寝て待て).<br/><br/><strong><em>Kahō</em></strong> (果報) means <em>happiness</em> or <em>compensation,</em> <strong><em>nete</em></strong> (寝て) means <em>to sleep,</em> and <strong><em>mate</em></strong> (待て) means 'to wait.'<br/><br/>That is to say, this proverb means that happiness will come if you wait comfortably (after doing what you should do).<br/><br/>Note that it doesn't mean that happiness will come if you are lazy.<br/><br/>The reason why this proverb wasn't believed might be that many Japanese people thought that it would mean the latter.
 </div></div>
 
 <!-- more -->

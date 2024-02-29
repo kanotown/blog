@@ -8,7 +8,7 @@ comments: true
 slug: "1057_ookina-osewa"
 ---
 
-# 【No. 1057】<strong><em>Ookina Osewa</strong></em> (大きなお世話 - None of Your Business)
+# 【No. 1057】<strong><em>Ookina Osewa</em></strong> (大きなお世話 - None of Your Business)
 <div class="date">Nov 9, 2017 13:21</div>
 <div id="post"><div id="body_show_ori">
 There is a Japanese term, "ookina osewa" (大きなお世話).<br/><br/>Here the "ookina" (大きな) means "big," and the "osewa" (お世話) means "care" or "favor."<br/><br/>You might think that the combination "ookina osewa" has some kind of good meanings.<br/><br/>However, it means "unnecessary care" or "unwelcome favor," and is used when you want to refuse someone's favor/act.<br/><br/>In addition, since this term is usually used containing an ironic meaning, please be careful when you use it.<br/><br/>If you want to say it in English, you can say "None of your business" or "Leave me alone."

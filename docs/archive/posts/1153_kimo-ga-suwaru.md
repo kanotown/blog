@@ -8,7 +8,7 @@ comments: true
 slug: "1153_kimo-ga-suwaru"
 ---
 
-# 【No. 1153】<strong><em>Kimo ga Suwaru</strong></em> (肝が据わる)
+# 【No. 1153】<strong><em>Kimo ga Suwaru</em></strong> (肝が据わる)
 <div class="date">Feb 13, 2018 18:53</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to the expression; 心臓に毛が生えている (shinzo ni ke ga haeteiru - hairs are sprouted on one's heart), which means to be stout.<br/><br/>I also talked about the fact that we think of livers as a symbol of courage/mind, and the above expression was 肝に毛が生える (kimo ni ke ga haeru - hairs are sprouted on one's liver).<br/><br/>Actually, even now there are several expressions that regards 肝 (kimo - liver) as 心 (mind/heart) -- one of them is 肝が据わる (kimo ga suwaru).<br/><br/>Here, the verb 据わる (suwar) means that something is stable and doesn't move.<br/><br/>That is to say, "kimo ga suwaru" means a person who have stable mind and is stout.<br/><br/>This expression is used in the similar meaning as "shinzo ni ke ga haeteiru."

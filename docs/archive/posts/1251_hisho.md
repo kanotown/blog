@@ -8,7 +8,7 @@ comments: true
 slug: "1251_hisho"
 ---
 
-# 【No. 1251】<strong><em>Hisho</strong></em> (秘書 - Secretary)
+# 【No. 1251】<strong><em>Hisho</em></strong> (秘書 - Secretary)
 <div class="date">May 22, 2018 17:48</div>
 <div id="post"><div id="body_show_ori">
 People who assist works of a key person such as a president or a minister, or their job is called hisho (秘書).<br/><br/>Since hi (秘) means "secret" and sho (書) means "paper" or "book," the literal meaning of hisho is "a secret paper/book."<br/><br/>This term was used in China, and it was imported into Japan in the Heian period; originally, it literally meant "a secret paper/book" in both countries.<br/><br/>It seems that after a kind of occupation "secretary" was imported from the Western, hisho came to be used for a person or a job.

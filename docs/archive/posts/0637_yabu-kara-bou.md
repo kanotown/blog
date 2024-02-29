@@ -8,7 +8,7 @@ comments: true
 slug: "0637_yabu-kara-bou"
 ---
 
-# 【No. 0637】<strong><em>Yabu Kara Bou</strong></em> (A Stick From Shrubs)
+# 【No. 0637】<strong><em>Yabu Kara Bou</em></strong> (A Stick From Shrubs)
 <div class="date">Sep 15, 2016 00:42</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese "yabu kara bou," whose literal meaning is "a stick from shrubs."<br/><br/>This is the abbreviation for "yabu kara bou o tsukidasu" (to poke a stick out from shrubs), and means that something happens or doing something suddenly without any warning.<br/><br/>The etymology is very simple: it's because if a stick is poke out from shrubs, you will be surprised.<br/><br/>Some people say "yabu kara hebi," whose literal meaning is "a snake from shrubs," but this usage is wrong.<br/><br/>It is thought that this abuse comes from the word "yabu hebi."<br/><br/>"Yabu hebi" is the abbreviation for "yabu o tsutsuite hebi o dasu," which means that "to lead bad consewuences by doing unnecessary things."

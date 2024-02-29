@@ -8,10 +8,10 @@ comments: true
 slug: "1537_kubittake"
 ---
 
-# 【No. 1537】<strong><em>Kubittake</strong></em> (首ったけ - Being Head-Over-Heels in Love)
+# 【No. 1537】<strong><em>Kubittake</em></strong> (首ったけ - Being Head-Over-Heels in Love)
 <div class="date">Mar 4, 2019 16:50</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kubittake</strong></em><br/><br/>Today, I found the term <strong><em>kubittake</em></strong> (首ったけ) when I was listening to Japanese music.<br/><br/><em>Kubittake</em> means that someone is hooked about something, especially someone is madly in love with another person.<br/><br/>This term comes from <strong><em>kubitake</em></strong> (首丈) -- <strong><em>kubi</em></strong> (首) means "neck" and <strong><em>take</em></strong> (丈) means "length."<br/><br/>Originally, <em>kubitake</em> literally meant the length from someone's foot to the neck.<br/><br/>Since we said that you plunged into something from your foot to neck for describing that you are hooked about it, <em>kubittake</em> came to have its current meaning.
+<strong><em>Kubittake</em></strong><br/><br/>Today, I found the term <strong><em>kubittake</em></strong> (首ったけ) when I was listening to Japanese music.<br/><br/><em>Kubittake</em> means that someone is hooked about something, especially someone is madly in love with another person.<br/><br/>This term comes from <strong><em>kubitake</em></strong> (首丈) -- <strong><em>kubi</em></strong> (首) means "neck" and <strong><em>take</em></strong> (丈) means "length."<br/><br/>Originally, <em>kubitake</em> literally meant the length from someone's foot to the neck.<br/><br/>Since we said that you plunged into something from your foot to neck for describing that you are hooked about it, <em>kubittake</em> came to have its current meaning.
 </div></div>
 
 <!-- more -->

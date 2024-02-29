@@ -8,10 +8,10 @@ comments: true
 slug: "1512_boketsu-wo-horu"
 ---
 
-# 【No. 1512】<strong><em>Boketsu wo Horu</strong></em> (墓穴を掘る - Digging One's Own Grave)
+# 【No. 1512】<strong><em>Boketsu wo Horu</em></strong> (墓穴を掘る - Digging One's Own Grave)
 <div class="date">Feb 7, 2019 22:18</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Boketsu wo Horu</strong></em><br/><br/>I sometimes do an act that is referred to as <strong><em>boketsu wo horu</em></strong> (墓穴を掘る) in Japanese.<br/><br/><em>Boketsu wo horu</em> is an idiom that means to make a factor that ruins yourself with your own hands.<br/><br/><strong><em>Bo</em></strong> (墓) means "grave" or "burial," <strong><em>ketsu</em></strong> (穴) means "hole" or "pit," and <strong><em>horu</em></strong> (掘る) means "to dig," so the literal meaning of this idiom is "to dig a burial pit/grave."<br/><br/>It is omitted in the Japanese writing, but this idiom implies that the burial pit/grave is one's own.<br/><br/>In English, it can be translated as "to dig one's own grave" or "to dig oneself into a hole."
+<strong><em>Boketsu wo Horu</em></strong><br/><br/>I sometimes do an act that is referred to as <strong><em>boketsu wo horu</em></strong> (墓穴を掘る) in Japanese.<br/><br/><em>Boketsu wo horu</em> is an idiom that means to make a factor that ruins yourself with your own hands.<br/><br/><strong><em>Bo</em></strong> (墓) means "grave" or "burial," <strong><em>ketsu</em></strong> (穴) means "hole" or "pit," and <strong><em>horu</em></strong> (掘る) means "to dig," so the literal meaning of this idiom is "to dig a burial pit/grave."<br/><br/>It is omitted in the Japanese writing, but this idiom implies that the burial pit/grave is one's own.<br/><br/>In English, it can be translated as "to dig one's own grave" or "to dig oneself into a hole."
 </div></div>
 
 <!-- more -->

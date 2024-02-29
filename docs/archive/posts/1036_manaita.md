@@ -8,7 +8,7 @@ comments: true
 slug: "1036_manaita"
 ---
 
-# 【No. 1036】<strong><em>Manaita</strong></em> (まな板 - Cutting Board)
+# 【No. 1036】<strong><em>Manaita</em></strong> (まな板 - Cutting Board)
 <div class="date">Oct 19, 2017 18:19</div>
 <div id="post"><div id="body_show_ori">
 The Japanese word "manaita" (まな板) means a board that is used when cutting ingredients, that is a cutting board.<br/><br/>Here the "mana" (まな) of "manaita" means "fish," and "ita" (板) means "board."<br/><br/>Therefore, it's thought that in the past manaita meant a board just for cooking fish.<br/><br/>Until recently manaita represented a cutting board made of wood, but now it's usually made by plastic or rubber due to the antibacterial property.<br/><br/>Incidentally, please be careful not to say "manaita" to a small breasted woman.<br/><br/>Since manaita is usually flat, it sometimes used as a slang term that implies a woman who has small and flat breasts.

@@ -8,10 +8,10 @@ comments: true
 slug: "1590_yaki-ga-mawaru"
 ---
 
-# 【No. 1590】<strong><em>Yaki ga Mawaru</strong></em> (焼きが回る - Becoming Dull)
+# 【No. 1590】<strong><em>Yaki ga Mawaru</em></strong> (焼きが回る - Becoming Dull)
 <div class="date">Apr 26, 2019 23:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yaki ga Mawaru</strong></em><br/><br/>To become dull or to decline ability is expressed as <strong><em>yaki ga mawaru</em></strong> (焼きが回る) in Japanese.<br/><br/> <strong><em>Yaki</em></strong> (焼き) means "burnt" and <strong><em>mawaru</em></strong> (回る) means "to go around" or "to spread," so the literal meaning of <em>yaki ga mawaru</em> is "the burnt area spreads."<br/><br/>When making a blade or edged tool, it is burned then cooled to improve the edge.<br/><br/>However, if you overheat it, the blade will be fragile, and the edge will become dull.<br/><br/>That is to say, the expression <em>yaki ga mawaru</em> compares the sharpness of a blade with human ability.
+<strong><em>Yaki ga Mawaru</em></strong><br/><br/>To become dull or to decline ability is expressed as <strong><em>yaki ga mawaru</em></strong> (焼きが回る) in Japanese.<br/><br/> <strong><em>Yaki</em></strong> (焼き) means "burnt" and <strong><em>mawaru</em></strong> (回る) means "to go around" or "to spread," so the literal meaning of <em>yaki ga mawaru</em> is "the burnt area spreads."<br/><br/>When making a blade or edged tool, it is burned then cooled to improve the edge.<br/><br/>However, if you overheat it, the blade will be fragile, and the edge will become dull.<br/><br/>That is to say, the expression <em>yaki ga mawaru</em> compares the sharpness of a blade with human ability.
 </div></div>
 
 <!-- more -->

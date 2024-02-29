@@ -8,10 +8,10 @@ comments: true
 slug: "1645_chinchin-acchinchin-chinchikochin"
 ---
 
-# 【No. 1645】<strong><em>Chinchin/Acchinchin/Chinchikochin</strong></em> (ちんちん/あっちんちん/ちんちこちん - Very Hot)
+# 【No. 1645】<strong><em>Chinchin/Acchinchin/Chinchikochin</em></strong> (ちんちん/あっちんちん/ちんちこちん - Very Hot)
 <div class="date">Jun 20, 2019 11:20</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chinchin/Acchinchin/Chinchikochin</strong></em><br/><br/>I was born and brought up in Nagoya city, Aichi.<br/><br/>In Nagoya (and its surrounding areas), there are dialect words, <strong><em>chinchin</em></strong> (ちんちん), <strong><em>acchinchin</em></strong> (あっちんちん), and <strong><em>chinchikochin</em></strong> (ちんちこちん), all of which means that water or something is very hot.<br/><br/>These terms come from the sound of a boiling kettle (or a jiggling lid of the boiling kettle).<br/><br/>In other words, these are something like onomatopoeia.<br/><br/>However, <strong><em>chinchin</em></strong> (ちんちん) is also an infant word that means "penis," so please be careful when using them outside of specific areas.
+<strong><em>Chinchin/Acchinchin/Chinchikochin</em></strong><br/><br/>I was born and brought up in Nagoya city, Aichi.<br/><br/>In Nagoya (and its surrounding areas), there are dialect words, <strong><em>chinchin</em></strong> (ちんちん), <strong><em>acchinchin</em></strong> (あっちんちん), and <strong><em>chinchikochin</em></strong> (ちんちこちん), all of which means that water or something is very hot.<br/><br/>These terms come from the sound of a boiling kettle (or a jiggling lid of the boiling kettle).<br/><br/>In other words, these are something like onomatopoeia.<br/><br/>However, <strong><em>chinchin</em></strong> (ちんちん) is also an infant word that means "penis," so please be careful when using them outside of specific areas.
 </div></div>
 
 <!-- more -->

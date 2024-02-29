@@ -8,7 +8,7 @@ comments: true
 slug: "1090_ichiru-no-nozomi"
 ---
 
-# 【No. 1090】<strong><em>Ichiru no Nozomi</strong></em> (一縷の望み - A Ray of Hope)
+# 【No. 1090】<strong><em>Ichiru no Nozomi</em></strong> (一縷の望み - A Ray of Hope)
 <div class="date">Dec 12, 2017 15:45</div>
 <div id="post"><div id="body_show_ori">
 Have you ever experienced a situation that it was desperate, but there certainly was a hope.<br/><br/>Such a little hope is sometime called "ichiru no nozomi" (一縷の望み) in Japanese.<br/><br/>The "ichi" (一) means "one" and the "ru" (縷) means "slender thread" or "slight," so the "ichiru" (一縷) means "something slight like a slender thread."<br/><br/>Also, since the "nozomi" (望み) means "hope," "ichiru no nozomi" means something like "a spark of hope" or "a ray of hope."<br/><br/>The "nozomi," which means "hope," is commonly used in daily conversation, but the is only used in the expression "ichiru no nozomi" in most cases.

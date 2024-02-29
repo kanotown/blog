@@ -8,10 +8,10 @@ comments: true
 slug: "1690_wasshoi"
 ---
 
-# 【No. 1690】<strong><em>Wasshoi</strong></em> (わっしょい)
+# 【No. 1690】<strong><em>Wasshoi</em></strong> (わっしょい)
 <div class="date">Aug 4, 2019 12:12</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Wasshoi</strong></em><br/><br/>Summer has come, and festivals began to be held in various places.<br/><br/>In summer festivals in Japan, portable shrines called <strong><em>mikosi</em></strong> (神輿) are often carried by dozens of people as a part of the events.<br/><br/>Since <em>mikoshi</em> is heavy, people have to call out to adjust the timing of putting muscle.<br/><br/>The most common phrase when carrying <em>mikoshi</em> is <strong><em>wasshoi</em></strong> (わっしょい).<br/><br/>There are several theories about the etymology of <em>wasshoi</em>.<br/><br/>One of the most acceptable theories says that <strong><em>wa</em></strong> (わ) and <strong><em>shoi</em></strong> (しょい) comes from <strong><em>heiwa</em></strong> (平和 - "peace") and <strong><em>seou</em></strong> (背負う - "to carry something piggyback").
+<strong><em>Wasshoi</em></strong><br/><br/>Summer has come, and festivals began to be held in various places.<br/><br/>In summer festivals in Japan, portable shrines called <strong><em>mikosi</em></strong> (神輿) are often carried by dozens of people as a part of the events.<br/><br/>Since <em>mikoshi</em> is heavy, people have to call out to adjust the timing of putting muscle.<br/><br/>The most common phrase when carrying <em>mikoshi</em> is <strong><em>wasshoi</em></strong> (わっしょい).<br/><br/>There are several theories about the etymology of <em>wasshoi</em>.<br/><br/>One of the most acceptable theories says that <strong><em>wa</em></strong> (わ) and <strong><em>shoi</em></strong> (しょい) comes from <strong><em>heiwa</em></strong> (平和 - "peace") and <strong><em>seou</em></strong> (背負う - "to carry something piggyback").
 </div></div>
 
 <!-- more -->

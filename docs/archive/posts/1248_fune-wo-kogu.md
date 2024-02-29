@@ -8,7 +8,7 @@ comments: true
 slug: "1248_fune-wo-kogu"
 ---
 
-# 【No. 1248】<strong><em>Fune wo Kogu</strong></em> (船を漕ぐ - Rowing a Boat)
+# 【No. 1248】<strong><em>Fune wo Kogu</em></strong> (船を漕ぐ - Rowing a Boat)
 <div class="date">May 20, 2018 00:03</div>
 <div id="post"><div id="body_show_ori">
 I often do an act called fune wo kogu (船を漕ぐ) on my  chair.<br/><br/>Fune (船) means "a boat" or "a ship" and kogu (漕ぐ) means "to row."<br/><br/>Of course, the expression fune wo kogu can literally mean to row a boat.<br/><br/>However, if someone says it in a conversation unrelated to "boat/shio" nor "sea/ocean," it would mean to nod off or to be about to fall asleep.<br/><br/>Because a person who is about to fall asleep moves the body forwards and backwards and it looks as if he/her is rowing a boat.

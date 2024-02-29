@@ -8,7 +8,7 @@ comments: true
 slug: "1700_ichiban-saisho-ichban-saigo"
 ---
 
-# 【No. 1700】<strong><em>Ichiban Saisho/Ichban Saigo</strong></em> (一番最初/一番最後 - First/Last)
+# 【No. 1700】<strong><em>Ichiban Saisho/Ichban Saigo</em></strong> (一番最初/一番最後 - First/Last)
 <div class="date">Aug 17, 2019 21:45</div>
 <div id="post"><div id="body_show_ori">
 Ichiban Saisho/Ichiban Saigo<br/><br/>I often hear and say the phrases, <strong><em>ichiban saisho</em></strong> (一番最初) and <strong><em>ichiban saigo</em></strong> (一番最後) in daily conversation.<br/><br/><strong><em>Ichiban</em></strong> (一番) means "most," <strong><em>saisho</em></strong> (最初) means "first," and <strong><em>saigo</em></strong> (最後) means "latest," so the literal meanings of <em>ichiban saisho</em> and <em>ichiban saigo</em> are "the most first" and "the most last," respectively.<br/><br/>These are redundant expressions, and some people think they are not correct Japanese.<br/><br/>However, they may not be wrong if you think that <em>saisho</em> and <em>saigo</em> means a range (i.e., "first part" and "last part"), and <em>ichiban</em> refers to an edge point of the range.<br/><br/>You should not use <em>ichiban saisho</em> and <em>ichiban saigo</em> in formal documents, but I think that they have come to be widely accepted in daily conversation.

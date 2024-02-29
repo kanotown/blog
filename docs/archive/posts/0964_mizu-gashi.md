@@ -8,7 +8,7 @@ comments: true
 slug: "0964_mizu-gashi"
 ---
 
-# 【No. 0964】<strong><em>Mizu Gashi</strong></em> (水菓子)
+# 【No. 0964】<strong><em>Mizu Gashi</em></strong> (水菓子)
 <div class="date">Aug 8, 2017 00:42</div>
 <div id="post"><div id="body_show_ori">
 "Mizu" (水) means "water," and "kashi/gashi" (菓子) means "sweets" or "snacks."<br/><br/>What do you think is the meaning of "mizugashi" (水菓子), which is made by the two words, "mizu" and "kashi."<br/><br/>Actually, "mizugashi" means "fruits."<br/><br/>In the past, all light foods such as fruits were called "kashi."<br/><br/>Among them, especially succulent fruits such as watermelons or pears has come to be called "mizugashi."<br/><br/>Nowadays, since the word "kudamono" (果物) is mainly used to refer to fruits, the number of Japanese people who think of "mizugashi" as "sweets that contains a lot of water" (such as jelly dessert) is increasing.<br/>(Sweets that contains a lot of water are formally called "namagashi" (生菓子), the literal meaning of which is "fresh/unbaked sweets.")<br/><br/>In fact, even if you search for "mizugashi" on Google Images, it's hard to find fruits.

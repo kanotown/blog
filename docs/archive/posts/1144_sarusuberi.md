@@ -8,7 +8,7 @@ comments: true
 slug: "1144_sarusuberi"
 ---
 
-# 【No. 1144】<strong><em>Sarusuberi</strong></em> (サルスベリ - Lagerstroemia Indica)
+# 【No. 1144】<strong><em>Sarusuberi</em></strong> (サルスベリ - Lagerstroemia Indica)
 <div class="date">Feb 4, 2018 13:25</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to a term related to 猿 (saru - monkey).<br/><br/>Today I'd like to talk about a kind of tree: サルスベリ (sarusuberi),  the name of which contains サル (saru - monkey).<br/><br/>"Sarusuberi" is a member of the family Lythraceae, and is called "Lagerstroemia indica" or "crape myrtle" in English.<br/><br/>Here, スベリ (suberi) of "sarusuberi" means "to slip."<br/><br/>Since the bark of "sarusuberi" is very smooth and even a monkey slips and falls from the tree, it has become such a name.<br/><br/>Incidentally, this tree has another name: クスグリノキ (kusuguri no ki - tickling tree).<br/><br/>This is because it swings as if it's tickled when stroking the trunk of the tree.

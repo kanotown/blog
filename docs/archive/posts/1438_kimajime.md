@@ -8,10 +8,10 @@ comments: true
 slug: "1438_kimajime"
 ---
 
-# 【No. 1438】<strong><em>Kimajime</strong></em> (生真面目 - Too Serious/Earnest)
+# 【No. 1438】<strong><em>Kimajime</em></strong> (生真面目 - Too Serious/Earnest)
 <div class="date">Nov 25, 2018 18:14</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kimajime</strong></em><br/><br/>Yesterday, I introduced you to the term <strong><em>majime</em></strong> (まじめ), which means "serious" or "earnest."<br/><br/><em>Majime</em> is often used as a good sense, but some people think that to be too serious/earnest is not a good personality because such a person lacks flexibility.<br/><br/>If you want to describe a person who is too <strong><em>majime</em></strong> (serious/earnest), you can use the term <strong><em>kimajime</em></strong> (生真面目), which is made by adding <strong><em>ki</em></strong> (生 - "pure/fresh") to <em>majime</em>.<br/><br/>Of course, <em>kimajime</em> can be used as a good sense (such as "very earnest"), but it includes negative nuances in most cases.
+<strong><em>Kimajime</em></strong><br/><br/>Yesterday, I introduced you to the term <strong><em>majime</em></strong> (まじめ), which means "serious" or "earnest."<br/><br/><em>Majime</em> is often used as a good sense, but some people think that to be too serious/earnest is not a good personality because such a person lacks flexibility.<br/><br/>If you want to describe a person who is too <strong><em>majime</em></strong> (serious/earnest), you can use the term <strong><em>kimajime</em></strong> (生真面目), which is made by adding <strong><em>ki</em></strong> (生 - "pure/fresh") to <em>majime</em>.<br/><br/>Of course, <em>kimajime</em> can be used as a good sense (such as "very earnest"), but it includes negative nuances in most cases.
 </div></div>
 
 <!-- more -->

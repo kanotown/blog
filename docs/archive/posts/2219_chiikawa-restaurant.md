@@ -9,10 +9,10 @@ comments: true
 slug: "2219_chiikawa-restaurant"
 ---
 
-# 【No. 2219】<strong><em>Chiikawa Restaurant</strong></em> (ちいかわレストラン)
+# 【No. 2219】<strong><em>Chiikawa Restaurant</em></strong> (ちいかわレストラン)
 <div class="date">Nov 18, 2023 09:46</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chiikawa Restaurant</strong></em><br/><br/>Yesterday, I introduced <strong><em>Chiikawa</em></strong> (ちいかわ), a very popular manga in Japan.<br/><br/>The day before yesterday, <strong><em>Chiikawa Resutoran</em></strong> (ちいかわレストラン - "Chiikawa Restaurant") opened in Ikebukuro and became a hot topic.<br/><br/>At this restaurant, you can enjoy various decorations and meals related to <em>Chiikawa</em>.<br/><br/>On the same day, new <em>Chiikawa</em> goods related to the restaurant went on sale. However, many of them quickly sold out.<br/><br/>(I managed to buy a T-shirt with Hachiware designed on it and a luncheon mat.)<br/><br/><em>Chiikawa</em> goods continue to be <strong><em>ejiki</em></strong> (餌食 - meaning "prey") for <strong><em>tenbaiya</em></strong> (転売屋 - meaning "resellers") today.
+<strong><em>Chiikawa Restaurant</em></strong><br/><br/>Yesterday, I introduced <strong><em>Chiikawa</em></strong> (ちいかわ), a very popular manga in Japan.<br/><br/>The day before yesterday, <strong><em>Chiikawa Resutoran</em></strong> (ちいかわレストラン - "Chiikawa Restaurant") opened in Ikebukuro and became a hot topic.<br/><br/>At this restaurant, you can enjoy various decorations and meals related to <em>Chiikawa</em>.<br/><br/>On the same day, new <em>Chiikawa</em> goods related to the restaurant went on sale. However, many of them quickly sold out.<br/><br/>(I managed to buy a T-shirt with Hachiware designed on it and a luncheon mat.)<br/><br/><em>Chiikawa</em> goods continue to be <strong><em>ejiki</em></strong> (餌食 - meaning "prey") for <strong><em>tenbaiya</em></strong> (転売屋 - meaning "resellers") today.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2251_tateita-ni-mizu"
 ---
 
-# 【No. 2251】<strong><em>Tateita ni Mizu</strong></em> (立て板に水 - Speaking Fluently)
+# 【No. 2251】<strong><em>Tateita ni Mizu</em></strong> (立て板に水 - Speaking Fluently)
 <div class="date">Dec 20, 2023 16:54</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tateita ni Mizu</strong></em><br/><br/>When someone speaks fluently and smoothly without hesitation, you can describe the situation as <strong><em>tateita ni mizu</em></strong> (立て板に水) in Japanese.<br/><br/>Since 'tate'(立て) means "standing," <strong><em>ita</em></strong> (板) means "board," and <strong><em>mizu</em></strong> (水) means "water," the literal meaning of <em>tateita ni mizu</em> is "water on a standing board."<br/><br/>When you pour water on a standing board, it flows down to the ground smoothly.<br/><br/>In other words, the phrase <em>tateita ni mizu</em> compares the flow of water on a standing board to words that come out smoothly and fluently.
+<strong><em>Tateita ni Mizu</em></strong><br/><br/>When someone speaks fluently and smoothly without hesitation, you can describe the situation as <strong><em>tateita ni mizu</em></strong> (立て板に水) in Japanese.<br/><br/>Since 'tate'(立て) means "standing," <strong><em>ita</em></strong> (板) means "board," and <strong><em>mizu</em></strong> (水) means "water," the literal meaning of <em>tateita ni mizu</em> is "water on a standing board."<br/><br/>When you pour water on a standing board, it flows down to the ground smoothly.<br/><br/>In other words, the phrase <em>tateita ni mizu</em> compares the flow of water on a standing board to words that come out smoothly and fluently.
 </div></div>
 
 <!-- more -->

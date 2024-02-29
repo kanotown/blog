@@ -8,7 +8,7 @@ comments: true
 slug: "0765_ashimoto-o-miru"
 ---
 
-# 【No. 0765】<strong><em>Ashimoto o Miru</strong></em> (To Take Unfair Advantage of Someone)
+# 【No. 0765】<strong><em>Ashimoto o Miru</em></strong> (To Take Unfair Advantage of Someone)
 <div class="date">Jan 21, 2017 14:34</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese idom "ashimoto o miru."<br/><br/>The literal meaning is "to look at feet," and it means to take unfair advantage of someone.<br/><br/>Former in Japan, on highway streets or lodgings, palanquin bearers and packhorse drivers observed traveler's feet.<br/><br/>They determined the traveler's tiredness and offered a ridiculous fee only for tired people.<br/><br/>Even if the fee was too expensive, the tired customer would pay it with half a heart.<br/><br/>From this reason, "ashimoto o miru" has become to mean "to take unfair advantage of someone."<br/><br/>It seems that idiom can be translated as "to find the length of someone's foot."

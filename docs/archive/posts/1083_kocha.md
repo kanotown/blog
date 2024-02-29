@@ -8,7 +8,7 @@ comments: true
 slug: "1083_kocha"
 ---
 
-# 【No. 1083】<strong><em>Kōcha</strong></em> (紅茶 - Black Tea)
+# 【No. 1083】<strong><em>Kōcha</em></strong> (紅茶 - Black Tea)
 <div class="date">Dec 5, 2017 09:53</div>
 <div id="post"><div id="body_show_ori">
 I'm drinking "kōcha" (紅茶) right now.<br/><br/>The "kō" (紅) means "red" and the "cha" (茶) means "tea," so the literal meaning of "kōcha" is "red tea."<br/><br/>The etymology is very simple -- the "red" in "red tea" describes the color of the liquid. <br/><br/>In English, it is called just "tea" in most cases, but it's also called "black tea" due to the color of the oxidized leaves.<br/>(I also heard that "black tea" implies tea without milk, sugar or lemon.)<br/><br/>Incidentally, in the UK famous for tea, around 98% of tea is drank with milk. 

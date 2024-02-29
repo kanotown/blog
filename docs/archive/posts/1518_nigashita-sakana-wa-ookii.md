@@ -9,10 +9,10 @@ comments: true
 slug: "1518_nigashita-sakana-wa-ookii"
 ---
 
-# 【No. 1518】<strong><em>Nigashita Sakana wa Ookii</strong></em> (逃した魚は大きい)
+# 【No. 1518】<strong><em>Nigashita Sakana wa Ookii</em></strong> (逃した魚は大きい)
 <div class="date">Feb 14, 2019 04:41</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nigashita Sakana wa Ookii</strong></em><br/><br/>Today, I knew that I missed a very big chance.<br/><br/>However, something that you were about to get but missed may looks greater than it is.<br/><br/>There is a proverb to express the fact; it is <strong><em>nigashita sakana wa ookii</em></strong> (逃がした魚は大きい).<br/><br/><strong><em>Nigashita</em></strong> (逃がした) means "missed," <strong><em>sakana</em></strong> (魚) means "fish," and <strong><em>ookii</em></strong> (大きい) means "big," so the literal meaning of this proverb is "the missed fish was big."<br/><br/>Anyway, in order not to regret, I will try to seize a chance as soon as it comes in front of me.
+<strong><em>Nigashita Sakana wa Ookii</em></strong><br/><br/>Today, I knew that I missed a very big chance.<br/><br/>However, something that you were about to get but missed may looks greater than it is.<br/><br/>There is a proverb to express the fact; it is <strong><em>nigashita sakana wa ookii</em></strong> (逃がした魚は大きい).<br/><br/><strong><em>Nigashita</em></strong> (逃がした) means "missed," <strong><em>sakana</em></strong> (魚) means "fish," and <strong><em>ookii</em></strong> (大きい) means "big," so the literal meaning of this proverb is "the missed fish was big."<br/><br/>Anyway, in order not to regret, I will try to seize a chance as soon as it comes in front of me.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1963_kuchibashiru"
 ---
 
-# 【No. 1963】<strong><em>Kuchibashiru</strong></em> (口走る - Blurting Out)
+# 【No. 1963】<strong><em>Kuchibashiru</em></strong> (口走る - Blurting Out)
 <div class="date">Sep 10, 2021 20:17</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kuchibashiru</strong></em><br/><br/>To say something unconsciously is called <strong><em>kuchibashiru</em></strong> (口走る) in Japanese.<br/><br/>Since <strong><em>kuchi</em></strong> (口) means "mouth" and <strong><em>bashiru/hashiru</em></strong> (走る) means "to run," the literal meaning of <em>kuchibashiru</em> is "one's mouth runs."<br/><br/>This idiom is usually used when you say something you should not have said. <br/><br/>For example, you can say <strong><em>kare no himitsu wo kuchibashitta</em></strong> (彼の秘密を口走った - "I blurted out his secret").<br/><br/>Unfortunately, I couldn't find the etymology of this idiom on the Internet. Perhaps the word <strong><em>hashiru</em></strong> (走る) is used to describe that the mouth moves quickly on its own.
+<strong><em>Kuchibashiru</em></strong><br/><br/>To say something unconsciously is called <strong><em>kuchibashiru</em></strong> (口走る) in Japanese.<br/><br/>Since <strong><em>kuchi</em></strong> (口) means "mouth" and <strong><em>bashiru/hashiru</em></strong> (走る) means "to run," the literal meaning of <em>kuchibashiru</em> is "one's mouth runs."<br/><br/>This idiom is usually used when you say something you should not have said. <br/><br/>For example, you can say <strong><em>kare no himitsu wo kuchibashitta</em></strong> (彼の秘密を口走った - "I blurted out his secret").<br/><br/>Unfortunately, I couldn't find the etymology of this idiom on the Internet. Perhaps the word <strong><em>hashiru</em></strong> (走る) is used to describe that the mouth moves quickly on its own.
 </div></div>
 
 <!-- more -->

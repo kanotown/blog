@@ -8,7 +8,7 @@ comments: true
 slug: "1040_noraneko"
 ---
 
-# 【No. 1040】<strong><em>Noraneko</strong></em> (野良猫 - Stray Cat)
+# 【No. 1040】<strong><em>Noraneko</em></strong> (野良猫 - Stray Cat)
 <div class="date">Oct 23, 2017 13:24</div>
 <div id="post"><div id="body_show_ori">
 There are many "noraneko" (野良猫) in Japan.<br/><br/>Norameko means a cat that lives in the human living area and is not owned by a particular person.<br/><br/>Here the "nora" (野良) means "field," and "neko" (猫) means "cat."<br/><br/>Also, if the cat becomes a wild animal outside the sphere of human habitation, it will called "noneko" (野猫).<br/><br/>Incidentally, if the noraneko has a bad habit such as stealing something belongs to human beings, the cat will be called "doraneko" (どら猫).<br/><br/>The national Japanese manga/anime "doraemon" (ドラえもん) comes from the doraneko.

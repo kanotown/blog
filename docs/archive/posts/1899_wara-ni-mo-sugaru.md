@@ -8,10 +8,10 @@ comments: true
 slug: "1899_wara-ni-mo-sugaru"
 ---
 
-# 【No. 1899】<strong><em>Wara ni mo Sugaru</strong></em> (わらにもすがる - Act of Desperation)
+# 【No. 1899】<strong><em>Wara ni mo Sugaru</em></strong> (わらにもすがる - Act of Desperation)
 <div class="date">Jul 8, 2021 10:08</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Wara ni mo Sugaru</strong></em><br/><br/>Have you ever relied on something useless when you were driven into a corner?<br/><br/>Such a situation can be described as <strong><em>wara ni mo sugaru</em></strong> (わらにもすがる) in Japanese.<br/><br/>Since <strong><em>wara</em></strong> (わら) means "straw" and <strong><em>sugaru</em></strong> (すがる) means "to rely on," the literal meaning of <em>wara ni mo sugaru</em> is "to rely on even a straw."<br/><br/>This expression was coined from the fact that drowning people would clutch at a straw in front of them, even though such an act has little meaning.
+<strong><em>Wara ni mo Sugaru</em></strong><br/><br/>Have you ever relied on something useless when you were driven into a corner?<br/><br/>Such a situation can be described as <strong><em>wara ni mo sugaru</em></strong> (わらにもすがる) in Japanese.<br/><br/>Since <strong><em>wara</em></strong> (わら) means "straw" and <strong><em>sugaru</em></strong> (すがる) means "to rely on," the literal meaning of <em>wara ni mo sugaru</em> is "to rely on even a straw."<br/><br/>This expression was coined from the fact that drowning people would clutch at a straw in front of them, even though such an act has little meaning.
 </div></div>
 
 <!-- more -->

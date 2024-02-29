@@ -8,10 +8,10 @@ comments: true
 slug: "1588_chidoriashi"
 ---
 
-# 【No. 1588】<strong><em>Chidoriashi</strong></em> (千鳥足 - Walking Zigzag)
+# 【No. 1588】<strong><em>Chidoriashi</em></strong> (千鳥足 - Walking Zigzag)
 <div class="date">Apr 24, 2019 22:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chidoriashi</strong></em><br/><br/>To walk with a stagger (especially in a drunk state) is called <strong><em>chidoriashi</em></strong> (千鳥足) in Japanese.<br/><br/>Since <strong><em>chidori</em></strong> (千鳥) means "plover" and <strong><em>ashi</em></strong> (足) means "foot," the literal meaning of <em>chidoriashi</em> is "plover feet."<br/><br/>Have you ever seen plover's feet or its way of walking?<br/><br/>Many birds have a supportive finger on the back side of their feet, but plovers have only three fingers in front of their feet, so they walk in zigzags.<br/><br/>Because of this, <em>chidoriashi</em> came to mean to walk zigzag or with a stagger, especially while drunk.
+<strong><em>Chidoriashi</em></strong><br/><br/>To walk with a stagger (especially in a drunk state) is called <strong><em>chidoriashi</em></strong> (千鳥足) in Japanese.<br/><br/>Since <strong><em>chidori</em></strong> (千鳥) means "plover" and <strong><em>ashi</em></strong> (足) means "foot," the literal meaning of <em>chidoriashi</em> is "plover feet."<br/><br/>Have you ever seen plover's feet or its way of walking?<br/><br/>Many birds have a supportive finger on the back side of their feet, but plovers have only three fingers in front of their feet, so they walk in zigzags.<br/><br/>Because of this, <em>chidoriashi</em> came to mean to walk zigzag or with a stagger, especially while drunk.
 </div></div>
 
 <!-- more -->

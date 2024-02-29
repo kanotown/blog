@@ -8,10 +8,10 @@ comments: true
 slug: "2151_arigata-meiwaku"
 ---
 
-# 【No. 2151】<strong><em>Arigata Meiwaku</strong></em> (ありがた迷惑 - Misplaced Kindness)
+# 【No. 2151】<strong><em>Arigata Meiwaku</em></strong> (ありがた迷惑 - Misplaced Kindness)
 <div class="date">Sep 11, 2023 19:29</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Arigata Meiwaku</strong></em><br/><br/>Have you ever felt inconvenienced by someone's actions of favor or kindness?<br/><br/>Such a situation can be described with the Japanese term <strong><em>arigata meiwaku</em></strong> (ありがた迷惑).<br/><br/>Since <strong><em>arigata/arigatai</em></strong> (ありがた/ありがたい) means "grateful," and <strong><em>meiwaku</em></strong> (迷惑) means "inconvenience," the literal meaning of <em>arigata meiwaku</em> is "grateful inconvenience."<br/><br/>In other words, it expresses a situation where one feels grateful for someone's intentions, but the actual action is inconvenient.<br/><br/>Too much goodwill may lead to <em>arigata meiwaku</em>, so think carefully before acting.
+<strong><em>Arigata Meiwaku</em></strong><br/><br/>Have you ever felt inconvenienced by someone's actions of favor or kindness?<br/><br/>Such a situation can be described with the Japanese term <strong><em>arigata meiwaku</em></strong> (ありがた迷惑).<br/><br/>Since <strong><em>arigata/arigatai</em></strong> (ありがた/ありがたい) means "grateful," and <strong><em>meiwaku</em></strong> (迷惑) means "inconvenience," the literal meaning of <em>arigata meiwaku</em> is "grateful inconvenience."<br/><br/>In other words, it expresses a situation where one feels grateful for someone's intentions, but the actual action is inconvenient.<br/><br/>Too much goodwill may lead to <em>arigata meiwaku</em>, so think carefully before acting.
 </div></div>
 
 <!-- more -->

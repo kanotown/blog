@@ -5,11 +5,12 @@
 Currently, I write short texts in English every day on a language exchange social networking website called Lang-8. At first, I mainly wrote it in a diary format, but at some point, fodders for my diary have gradually disappeared, and I began to write etymologies of Japanese terms and trivial things in English. I&#8217;d like to leave these article archives here.
 
 <div style="margin:15px;text-align:right;"><strong>[As of February 29, 2024]</strong><br/>
-投稿数 (Number of Posts): 2,321<br/>
-単語数 (Number of Words): 267,882<br/><br/>
+投稿数 (Number of Posts): 2,322<br/>
+単語数 (Number of Words): 268,051<br/><br/>
 </div>
 
 ## No. 2300 - 
+- [【No. 2322】<strong><em>Fushime</strong></em> (節目 - Milestone)](../posts/2322_fushime/)
 - [【No. 2321】<strong><em>Koeru</strong></em> (肥える - Gaining Weight): Part 2](../posts/2321_koeru/)
 - [【No. 2320】<strong><em>Koeru</strong></em> (肥える - Getting Weight): Part 1](../posts/2320_koeru/)
 - [【No. 2319】<strong><em>Kyodoru</strong></em> (キョドる - Acting suspiciously)](../posts/2319_kyodoru/)
@@ -1133,8 +1134,8 @@ Currently, I write short texts in English every day on a language exchange socia
 - [【No. 1212】<strong><em>Chiku Chiku</strong></em> (ちくちく - Prickling)](../posts/1212_chiku-chiku/)
 - [【No. 1211】<strong><em>Ippai Ippai</strong></em> (いっぱいいっぱい - Swamped)](../posts/1211_ippai-ippai/)
 - [【No. 1210】<strong><em>Sakura</strong></em> (サクラ - Decoy)](../posts/1210_sakura/)
-- [【No. 1209】Japanese Convenience Stores Part 2](../posts/1209_japanese-convenience-stores-part-2/)
-- [【No. 1208】Japanese Convenience Stores Part 1](../posts/1208_japanese-convenience-stores-part-1/)
+- [【No. 1209】Japanese Convenience Stores: Part 2](../posts/1209_japanese-convenience-stores-part-2/)
+- [【No. 1208】Japanese Convenience Stores: Part 1](../posts/1208_japanese-convenience-stores-part-1/)
 - [【No. 1207】<strong><em>Oyadama</strong></em> (親玉 - Godfather)](../posts/1207_oyadama/)
 - [【No. 1206】7-Eleven](../posts/1206_7-eleven/)
 - [【No. 1205】<strong><em>Moto mo Ko mo nai</strong></em> (元も子もない - Losing Everything/Makes No Sense)](../posts/1205_moto-mo-ko-mo-nai/)

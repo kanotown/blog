@@ -8,7 +8,7 @@ comments: true
 slug: "0991_shinsetsu"
 ---
 
-# 【No. 0991】<strong><em>Shinsetsu</strong></em> (親切 - Kindness)
+# 【No. 0991】<strong><em>Shinsetsu</em></strong> (親切 - Kindness)
 <div class="date">Sep 4, 2017 21:44</div>
 <div id="post"><div id="body_show_ori">
 It is very important to be "shinsetsu" (親切).<br/><br/>"Shinsetsu" is a word that represents kindness and compassion toward other people.<br/><br/>Generally, the "shin" (親) means "parents," the "setsu" means "cut," but it doesn't mean to cut parents.<br/><br/>The kanji "親" (shin) means not only "parents," but also "being familiar."<br/><br/>Also, the kanji "切" (setsu) can mean to fit well or reach, because if you want to cut something using a knife or something, the knife will touch the object.<br/><br/>That is to say, "shinsetsu" implies that you become familiar with someone and reach his/her heart.

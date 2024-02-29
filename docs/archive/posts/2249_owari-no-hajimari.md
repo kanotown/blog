@@ -9,10 +9,10 @@ comments: true
 slug: "2249_owari-no-hajimari"
 ---
 
-# 【No. 2249】<strong><em>Owari no Hajimari</strong></em> (終わりの始まり - The Beginning of the End)
+# 【No. 2249】<strong><em>Owari no Hajimari</em></strong> (終わりの始まり - The Beginning of the End)
 <div class="date">Dec 18, 2023 16:35</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Owari no Hajimari</strong></em><br/><br/>When I heard the announcement of the closure of Lang-8, the phrase <strong><em>owari no hajimari</em></strong> (終わりの始まり) came to my mind.<br/><br/>Since <strong><em>owari</em></strong> (終わり) means "end," and <strong><em>hajimari</em></strong> (始まり) means "beginning," the literal meaning of <em>owari no hajimari</em> is "the beginning of the end."<br/><br/>This phrase is often used in a negative context, to describe situations where something begins to move toward an end or a hopeless state.<br/><br/>After Lang-8 closes, I will continue to post my essays on X and my website at my own pace.
+<strong><em>Owari no Hajimari</em></strong><br/><br/>When I heard the announcement of the closure of Lang-8, the phrase <strong><em>owari no hajimari</em></strong> (終わりの始まり) came to my mind.<br/><br/>Since <strong><em>owari</em></strong> (終わり) means "end," and <strong><em>hajimari</em></strong> (始まり) means "beginning," the literal meaning of <em>owari no hajimari</em> is "the beginning of the end."<br/><br/>This phrase is often used in a negative context, to describe situations where something begins to move toward an end or a hopeless state.<br/><br/>After Lang-8 closes, I will continue to post my essays on X and my website at my own pace.
 </div></div>
 
 <!-- more -->

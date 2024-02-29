@@ -8,10 +8,10 @@ comments: true
 slug: "1776_omagari-neko"
 ---
 
-# 【No. 1776】<strong><em>Omagari Neko</strong></em> (尾曲がり猫 - Cats with Bent Tails)
+# 【No. 1776】<strong><em>Omagari Neko</em></strong> (尾曲がり猫 - Cats with Bent Tails)
 <div class="date">Mar 7, 2021 16:41</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Omagari Neko</strong></em><br/><br/>Yesterday, I introduced you to the term <strong><em>kagishippo</em></strong> (かぎしっぽ), which represents a tail of a cat bent like a key.<br/><br/>Such cats with <em>kagishippo</em> are also called as <strong><em>omagari neko</em></strong> (尾曲がり猫).<br/><br/><strong><em>O</em></strong> (尾) means "tail," <strong><em>magari</em></strong> (曲がり) means "bent," and <strong><em>neko</em></strong> (猫) means "cat," so <em>omagari neko</em> literally means a cat with a bent tail.<br/><br/>To tell you the truth, there are many such cats in Japan.<br/><br/>In particular, about 80% of cats are <em>omagari neko</em> in Nagasaki prefecture.<br/><br/>It is said that this is because Japanese people have believed that cats with long and straight tails could become monsters called <strong><em>nekomata</em></strong> (猫又) and have especially cherished cats with short and bent tails.
+<strong><em>Omagari Neko</em></strong><br/><br/>Yesterday, I introduced you to the term <strong><em>kagishippo</em></strong> (かぎしっぽ), which represents a tail of a cat bent like a key.<br/><br/>Such cats with <em>kagishippo</em> are also called as <strong><em>omagari neko</em></strong> (尾曲がり猫).<br/><br/><strong><em>O</em></strong> (尾) means "tail," <strong><em>magari</em></strong> (曲がり) means "bent," and <strong><em>neko</em></strong> (猫) means "cat," so <em>omagari neko</em> literally means a cat with a bent tail.<br/><br/>To tell you the truth, there are many such cats in Japan.<br/><br/>In particular, about 80% of cats are <em>omagari neko</em> in Nagasaki prefecture.<br/><br/>It is said that this is because Japanese people have believed that cats with long and straight tails could become monsters called <strong><em>nekomata</em></strong> (猫又) and have especially cherished cats with short and bent tails.
 </div></div>
 
 <!-- more -->

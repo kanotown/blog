@@ -8,10 +8,10 @@ comments: true
 slug: "1412_honenuki"
 ---
 
-# 【No. 1412】<strong><em>Honenuki</strong></em> (骨抜き - Pulling Teeth)
+# 【No. 1412】<strong><em>Honenuki</em></strong> (骨抜き - Pulling Teeth)
 <div class="date">Oct 30, 2018 17:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Honenuki</strong></em><br/><br/>I have seen a person who has gone into a state called <strong><em>honenuki</em></strong> (骨抜き).<br/><br/><strong><em>Hone</em></strong> (骨) means "bone," <strong><em>nuki</em></strong> (抜き) means "to pull out," and the combination has three major meanings.<br/><br/>One is to pull out/remove fish or chicken bones (or a tool for doing it) as this term itself means.<br/><br/>In addition, since bones are very important for almost all living beings, it means to remove an important/key part from a plan or something.<br/><br/>Furthermore, if you use this term to a person, it means that he/she loses their belief or backbone due to sexual factors and is madly in love with someone.
+<strong><em>Honenuki</em></strong><br/><br/>I have seen a person who has gone into a state called <strong><em>honenuki</em></strong> (骨抜き).<br/><br/><strong><em>Hone</em></strong> (骨) means "bone," <strong><em>nuki</em></strong> (抜き) means "to pull out," and the combination has three major meanings.<br/><br/>One is to pull out/remove fish or chicken bones (or a tool for doing it) as this term itself means.<br/><br/>In addition, since bones are very important for almost all living beings, it means to remove an important/key part from a plan or something.<br/><br/>Furthermore, if you use this term to a person, it means that he/she loses their belief or backbone due to sexual factors and is madly in love with someone.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1561_dowasure"
 ---
 
-# 【No. 1561】<strong><em>Dowasure</strong></em> (ど忘れ - Lapse of Memory)
+# 【No. 1561】<strong><em>Dowasure</em></strong> (ど忘れ - Lapse of Memory)
 <div class="date">Mar 28, 2019 17:11</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Dowasure</strong></em><br/><br/>I often do <strong><em>dowasure</em></strong> (ど忘れ).<br/><br/><em>Dowasure</em> means that you suddenly forget something you know well and simply can't come up with it.<br/><br/><strong><em>Wasure</em></strong> (忘れ) means "to forget," but I think that most Japanese people do not know where <strong><em>do</em></strong> (ど) comes from.<br/><br/><em>Do</em> is written in kanji as 度, and it means "degree" or "dimension."<br/><br/>This term was borne from the Chinese story 韓非子 -- in this story, a man measured his foot dimensions to buy shoes, but he went to a store without the dimension notes.
+<strong><em>Dowasure</em></strong><br/><br/>I often do <strong><em>dowasure</em></strong> (ど忘れ).<br/><br/><em>Dowasure</em> means that you suddenly forget something you know well and simply can't come up with it.<br/><br/><strong><em>Wasure</em></strong> (忘れ) means "to forget," but I think that most Japanese people do not know where <strong><em>do</em></strong> (ど) comes from.<br/><br/><em>Do</em> is written in kanji as 度, and it means "degree" or "dimension."<br/><br/>This term was borne from the Chinese story 韓非子 -- in this story, a man measured his foot dimensions to buy shoes, but he went to a store without the dimension notes.
 </div></div>
 
 <!-- more -->

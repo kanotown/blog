@@ -8,7 +8,7 @@ comments: true
 slug: "0615_saba-wo-yomu"
 ---
 
-# 【No. 0615】<strong><em>Saba wo Yomu</strong></em> (Fudge the Number)
+# 【No. 0615】<strong><em>Saba wo Yomu</em></strong> (Fudge the Number)
 <div class="date">Aug 24, 2016 20:48</div>
 <div id="post"><div id="body_show_ori">
 Today, I'd like to talk about the Japanese word "saba wo yomu," which means "to fudge the number/count to advantage."<br/><br/>This phrase is often used for one's age, height, or weight.<br/><br/>The literal meaning of "saba wo yomu" is "to count chub mackerel," and there are several theories as the etymology.<br/><br/>One is that we count chub mackerel quickly and roughly because they are caught in large numbers and are perishable.<br/><br/>In addition, some says it comes from "魚市場読み (izana-yomi)," which means to count fish with a fast mouth at a fish market, and others say it's because we treat two piece of sashimi (sliced row fish) of chub mackerel as one piece.<br/><br/>By the way, to fudge the number/count to disadvantage is called "gyaku saba" (reverse chub mackerel).

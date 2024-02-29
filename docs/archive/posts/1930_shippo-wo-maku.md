@@ -8,10 +8,10 @@ comments: true
 slug: "1930_shippo-wo-maku"
 ---
 
-# 【No. 1930】<strong><em>Shippo wo Maku</strong></em> (尻尾を巻く - Turning Tail)
+# 【No. 1930】<strong><em>Shippo wo Maku</em></strong> (尻尾を巻く - Turning Tail)
 <div class="date">Aug 8, 2021 17:00</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shippo wo Maku</strong></em><br/><br/>When there is no way to win, and you admit your defeat, it can be described as <strong><em>shippo wo maku</em></strong> (尻尾を巻く) in Japanese.<br/><br/>Since <strong><em>shippo</em></strong> (尻尾) means "tail" and <strong><em>maku</em></strong> (巻く) means "to roll," the literal meaning of <em>shippo wo maku</em> is "to roll one's tail."<br/><br/>This phrase came from the fact that when an animal such as a dog loses a fight, it runs away while turning its tail between its legs.<br/><br/>In many cases, this phrase is used as <strong><em>shippo wo maite nigeru</em></strong> (尻尾を巻いて逃げる - "to turn one's tail and run away"), by adding <strong><em>nigeru</em></strong> (逃げる), which means "to run away."
+<strong><em>Shippo wo Maku</em></strong><br/><br/>When there is no way to win, and you admit your defeat, it can be described as <strong><em>shippo wo maku</em></strong> (尻尾を巻く) in Japanese.<br/><br/>Since <strong><em>shippo</em></strong> (尻尾) means "tail" and <strong><em>maku</em></strong> (巻く) means "to roll," the literal meaning of <em>shippo wo maku</em> is "to roll one's tail."<br/><br/>This phrase came from the fact that when an animal such as a dog loses a fight, it runs away while turning its tail between its legs.<br/><br/>In many cases, this phrase is used as <strong><em>shippo wo maite nigeru</em></strong> (尻尾を巻いて逃げる - "to turn one's tail and run away"), by adding <strong><em>nigeru</em></strong> (逃げる), which means "to run away."
 </div></div>
 
 <!-- more -->

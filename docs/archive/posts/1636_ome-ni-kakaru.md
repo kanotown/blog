@@ -8,10 +8,10 @@ comments: true
 slug: "1636_ome-ni-kakaru"
 ---
 
-# 【No. 1636】<strong><em>Ome ni Kakaru</strong></em> (お目にかかる - Having the Pleasure of Meeting)
+# 【No. 1636】<strong><em>Ome ni Kakaru</em></strong> (お目にかかる - Having the Pleasure of Meeting)
 <div class="date">Jun 11, 2019 20:12</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ome ni Kakaru</strong></em><br/><br/>The most common Japanese term meaning to meet someone is <strong><em>au</em></strong> (会う).<br/><br/>However, if you want to show your respect, you can say <strong><em>ome ni kakaru</em></strong> (お目にかかる) instead of <em>au</em>.<br/><br/><strong><em>O</em></strong> (お) is a polite prefix, <strong><em>me</em></strong> (目) means "eye," and <strong><em>kakaru</em></strong> (かかる) means "to be seen (by someone)," the literal meaning of <em>ome ni kakaru</em> is "to be seen with your eyes."<br/><br/>For example, you can say <strong><em>ome ni kakarete kōei desu</em></strong> (お目にかかれて光栄です - "I am honored to meet you") when meeting someone you respect.
+<strong><em>Ome ni Kakaru</em></strong><br/><br/>The most common Japanese term meaning to meet someone is <strong><em>au</em></strong> (会う).<br/><br/>However, if you want to show your respect, you can say <strong><em>ome ni kakaru</em></strong> (お目にかかる) instead of <em>au</em>.<br/><br/><strong><em>O</em></strong> (お) is a polite prefix, <strong><em>me</em></strong> (目) means "eye," and <strong><em>kakaru</em></strong> (かかる) means "to be seen (by someone)," the literal meaning of <em>ome ni kakaru</em> is "to be seen with your eyes."<br/><br/>For example, you can say <strong><em>ome ni kakarete kōei desu</em></strong> (お目にかかれて光栄です - "I am honored to meet you") when meeting someone you respect.
 </div></div>
 
 <!-- more -->

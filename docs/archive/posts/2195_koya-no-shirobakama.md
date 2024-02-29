@@ -8,10 +8,10 @@ comments: true
 slug: "2195_koya-no-shirobakama"
 ---
 
-# 【No. 2195】<strong><em>Kōya no Shirobakama</strong></em> (紺屋の白袴 - The Shoemaker's Children Go Barefoor)
+# 【No. 2195】<strong><em>Kōya no Shirobakama</em></strong> (紺屋の白袴 - The Shoemaker's Children Go Barefoor)
 <div class="date">Oct 25, 2023 22:27</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kōya no Shirobakama</strong></em><br/><br/>People who are so busy working on others that they have no time to do their own business are sometimes described as <strong><em>kōya no shirobakama</em></strong> (紺屋の白袴) in Japanese.<br/><br/><strong><em>Kōya</em></strong> (紺屋) was used in the Edo period to refer to a dyer.<br/><br/>In addition, <strong><em>shiro</em></strong> (白) means "white," and <strong><em>bakama/hakama</em></strong> (袴) is a type of traditional Japanese skirt, so the literal meaning of <em>kōya no shirobakama</em> is "a dyer's white hakama."<br/><br/>In other words, it means that a dyer is so busy dying other people's clothes that they do not even have the time to dye their own hakama.<br/><br/>Please try to use your time not only for others but also for yourself.
+<strong><em>Kōya no Shirobakama</em></strong><br/><br/>People who are so busy working on others that they have no time to do their own business are sometimes described as <strong><em>kōya no shirobakama</em></strong> (紺屋の白袴) in Japanese.<br/><br/><strong><em>Kōya</em></strong> (紺屋) was used in the Edo period to refer to a dyer.<br/><br/>In addition, <strong><em>shiro</em></strong> (白) means "white," and <strong><em>bakama/hakama</em></strong> (袴) is a type of traditional Japanese skirt, so the literal meaning of <em>kōya no shirobakama</em> is "a dyer's white hakama."<br/><br/>In other words, it means that a dyer is so busy dying other people's clothes that they do not even have the time to dye their own hakama.<br/><br/>Please try to use your time not only for others but also for yourself.
 </div></div>
 
 <!-- more -->

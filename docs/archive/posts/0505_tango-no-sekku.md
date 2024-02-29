@@ -8,7 +8,7 @@ comments: true
 slug: "0505_tango-no-sekku"
 ---
 
-# 【No. 0505】<strong><em>Tango no Sekku</strong></em> (Boys' Day)
+# 【No. 0505】<strong><em>Tango no Sekku</em></strong> (Boys' Day)
 <div class="date">May 6, 2016 10:35</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, May 5th was "tango no sekku," which is the Boys' Festival for expressing the hope that boys will grow up healthy and strong.<br/><br/>"Tan" of "tango" means "beginning," and "go" means "Horse of the Zodiac."<br/><br/>That is, "tango" means "the first Horse Day of the Horse Month."<br/><br/>(Also, "sekku" means "a seasonal festival.")<br/><br/>In Japan, the Oriental Zodiac is assigned to all months and days on the calendar.<br/><br/>Since the Horse Month is May, we had celebrated "tango no sekku" on the first Horse Day of May.<br/><br/>Currently, the day became established as May 5th because the reading of "go" can express "five" in Japan.<br/><br/>This "tango no sekku" is an important day that forms long holidays (Golden Week).

@@ -8,10 +8,10 @@ comments: true
 slug: "1915_oni-no-me-ni-mo-namida"
 ---
 
-# 【No. 1915】<strong><em>Oni no Me ni mo Namida</strong></em> (鬼の目にも涙 - Tears from the Hardest Heart)
+# 【No. 1915】<strong><em>Oni no Me ni mo Namida</em></strong> (鬼の目にも涙 - Tears from the Hardest Heart)
 <div class="date">Jul 24, 2021 12:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Oni no Me ni mo Namida</strong></em><br/><br/>Is there anyone around you who is an cruel and scary like an ogre?<br/><br/>Although it may be difficult to imagine, even such a person could sometimes shed tears out of pity or compassion for someone.<br/><br/>When you see such a scene, you can use the Japanese proverb, <strong><em>oni no me ni mo namida</em></strong> (鬼の目にも涙).<br/><br/>Since <strong><em>oni</em></strong> (鬼) means "ogre," <strong><em>me</em></strong> (目) means "eye," <strong><em>namida</em></strong> (涙) means "tears," the literal meaning of <em>oni no me ni mo namida</em> is "tears in the ogre's eyes."<br/><br/>These days, I  think that this proverb is often used when a strict person cries.
+<strong><em>Oni no Me ni mo Namida</em></strong><br/><br/>Is there anyone around you who is an cruel and scary like an ogre?<br/><br/>Although it may be difficult to imagine, even such a person could sometimes shed tears out of pity or compassion for someone.<br/><br/>When you see such a scene, you can use the Japanese proverb, <strong><em>oni no me ni mo namida</em></strong> (鬼の目にも涙).<br/><br/>Since <strong><em>oni</em></strong> (鬼) means "ogre," <strong><em>me</em></strong> (目) means "eye," <strong><em>namida</em></strong> (涙) means "tears," the literal meaning of <em>oni no me ni mo namida</em> is "tears in the ogre's eyes."<br/><br/>These days, I  think that this proverb is often used when a strict person cries.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1164_itadaki-dachi"
 ---
 
-# 【No. 1164】<strong><em>Itadaki Dachi</strong></em> (いただき立ち)
+# 【No. 1164】<strong><em>Itadaki Dachi</em></strong> (いただき立ち)
 <div class="date">Feb 24, 2018 17:01</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to the word "oitoma," which is used when you leave a house you're visiting.<br/><br/>Today I'd like to talk about いただき立ち (itadaki dachi), which can be used in a similar situation.<br/><br/>いただき (itadaki) means "to receive," 立ち (tachi) means "to stand," and the combination means to go home (leave the house) soon after givin a meal or drink.<br/><br/>This term is often used in conjunction with "oitoma," just something like いただき立ちで失礼ですが、そろそろおいとまさせて頂きます (itadaki dachi de shitsurei desuga, sorosoro oitoma sasete itadakimasu - I'm sorry for "itadaki dachi," but it's time for me to leave).<br/><br/>"Itadaki dachi" is used when you have to leave a house soon after having a meal, but in such a case, you should say no to the host before serving the meal at least once.

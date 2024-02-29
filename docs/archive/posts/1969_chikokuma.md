@@ -8,10 +8,10 @@ comments: true
 slug: "1969_chikokuma"
 ---
 
-# 【No. 1969】<strong><em>Chikokuma</strong></em> (遅刻魔 - Always Late)
+# 【No. 1969】<strong><em>Chikokuma</em></strong> (遅刻魔 - Always Late)
 <div class="date">Sep 16, 2021 13:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chikokuma</strong></em><br/><br/>Unfortunately, there are several people around me who are called <strong><em>chikokuma</em></strong> (遅刻魔).<br/><br/><strong><em>Chikoku</em></strong> (遅刻) means "late."<br/><br/>In addition, <strong><em>ma</em></strong> (魔) usually means "devil" or "demon," but it can also be used as a suffix that means "someone who is always do the same thing."<br/><br/>That is to say, <em>chikokuma</em> literally means "someone who is always late."<br/><br/>However, note that most Japanese people arrive at their destinations at least 5 to 10 minutes before the scheduled time.<br/><br/>Therefore, people who are called <em>chikokuma</em> in Japan have lost their trust around them.
+<strong><em>Chikokuma</em></strong><br/><br/>Unfortunately, there are several people around me who are called <strong><em>chikokuma</em></strong> (遅刻魔).<br/><br/><strong><em>Chikoku</em></strong> (遅刻) means "late."<br/><br/>In addition, <strong><em>ma</em></strong> (魔) usually means "devil" or "demon," but it can also be used as a suffix that means "someone who is always do the same thing."<br/><br/>That is to say, <em>chikokuma</em> literally means "someone who is always late."<br/><br/>However, note that most Japanese people arrive at their destinations at least 5 to 10 minutes before the scheduled time.<br/><br/>Therefore, people who are called <em>chikokuma</em> in Japan have lost their trust around them.
 </div></div>
 
 <!-- more -->

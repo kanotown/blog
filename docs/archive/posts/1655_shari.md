@@ -8,10 +8,10 @@ comments: true
 slug: "1655_shari"
 ---
 
-# 【No. 1655】<strong><em>Shari</strong></em> (シャリ - White/Vinegared Rice)
+# 【No. 1655】<strong><em>Shari</em></strong> (シャリ - White/Vinegared Rice)
 <div class="date">Jun 30, 2019 17:21</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shari</strong></em><br/><br/>White rice or vinegared rice used for sushi is called <strong><em>shari</em></strong> (シャリ) in Japan.<br/><br/>It is thought that <em>shari</em> comes from a Sanskrit term "sarira" (meaning "Buddha's cremains") or "sari" (meaning "rice").<br/><br/>In general, outside of sushi shop, white rice is called <strong><em>kome</em></strong> (米), <strong><em>hakumai</em></strong> (白米), or <strong><em>gohan</em></strong> (ご飯).<br/><br/>Incidentally, rice used for sushi is usually flavored with vinegar and is referred to as <strong><em>sumeshi</em></strong> (酢飯 - literally means "vinegared rice").<br/><br/>There are various reasons for this; vinegared rice has effects of preservation, deodorization, and sterilization, and possess a good flavor.
+<strong><em>Shari</em></strong><br/><br/>White rice or vinegared rice used for sushi is called <strong><em>shari</em></strong> (シャリ) in Japan.<br/><br/>It is thought that <em>shari</em> comes from a Sanskrit term "sarira" (meaning "Buddha's cremains") or "sari" (meaning "rice").<br/><br/>In general, outside of sushi shop, white rice is called <strong><em>kome</em></strong> (米), <strong><em>hakumai</em></strong> (白米), or <strong><em>gohan</em></strong> (ご飯).<br/><br/>Incidentally, rice used for sushi is usually flavored with vinegar and is referred to as <strong><em>sumeshi</em></strong> (酢飯 - literally means "vinegared rice").<br/><br/>There are various reasons for this; vinegared rice has effects of preservation, deodorization, and sterilization, and possess a good flavor.
 </div></div>
 
 <!-- more -->

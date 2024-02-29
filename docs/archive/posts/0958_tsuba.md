@@ -8,7 +8,7 @@ comments: true
 slug: "0958_tsuba"
 ---
 
-# 【No. 0958】<strong><em>Tsuba</strong></em> (唾 - Saliva)
+# 【No. 0958】<strong><em>Tsuba</em></strong> (唾 - Saliva)
 <div class="date">Aug 2, 2017 17:55</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced "yodare" (よだれ), which means saliva dribbling unconsciously from a mouth.<br/><br/>If you want to mention about just saliva in Japanese, you can use the word "daeki" (唾液), but "tsuba" (つば) is often used as a spoken language.<br/><br/>"Tsuba" is a term omitted "ki" from "tsubaki."<br/><br/>"Tsubaki" was originally "tsuhaki" -- "tsu" means "saliva," and "haki" means to spit something.<br/><br/>From this etymology, "tsuba" often refers to saliva spit out from a mouth.<br/><br/>I'm sorry for posting the dirty topic for the second successive day.<br/><br/>Incidentally, now "tsubaki" usually means Camellia that blooms in winter.

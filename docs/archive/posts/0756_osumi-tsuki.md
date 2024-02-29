@@ -8,7 +8,7 @@ comments: true
 slug: "0756_osumi-tsuki"
 ---
 
-# 【No. 0756】<strong><em>Osumi Tsuki</strong></em> (Certified)
+# 【No. 0756】<strong><em>Osumi Tsuki</em></strong> (Certified)
 <div class="date">Jan 12, 2017 09:54</div>
 <div id="post"><div id="body_show_ori">
 Yesterday I talked about the Japanese term "origami tsuki".<br/><br/>Today I will talk about the Japanese term "osumi tsuki", which is a little similar to the yesterday's one.<br/><br/>The literal meaning is "attached ink", and it means that something is accepted or guaranteed by a person in authority.<br/><br/>Originally, this term meant a document related to an acceptance or a guarantee of domains made by a general or a vassal lord in the Edo period.<br/><br/>Here, kao (written seal mark) is used as a signing, and it was written by sumi (ink).<br/><br/>Therefore, the document was called "osumi tsuki" (attached ink), and it came to have the current meaning.<br/><br/>By the way, basically "origami tsuki" is used for a thing, while "osumi tsuki" is used for a person.

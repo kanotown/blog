@@ -8,10 +8,10 @@ comments: true
 slug: "2016_tegusune-wo-hiku"
 ---
 
-# 【No. 2016】<strong><em>Tegusune wo Hiku</strong></em> (手ぐすねを引く - Stand Ready)
+# 【No. 2016】<strong><em>Tegusune wo Hiku</em></strong> (手ぐすねを引く - Stand Ready)
 <div class="date">Apr 29, 2023 08:15</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tegusune wo Hiku</strong></em><br/><br/>To stand fully ready to do something is called <em>tegusune wo hiku</em> in Japanese.<br/><br/>Since <strong><em>te</em></strong> (手) means "hand," <strong><em>kusune/gusune</em></strong> (くすね/薬煉) means "pine resin boiled with oil," and <strong><em>hiku</em></strong> (引く) means "to put something on," the literal meaning of this idiom is "to put <strong><em>kusune</em></strong> (pine resin boiled with oil) on one's hands."<br/><br/><em>Kusune</em> has strong adhesive power; in the past, it was applied to a bowstring for reinforcing purposes.<br/><br/>The action was in preparation for battle, which is how <em>tegusune wo hiku</em> came to have its current meaning.
+<strong><em>Tegusune wo Hiku</em></strong><br/><br/>To stand fully ready to do something is called <em>tegusune wo hiku</em> in Japanese.<br/><br/>Since <strong><em>te</em></strong> (手) means "hand," <strong><em>kusune/gusune</em></strong> (くすね/薬煉) means "pine resin boiled with oil," and <strong><em>hiku</em></strong> (引く) means "to put something on," the literal meaning of this idiom is "to put <strong><em>kusune</em></strong> (pine resin boiled with oil) on one's hands."<br/><br/><em>Kusune</em> has strong adhesive power; in the past, it was applied to a bowstring for reinforcing purposes.<br/><br/>The action was in preparation for battle, which is how <em>tegusune wo hiku</em> came to have its current meaning.
 </div></div>
 
 <!-- more -->

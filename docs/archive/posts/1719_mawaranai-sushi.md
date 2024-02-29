@@ -8,10 +8,10 @@ comments: true
 slug: "1719_mawaranai-sushi"
 ---
 
-# 【No. 1719】<strong><em>Mawaranai Sushi</strong></em> (回らない寿司) Part 1
+# 【No. 1719】<strong><em>Mawaranai Sushi</em></strong> (回らない寿司) Part 1
 <div class="date">Sep 2, 2019 14:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mawaranai Sushi</strong></em> Part 1<br/><br/>September 1st was my birthday, so my friend and I did something special.<br/><br/>It is to go to eat <strong><em>mawaranai sushi</em></strong> (回らない寿司).<br/><br/>Since <strong><em>mawaru</em></strong> (回る) means "to rotate," <strong><em>nai</em></strong> (ない) is the negative suffix, and <strong><em>sushi</em></strong> (寿司) means "sushi" (a traditional Japanese cuisine), the literal meaning of <em>mawaranai sushi</em> is "sushi that does not rotate."<br/><br/>To tell you the truth, <em>mawaranai sushi</em> is a slang term that was made as an antonym of <strong><em>kaiten zushi</em></strong> (回転寿司), the literal meaning of which is "rotating sushi."<br/><br/>To be continued.
+<strong><em>Mawaranai Sushi</em></strong> Part 1<br/><br/>September 1st was my birthday, so my friend and I did something special.<br/><br/>It is to go to eat <strong><em>mawaranai sushi</em></strong> (回らない寿司).<br/><br/>Since <strong><em>mawaru</em></strong> (回る) means "to rotate," <strong><em>nai</em></strong> (ない) is the negative suffix, and <strong><em>sushi</em></strong> (寿司) means "sushi" (a traditional Japanese cuisine), the literal meaning of <em>mawaranai sushi</em> is "sushi that does not rotate."<br/><br/>To tell you the truth, <em>mawaranai sushi</em> is a slang term that was made as an antonym of <strong><em>kaiten zushi</em></strong> (回転寿司), the literal meaning of which is "rotating sushi."<br/><br/>To be continued.
 </div></div>
 
 <!-- more -->

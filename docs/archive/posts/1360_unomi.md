@@ -8,10 +8,10 @@ comments: true
 slug: "1360_unomi"
 ---
 
-# 【No. 1360】<strong><em>Unomi</strong></em> (うのみ - Trusting the Obvious)
+# 【No. 1360】<strong><em>Unomi</em></strong> (うのみ - Trusting the Obvious)
 <div class="date">Sep 8, 2018 20:12</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Unomi</strong></em><br/><br/>I sometimes perform an action called <strong><em>unomi</em></strong> (うのみ).<br/><br/><strong><em>U</em></strong> (う/鵜) means "cormorant," and <strong><em>nomi</em></strong> (のみ/呑み) means "to swallow" or "to drink."<br/><br/>The combination, unomi, means to swallow something or to believe someone's story/things without ascertaining the truth or without thinking.<br/><br/>It is thought that this term comes from the fact that cormorants swallow whole fish without chewing it.<br/><br/>Unomi is often used like <strong><em>unomi ni suru</em></strong> (うのみにする) with the verb <strong><em>suru</em></strong> (する), which means "to do something."
+<strong><em>Unomi</em></strong><br/><br/>I sometimes perform an action called <strong><em>unomi</em></strong> (うのみ).<br/><br/><strong><em>U</em></strong> (う/鵜) means "cormorant," and <strong><em>nomi</em></strong> (のみ/呑み) means "to swallow" or "to drink."<br/><br/>The combination, unomi, means to swallow something or to believe someone's story/things without ascertaining the truth or without thinking.<br/><br/>It is thought that this term comes from the fact that cormorants swallow whole fish without chewing it.<br/><br/>Unomi is often used like <strong><em>unomi ni suru</em></strong> (うのみにする) with the verb <strong><em>suru</em></strong> (する), which means "to do something."
 </div></div>
 
 <!-- more -->

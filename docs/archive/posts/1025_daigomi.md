@@ -8,7 +8,7 @@ comments: true
 slug: "1025_daigomi"
 ---
 
-# 【No. 1025】<strong><em>Daigomi</strong></em> (醍醐味 - The True Pleasure)
+# 【No. 1025】<strong><em>Daigomi</em></strong> (醍醐味 - The True Pleasure)
 <div class="date">Oct 8, 2017 07:37</div>
 <div id="post"><div id="body_show_ori">
 There are several Japanese terms that describe a pleasure.<br/><br/>Today I'd like to talk about "daigomi" (醍醐味) among them.<br/><br/>"Daigomi" means a true pleasure or depth of favor.<br/><br/>The "daigo" (醍醐) of "daigomi" is a Buddhist term, and it means a high-grade milk product that is made from cow or sheep milk through various processes.<br/><br/>Because "daigomi" (醍醐味 - taste of daigo) is pure and the bast taste, it originally means "the best thing/teaching" in Buddhism, and it has come to mean the current meaning.<br/><br/>Some people think that "daigo" is equivalent to yogurt in the modern meaning.

@@ -8,7 +8,7 @@ comments: true
 slug: "0870_sumeba-miyako"
 ---
 
-# 【No. 0870】<strong><em>Sumeba Miyako</strong></em> (Home is where you make it)
+# 【No. 0870】<strong><em>Sumeba Miyako</em></strong> (Home is where you make it)
 <div class="date">May 6, 2017 10:42</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese proverb "sumeba miyako."<br/><br/>"Sumeba miyako" means that even if the place is difficult to live, you will feel as if it's miyako once you live.<br/><br/>Here the word "miyako" comes from "miyadokoro," and both mean a place where the emperor lives, that is the capital.<br/><br/>Therefore, the suffix of "Tokyo" is "to" ("to" is another reading of "miyako") instead of "ken," meaning "prefecture" -- "Tokyo-to" expresses that it is the Japanese capital.<br/><br/>Also, there is a similar proverb, which is "sumaba miyako."<br/><br/>"Sumaba miyako" means that miyako (the capital city) is the best if you would live, and it's quite different from "sumeba miyako."

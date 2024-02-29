@@ -9,10 +9,10 @@ comments: true
 slug: "2233_attake"
 ---
 
-# 【No. 2233】<strong><em>Attakē</strong></em> (あったけぇ - Heartwarming)
+# 【No. 2233】<strong><em>Attakē</em></strong> (あったけぇ - Heartwarming)
 <div class="date">Dec 2, 2023 23:11</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Attakē</strong></em><br/><br/>Today, I played The Legend of Zelda: Tri Force Heroes.<br/><br/>This game is designed for online cooperative play.<br/><br/>Since it was released over eight years ago, it took me a long time to find other online players. However, the players I met were very kind and cooperative, even to a beginner like me.<br/><br/>During this time, I thought <strong><em>attakē</em></strong> (あったけぇ) to the kind players.<br/><br/><em>Attakē</em> is a casual way of saying <strong><em>atatakai</em></strong> (温かい - meaning "warm") and is also a slang phrase derived from a manga. It is used when you are touched and warmed by someone's kindness.
+<strong><em>Attakē</em></strong><br/><br/>Today, I played The Legend of Zelda: Tri Force Heroes.<br/><br/>This game is designed for online cooperative play.<br/><br/>Since it was released over eight years ago, it took me a long time to find other online players. However, the players I met were very kind and cooperative, even to a beginner like me.<br/><br/>During this time, I thought <strong><em>attakē</em></strong> (あったけぇ) to the kind players.<br/><br/><em>Attakē</em> is a casual way of saying <strong><em>atatakai</em></strong> (温かい - meaning "warm") and is also a slang phrase derived from a manga. It is used when you are touched and warmed by someone's kindness.
 </div></div>
 
 <!-- more -->

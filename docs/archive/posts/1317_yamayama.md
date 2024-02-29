@@ -8,10 +8,10 @@ comments: true
 slug: "1317_yamayama"
 ---
 
-# 【No. 1317】<strong><em>Yamayama</strong></em> (山々 - Mountains)
+# 【No. 1317】<strong><em>Yamayama</em></strong> (山々 - Mountains)
 <div class="date">Jul 27, 2018 23:04</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yamayama</strong></em><br/><br/>"Yama" (山) means "mountains," and the kanji 々 means a repetition of the last character.<br/><br/>Therefore, 山々 is read as "yamayama," and it means "many mountains" or "mountains in various places."<br/><br/>On the other hand, this term is often used as an adverb.<br/><br/>If you say “~ shitai no wa yamayama daga” (～したいのは山々だが), it means that a feeling that you want to do something is high like mountains, but you cannot do it.<br/><br/>【Example sentences】<br/>Kōkyū na niku wo tabetai no wa yamayama daga, okane ga nai (高級な肉を食べたいのは山々だが、お金が無い - I really want to eat a prime cut of beef, but I am out of money).
+<strong><em>Yamayama</em></strong><br/><br/>"Yama" (山) means "mountains," and the kanji 々 means a repetition of the last character.<br/><br/>Therefore, 山々 is read as "yamayama," and it means "many mountains" or "mountains in various places."<br/><br/>On the other hand, this term is often used as an adverb.<br/><br/>If you say “~ shitai no wa yamayama daga” (～したいのは山々だが), it means that a feeling that you want to do something is high like mountains, but you cannot do it.<br/><br/>【Example sentences】<br/>Kōkyū na niku wo tabetai no wa yamayama daga, okane ga nai (高級な肉を食べたいのは山々だが、お金が無い - I really want to eat a prime cut of beef, but I am out of money).
 </div></div>
 
 <!-- more -->

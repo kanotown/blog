@@ -8,7 +8,7 @@ comments: true
 slug: "0966_utatane"
 ---
 
-# 【No. 0966】<strong><em>Utatane</strong></em> (うたた寝 - Doze/Nap)
+# 【No. 0966】<strong><em>Utatane</em></strong> (うたた寝 - Doze/Nap)
 <div class="date">Aug 10, 2017 20:33</div>
 <div id="post"><div id="body_show_ori">
 Recently I often become a state of "utatane" (うたた寝).<br/><br/>"Utatane" means to be about to fall asleep even if you don't want to do so.<br/><br/>The "ne" (寝) of "utatane" means to sleep, but actually, the etymology of the "utata" have yet to be revealed.<br/><br/>Since the "utata" (うたた) can be used as an adverb that means that something progresses steadily and becomes deadly, a theory insists that the "utata" of "utatane" comes from this adverb, and implies that drowsiness progresses.<br/><br/>Another theory insists that the "utata" comes from the onomatopoeia "uto uto," which represents that someone is sleepy.

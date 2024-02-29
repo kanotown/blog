@@ -8,7 +8,7 @@ comments: true
 slug: "1117_kaeru-no-ko-wa-kaeru"
 ---
 
-# 【No. 1117】<strong><em>Kaeru no Ko wa Kaeru</strong></em> (蛙の子は蛙 - Like Father, Like Son)
+# 【No. 1117】<strong><em>Kaeru no Ko wa Kaeru</em></strong> (蛙の子は蛙 - Like Father, Like Son)
 <div class="date">Jan 8, 2018 21:07</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I talked about an idiom related to a parent tiger and its cub.<br/><br/>Today, I'd like to introduce you to a Japanese proverb related to a frog parent and its child; 蛙の子は蛙 (kaeru no ko wa kaeru).<br/><br/>蛙 (kaeru) means "frog" and 子 (ko) means "child," so the literal meaning of this proverb is "a flog child is a frog."<br/><br/>Larvae of frogs, tadpoles, are not similar to their parents, but as they grow up they will finally change to look like their parents, frogs. <br/><br/>Because of this, "kaeru no ko wa kaeru" is used to mean that the nature/ability of a child resemble his/her parents.<br/><br/>However, note that this proverb often contains a bad meanings, which is something like that if parents are ordinary persons, their child will be ordinary.

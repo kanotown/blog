@@ -8,10 +8,10 @@ comments: true
 slug: "1839_oumu-gaeshi"
 ---
 
-# 【No. 1839】<strong><em>Oumu Gaeshi</strong></em> (オウム返し - Parroting)
+# 【No. 1839】<strong><em>Oumu Gaeshi</em></strong> (オウム返し - Parroting)
 <div class="date">May 9, 2021 18:00</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Oumu Gaeshi</strong></em><br/><br/>Repeating what the other person said is referred to as <strong><em>oumu gaeshi</em></strong> (オウム返し) in Japanese.<br/><br/>Since <strong><em>oumu</em></strong> (オウム) means "parrot" and <strong><em>gaeshi/kaeshi</em></strong> (返し) means "back/reply," the literal meaning of <em>oumu gaeshi</em> is "parrot reply."<br/><br/>As you know, parrots are birds that are good at imitating human voices or sounds, hence this term was created.<br/><br/>It is considered that <em>oumu gaeshi</em> is one of the effective ways to facilitate communication in everyday life.<br/><br/>However, since it could make people feel uncomfortable, please be careful not to overuse it.
+<strong><em>Oumu Gaeshi</em></strong><br/><br/>Repeating what the other person said is referred to as <strong><em>oumu gaeshi</em></strong> (オウム返し) in Japanese.<br/><br/>Since <strong><em>oumu</em></strong> (オウム) means "parrot" and <strong><em>gaeshi/kaeshi</em></strong> (返し) means "back/reply," the literal meaning of <em>oumu gaeshi</em> is "parrot reply."<br/><br/>As you know, parrots are birds that are good at imitating human voices or sounds, hence this term was created.<br/><br/>It is considered that <em>oumu gaeshi</em> is one of the effective ways to facilitate communication in everyday life.<br/><br/>However, since it could make people feel uncomfortable, please be careful not to overuse it.
 </div></div>
 
 <!-- more -->

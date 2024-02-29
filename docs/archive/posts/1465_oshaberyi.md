@@ -8,7 +8,7 @@ comments: true
 slug: "1465_oshaberyi"
 ---
 
-# 【No. 1465】<strong><em>Oshaberyi</strong></em> (おしゃべり - Gabbing/Babbler)
+# 【No. 1465】<strong><em>Oshaberyi</em></strong> (おしゃべり - Gabbing/Babbler)
 <div class="date">Dec 22, 2018 21:25</div>
 <div id="post"><div id="body_show_ori">
 Oshaberi<br/><br/>I am not a person called <strong><em>oshaberi</em></strong> (おしゃべり ) very much.<br/><br/><em>Osyaberi</em> is a word made by adding the polite prefix <strong><em>o</em></strong> (お) to <strong><em>shaberi</em></strong> (しゃべり), which is the noun form of the verb <strong><em>shaberu</em></strong> (喋る - literally means "to talk").<br/><br/>That is to say, <em>oshaberi</em> means to talk a lot about something or talk about something lightly.<br/><br/>In addition, <em>oshaberi</em> can be used to mean a person who has a loose tongue or big mouth.<br/><br/>Since this word is not used in a good sense when describing someone, please be careful when you use it.

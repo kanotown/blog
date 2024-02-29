@@ -8,10 +8,10 @@ comments: true
 slug: "1822_nezumi-tori"
 ---
 
-# 【No. 1822】<strong><em>Nezumi Tori</strong></em> (ねずみ捕り - Speed Trap)
+# 【No. 1822】<strong><em>Nezumi Tori</em></strong> (ねずみ捕り - Speed Trap)
 <div class="date">Apr 22, 2021 22:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nezumi Tori</strong></em><br/><br/>Today, I would like to introduce the term <strong><em>nezumi tori</em></strong> (ねずみ捕り).<br/><br/>Since <strong><em>nezumi</em></strong> (ねずみ) means "rat" and <strong><em>tori</em></strong> (捕り) means "trap," the literal meaning of <em>nezumi tori</em> is "rat trap."<br/><br/>In addition to its literal meaning, this term can also mean "police speed trap."<br/><br/>The police measure speed and catch the speed violator on straight roads that are easy to speed on. Because the method of catching speeders in a speed trap is similar to catching rats with a rat trap, <em>nezumi tori</em> has come to have the above meaning.
+<strong><em>Nezumi Tori</em></strong><br/><br/>Today, I would like to introduce the term <strong><em>nezumi tori</em></strong> (ねずみ捕り).<br/><br/>Since <strong><em>nezumi</em></strong> (ねずみ) means "rat" and <strong><em>tori</em></strong> (捕り) means "trap," the literal meaning of <em>nezumi tori</em> is "rat trap."<br/><br/>In addition to its literal meaning, this term can also mean "police speed trap."<br/><br/>The police measure speed and catch the speed violator on straight roads that are easy to speed on. Because the method of catching speeders in a speed trap is similar to catching rats with a rat trap, <em>nezumi tori</em> has come to have the above meaning.
 </div></div>
 
 <!-- more -->

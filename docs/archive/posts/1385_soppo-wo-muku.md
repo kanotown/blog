@@ -8,10 +8,10 @@ comments: true
 slug: "1385_soppo-wo-muku"
 ---
 
-# 【No. 1385】<strong><em>Soppo wo Muku</strong></em> (そっぽを向く - Looking Away)
+# 【No. 1385】<strong><em>Soppo wo Muku</em></strong> (そっぽを向く - Looking Away)
 <div class="date">Oct 3, 2018 22:21</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Soppo wo Muku</strong></em><br/><br/>To describe that someone looks away, refuses to see something, or becomes uncooperative, you can use the Japanese phrase <strong><em>soppo wo muku</em></strong> (そっぽを向く).<br/><br/><strong><em>Muku</em></strong> (向く) is a common Japanese term that means "to look toward," but <strong><em>soppo</em></strong> (そっぽ) is basically used only in this phrase.<br/><br/>Soppo is written as 外方 in kanji, and as these kanji characters imply, it means "another direction" or "outside direction."<br/><br/>That is to say, the literal meaning of <em>soppo wo muku</em> is "to look toward another/outside direction."
+<strong><em>Soppo wo Muku</em></strong><br/><br/>To describe that someone looks away, refuses to see something, or becomes uncooperative, you can use the Japanese phrase <strong><em>soppo wo muku</em></strong> (そっぽを向く).<br/><br/><strong><em>Muku</em></strong> (向く) is a common Japanese term that means "to look toward," but <strong><em>soppo</em></strong> (そっぽ) is basically used only in this phrase.<br/><br/>Soppo is written as 外方 in kanji, and as these kanji characters imply, it means "another direction" or "outside direction."<br/><br/>That is to say, the literal meaning of <em>soppo wo muku</em> is "to look toward another/outside direction."
 </div></div>
 
 <!-- more -->

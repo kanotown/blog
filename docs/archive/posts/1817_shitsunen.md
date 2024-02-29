@@ -8,10 +8,10 @@ comments: true
 slug: "1817_shitsunen"
 ---
 
-# 【No. 1817】<strong><em>Shitsunen</strong></em> (失念 - Slipping One's Mind)
+# 【No. 1817】<strong><em>Shitsunen</em></strong> (失念 - Slipping One's Mind)
 <div class="date">Apr 17, 2021 12:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shitsunen</strong></em><br/><br/>The most common phrase to use when you forget to do something is <strong><em>wasurete imashita</em></strong> (忘れていました - "I forgot to do").<br/><br/>Today, I would like to introduce the term <strong><em>shitsunen</em></strong> (失念), which can be used in business situations and sounds more polite than <strong><em>wasureta</em></strong> (忘れた - "forgetting").<br/><br/>Since <strong><em>shitsu</em></strong> (失) means "losing" and <strong><em>nen</em></strong> (念) means "thought," the literal meaning of <em>shitsunen</em> is "losing one's thought."<br/><br/><em>Shitsunen</em> is one of the earthly desires in Buddhism and originally means "scattering mind," "losing devotion," and "forgetting the words of Buddhism."<br/><br/>Derived from here, it has come to be widely used as the meaning of "forgetting something."<br/><br/>In actual situations, it is often used as <strong><em>shitsunen shite ori mashita</em></strong> (失念しておりました - "It slipped my mind").
+<strong><em>Shitsunen</em></strong><br/><br/>The most common phrase to use when you forget to do something is <strong><em>wasurete imashita</em></strong> (忘れていました - "I forgot to do").<br/><br/>Today, I would like to introduce the term <strong><em>shitsunen</em></strong> (失念), which can be used in business situations and sounds more polite than <strong><em>wasureta</em></strong> (忘れた - "forgetting").<br/><br/>Since <strong><em>shitsu</em></strong> (失) means "losing" and <strong><em>nen</em></strong> (念) means "thought," the literal meaning of <em>shitsunen</em> is "losing one's thought."<br/><br/><em>Shitsunen</em> is one of the earthly desires in Buddhism and originally means "scattering mind," "losing devotion," and "forgetting the words of Buddhism."<br/><br/>Derived from here, it has come to be widely used as the meaning of "forgetting something."<br/><br/>In actual situations, it is often used as <strong><em>shitsunen shite ori mashita</em></strong> (失念しておりました - "It slipped my mind").
 </div></div>
 
 <!-- more -->

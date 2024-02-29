@@ -8,10 +8,10 @@ comments: true
 slug: "1210_sakura"
 ---
 
-# 【No. 1210】<strong><em>Sakura</strong></em> (サクラ - Decoy)
+# 【No. 1210】<strong><em>Sakura</em></strong> (サクラ - Decoy)
 <div class="date">Apr 11, 2018 14:19</div>
 <div id="post"><div id="body_show_ori">
-The season of "sakura" (桜 - cherry blossom) is gradually leaving.<br/><br/>Cherry blossoms are beautiful, but the word "sakura" is sometimes used as a slang term with a bad meaning.<br/><br/>It means a person who slips into lurks in customers/audiences, and praises an item or makes the atmosphere of the venue.<br/><br/>In the Edo period, there were people who shout at a big scene of Kabuki (traditional Japanese drama) to boost the performance -- they were able to see the Kabuki performance without a fee in return for the role.<br/><br/>Such people were called "sakura" (cherry blossom), because the momentary boost evoked cherry trees that bloom only for a short period, and people could see cherry blossoms for free.<br/><br/>Later, "sakura" has come to be used to mean "confederate" and "decoy."
+<strong><em>Sakura</em></strong><br/><br/>The season of "sakura" (桜 - cherry blossom) is gradually leaving.<br/><br/>Cherry blossoms are beautiful, but the word "sakura" is sometimes used as a slang term with a bad meaning.<br/><br/>It means a person who slips into lurks in customers/audiences, and praises an item or makes the atmosphere of the venue.<br/><br/>In the Edo period, there were people who shout at a big scene of Kabuki (traditional Japanese drama) to boost the performance -- they were able to see the Kabuki performance without a fee in return for the role.<br/><br/>Such people were called "sakura" (cherry blossom), because the momentary boost evoked cherry trees that bloom only for a short period, and people could see cherry blossoms for free.<br/><br/>Later, "sakura" has come to be used to mean "confederate" and "decoy."
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1211_ippai-ippai"
 ---
 
-# 【No. 1211】<strong><em>Ippai Ippai</strong></em> (いっぱいいっぱい - Swamped)
+# 【No. 1211】<strong><em>Ippai Ippai</em></strong> (いっぱいいっぱい - Swamped)
 <div class="date">Apr 12, 2018 12:09</div>
 <div id="post"><div id="body_show_ori">
-I am now falling into a state called "ippai ippai" (いっぱいいっぱい).<br/><br/>"Ippai ippai" represents a state that there is no room or leeway.<br/><br/>For example, you can say "Shigoto ga ōsugite ippai ippai da" (仕事が多すぎていっぱいいっぱいだ - I have no time because of too much work).<br/><br/>"Ippai" comes from "ichihai" (一杯), where "ichi" (一) means "one" and "杯" means "cup," so the combination means "a cup of a drink or something."<br/><br/>Besides, when the term "ippai" is used as an adverb, it means that a drink or something is filled in a cup, or there a lot of something.<br/><br/>By repeating this term as "ippai ippai," it has come to mean that there is no room mentally.
+<strong><em>Ippai Ippai</em></strong><br/><br/>I am now falling into a state called "ippai ippai" (いっぱいいっぱい).<br/><br/>"Ippai ippai" represents a state that there is no room or leeway.<br/><br/>For example, you can say "Shigoto ga ōsugite ippai ippai da" (仕事が多すぎていっぱいいっぱいだ - I have no time because of too much work).<br/><br/>"Ippai" comes from "ichihai" (一杯), where "ichi" (一) means "one" and "杯" means "cup," so the combination means "a cup of a drink or something."<br/><br/>Besides, when the term "ippai" is used as an adverb, it means that a drink or something is filled in a cup, or there a lot of something.<br/><br/>By repeating this term as "ippai ippai," it has come to mean that there is no room mentally.
 </div></div>
 
 <!-- more -->

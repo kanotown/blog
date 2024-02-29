@@ -8,7 +8,7 @@ comments: true
 slug: "1131_osoreirimasu"
 ---
 
-# 【No. 1131】<strong><em>Osoreirimasu</strong></em> (恐れ入ります - Thanks/Sorry)
+# 【No. 1131】<strong><em>Osoreirimasu</em></strong> (恐れ入ります - Thanks/Sorry)
 <div class="date">Jan 22, 2018 20:45</div>
 <div id="post"><div id="body_show_ori">
 Yesterday and the day before yesterday, I introduced you to Japanese expressions that mean the feeling of apology or appreciation.<br/><br/>In addition, I'd like to talk about another term that has the similar meaning, 恐れ入ります (osoreirimasu).<br/><br/>"Osoreirimasu" is the polite form of 恐れ入る (osoreiru).<br/><br/>The literal meaning of "osoreiru" is "I’m scared of you," but it can also mean "I can't stand against you" or "I'm awed by you."<br/><br/>Later, it has come to contain the current meanings.<br/><br/>"Osoreirimasu" is more polite than "sumimasen," and is often used when you want to say sorry/thanks with awe.

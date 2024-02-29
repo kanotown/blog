@@ -8,10 +8,10 @@ comments: true
 slug: "1923_mizu-no-hi"
 ---
 
-# 【No. 1923】<strong><em>Mizu no Hi</strong></em> (水の日 - Water Day)
+# 【No. 1923】<strong><em>Mizu no Hi</em></strong> (水の日 - Water Day)
 <div class="date">Aug 1, 2021 16:50</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mizu no Hi</strong></em><br/><br/>Today, August 1st, is <strong><em>mizu no hi</em></strong> (水の日), the national day of Japan.<br/><br/>Since <strong><em>mizu</em></strong> (水) means "water" and "hi" (日) means "day," <em>mizu no hi</em> literally means "Water Day."<br/><br/>The purpose of <em>mizu no hi</em> is to promote understanding of the finite nature of water resources and importance of water. On this day, various events related water, such as exhibitions and lectures, are held.<br/><br/>Incidentally, a water-type Pokémon, vaporeon (called "showers" in Japan), was appointed as an ambassador to support <em>mizuno hi</em> this year.<br/><br/>According to the Pokédex (illustrated Pokemon guide), the cellular structure of vaporeons' bodies is similar to that of water.
+<strong><em>Mizu no Hi</em></strong><br/><br/>Today, August 1st, is <strong><em>mizu no hi</em></strong> (水の日), the national day of Japan.<br/><br/>Since <strong><em>mizu</em></strong> (水) means "water" and "hi" (日) means "day," <em>mizu no hi</em> literally means "Water Day."<br/><br/>The purpose of <em>mizu no hi</em> is to promote understanding of the finite nature of water resources and importance of water. On this day, various events related water, such as exhibitions and lectures, are held.<br/><br/>Incidentally, a water-type Pokémon, vaporeon (called "showers" in Japan), was appointed as an ambassador to support <em>mizuno hi</em> this year.<br/><br/>According to the Pokédex (illustrated Pokemon guide), the cellular structure of vaporeons' bodies is similar to that of water.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1855_iiete-myo"
 ---
 
-# 【No. 1855】<strong><em>Iiete Myō</strong></em> (言い得て妙 - Perfect Phrasing)
+# 【No. 1855】<strong><em>Iiete Myō</em></strong> (言い得て妙 - Perfect Phrasing)
 <div class="date">May 25, 2021 07:03</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Iiete Myō</strong></em><br/><br/>When someone says a clever expression and it is absolutely right, you can represent it as the phrase <strong><em>iiete myō</em></strong> (言い得て妙) in Japanese.<br/><br/>Since <strong><em>ii</em></strong> (言い) means "to say," <strong><em>ete</em></strong> (得て) means "can," and <strong><em>myō</em></strong> (妙) means "wonder/clever/beautiful," <em>iiete myō</em> literally means "one can say something clever and beautiful."<br/><br/>The intonation of <em>iiete myō</em> is almost flat, but it drops slightly at the <strong><em>te</em></strong> (て) of <strong><em>ete</em></strong> (得て).<br/><br/>This phrase can be translated into English as "perfect phrasing" or "beautifully put." 
+<strong><em>Iiete Myō</em></strong><br/><br/>When someone says a clever expression and it is absolutely right, you can represent it as the phrase <strong><em>iiete myō</em></strong> (言い得て妙) in Japanese.<br/><br/>Since <strong><em>ii</em></strong> (言い) means "to say," <strong><em>ete</em></strong> (得て) means "can," and <strong><em>myō</em></strong> (妙) means "wonder/clever/beautiful," <em>iiete myō</em> literally means "one can say something clever and beautiful."<br/><br/>The intonation of <em>iiete myō</em> is almost flat, but it drops slightly at the <strong><em>te</em></strong> (て) of <strong><em>ete</em></strong> (得て).<br/><br/>This phrase can be translated into English as "perfect phrasing" or "beautifully put." 
 </div></div>
 
 <!-- more -->

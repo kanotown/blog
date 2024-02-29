@@ -8,10 +8,10 @@ comments: true
 slug: "1436_pikaichi"
 ---
 
-# 【No. 1436】<strong><em>Pikaichi</strong></em> (ピカイチ - Best of the Bunch)
+# 【No. 1436】<strong><em>Pikaichi</em></strong> (ピカイチ - Best of the Bunch)
 <div class="date">Nov 23, 2018 19:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Pikaichi</strong></em><br/><br/>When describing something/someone that is the best among many things/people, you can use the Japanese <strong><em>pikaichi</em></strong> (ピカイチ).<br/><br/>This term comes from <strong><em>hana-awase</em></strong> (花合わせ), which is one of the ways of playing traditional Japanese card <strong><em>hanafuda</em></strong> (花札 - literally "flower cards").<br/><br/>There are mainly four types of cards in hanafuda: 1 point cards called <strong><em>kasu-fuda</em></strong> (カス札 - literally "garbage card"), 5 point cards, 10 point cards, and 20 point cards called <strong><em>hikari-fuda</em></strong> (光札 - literally "shining cards").<br/><br/>In the hana-awase, firstly seven cards are handed out to each participant.<br/><br/>At this time, when someone had six kasu-fudas and one hikari-fuda, it was called <strong><em>picaichi</em></strong> (ピカイチ - literally "one pika/hikari"), and it has come to have its current meaning.
+<strong><em>Pikaichi</em></strong><br/><br/>When describing something/someone that is the best among many things/people, you can use the Japanese <strong><em>pikaichi</em></strong> (ピカイチ).<br/><br/>This term comes from <strong><em>hana-awase</em></strong> (花合わせ), which is one of the ways of playing traditional Japanese card <strong><em>hanafuda</em></strong> (花札 - literally "flower cards").<br/><br/>There are mainly four types of cards in hanafuda: 1 point cards called <strong><em>kasu-fuda</em></strong> (カス札 - literally "garbage card"), 5 point cards, 10 point cards, and 20 point cards called <strong><em>hikari-fuda</em></strong> (光札 - literally "shining cards").<br/><br/>In the hana-awase, firstly seven cards are handed out to each participant.<br/><br/>At this time, when someone had six kasu-fudas and one hikari-fuda, it was called <strong><em>picaichi</em></strong> (ピカイチ - literally "one pika/hikari"), and it has come to have its current meaning.
 </div></div>
 
 <!-- more -->

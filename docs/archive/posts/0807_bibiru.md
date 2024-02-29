@@ -8,7 +8,7 @@ comments: true
 slug: "0807_bibiru"
 ---
 
-# 【No. 0807】<strong><em>Bibiru</strong></em> (To Be Scared)
+# 【No. 0807】<strong><em>Bibiru</em></strong> (To Be Scared)
 <div class="date">Mar 4, 2017 09:15</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese term "bibiru."<br/><br/>"Bibiru" means to be scared or feel intimidated.<br/><br/>We often regard this word as a slang term that is used by young people, but actually this word has been used since the Heian period.<br/><br/>Originally, "bibiru" was "bibiru oto" (bibiru sound), and it referred to chattering sounds arising from armors when numerous army moved.<br/>(The onomatopoeia of the sound was "binbin.")<br/><br/>Also, it is said that an army ran away by considering sounds of birds flying off at once as enemy's "bibiru sound."<br/><br/>From this story, "bibiru" became to be used to mean to be scared.

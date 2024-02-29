@@ -8,7 +8,7 @@ comments: true
 slug: "1295_wan-wan-and-nyan-nyan"
 ---
 
-# 【No. 1295】<strong><em>Wan Wan and Nyan Nyan</strong></em> (ワンワンとニャンニャン- Doggie and Kitty)
+# 【No. 1295】<strong><em>Wan Wan and Nyan Nyan</em></strong> (ワンワンとニャンニャン- Doggie and Kitty)
 <div class="date">Jul 5, 2018 19:48</div>
 <div id="post"><div id="body_show_ori">
 I would like to write about cats and dogs continuing from yesterday.<br/><br/>In Japan, a dog bark is represented as "wan wan" (ワンワン), and a cat's cry is represented as "nyan nyan" (ニャンニャン).<br/><br/>These terms are used not only as cries but also as baby words that refer the animal itself.<br/><br/>That is to say, "wan wan" and "nyan nyan" can mean <em>dog</em> and <em>cat,</em> respectively.<br/><br/>I think that these words correspond to <em>doggie,</em> <em>kitty,</em> or <em>meow</em> in English.<br/><br/>However, please note that somehow <em>nyan nyan</em> sometimes mean sexual activity.

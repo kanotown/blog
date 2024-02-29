@@ -8,10 +8,10 @@ comments: true
 slug: "1593_iromegane"
 ---
 
-# 【No. 1593】<strong><em>Iromegane</strong></em> (色眼鏡 - Colored Glasses)
+# 【No. 1593】<strong><em>Iromegane</em></strong> (色眼鏡 - Colored Glasses)
 <div class="date">Apr 29, 2019 20:41</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Iromegane</strong></em><br/><br/>I introduced you to the <strong><em>megane</em></strong> (眼鏡 - "glasses") two days ago, and introduced <strong><em>mushimegane</em></strong> (虫眼鏡 - "magnifying glass") yesterday.<br/><br/>Today I would like to talk about the Japanese <strong><em>iromegane</em></strong> (色眼鏡).<br/><br/>Since <strong><em>iro</em></strong> (色) means "color" and <strong><em>megane</em></strong> (眼鏡) means "glasses," the literal meaning of <em>iromegane</em> is "colored glasses."<br/><br/>Of course, <em>iromegane</em> can mean a pair of colored glasses such as sunglasses.<br/><br/>However, I think that it is often used to mean that someone looks on something from a biased perspective.<br/><br/>[Example] <strong><em>Kare wa itsumo iromegane de hito wo miru</em></strong> (彼はいつも色眼鏡で人を見る - He always looks on people from a biased perspective).
+<strong><em>Iromegane</em></strong><br/><br/>I introduced you to the <strong><em>megane</em></strong> (眼鏡 - "glasses") two days ago, and introduced <strong><em>mushimegane</em></strong> (虫眼鏡 - "magnifying glass") yesterday.<br/><br/>Today I would like to talk about the Japanese <strong><em>iromegane</em></strong> (色眼鏡).<br/><br/>Since <strong><em>iro</em></strong> (色) means "color" and <strong><em>megane</em></strong> (眼鏡) means "glasses," the literal meaning of <em>iromegane</em> is "colored glasses."<br/><br/>Of course, <em>iromegane</em> can mean a pair of colored glasses such as sunglasses.<br/><br/>However, I think that it is often used to mean that someone looks on something from a biased perspective.<br/><br/>[Example] <strong><em>Kare wa itsumo iromegane de hito wo miru</em></strong> (彼はいつも色眼鏡で人を見る - He always looks on people from a biased perspective).
 </div></div>
 
 <!-- more -->

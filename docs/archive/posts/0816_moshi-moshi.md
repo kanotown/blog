@@ -8,7 +8,7 @@ comments: true
 slug: "0816_moshi-moshi"
 ---
 
-# 【No. 0816】<strong><em>Moshi Moshi</strong></em> (Hello)
+# 【No. 0816】<strong><em>Moshi Moshi</em></strong> (Hello)
 <div class="date">Mar 13, 2017 00:24</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the expression "moshi moshi," which is often used on a daily basis.<br/><br/>"Moshi moshi" is used when you want to address someone, especially make a call.<br/><br/>This expression comes from a verb "mousu," which means "to talk from now."<br/><br/>Formerly, "mousu mousu" and "moushimasu moushimasu" were used by repeating "mousu," but now it's called "moshi moshi" for short.<br/><br/>Incidentally, another expression "oi oi" was used when telephones were opened at first in Japan.<br/><br/>However, since "oi oi" was a little rude expression used by men, before long it was no longer in use.<br/>

@@ -8,10 +8,10 @@ comments: true
 slug: "2242_muga-muchu"
 ---
 
-# 【No. 2242】<strong><em>Muga Muchū</strong></em> (無我夢中 - Becoming Engrossed)
+# 【No. 2242】<strong><em>Muga Muchū</em></strong> (無我夢中 - Becoming Engrossed)
 <div class="date">Dec 11, 2023 19:57</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Muga Muchū</strong></em><br/><br/>The four-character idiom <strong><em>muga muchū</em></strong> (無我夢中) describes a situation where someone is so engrossed in something that they lose themselves.<br/><br/>Since <strong><em>mu</em></strong> (無) neas "none" or "losing," and <strong><em>ga</em></strong> (我) means "self," <strong><em>muga</em></strong> (無我) means "losing oneself."<br/><br/>In addition, <strong><em>mu</em></strong> (夢) means "dream," and <strong><em>chū</em></strong> (中) means "in," so <strong><em>muchū</em></strong> (夢中) means "to be engrossed in something as if in a dream."<br/><br/>Here, <em>muga</em> is used to enhance <em>muchū</em>.<br/><br/>In other words, this idiom indicates a state of being completely absorbed in something and forgetting oneself.
+<strong><em>Muga Muchū</em></strong><br/><br/>The four-character idiom <strong><em>muga muchū</em></strong> (無我夢中) describes a situation where someone is so engrossed in something that they lose themselves.<br/><br/>Since <strong><em>mu</em></strong> (無) neas "none" or "losing," and <strong><em>ga</em></strong> (我) means "self," <strong><em>muga</em></strong> (無我) means "losing oneself."<br/><br/>In addition, <strong><em>mu</em></strong> (夢) means "dream," and <strong><em>chū</em></strong> (中) means "in," so <strong><em>muchū</em></strong> (夢中) means "to be engrossed in something as if in a dream."<br/><br/>Here, <em>muga</em> is used to enhance <em>muchū</em>.<br/><br/>In other words, this idiom indicates a state of being completely absorbed in something and forgetting oneself.
 </div></div>
 
 <!-- more -->

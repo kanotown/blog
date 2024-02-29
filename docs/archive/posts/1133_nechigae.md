@@ -8,7 +8,7 @@ comments: true
 slug: "1133_nechigae"
 ---
 
-# 【No. 1133】<strong><em>Nechigae</strong></em> (寝違え - Sprained Neck)
+# 【No. 1133】<strong><em>Nechigae</em></strong> (寝違え - Sprained Neck)
 <div class="date">Jan 24, 2018 22:56</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, maybe I got a bad symptom called 寝違え (nechigae).<br/><br/>"Nechigae" refers to a symptom accompanied with pain (especially around the neck) like muscle ache, which is caused by unnatural posture while sleeping.<br/><br/>Here, 寝 (ne) means "sleep," and 違え (chigae) means "difference" or "disagreement."<br/><br/>Therefore, it is thought that this term implies that the sleeping is different from the correct way.<br/><br/>If you want to this term as a verb, you can say 寝違える (nechigaeru).<br/><br/>Since the pain of "nechigae" this time is really strong, I will go to a hospital if it continues until tomorrow.

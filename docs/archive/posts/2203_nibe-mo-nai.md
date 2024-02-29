@@ -8,10 +8,10 @@ comments: true
 slug: "2203_nibe-mo-nai"
 ---
 
-# 【No. 2203】<strong><em>Nibe mo Nai</strong></em> (にべもない - Blunt)
+# 【No. 2203】<strong><em>Nibe mo Nai</em></strong> (にべもない - Blunt)
 <div class="date">Nov 2, 2023 23:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nibe mo Nai</strong></em><br/><br/>People who are unsociable or blunt are sometimes described as <strong><em>nibe mo nai</em></strong> (にべもない).<br/><br/><strong><em>Nibe</em></strong> (にべ - meaning "nibea mitsukurii") is the kind of fish belonging to the order Perciformes, known as a premium ingredient for kamaboko (a type of fish cake).<br/><br/>In the past, a glue material called <strong><em>nikawa</em></strong> (膠) was made from the large air bladder of the nibea mitsukurii.<br/><br/>Since the <em>nikawa</em> made from <em>nibe</em> had strong adhesive properties, <em>nibe</em> came to mean sociability or flattery. Later, by pairing it with the negative word <strong><em>nai</em></strong> (ない), the above expression <em>nibe mo nai</em> was coined.
+<strong><em>Nibe mo Nai</em></strong><br/><br/>People who are unsociable or blunt are sometimes described as <strong><em>nibe mo nai</em></strong> (にべもない).<br/><br/><strong><em>Nibe</em></strong> (にべ - meaning "nibea mitsukurii") is the kind of fish belonging to the order Perciformes, known as a premium ingredient for kamaboko (a type of fish cake).<br/><br/>In the past, a glue material called <strong><em>nikawa</em></strong> (膠) was made from the large air bladder of the nibea mitsukurii.<br/><br/>Since the <em>nikawa</em> made from <em>nibe</em> had strong adhesive properties, <em>nibe</em> came to mean sociability or flattery. Later, by pairing it with the negative word <strong><em>nai</em></strong> (ない), the above expression <em>nibe mo nai</em> was coined.
 </div></div>
 
 <!-- more -->

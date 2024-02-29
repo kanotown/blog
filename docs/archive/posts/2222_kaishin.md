@@ -8,10 +8,10 @@ comments: true
 slug: "2222_kaishin"
 ---
 
-# 【No. 2222】<strong><em>Kaishin</strong></em> (会心 - Satisfaction)
+# 【No. 2222】<strong><em>Kaishin</em></strong> (会心 - Satisfaction)
 <div class="date">Nov 21, 2023 12:46</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kaishin</strong></em><br/><br/>The Japanese term <strong><em>kaishin</em></strong> (会心) is used to describe the feeling of satisfaction when things turn out the way as one wants.<br/><br/><strong><em>Kai</em></strong> (会) means "to satisfy," and <strong><em>shin</em></strong> (心) means "heart." Therefore, the literal meaning of <em>kaishin</em> is "to satisfy one's heart," which leads to the above meaning.<br/><br/><em>Kaishin</em> is often used to modify a noun.<br/><br/>Here are some examples:<br/><br/><strong><em>Kaishin no emi</em></strong> (会心の笑み) - A satisfied smile that naturally appears when things turn out as one wants.<br/><br/><strong><em>Kaishin no saku</em></strong> (会心の作) - A satisfactory work when it has been done as desired.<br/><br/><strong><em>Kaishin no Ichigeki</em></strong> (会心の一撃) - An effective blow that went exactly as desired. This expression is mainly used in the video game "Dragon Quest" series to mean "critical hit."
+<strong><em>Kaishin</em></strong><br/><br/>The Japanese term <strong><em>kaishin</em></strong> (会心) is used to describe the feeling of satisfaction when things turn out the way as one wants.<br/><br/><strong><em>Kai</em></strong> (会) means "to satisfy," and <strong><em>shin</em></strong> (心) means "heart." Therefore, the literal meaning of <em>kaishin</em> is "to satisfy one's heart," which leads to the above meaning.<br/><br/><em>Kaishin</em> is often used to modify a noun.<br/><br/>Here are some examples:<br/><br/><strong><em>Kaishin no emi</em></strong> (会心の笑み) - A satisfied smile that naturally appears when things turn out as one wants.<br/><br/><strong><em>Kaishin no saku</em></strong> (会心の作) - A satisfactory work when it has been done as desired.<br/><br/><strong><em>Kaishin no Ichigeki</em></strong> (会心の一撃) - An effective blow that went exactly as desired. This expression is mainly used in the video game "Dragon Quest" series to mean "critical hit."
 </div></div>
 
 <!-- more -->

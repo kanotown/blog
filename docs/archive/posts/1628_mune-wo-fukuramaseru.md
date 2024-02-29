@@ -8,10 +8,10 @@ comments: true
 slug: "1628_mune-wo-fukuramaseru"
 ---
 
-# 【No. 1628】<strong><em>Mune wo Fukuramaseru</strong></em> (胸をふくらませる - Full of Hope)
+# 【No. 1628】<strong><em>Mune wo Fukuramaseru</em></strong> (胸をふくらませる - Full of Hope)
 <div class="date">Jun 3, 2019 15:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mune wo Fukuramaseru</strong></em><br/><br/>Yesterday, I introduced you to the Japanese expression <strong><em>mune wo haru</em></strong> (胸を張る).<br/><br/>The literal meaning of <em>mune wo haru</em> is "to stretch one's chest," but it actually expresses someone's confident, imposing or proud attitude.<br/><br/>To express the same meaning as this in English, you can say "to puff one's chest up."<br/><br/>On the other hand, the literal translation of "to puff one's chest up" into Japanese is <strong><em>mune wo fukuramaseru</em></strong> (胸をふくらませる), and this Japanese expression means that someone is full of joy and hope.
+<strong><em>Mune wo Fukuramaseru</em></strong><br/><br/>Yesterday, I introduced you to the Japanese expression <strong><em>mune wo haru</em></strong> (胸を張る).<br/><br/>The literal meaning of <em>mune wo haru</em> is "to stretch one's chest," but it actually expresses someone's confident, imposing or proud attitude.<br/><br/>To express the same meaning as this in English, you can say "to puff one's chest up."<br/><br/>On the other hand, the literal translation of "to puff one's chest up" into Japanese is <strong><em>mune wo fukuramaseru</em></strong> (胸をふくらませる), and this Japanese expression means that someone is full of joy and hope.
 </div></div>
 
 <!-- more -->

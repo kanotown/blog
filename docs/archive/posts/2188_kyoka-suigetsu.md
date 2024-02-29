@@ -8,10 +8,10 @@ comments: true
 slug: "2188_kyoka-suigetsu"
 ---
 
-# 【No. 2188】<strong><em>Kyōka Suigetsu</strong></em> (鏡花水月 - Phantom)
+# 【No. 2188】<strong><em>Kyōka Suigetsu</em></strong> (鏡花水月 - Phantom)
 <div class="date">Oct 18, 2023 17:25</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kyōka Suigetsu</strong></em><br/><br/>Beautiful things or phantoms that we can see but cannot touch are sometimes described as <strong><em>kyōka suigetsu</em></strong> (鏡花水月).<br/><br/>Since <strong><em>kyō</em></strong> (鏡) means "mirror," <strong><em>ka</em></strong> (花) means "flower," <strong><em>kyōka</em></strong> (鏡花) means "flowers in a mirror."<br/><br/>In addition, <strong><em>sui</em></strong> (水) means "water," and <strong><em>getsu</em></strong> (月) means "moon," so <strong><em>suigetsu</em></strong> (水月) means "a moon reflected on the water."<br/><br/>As can be seen from their literal meanings, both <em>kyōka</em> and <em>suigetsu</em> are visible but cannot be held in your hands.<br/><br/>This is why the four-character idiom <em>kyōka suigetsu</em> has come to hold its current meaning.
+<strong><em>Kyōka Suigetsu</em></strong><br/><br/>Beautiful things or phantoms that we can see but cannot touch are sometimes described as <strong><em>kyōka suigetsu</em></strong> (鏡花水月).<br/><br/>Since <strong><em>kyō</em></strong> (鏡) means "mirror," <strong><em>ka</em></strong> (花) means "flower," <strong><em>kyōka</em></strong> (鏡花) means "flowers in a mirror."<br/><br/>In addition, <strong><em>sui</em></strong> (水) means "water," and <strong><em>getsu</em></strong> (月) means "moon," so <strong><em>suigetsu</em></strong> (水月) means "a moon reflected on the water."<br/><br/>As can be seen from their literal meanings, both <em>kyōka</em> and <em>suigetsu</em> are visible but cannot be held in your hands.<br/><br/>This is why the four-character idiom <em>kyōka suigetsu</em> has come to hold its current meaning.
 </div></div>
 
 <!-- more -->

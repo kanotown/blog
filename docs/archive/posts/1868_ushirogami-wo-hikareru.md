@@ -8,10 +8,10 @@ comments: true
 slug: "1868_ushirogami-wo-hikareru"
 ---
 
-# 【No. 1868】<strong><em>Ushirogami wo Hikareru</strong></em> (後ろ髪を引かれる - With Painful Reluctance)
+# 【No. 1868】<strong><em>Ushirogami wo Hikareru</em></strong> (後ろ髪を引かれる - With Painful Reluctance)
 <div class="date">Jun 7, 2021 23:30</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ushirogami wo Hikareru</strong></em><br/><br/>When you are unable to move on due to regrets, it can be described as <strong><em>ushirogami wo hikareru</em></strong> (後ろ髪を引かれる) in Japanese.<br/><br/>Since <strong><em>ushiro</em></strong> (後ろ) means "back/behind," <strong><em>kami/gami</em></strong> (髪) means "hair," and <strong><em>hikareru</em></strong> (引かれる) means "pulled (by someone)," the literal meaning of <em>ushirogami wo hikareru</em> is "the hair on the back of one's head is pulled by someone."<br/><br/>This expression was coined as the feeling of regrets is similar to the sense of having the hair on the back of one's head pulled from behind.<br/><br/>In the past, many Japanese men wore their hair long (especially on the back of the head) to tie a topknot, which may have led to the creation of this expression.
+<strong><em>Ushirogami wo Hikareru</em></strong><br/><br/>When you are unable to move on due to regrets, it can be described as <strong><em>ushirogami wo hikareru</em></strong> (後ろ髪を引かれる) in Japanese.<br/><br/>Since <strong><em>ushiro</em></strong> (後ろ) means "back/behind," <strong><em>kami/gami</em></strong> (髪) means "hair," and <strong><em>hikareru</em></strong> (引かれる) means "pulled (by someone)," the literal meaning of <em>ushirogami wo hikareru</em> is "the hair on the back of one's head is pulled by someone."<br/><br/>This expression was coined as the feeling of regrets is similar to the sense of having the hair on the back of one's head pulled from behind.<br/><br/>In the past, many Japanese men wore their hair long (especially on the back of the head) to tie a topknot, which may have led to the creation of this expression.
 </div></div>
 
 <!-- more -->

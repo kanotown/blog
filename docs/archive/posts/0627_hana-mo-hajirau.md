@@ -8,7 +8,7 @@ comments: true
 slug: "0627_hana-mo-hajirau"
 ---
 
-# 【No. 0627】<strong><em>Hana mo Hajirau</strong></em> (Even Flowers Get Shy)
+# 【No. 0627】<strong><em>Hana mo Hajirau</em></strong> (Even Flowers Get Shy)
 <div class="date">Sep 5, 2016 01:31</div>
 <div id="post"><div id="body_show_ori">
 Today, I'd like to talk about the Japanese adjective "hana mo hajirau."<br/><br/>This is used to describe that a young woman is greenly and beautiful.<br/><br/>The literal meaning is "even flowers get shy," that is to say, it implies that the woman is so beautiful it makes even beautiful flowers feel inferior and get shy.<br/><br/>For example, this adjective is used as: "hana mo hajirau otome," or "hana mo hajirau otoshigoro."<br/><br/>"Otome" means a maiden, and "otoshigoro" means puberty, but I think that both of above example sentences can be translated into "a girl in the first flush of youth" in English.<br/><br/>As of this adjective, the Japanese language often uses flowers when describing the beauty of women.

@@ -8,7 +8,7 @@ comments: true
 slug: "1065_kaze-wo-hiku"
 ---
 
-# 【No. 1065】<strong><em>Kaze wo Hiku</strong></em> (風邪をひく - Catching a Cold)
+# 【No. 1065】<strong><em>Kaze wo Hiku</em></strong> (風邪をひく - Catching a Cold)
 <div class="date">Nov 17, 2017 13:39</div>
 <div id="post"><div id="body_show_ori">
 There are various diseases in the world.<br/><br/>Japanese people usually say "(disease name) ni kakaru" or "(disease name) wo wazurau" when they catch the disease.<br/><br/>Of course you can say "kaze ni kakaru" (風邪にかかる) or "kaze wo wazurau" (風邪を患う) -- where "kaze" means "cold."<br/><br/>However, only in the case of "kaze," we often say "kaze wo hiku" (風邪をひく).<br/><br/>The "hiku" means "to drag," and it seems to be derived from the fact that ancient Chinese people thought that you would catch a cold when dragging bad vibes into your body.<br/><br/>By the way, I'm having a cold now.

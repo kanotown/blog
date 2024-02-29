@@ -8,10 +8,10 @@ comments: true
 slug: "1732_atarimaeda-no-kurakka"
 ---
 
-# 【No. 1732】<strong><em>Atarimaeda no Kurakkā</strong></em> (あたり前田のクラッカー)
+# 【No. 1732】<strong><em>Atarimaeda no Kurakkā</em></strong> (あたり前田のクラッカー)
 <div class="date">Sep 14, 2019 11:43</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Atarimaeda no Kurakkā</strong></em><br/><br/>Two days ago, I introduced the term <strong><em>atarimae</em></strong> (当たり前), which means "of course" or "natural(ly)."<br/><br/>There is a famous old pun that uses <em>atarimae</em> -- it is <strong><em>atarimaeda no kurakkā</em></strong> (あたり前田のクラッカー).<br/><br/>This pun became popular due to a TV commercial that was broadcast in the 1960s by a Japanese confectionery company named Maeda Seika, which specializes in crackers and biscuits.<br/><br/>It was made by just connecting <em>atarimae</em> and <strong><em>Maeda no kurakkā</em></strong> (前田のクラッカー - "Maeda's Cracker") -- it has no profound meaning.<br/><br/>In the past, many people said <em>atarimaeda no kurakkā</em> instead of saying <em>atarimae</em>.
+<strong><em>Atarimaeda no Kurakkā</em></strong><br/><br/>Two days ago, I introduced the term <strong><em>atarimae</em></strong> (当たり前), which means "of course" or "natural(ly)."<br/><br/>There is a famous old pun that uses <em>atarimae</em> -- it is <strong><em>atarimaeda no kurakkā</em></strong> (あたり前田のクラッカー).<br/><br/>This pun became popular due to a TV commercial that was broadcast in the 1960s by a Japanese confectionery company named Maeda Seika, which specializes in crackers and biscuits.<br/><br/>It was made by just connecting <em>atarimae</em> and <strong><em>Maeda no kurakkā</em></strong> (前田のクラッカー - "Maeda's Cracker") -- it has no profound meaning.<br/><br/>In the past, many people said <em>atarimaeda no kurakkā</em> instead of saying <em>atarimae</em>.
 </div></div>
 
 <!-- more -->

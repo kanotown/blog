@@ -8,7 +8,7 @@ comments: true
 slug: "1310_bikkuri"
 ---
 
-# 【No. 1310】<strong><em>Bikkuri</strong></em> (びっくり- Surprise)
+# 【No. 1310】<strong><em>Bikkuri</em></strong> (びっくり- Surprise)
 <div class="date">Jul 20, 2018 16:02</div>
 <div id="post"><div id="body_show_ori">
 There are a lot of <em>surprises</em> in our life.<br/><br/>In Japan, surprises are referred to as <strong><em>bikkuri</em></strong> (びっくり) in spoken language.<br/><br/>This term was derived from the onomatopoeia <strong><em>biku</em></strong> (びく), which represents a slight movement.<br/><br/>Since your body would move slightly when you are surprised, <em>bikkuri</em> has come to mean 'surprises.'<br/><br/>There is another onomatopoeia that represents a light movement, <strong><em>pikuri</em></strong> (ぴくり), but we never say <strong><em>pikkuri</em></strong> (ぴっくり).<br/><br/>Incidentally, the exclamation mark '!' is called "bikkuri māku" (びっくりマーク) in Japan.

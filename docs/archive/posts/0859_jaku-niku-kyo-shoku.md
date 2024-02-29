@@ -8,7 +8,7 @@ comments: true
 slug: "0859_jaku-niku-kyo-shoku"
 ---
 
-# 【No. 0859】<strong><em>Jaku Niku Kyo Shoku</strong></em> (The Jungle Law)
+# 【No. 0859】<strong><em>Jaku Niku Kyo Shoku</em></strong> (The Jungle Law)
 <div class="date">Apr 25, 2017 19:47</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the four-character idiom "jaku niku kyo shoku" (弱肉強食).<br/><br/>"Jaku" means "weak," "niku" means "meat," "kyo" means "strong," "shoku" means "eat," and this idiom means a world/society that weak ones become preys of strong ones -- the results depends directly on the differences in ability.<br/><br/>This idiom comes from "弱之肉、強之食," meaning "weak is the meat, strong eats it," written by a Chinese literati called Han Yu.<br/><br/>Before biology was developed, since people thought that carnivorous animals were strong and herbivorous animals were just preys, such an idiom was born by applying it to human society.<br/><br/>However, recently it has been cleared that predation is not easy in actual nature, and the number of herbivorous animals greatly affect the survival of carnivorous animals.<br/><br/>Therefore, it is said that "kyozon kyoei" (co-existence and co-prosperity) or "tekisha seizon" (survival of the fittest) is more appropriate than "jaku niku kyo shoku" as a term for describing the natural world (the jungle law).

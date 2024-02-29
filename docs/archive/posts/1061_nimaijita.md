@@ -8,7 +8,7 @@ comments: true
 slug: "1061_nimaijita"
 ---
 
-# 【No. 1061】<strong><em>Nimaijita</strong></em> (二枚舌 - Double Tongue)
+# 【No. 1061】<strong><em>Nimaijita</em></strong> (二枚舌 - Double Tongue)
 <div class="date">Nov 13, 2017 11:33</div>
 <div id="post"><div id="body_show_ori">
 There are several Japanese expressions that means to tell a lie.<br/><br/>The term "nimaijita" (二枚舌) is one of them.<br/><br/>The "nimai" (二枚) means "two pieces," and the "jita/shita" (舌) means "tongue," so the literal meaning of "nimaijita" is "two tongues."<br/><br/>However, this term is used to mean that someone tells a lie or say contradictory things.<br/><br/>Since people who say lies or contradictions fluently are as if they have two tongues and each one says different things, this term has come to be used.<br/><br/>Incidentally, today I learned English has a similar expression -- "speaking with a forked tongue" means to tell a lie.

@@ -8,7 +8,7 @@ comments: true
 slug: "1609_kenka-goshi-and-yowa-goshi"
 ---
 
-# 【No. 1609】<strong><em>Kenka-goshi and Yowa-goshi</strong></em> (喧嘩腰と弱腰 - Defiant Attitude and Bearish Attitude)
+# 【No. 1609】<strong><em>Kenka-goshi and Yowa-goshi</em></strong> (喧嘩腰と弱腰 - Defiant Attitude and Bearish Attitude)
 <div class="date">May 15, 2019 23:27</div>
 <div id="post"><div id="body_show_ori">
 Kengka-goshi and Yowa-goshi<br/><br/>In my post yesterday, I used the Japanese term <strong><em>kenka-goshi</em></strong> (喧嘩腰), which means an attitude that you are about to start a fight/quarrel. <br/><br/>Since <em>kenka</em> means "fight/quarrel" and <strong><em>goshi/koshi</em></strong> (腰) means "waist," the literal meaning of <em>kenkagoshi</em> is "a fight waist." <br/><br/>This is because the waist portion looks characteristics when getting ready for a fight.<br/><br/>Contrary to <em>kenka-goshi</em>, there is another term <strong><em>yowa-gosi</em></strong> (弱腰), which means a bearish or negative attitude.<br/><br/>Since <strong><em>yowa</em></strong> (弱) means "weak," the literal meaning of <em>yowa-goshi</em> is "a weak waist."

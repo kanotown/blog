@@ -8,10 +8,10 @@ comments: true
 slug: "1420_boro-ga-deru"
 ---
 
-# 【No. 1420】<strong><em>Boro ga Deru</strong></em> (ぼろが出る - Letting One's Fault Reveal Unexpectedly)
+# 【No. 1420】<strong><em>Boro ga Deru</em></strong> (ぼろが出る - Letting One's Fault Reveal Unexpectedly)
 <div class="date">Nov 7, 2018 22:30</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Boro ga Deru</strong></em><br/><br/>Have you ever let your secret faults reveal unexpectedly?<br/><br/>Such a situation can be described as <strong><em>boro ga deru</em></strong> (ぼろが出る) in Japanese.<br/><br/><strong><em>Boro</em></strong> (ぼろ) means shabby clothes, and it comes from an onomatopoeia <strong><em>boro boro</em></strong> (ぼろぼろ), which describes that something is damaged.<br/><br/>Since people do not want to show their shabby clothes, <em>boro</em> can also mean "fault" or "mistake."<br/><br/>In addition, <strong><em>deru</em></strong> (出る) means "to come out."<br/><br/>That is to say, <em>boro ga deru</em> means that "a fault comes out."
+<strong><em>Boro ga Deru</em></strong><br/><br/>Have you ever let your secret faults reveal unexpectedly?<br/><br/>Such a situation can be described as <strong><em>boro ga deru</em></strong> (ぼろが出る) in Japanese.<br/><br/><strong><em>Boro</em></strong> (ぼろ) means shabby clothes, and it comes from an onomatopoeia <strong><em>boro boro</em></strong> (ぼろぼろ), which describes that something is damaged.<br/><br/>Since people do not want to show their shabby clothes, <em>boro</em> can also mean "fault" or "mistake."<br/><br/>In addition, <strong><em>deru</em></strong> (出る) means "to come out."<br/><br/>That is to say, <em>boro ga deru</em> means that "a fault comes out."
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1279_usotsuki-wa-dorobou-no-hajimari"
 ---
 
-# 【No. 1279】<strong><em>Usotsuki wa dorobou no hajimari</strong></em> (嘘つきは泥棒の始まり - He that will Lie will Steal)
+# 【No. 1279】<strong><em>Usotsuki wa dorobou no hajimari</em></strong> (嘘つきは泥棒の始まり - He that will Lie will Steal)
 <div class="date">Jun 19, 2018 17:08</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Usotsuki wa dorobou no hajimari</strong></em><br/><br/>I think that many people have had a lie at least several times.<br/><br/>There is a Japanese proverb that is related to a lie -- it is "usotsuki wa dorobou no hajimari" (嘘つきは泥棒の始まり).<br/><br/>Usotsuki (嘘つき) means <em>lying</em> or <em>liar,</em> dorobou (泥棒) means <em>thief</em> or <em>stealing,</em> and hajimari (始まり) means <em>beginning,</em> so the literal meaning of this proverb is "lying is the beginning of stealing."<br/><br/>That is to say, this proverb means that if you come to have no qualms about telling lies, you will do something bad like stealing.<br/><br/>Incidentally, when I was searching for this proverb, I found that several similar English expressions; these are "He that will lie will steal" and "Lying and stealing are next door neighbors."
+<strong><em>Usotsuki wa dorobou no hajimari</em></strong><br/><br/>I think that many people have had a lie at least several times.<br/><br/>There is a Japanese proverb that is related to a lie -- it is "usotsuki wa dorobou no hajimari" (嘘つきは泥棒の始まり).<br/><br/>Usotsuki (嘘つき) means <em>lying</em> or <em>liar,</em> dorobou (泥棒) means <em>thief</em> or <em>stealing,</em> and hajimari (始まり) means <em>beginning,</em> so the literal meaning of this proverb is "lying is the beginning of stealing."<br/><br/>That is to say, this proverb means that if you come to have no qualms about telling lies, you will do something bad like stealing.<br/><br/>Incidentally, when I was searching for this proverb, I found that several similar English expressions; these are "He that will lie will steal" and "Lying and stealing are next door neighbors."
 </div></div>
 
 <!-- more -->

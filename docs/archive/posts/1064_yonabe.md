@@ -8,7 +8,7 @@ comments: true
 slug: "1064_yonabe"
 ---
 
-# 【No. 1064】<strong><em>Yonabe</strong></em> (夜なべ - Nightwork)
+# 【No. 1064】<strong><em>Yonabe</em></strong> (夜なべ - Nightwork)
 <div class="date">Nov 16, 2017 06:02</div>
 <div id="post"><div id="body_show_ori">
 Now I'm doing my work, which is called "yonabe" (夜なべ).<br/><br/>"Yonabe" means a work that is done in the middle of the night.<br/><br/>The "yo" (夜) means "night," but there are several theories about what the "nabe" (なべ) means.<br/><br/>The most accepted theory says that the "nabe" is written in kanji as"鍋," which means a one pot dish.<br/><br/>According to this theory, the word "yonabe" comes from the fact that people work at night while eating "nabe" (one pot dish).<br/><br/>Also, another theory says that "nabe" is written in kanji as "延べ," which means "extension" -- this implies that your work is extended until night.

@@ -8,10 +8,10 @@ comments: true
 slug: "1797_tamago-kake-gohan"
 ---
 
-# 【No. 1797】<strong><em>Tamago Kake Gohan</strong></em> (卵かけご飯 - Egg on Rice) Part 1
+# 【No. 1797】<strong><em>Tamago Kake Gohan</em></strong> (卵かけご飯 - Egg on Rice) Part 1
 <div class="date">Mar 28, 2021 17:45</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tamago Kake Gohan</strong></em> Part 1<br/><br/>Japanese people often eat <strong><em>tamago kake gohan</em></strong> (卵かけご飯).<br/><br/><strong><em>Tamago</em></strong> (卵) means "egg," <strong><em>kake</em></strong> (かけ) means "put on," <strong><em>gohan</em></strong> (ご飯) means "rice," and <em>tamago kake gohan</em> literally means "egg (put) on rice."<br/><br/>It is a very simple dish in which a raw egg is stirred with soy sauce and is put on rice.<br/><br/>Some foreigners may be reluctant to eat raw eggs because of the risk of food poisoning.<br/><br/>However, hygiene management for eggs is strictly conducted in Japan, so there is almost no risk of food poisoning.<br/><br/>To be continued.
+<strong><em>Tamago Kake Gohan</em></strong> Part 1<br/><br/>Japanese people often eat <strong><em>tamago kake gohan</em></strong> (卵かけご飯).<br/><br/><strong><em>Tamago</em></strong> (卵) means "egg," <strong><em>kake</em></strong> (かけ) means "put on," <strong><em>gohan</em></strong> (ご飯) means "rice," and <em>tamago kake gohan</em> literally means "egg (put) on rice."<br/><br/>It is a very simple dish in which a raw egg is stirred with soy sauce and is put on rice.<br/><br/>Some foreigners may be reluctant to eat raw eggs because of the risk of food poisoning.<br/><br/>However, hygiene management for eggs is strictly conducted in Japan, so there is almost no risk of food poisoning.<br/><br/>To be continued.
 </div></div>
 
 <!-- more -->

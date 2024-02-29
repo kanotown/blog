@@ -8,10 +8,10 @@ comments: true
 slug: "1876_karitekita-neko"
 ---
 
-# 【No. 1876】<strong><em>Karitekita Neko</strong></em> (借りてきた猫 - Much Quieter than Usual)
+# 【No. 1876】<strong><em>Karitekita Neko</em></strong> (借りてきた猫 - Much Quieter than Usual)
 <div class="date">Jun 15, 2021 22:45</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Karitekita Neko</strong></em><br/><br/>Someone who is much quieter and meeker than usual can be described as <strong><em>karitekita neko</em></strong> (借りてきた猫) in Japanese.<br/><br/>Since <strong><em>karitekita</em></strong> (借りてきた) means "borrowed" amd <strong><em>neko</em></strong> (猫) means "cat," the literal meaning of <em>karitekita neko</em> is "borrowed cat."<br/><br/>In the past, Japanese people often kept cats to catch mice.<br/><br/>However, even if you borrowed a cat from another house to catch mice, the cat would not do its job well in a strange house.<br/><br/>Because of this, the phrase <em>karitekita neko</em> came to have the above meaning.
+<strong><em>Karitekita Neko</em></strong><br/><br/>Someone who is much quieter and meeker than usual can be described as <strong><em>karitekita neko</em></strong> (借りてきた猫) in Japanese.<br/><br/>Since <strong><em>karitekita</em></strong> (借りてきた) means "borrowed" amd <strong><em>neko</em></strong> (猫) means "cat," the literal meaning of <em>karitekita neko</em> is "borrowed cat."<br/><br/>In the past, Japanese people often kept cats to catch mice.<br/><br/>However, even if you borrowed a cat from another house to catch mice, the cat would not do its job well in a strange house.<br/><br/>Because of this, the phrase <em>karitekita neko</em> came to have the above meaning.
 </div></div>
 
 <!-- more -->

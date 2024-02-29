@@ -8,7 +8,7 @@ comments: true
 slug: "1249_ugo-no-takenoko"
 ---
 
-# 【No. 1249】<strong><em>Ugo no Takenoko</strong></em> (雨後の筍 - Appearing in Succession)
+# 【No. 1249】<strong><em>Ugo no Takenoko</em></strong> (雨後の筍 - Appearing in Succession)
 <div class="date">May 20, 2018 16:40</div>
 <div id="post"><div id="body_show_ori">
 When I was reading a news article on the Internet, I found the Japanese idiom ugo no takenoko (雨後の筍), which was used to express that high-rise apartments were built one after another in a city.<br/><br/>Since u (雨) means "rain," go (後) means "after," and takenoko (筍) means "bamboo shoot," the literal meaning of ugo no takenoko is "bamboo shoots after the rain."<br/><br/>It is generally known that after it rains, bamboo shoots grow one after another.<br/><br/>Because of this, Japanese people have come to use this idiom to express that things appear in succession. 

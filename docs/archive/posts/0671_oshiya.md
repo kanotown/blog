@@ -8,7 +8,7 @@ comments: true
 slug: "0671_oshiya"
 ---
 
-# 【No. 0671】<strong><em>Oshiya</strong></em> (Pusher)
+# 【No. 0671】<strong><em>Oshiya</em></strong> (Pusher)
 <div class="date">Oct 19, 2016 08:38</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the interesting Japanese occupation "Oshiya".<br/><br/>Oshiya means people who push passengers and luggage that are protruded from train doors during rush hours.<br/><br/>This occupation was first introduced at Shinjuku station in 1955.<br/><br/>Oshiya are arranged in front of each train doors; roles of them are to induce passengers to relatively unoccupied areas, and to notify the conductor of whether or not doors can be closed, in addition to pushing.<br/><br/>Also, if passengers try to get on a train by head and shoulders, oshiya will pull and get them back to the platform.<br/><br/>At such a case, oshiya (pusher) becomes hagashiya (puller).

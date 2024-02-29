@@ -8,7 +8,7 @@ comments: true
 slug: "0938_yamai-ha-ki-kara"
 ---
 
-# 【No. 0938】<strong><em>Yamai ha Ki kara</strong></em> (病は気から - Care Killed the Cat)
+# 【No. 0938】<strong><em>Yamai ha Ki kara</em></strong> (病は気から - Care Killed the Cat)
 <div class="date">Jul 13, 2017 10:49</div>
 <div id="post"><div id="body_show_ori">
 It has been thought that people become physically sick or recover from it due to their mind.<br/><br/>In fact, there is the prverb, "yamai ha ki kara" (病は気から), which says the thought.<br/><br/>Here "yamai" (病) means "sick," and "ki kara" (気から) means "come from a mind."<br/><br/>There is also the English proverb, "Care killed the cat."<br/><br/>This thought is not just a superstition -- according to a recent study conducted by Osaka University, experiments proved that mental factors such as stress affect immune reactions.<br/><br/>Now further scientific evidences are studying.

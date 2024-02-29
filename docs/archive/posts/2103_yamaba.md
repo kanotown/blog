@@ -8,10 +8,10 @@ comments: true
 slug: "2103_yamaba"
 ---
 
-# 【No. 2103】<strong><em>Yamaba</strong></em> (山場 - A Challenging Situation/Climax)
+# 【No. 2103】<strong><em>Yamaba</em></strong> (山場 - A Challenging Situation/Climax)
 <div class="date">Jul 25, 2023 21:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yamaba</strong></em><br/><br/>Today, I overcame the most challenging day in recent months.<br/><br/>In such situations, you can use the Japanese expressions, <strong><em>yamaba wo koeru</em></strong> (山場を超える) or <strong><em>yamaba wo norikiru</em></strong> (山場を乗り切る).<br/><br/>Since <strong><em>yama</em></strong> (山) means "mountain/peak," and <strong><em>ba</em></strong> (場) means "place," <strong><em>yamaba</em></strong> (山場) refers to "a challenging situation" or "climax."<br/><br/><em>Yamaba</em> can be used in both positive and negative contexts; when pared with verbs such as <strong><em>koeru</em></strong> (越える - meaning "to cross") or <strong><em>norikiru</em></strong> (乗り切る - meaning "to get through"), it often implies overcoming a challenging or difficult situation.
+<strong><em>Yamaba</em></strong><br/><br/>Today, I overcame the most challenging day in recent months.<br/><br/>In such situations, you can use the Japanese expressions, <strong><em>yamaba wo koeru</em></strong> (山場を超える) or <strong><em>yamaba wo norikiru</em></strong> (山場を乗り切る).<br/><br/>Since <strong><em>yama</em></strong> (山) means "mountain/peak," and <strong><em>ba</em></strong> (場) means "place," <strong><em>yamaba</em></strong> (山場) refers to "a challenging situation" or "climax."<br/><br/><em>Yamaba</em> can be used in both positive and negative contexts; when pared with verbs such as <strong><em>koeru</em></strong> (越える - meaning "to cross") or <strong><em>norikiru</em></strong> (乗り切る - meaning "to get through"), it often implies overcoming a challenging or difficult situation.
 </div></div>
 
 <!-- more -->

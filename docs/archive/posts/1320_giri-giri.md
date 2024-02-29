@@ -8,10 +8,10 @@ comments: true
 slug: "1320_giri-giri"
 ---
 
-# 【No. 1320】<strong><em>Giri-giri</strong></em> (ぎりぎり - "Barely")
+# 【No. 1320】<strong><em>Giri-giri</em></strong> (ぎりぎり - "Barely")
 <div class="date">Jul 30, 2018 22:04</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Giri-giri</strong></em><br/><br/>Today I <strong><em>giri-giri</em></strong> (ぎりぎり - "barely") met a deadline.<br/><br/>Giri-giri is an onomatopoeia that represents that something is close to a limit or there is no room, and it is also used as an adverb.<br/><br/>It is thought that <strong><em>giri</em></strong> (ぎり) in giri-giri comes from the Japanese noun <strong><em>kagiri</em></strong> (限り), which means "limit."<br/><br/>When making it just in time, we often say <strong><em>giri-giri sēfu</em></strong> (ぎりぎりセーフ - "barely okay").<br/><br/>On the other hand, when missing something by a hair, we sometimes say <strong><em>giri-giri auto</em></strong> (ぎりぎりアウト - "just failed").
+<strong><em>Giri-giri</em></strong><br/><br/>Today I <strong><em>giri-giri</em></strong> (ぎりぎり - "barely") met a deadline.<br/><br/>Giri-giri is an onomatopoeia that represents that something is close to a limit or there is no room, and it is also used as an adverb.<br/><br/>It is thought that <strong><em>giri</em></strong> (ぎり) in giri-giri comes from the Japanese noun <strong><em>kagiri</em></strong> (限り), which means "limit."<br/><br/>When making it just in time, we often say <strong><em>giri-giri sēfu</em></strong> (ぎりぎりセーフ - "barely okay").<br/><br/>On the other hand, when missing something by a hair, we sometimes say <strong><em>giri-giri auto</em></strong> (ぎりぎりアウト - "just failed").
 </div></div>
 
 <!-- more -->

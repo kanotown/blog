@@ -8,7 +8,7 @@ comments: true
 slug: "0799_tameguchi"
 ---
 
-# 【No. 0799】<strong><em>Tameguchi</strong></em> (Casual Talk)
+# 【No. 0799】<strong><em>Tameguchi</em></strong> (Casual Talk)
 <div class="date">Feb 24, 2017 12:15</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the Japanese slang "tameguchi."<br/><br/>"Tameguchi" means a way of talking that doesn't contain polite expressions in Japanese conversation.<br/><br/>Originally "tame" was a gambling term that meant repeated digits on dice, and it came to be used to mean "equal basis" or "same age" among young people since around 1960s.<br/><br/>By attaching "kuchi," meaning a way of talking, to the "tame," the slang "tameguchi" was born. <br/><br/>Recently in Japan, the number of young people who can't use polite expressions appropriately is increasing.<br/><br/>Please be careful not to use "tameguchi" to older people and strangers.

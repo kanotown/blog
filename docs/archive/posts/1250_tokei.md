@@ -8,7 +8,7 @@ comments: true
 slug: "1250_tokei"
 ---
 
-# 【No. 1250】<strong><em>Tokei</strong></em> (時計 - Clock/Watch)
+# 【No. 1250】<strong><em>Tokei</em></strong> (時計 - Clock/Watch)
 <div class="date">May 21, 2018 18:05</div>
 <div id="post"><div id="body_show_ori">
 A tokei (時計 - clock/watch) is very important to our lives.<br/><br/>Tokei is composed of two kanji: 時 and 計.<br/><br/>Since 時 means "time" and 計 means "measuring," you may think it is reasonable that the composition expresses a clock/watch.<br/><br/>However, the kanji 時 doesn't have the reading of to (と).<br/><br/>Originally, tokei was written as 土圭, and it meant a latitude measuring instrument or a sundial in the Zhou Dynasty in China.<br/><br/>It was imported into Japan in the Muromachi period, and the kanji form was changed to 時計 in the Edo period.

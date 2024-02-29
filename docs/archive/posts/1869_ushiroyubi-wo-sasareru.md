@@ -8,10 +8,10 @@ comments: true
 slug: "1869_ushiroyubi-wo-sasareru"
 ---
 
-# 【No. 1869】<strong><em>Ushiroyubi wo Sasareru</strong></em> (後ろ指を指される - Being Talked Behind One's Back)
+# 【No. 1869】<strong><em>Ushiroyubi wo Sasareru</em></strong> (後ろ指を指される - Being Talked Behind One's Back)
 <div class="date">Jun 8, 2021 11:15</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ushiroyubi wo Sasareru</strong></em><br/><br/>When someone says something bad about you without you knowing it, your situation is described as <strong><em>ushiroyubi wo sasareru</em></strong> (後ろ指を指される) in Japanese.<br/><br/>Since <strong><em>ushiro</em></strong> (後ろ) means "back/behind," <strong><em>yubi</em></strong> (指) means "finger," and <strong><em>sasareru</em></strong> (指される) means "being pointed at (by someone)," the literal meaning of <em>yubi wo sasareru</em> is "being pointed at from behind by someone."<br/><br/>The act of pointing at someone is considered rude in many countries around the world.<br/><br/>This phrase implies that pointing at someone from behind without his/her knowledge is equals to saying badly about him/her.
+<strong><em>Ushiroyubi wo Sasareru</em></strong><br/><br/>When someone says something bad about you without you knowing it, your situation is described as <strong><em>ushiroyubi wo sasareru</em></strong> (後ろ指を指される) in Japanese.<br/><br/>Since <strong><em>ushiro</em></strong> (後ろ) means "back/behind," <strong><em>yubi</em></strong> (指) means "finger," and <strong><em>sasareru</em></strong> (指される) means "being pointed at (by someone)," the literal meaning of <em>yubi wo sasareru</em> is "being pointed at from behind by someone."<br/><br/>The act of pointing at someone is considered rude in many countries around the world.<br/><br/>This phrase implies that pointing at someone from behind without his/her knowledge is equals to saying badly about him/her.
 </div></div>
 
 <!-- more -->

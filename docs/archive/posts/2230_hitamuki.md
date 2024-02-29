@@ -8,10 +8,10 @@ comments: true
 slug: "2230_hitamuki"
 ---
 
-# 【No. 2230】<strong><em>Hitamuki</strong></em> (ひたむき - Single-Minded)
+# 【No. 2230】<strong><em>Hitamuki</em></strong> (ひたむき - Single-Minded)
 <div class="date">Nov 29, 2023 08:20</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hitamuki</strong></em><br/><br/>The Japanese term <strong><em>hitamuki</em></strong> (ひたむき) is used to describe a person who is single-mindedly devoted to a particular thing.<br/><br/><strong><em>Hita</em></strong> (ひた/直) means "single-minded" or "straight," and <strong><em>muki</em></strong> (むき/向き) means "direction."<br/><br/>In other words, <em>hitamuki</em> implies that someone's mind is directed single-mindedly and straight toward something.<br/><br/>In addition, <em>hitamuki</em> includes various positive meanings such as <strong><em>shinshi</em></strong> (真摯 - "sincerity"), <strong><em>nintai zuyosa</em></strong> (忍耐強さ - "perseverance"), and <strong><em>jōnetsu</em></strong> (情熱 - "passion").<br/><br/>I think that a <em>hitamuki</em> person is cool and beautiful.
+<strong><em>Hitamuki</em></strong><br/><br/>The Japanese term <strong><em>hitamuki</em></strong> (ひたむき) is used to describe a person who is single-mindedly devoted to a particular thing.<br/><br/><strong><em>Hita</em></strong> (ひた/直) means "single-minded" or "straight," and <strong><em>muki</em></strong> (むき/向き) means "direction."<br/><br/>In other words, <em>hitamuki</em> implies that someone's mind is directed single-mindedly and straight toward something.<br/><br/>In addition, <em>hitamuki</em> includes various positive meanings such as <strong><em>shinshi</em></strong> (真摯 - "sincerity"), <strong><em>nintai zuyosa</em></strong> (忍耐強さ - "perseverance"), and <strong><em>jōnetsu</em></strong> (情熱 - "passion").<br/><br/>I think that a <em>hitamuki</em> person is cool and beautiful.
 </div></div>
 
 <!-- more -->

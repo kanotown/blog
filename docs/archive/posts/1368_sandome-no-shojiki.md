@@ -8,10 +8,10 @@ comments: true
 slug: "1368_sandome-no-shojiki"
 ---
 
-# 【No. 1368】<strong><em>Sandome no Shōjiki</strong></em> (三度目の正直 - The Third Time's the Charm)
+# 【No. 1368】<strong><em>Sandome no Shōjiki</em></strong> (三度目の正直 - The Third Time's the Charm)
 <div class="date">Sep 16, 2018 22:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sandome no Shōjiki</strong></em><br/><br/>Recently I have been looking for a new job.<br/><br/>Unfortunately, I failed in job interviews several times, but it seems that somehow I would pass the interview last week.<br/><br/>If you want to express that the first and second time would not go well, but the third time would go well like my case, you can use a Japanese proverb, <strong><em>sandome no shōjiki</em></strong> (三度目の正直).<br/><br/><strong><em>San</em></strong> (三) means "three," <strong><em>dome</em></strong> (度目) means "__ times" or "__th," and <em>shōjiki</em> means "sincerity."<br/><br/>However, I failed in interviews three times, and it went well in the fourth interview, so I should say <strong><em>yondome no shōjiki</em></strong> (四度目の正直 - the fourth time's the charm).
+<strong><em>Sandome no Shōjiki</em></strong><br/><br/>Recently I have been looking for a new job.<br/><br/>Unfortunately, I failed in job interviews several times, but it seems that somehow I would pass the interview last week.<br/><br/>If you want to express that the first and second time would not go well, but the third time would go well like my case, you can use a Japanese proverb, <strong><em>sandome no shōjiki</em></strong> (三度目の正直).<br/><br/><strong><em>San</em></strong> (三) means "three," <strong><em>dome</em></strong> (度目) means "__ times" or "__th," and <em>shōjiki</em> means "sincerity."<br/><br/>However, I failed in interviews three times, and it went well in the fourth interview, so I should say <strong><em>yondome no shōjiki</em></strong> (四度目の正直 - the fourth time's the charm).
 </div></div>
 
 <!-- more -->

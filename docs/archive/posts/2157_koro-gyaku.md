@@ -8,10 +8,10 @@ comments: true
 slug: "2157_koro-gyaku"
 ---
 
-# 【No. 2157】<strong><em>Koro Gyaku</strong></em> (コロ虐 - Korok Abuse)
+# 【No. 2157】<strong><em>Koro Gyaku</em></strong> (コロ虐 - Korok Abuse)
 <div class="date">Sep 17, 2023 18:37</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Koro Gyaku</strong></em><br/><br/>Soon after "The Legend of Zelda: Tears of the Kingdom" was launched, an act called <strong><em>koro gyaku</em></strong> (コロ虐) became a hot topic on social media.<br/><br/>Since <strong><em>Koro</em></strong> (コロ) and <strong><em>gyaku</em></strong> (虐) are short for <strong><em>Korokgu</em></strong> (コログ - "Korok") and <strong><em>gyakutai</em></strong> (虐待 - "abuse"), respectively, the literal meaning of <em>koro gyaku</em> is "Korok abuse."<br/><br/>In this game, there are many side quests where players take the character "Korok" to his friend's location, using a variety of flexible items.<br/><br/>At this time, Korok is often unintentionally abused (i.e., 'koro gyaku'), such as being dropped from high places, thrown into the water, or dragged on the ground.<br/><br/>While some players seem to intentionally do <em>koro gyaku</em>, according to the game developers, it was expected that Korok would be treated as such.
+<strong><em>Koro Gyaku</em></strong><br/><br/>Soon after "The Legend of Zelda: Tears of the Kingdom" was launched, an act called <strong><em>koro gyaku</em></strong> (コロ虐) became a hot topic on social media.<br/><br/>Since <strong><em>Koro</em></strong> (コロ) and <strong><em>gyaku</em></strong> (虐) are short for <strong><em>Korokgu</em></strong> (コログ - "Korok") and <strong><em>gyakutai</em></strong> (虐待 - "abuse"), respectively, the literal meaning of <em>koro gyaku</em> is "Korok abuse."<br/><br/>In this game, there are many side quests where players take the character "Korok" to his friend's location, using a variety of flexible items.<br/><br/>At this time, Korok is often unintentionally abused (i.e., 'koro gyaku'), such as being dropped from high places, thrown into the water, or dragged on the ground.<br/><br/>While some players seem to intentionally do <em>koro gyaku</em>, according to the game developers, it was expected that Korok would be treated as such.
 </div></div>
 
 <!-- more -->

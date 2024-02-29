@@ -8,10 +8,10 @@ comments: true
 slug: "1379_shinju"
 ---
 
-# 【No. 1379】<strong><em>Shinjū</strong></em> (心中 - Love Suicide)
+# 【No. 1379】<strong><em>Shinjū</em></strong> (心中 - Love Suicide)
 <div class="date">Sep 27, 2018 13:13</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shinjū</strong></em><br/><br/>I introduced you to the Japanese word <strong><em>shinchū</em></strong> (心中 - "feeling") in my yesterday's post.<br/><br/>Actually, the kanji 心中 can also be read as <em>shinjū,</em> and its meaning is very different from the meaning of shinchū.<br/><br/>Shinjū originally meant that a man and a woman who love each other commit suicide at the same time by mutual agreement.<br/><br/>These days shinjū can also mean that several people commit suicide at the same time.<br/><br/>It is said that shinjū comes from <strong><em>shinjūdate</em></strong> (心中立), which means to be loyal to someone.<br/><br/>This implies that the ultimate loyal act between a man and a woman is a love suicide.
+<strong><em>Shinjū</em></strong><br/><br/>I introduced you to the Japanese word <strong><em>shinchū</em></strong> (心中 - "feeling") in my yesterday's post.<br/><br/>Actually, the kanji 心中 can also be read as <em>shinjū,</em> and its meaning is very different from the meaning of shinchū.<br/><br/>Shinjū originally meant that a man and a woman who love each other commit suicide at the same time by mutual agreement.<br/><br/>These days shinjū can also mean that several people commit suicide at the same time.<br/><br/>It is said that shinjū comes from <strong><em>shinjūdate</em></strong> (心中立), which means to be loyal to someone.<br/><br/>This implies that the ultimate loyal act between a man and a woman is a love suicide.
 </div></div>
 
 <!-- more -->

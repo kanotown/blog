@@ -9,10 +9,10 @@ comments: true
 slug: "2257_botto-suru"
 ---
 
-# 【No. 2257】<strong><em>Bōtto Suru</strong></em> (ぼーっとする - "Spacing Out")
+# 【No. 2257】<strong><em>Bōtto Suru</em></strong> (ぼーっとする - "Spacing Out")
 <div class="date">Dec 26, 2023 17:07</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Bōtto Suru</strong></em><br/><br/>Recently, I have been finding myself in a state referred to as <strong><em>bōtto suru</em></strong> (ぼーっとする) a lot.<br/><br/>The expression <em>bōtto suru</em> describes a state of being in a daze, or being lost in thought.<br/><br/>It is believed that the <strong><em>bō</em></strong> (ぼー) in <em>bōtto suru</em> comes from the terms <strong><em>bonyari</em></strong> (ぼんやり - "absent-minded") or <strong><em>bōzen</em></strong> (呆然 - "dumbfounded"), and it is used like an onomatopoeia by adding a long sound.<br/><br/>In addition, <strong><em>suru</em></strong> (する) means "to do" or "to become," the literal meaning of <em>bōtto suru</em> is "to become absent-minded."<br/><br/>I have to be careful not to become the state of <em>bō</em> while driving to work every day.
+<strong><em>Bōtto Suru</em></strong><br/><br/>Recently, I have been finding myself in a state referred to as <strong><em>bōtto suru</em></strong> (ぼーっとする) a lot.<br/><br/>The expression <em>bōtto suru</em> describes a state of being in a daze, or being lost in thought.<br/><br/>It is believed that the <strong><em>bō</em></strong> (ぼー) in <em>bōtto suru</em> comes from the terms <strong><em>bonyari</em></strong> (ぼんやり - "absent-minded") or <strong><em>bōzen</em></strong> (呆然 - "dumbfounded"), and it is used like an onomatopoeia by adding a long sound.<br/><br/>In addition, <strong><em>suru</em></strong> (する) means "to do" or "to become," the literal meaning of <em>bōtto suru</em> is "to become absent-minded."<br/><br/>I have to be careful not to become the state of <em>bō</em> while driving to work every day.
 </div></div>
 
 <!-- more -->

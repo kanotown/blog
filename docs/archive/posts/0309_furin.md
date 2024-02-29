@@ -8,7 +8,7 @@ comments: true
 slug: "0309_furin"
 ---
 
-# 【No. 0309】<strong><em>Furin</strong></em> (wind chimes)
+# 【No. 0309】<strong><em>Furin</em></strong> (wind chimes)
 <div class="date">Oct 23, 2015 12:49</div>
 <div id="post"><div id="body_show_ori">
 Summer in Japan, we often see furin.<br/><br/>Furin is called "wind chimes" in English, and it tinkles with cool sounds while winds are  blowing.<br/><br/>When we hear the sound of hurin, our brains are misled into thinking that it's cool, and our body surface temperature drops about 2 degrees.<br/><br/>However, this law seems to be applicable only to Japanese people, and not applicable to overseas people.<br/><br/>I think it's really interesting that such a sound can decrease our body temperature.

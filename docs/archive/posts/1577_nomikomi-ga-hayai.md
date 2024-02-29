@@ -8,10 +8,10 @@ comments: true
 slug: "1577_nomikomi-ga-hayai"
 ---
 
-# 【No. 1577】<strong><em>Nomikomi ga Hayai</strong></em> (飲み込みが早い - Learning Fast)
+# 【No. 1577】<strong><em>Nomikomi ga Hayai</em></strong> (飲み込みが早い - Learning Fast)
 <div class="date">Apr 13, 2019 18:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nomikomi ga Hayai</strong></em><br/><br/>Yesterday, I heard a compliment phrase, <strong><em>nomikomi ga hayai</em></strong> (飲み込みが早い).<br/><br/><strong><em>Nomikomi</em></strong> (飲み込み) means "to swallow something" and <strong><em>hayai</em></strong> (早い) means "fast" or "quick," so the literal meaning of <em>nomikomi ga hayai</em> is "someone swallows something quickly."<br/><br/>Here, <em>nomikomi</em> implies that someone understands things or accepts a situation.<br/><br/>That is to say, this phrase is a compliment used for people who have can understand or learn things quickly -- they are good/quick learners.<br/><br/>On the other hand, people who are slow to catch on things are described as <strong><em>nomikomi ga warui</em></strong> (飲み込みが悪い) by using the word <strong><em>warui</em></strong> (悪い - "bad").
+<strong><em>Nomikomi ga Hayai</em></strong><br/><br/>Yesterday, I heard a compliment phrase, <strong><em>nomikomi ga hayai</em></strong> (飲み込みが早い).<br/><br/><strong><em>Nomikomi</em></strong> (飲み込み) means "to swallow something" and <strong><em>hayai</em></strong> (早い) means "fast" or "quick," so the literal meaning of <em>nomikomi ga hayai</em> is "someone swallows something quickly."<br/><br/>Here, <em>nomikomi</em> implies that someone understands things or accepts a situation.<br/><br/>That is to say, this phrase is a compliment used for people who have can understand or learn things quickly -- they are good/quick learners.<br/><br/>On the other hand, people who are slow to catch on things are described as <strong><em>nomikomi ga warui</em></strong> (飲み込みが悪い) by using the word <strong><em>warui</em></strong> (悪い - "bad").
 </div></div>
 
 <!-- more -->

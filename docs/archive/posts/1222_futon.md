@@ -8,7 +8,7 @@ comments: true
 slug: "1222_futon"
 ---
 
-# 【No. 1222】<strong><em>Futon</strong></em> (布団 - Japanese Bedding) 
+# 【No. 1222】<strong><em>Futon</em></strong> (布団 - Japanese Bedding) 
 <div class="date">Apr 23, 2018 20:18</div>
 <div id="post"><div id="body_show_ori">
 Yesterday I bought a "futon" (布団).<br/><br/>A "futon" is a kind of bedding made of cotton or feathers and is very common in Japan.<br/><br/>Originally, the kanji of "futon" (布団) was written as "蒲団," and "futon" meant a round rug made by weaving leaves of cattails for Zen sitting meditation.<br/><br/>("蒲" means leaves of cattails and "団" means circle.)<br/><br/>In the Edo period, it began to create larger "futons" made of cloth or cotton, and they have come to be used as not only rugs but also bedding.<br/><br/>Since leaves of cattails were no longer used in that period, the kanji "蒲" was changed to "布," which means "cloth."<br/><br/>Currently, "futon" (布団) has come to mean usually bedding, whereas rugs for sitting have come to be called "zabuton" (座布団) by adding "za" (座 - sitting).

@@ -8,10 +8,10 @@ comments: true
 slug: "1941_tayori-no-nai-no-wa-yoi-tayori"
 ---
 
-# 【No. 1941】<strong><em>Tayori no Nai no wa Yoi Tayori</strong></em> (便りの無いのは良い便り - No News Is Good News)
+# 【No. 1941】<strong><em>Tayori no Nai no wa Yoi Tayori</em></strong> (便りの無いのは良い便り - No News Is Good News)
 <div class="date">Aug 19, 2021 11:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tayori no Nai no wa Yoi Tayori</strong></em><br/><br/>Recently, I haven't been in touch with my sister and brother.<br/><br/>They haven't sent me any messages either, but this fact implies that both we are living safely with no problems.<br/><br/>If you have not heard from someone but want to be relieved by this way of thinking,  you can use the saying <strong><em>tayori no nai no wa yoi tayori</em></strong> (便りの無いのは良い便り).<br/><br/>Since <strong><em>tayori</em></strong> (便り) means "letter," <strong><em>nai</em></strong> (無い) means "no/nothing," and <strong><em>yoi</em></strong> (良い) means "good," the literal meaning of <em>tayori no nai no wa yoi tayori</em> is "no letter is a good letter."<br/><br/>This saying is thought to have come from the English saying "No news is good news."
+<strong><em>Tayori no Nai no wa Yoi Tayori</em></strong><br/><br/>Recently, I haven't been in touch with my sister and brother.<br/><br/>They haven't sent me any messages either, but this fact implies that both we are living safely with no problems.<br/><br/>If you have not heard from someone but want to be relieved by this way of thinking,  you can use the saying <strong><em>tayori no nai no wa yoi tayori</em></strong> (便りの無いのは良い便り).<br/><br/>Since <strong><em>tayori</em></strong> (便り) means "letter," <strong><em>nai</em></strong> (無い) means "no/nothing," and <strong><em>yoi</em></strong> (良い) means "good," the literal meaning of <em>tayori no nai no wa yoi tayori</em> is "no letter is a good letter."<br/><br/>This saying is thought to have come from the English saying "No news is good news."
 </div></div>
 
 <!-- more -->

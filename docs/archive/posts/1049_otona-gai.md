@@ -8,7 +8,7 @@ comments: true
 slug: "1049_otona-gai"
 ---
 
-# 【No. 1049】<strong><em>Otona Gai</strong></em> (大人買い - Buying a Large Amount of Something)
+# 【No. 1049】<strong><em>Otona Gai</em></strong> (大人買い - Buying a Large Amount of Something)
 <div class="date">Nov 1, 2017 17:13</div>
 <div id="post"><div id="body_show_ori">
 When I was a child, I wanted to do "otona gai" (大人買い) someday.<br/><br/>The "otona" (大人) means "adult," and "gai" (買い) means "to buy," but it's by no means a illegal thing like "to buy an adult."<br/><br/>"Otona gai" means to buy a lot of blind package products that contains toys or cards at once.<br/><br/>Of course, these products are sold for children, so basically they are cheap ones that shouldn't be purchased a lot at once.<br/><br/>However, if you are an adult, you can buy a large quantity of these products by the power of money.<br/><br/>Because of this, such an act has come to be called "otona gai," and now it is also used to mean just "bulk buying" for general products.

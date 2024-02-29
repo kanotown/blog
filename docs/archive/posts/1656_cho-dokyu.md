@@ -8,10 +8,10 @@ comments: true
 slug: "1656_cho-dokyu"
 ---
 
-# 【No. 1656】<strong><em>Chō-dokyū</strong></em> (超弩級 - Extraordinary)
+# 【No. 1656】<strong><em>Chō-dokyū</em></strong> (超弩級 - Extraordinary)
 <div class="date">Jul 1, 2019 15:51</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chō-dokyū</strong></em><br/><br/>When expressing that something is extraordinarily huge, we sometimes say <strong><em>chō-dokyū</em></strong> (超弩級 or 超ド級) in Japanese.<br/><br/><strong><em>Chō</em></strong> (超) means "super" and <strong><em>kyū</em></strong> (級) means "degree."<br/><br/>Also, <strong><em>do</em></strong> (弩/ド) is the first letter of the British battleship "Dreadnought" built in 1906.<br/><br/>Originally, huge and powerful battleships like "Dreadnought" were called <strong><em>dokyū-kan</em></strong> (弩級艦) or <strong><em>chō-dokyū-kan</em></strong> (超弩級艦) -- here, <strong><em>kan</em></strong> (艦) means "ship."<br/><br/>Later, <em>dokyū</em> and <em>chō-dokyū</em> became commonly used as terms that represent something huge or powerful.
+<strong><em>Chō-dokyū</em></strong><br/><br/>When expressing that something is extraordinarily huge, we sometimes say <strong><em>chō-dokyū</em></strong> (超弩級 or 超ド級) in Japanese.<br/><br/><strong><em>Chō</em></strong> (超) means "super" and <strong><em>kyū</em></strong> (級) means "degree."<br/><br/>Also, <strong><em>do</em></strong> (弩/ド) is the first letter of the British battleship "Dreadnought" built in 1906.<br/><br/>Originally, huge and powerful battleships like "Dreadnought" were called <strong><em>dokyū-kan</em></strong> (弩級艦) or <strong><em>chō-dokyū-kan</em></strong> (超弩級艦) -- here, <strong><em>kan</em></strong> (艦) means "ship."<br/><br/>Later, <em>dokyū</em> and <em>chō-dokyū</em> became commonly used as terms that represent something huge or powerful.
 </div></div>
 
 <!-- more -->

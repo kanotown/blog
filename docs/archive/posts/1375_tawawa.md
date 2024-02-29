@@ -8,10 +8,10 @@ comments: true
 slug: "1375_tawawa"
 ---
 
-# 【No. 1375】<strong><em>Tawawa</strong></em> (たわわ - Growing Richly)
+# 【No. 1375】<strong><em>Tawawa</em></strong> (たわわ - Growing Richly)
 <div class="date">Sep 23, 2018 12:01</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tawawa</strong></em><br/><br/>I think that there is less opportunity to use it, but I like the term <strong><em>tawawa</em></strong> (たわわ).<br/><br/>Tawawa is an onomatopoeia that means that fruits or cereals grow richly.<br/><br/>This term comes from the verb <strong><em>tawamu</em></strong> (たわむ), which means that trees or sticks bow or bend.<br/><br/>Since branches of trees bow when a lot of crops grow, tawawa has come to have the meaning of "rich."<br/><br/>In most cases, tawawa is used by combining with the verb <strong><em>minoru</em></strong> (実る - literally "grow"), such as <strong><em>___ ga tawawa ni minoru</em></strong> (～がたわわに実る - ___ grows richly).
+<strong><em>Tawawa</em></strong><br/><br/>I think that there is less opportunity to use it, but I like the term <strong><em>tawawa</em></strong> (たわわ).<br/><br/>Tawawa is an onomatopoeia that means that fruits or cereals grow richly.<br/><br/>This term comes from the verb <strong><em>tawamu</em></strong> (たわむ), which means that trees or sticks bow or bend.<br/><br/>Since branches of trees bow when a lot of crops grow, tawawa has come to have the meaning of "rich."<br/><br/>In most cases, tawawa is used by combining with the verb <strong><em>minoru</em></strong> (実る - literally "grow"), such as <strong><em>___ ga tawawa ni minoru</em></strong> (～がたわわに実る - ___ grows richly).
 </div></div>
 
 <!-- more -->

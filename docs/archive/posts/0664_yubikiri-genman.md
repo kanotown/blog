@@ -8,7 +8,7 @@ comments: true
 slug: "0664_yubikiri-genman"
 ---
 
-# 【No. 0664】<strong><em>Yubikiri Genman</strong></em> (Pinky Promise)
+# 【No. 0664】<strong><em>Yubikiri Genman</em></strong> (Pinky Promise)
 <div class="date">Oct 12, 2016 00:01</div>
 <div id="post"><div id="body_show_ori">
 Japanese children say "yubikiri genman uso tsuitara hari senbon nomasu" while crossing their little fingers when they make a promise.<br/><br/>In the case of adults, the phrase becomes just "yubikiri" or "yubikiri genman."<br/><br/>At one time, Japanese prostitutes cut off their fingers and present them for particular customers to prove their loves.<br/><br/>(It's said that there were many imitation fingers.)<br/><br/>Cutting off fingers (which is called "yubikiri" in Japan)  became widespread and the meaning changed to "to keep a promise."<br/><br/>Also, "genman" means "ten thousands fists," and "hari senbon nomasu" means "to make someone drink a thousand needles."<br/><br/>Japanese children say this phrase as they are singing, but the actual meaning is horrible: "If you tell a lie, I will cut off your little finger, fist you 10,000 times, and make you drink 1,000 needles."

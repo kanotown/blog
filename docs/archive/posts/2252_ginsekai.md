@@ -8,10 +8,10 @@ comments: true
 slug: "2252_ginsekai"
 ---
 
-# 【No. 2252】<strong><em>Ginsekai</strong></em> (銀世界 - Snowy World)
+# 【No. 2252】<strong><em>Ginsekai</em></strong> (銀世界 - Snowy World)
 <div class="date">Dec 21, 2023 23:52</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ginsekai</strong></em><br/><br/>A landscape where snow has fallen and everything is covered in white can described as <strong><em>ginsekai</em></strong> (銀世界) in Japanese.<br/><br/>Since <strong><em>gin</em></strong> (銀) means "silver," and <strong><em>sekai</em></strong> (世界) means "world," the literal meaning of  <em>ginsekai</em> is "silver world."<br/><br/>In the past, the kanji 銀 was also read as <strong><em>shirogane</em></strong> (しろがね), and written as 白金 or 白銀.<br/><br/>Here, <strong><em>siro</em></strong> (白) means "white," and <strong><em>gane/kane</em></strong> (がね/かね) means "metal." In other words, <em>ginsekai</em> means a landscape that looks like a shining white metal.<br/><br/>Incidentally, 白金 is nowadays read as read as <strong><em>hakkin</em></strong> (はっきん) or <strong><em>purachina</em></strong> (プラチナ), meaning "platinum.'
+<strong><em>Ginsekai</em></strong><br/><br/>A landscape where snow has fallen and everything is covered in white can described as <strong><em>ginsekai</em></strong> (銀世界) in Japanese.<br/><br/>Since <strong><em>gin</em></strong> (銀) means "silver," and <strong><em>sekai</em></strong> (世界) means "world," the literal meaning of  <em>ginsekai</em> is "silver world."<br/><br/>In the past, the kanji 銀 was also read as <strong><em>shirogane</em></strong> (しろがね), and written as 白金 or 白銀.<br/><br/>Here, <strong><em>siro</em></strong> (白) means "white," and <strong><em>gane/kane</em></strong> (がね/かね) means "metal." In other words, <em>ginsekai</em> means a landscape that looks like a shining white metal.<br/><br/>Incidentally, 白金 is nowadays read as read as <strong><em>hakkin</em></strong> (はっきん) or <strong><em>purachina</em></strong> (プラチナ), meaning "platinum.'
 </div></div>
 
 <!-- more -->

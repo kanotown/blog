@@ -8,7 +8,7 @@ comments: true
 slug: "0960_ohiya"
 ---
 
-# 【No. 0960】<strong><em>Ohiya</strong></em> (お冷 - Cold Water)
+# 【No. 0960】<strong><em>Ohiya</em></strong> (お冷 - Cold Water)
 <div class="date">Aug 4, 2017 20:49</div>
 <div id="post"><div id="body_show_ori">
 Yesterday I wrote about a drinking party.<br/><br/>In Japanese drinking spots or Japanese-style bars, we often order "ohiya" (お冷) at the end of the party.<br/><br/>"Ohiya" is composed of the polite prefix "o" (お) and the "hiya" (冷や), meaning "cold," and it usually refers to "cold water."<br/><br/>It was once called as "ohiyashi" (お冷やし), and as used as a polite term that means "mizu" (水 - water) by women in the imperial court. <br/><br/>After the Edo period, it has come to be used regardless of gender, and now it's often used in Japanese-style bars/pubs.<br/><br/>Note that if you omit the prefix "o" and just say "hiya," it will mean cold/room-temperature Japanese sake.

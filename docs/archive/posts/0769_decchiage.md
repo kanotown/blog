@@ -8,7 +8,7 @@ comments: true
 slug: "0769_decchiage"
 ---
 
-# 【No. 0769】<strong><em>Decchiage</strong></em> (To Make Up a Story )
+# 【No. 0769】<strong><em>Decchiage</em></strong> (To Make Up a Story )
 <div class="date">Jan 25, 2017 10:28</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the term "decchiage."<br/><br/>"Decchiage" means to make up a story as if it were actually happened.<br/><br/>Usage example: Kare no hanashi wa subete decchiage da (All his stories are hoaxes). Buyuden wo decchiageru (I cook my heroic story up).<br/><br/>This term comes from the Han reading of "捏" in "捏造 (netsuzo)," which has the same meaning of "decchiage."<br/><br/>The Han reading of "捏" is "detsu," and it came to be verbalized as "decchiageru," then it came to also be used as the noun form "decchiage."<br/><br/>By the way, the Hiragana form of "でつ (detsu)" looks like Snoopy.

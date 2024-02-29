@@ -9,10 +9,10 @@ comments: true
 slug: "2227_hito-shigoto-hito-anshin"
 ---
 
-# 【No. 2227】<strong><em>Hito Shigoto / Hito Anshin</strong></em> (一仕事 / 一安心 - A Substantial Task / Temporary Relief)
+# 【No. 2227】<strong><em>Hito Shigoto / Hito Anshin</em></strong> (一仕事 / 一安心 - A Substantial Task / Temporary Relief)
 <div class="date">Nov 26, 2023 18:37</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hito Shigoto / Hito Anshin</strong></em><br/><br/>Today, I finished <strong><em>hito shigoto</em></strong> (一仕事) and am now in a state of <strong><em>hito anshin</em></strong> (一安心).<br/><br/>Since <strong><em>hito</em></strong> (一) means "one," and <strong><em>shigoto</em></strong> (仕事) means "task" or "job," the literal meaning of <em>hito shigoto</em> is "one task."<br/><br/>The term <em>hito shigoto</em> can mean a small amount of task or a substantial task, depending on the context.<br/><br/>In addition, <strong><em>anshin</em></strong> (安心) means "relief," so the literal meaning of <em>hito anshin</em> is "one relief."<br/><br/>The term <em>hito anshin</em> can mean relief for the moment, used when an anxious situation is temporarily resolved.<br/><br/>In my case, the above <em>hito shigoto</em> was a major anxiety, and completing it has allowed me to feel <em>hito anshin</em>.
+<strong><em>Hito Shigoto / Hito Anshin</em></strong><br/><br/>Today, I finished <strong><em>hito shigoto</em></strong> (一仕事) and am now in a state of <strong><em>hito anshin</em></strong> (一安心).<br/><br/>Since <strong><em>hito</em></strong> (一) means "one," and <strong><em>shigoto</em></strong> (仕事) means "task" or "job," the literal meaning of <em>hito shigoto</em> is "one task."<br/><br/>The term <em>hito shigoto</em> can mean a small amount of task or a substantial task, depending on the context.<br/><br/>In addition, <strong><em>anshin</em></strong> (安心) means "relief," so the literal meaning of <em>hito anshin</em> is "one relief."<br/><br/>The term <em>hito anshin</em> can mean relief for the moment, used when an anxious situation is temporarily resolved.<br/><br/>In my case, the above <em>hito shigoto</em> was a major anxiety, and completing it has allowed me to feel <em>hito anshin</em>.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1300_shodo-gai"
 ---
 
-# 【No. 1300】<strong><em>Shōdō-gai</strong></em> (衝動買い - Impulse Buying)
+# 【No. 1300】<strong><em>Shōdō-gai</em></strong> (衝動買い - Impulse Buying)
 <div class="date">Jul 10, 2018 16:29</div>
 <div id="post"><div id="body_show_ori">
 Today I ordered a BlackBerry KEY2 at an overseas online shopping site.<br/><br/>These days, I often perform an action called <strong><em>shōdō-gai</em></strong> (衝動買い).<br/><br/>Since <strong><em>shōdō</em></strong> (衝動) means <em>impulse</em> and <strong><em>gai</em></strong> (買い) means <em>to buy,</em> the literal meaning of <em>shōdō-gai</em> is "to buy something on impulse."<br/><br/>As these words suggest, this term means to buy something on impulse without thinking deeply whether or not it is truly necessary.<br/><br/>Fatigue might dull my thought.<br/><br/>I need to cut corners to save money for a while.<br/><br/>However, today Microsoft announced the attractive product, Surface Go...

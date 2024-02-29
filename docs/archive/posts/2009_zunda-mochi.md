@@ -8,10 +8,10 @@ comments: true
 slug: "2009_zunda-mochi"
 ---
 
-# 【No. 2009】<strong><em>Zunda Mochi</strong></em> (ずんだ餅 - Green Soybeans  Rice Cake)
+# 【No. 2009】<strong><em>Zunda Mochi</em></strong> (ずんだ餅 - Green Soybeans  Rice Cake)
 <div class="date">Apr 22, 2023 11:25</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Zunda Mochi</strong></em><br/><br/>I bought <strong><em>zunda mochi</em></strong> (ずんだ餅) today.<br/><br/><em>Zunda mochi</em> is a rice cake made from mashed green soybeans and is one of the popular local delicacies in Miyagi Prefecture.<br/><br/>The word <strong><em>mochi</em></strong> (餅) in <em>zunda mochi</em> means "rice cake," but there are several theories about the etymology of 'zunda'(ずんだ).<br/><br/>The most accepted theory is that it comes from <strong><em>zuda</em></strong> (豆打), which means to beat and crush beans.<br/><br/>Other theories include that it comes from a farmer named <strong><em>jinta</em></strong> (甚太), who created <em>zunda mochi</em>.
+<strong><em>Zunda Mochi</em></strong><br/><br/>I bought <strong><em>zunda mochi</em></strong> (ずんだ餅) today.<br/><br/><em>Zunda mochi</em> is a rice cake made from mashed green soybeans and is one of the popular local delicacies in Miyagi Prefecture.<br/><br/>The word <strong><em>mochi</em></strong> (餅) in <em>zunda mochi</em> means "rice cake," but there are several theories about the etymology of 'zunda'(ずんだ).<br/><br/>The most accepted theory is that it comes from <strong><em>zuda</em></strong> (豆打), which means to beat and crush beans.<br/><br/>Other theories include that it comes from a farmer named <strong><em>jinta</em></strong> (甚太), who created <em>zunda mochi</em>.
 </div></div>
 
 <!-- more -->

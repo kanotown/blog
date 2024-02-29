@@ -8,7 +8,7 @@ comments: true
 slug: "0926_setogiwa"
 ---
 
-# 【No. 0926】<strong><em>Setogiwa</strong></em> (瀬戸際 - Brink)
+# 【No. 0926】<strong><em>Setogiwa</em></strong> (瀬戸際 - Brink)
 <div class="date">Jul 1, 2017 17:24</div>
 <div id="post"><div id="body_show_ori">
 Have you ever teetered on the brink of life-or-death or win-or-lose.<br/><br/>Such a situation is called "setogiwa" (瀬戸際) in Japan.<br/><br/>"Seto" (瀬戸) of setogiwa means a strait that is narrowed by two land masses, and "giwa" (際) means a boundary.<br/><br/>That is to say, the original meaning of setogiwa is a boundary between a strait and sea.<br/><br/>By extension, setogiwa has come to refer to an important branch point in our lives.<br/><br/>In English, it seems to be expressed as "brink" or "edge" -- I think that the etymology of setogiwa is almost same as these words.

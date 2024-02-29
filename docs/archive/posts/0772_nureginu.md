@@ -8,7 +8,7 @@ comments: true
 slug: "0772_nureginu"
 ---
 
-# 【No. 0772】<strong><em>Nureginu</strong></em> (Innocent Sins)
+# 【No. 0772】<strong><em>Nureginu</em></strong> (Innocent Sins)
 <div class="date">Jan 28, 2017 21:44</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese term "nureginu."<br/><br/>The literal meaning is "wet clothes," and it means "innocent sins" or "unfounded rumors."<br/><br/>When you want to mean "to accuse someone of falsely," you can say "nureginu wo kiseru" by using the verb "kiru," which means "to wear."<br/><br/>Originally, "nureginu" meant "clothes wetted by water."<br/><br/>There are some theories about the etymology, and one of them comes from the following old story:<br/><br/>A stepmother envied the beauty of husband's daughter by a previous marriage, and she put a wet cloth of a fisherman who lived nearby in the daughter's room.<br/><br/>The daughter's father looked the cloth, and he was misled into thinking that she stole the fisherman's cloth, then he killed his daughter.

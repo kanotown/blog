@@ -8,7 +8,7 @@ comments: true
 slug: "0267_the-academic-conference"
 ---
 
-# 【No. 0267】<strong><em>The Academic Conference</strong></em> (Day 2)
+# 【No. 0267】<strong><em>The Academic Conference</em></strong> (Day 2)
 <div class="date">Sep 11, 2015 23:52</div>
 <div id="post"><div id="body_show_ori">
 Today, I performed my presentation at the conference in the afternoon.<br/><br/>The presentation ended in peace, but I failed in the question-and-answer session.<br/><br/>Since I couldn't answer the question well, I was embarrassed.<br/><br/>After the conference, I had a drink with my teacher and friends in the city of Kyoto.<br/><br/>I met the friends after a long time, so it was fun.<br/>.<br/>Anyway, I am tired today.

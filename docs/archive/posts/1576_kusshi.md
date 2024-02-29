@@ -8,10 +8,10 @@ comments: true
 slug: "1576_kusshi"
 ---
 
-# 【No. 1576】<strong><em>Kusshi</strong></em> (屈指 - One of the Best)
+# 【No. 1576】<strong><em>Kusshi</em></strong> (屈指 - One of the Best)
 <div class="date">Apr 12, 2019 07:41</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kusshi</strong></em><br/><br/>I introduced <strong><em>yubiori</em></strong> (指折り), which means "to count something" or "one of the best" two days ago, and introduced <strong><em>yubiori kazoeru</em></strong> (指折り数える) to mean the former ("to count something") explicitly yesterday.<br/><br/>If you want to mean the latter ("one of the best") explicitly, you can use the similar term <strong><em>kusshi</em></strong> (屈指).<br/><br/>Since <strong><em>ku</em></strong> (屈) means "to bend something" and <strong><em>shi</em></strong> (指) means "finger," the literal meaning of <em>kusshi</em> is "to bend your fingers."<br/><br/>Note that the meaning of <em>kusshi</em> is "one of the best," and it is not used to mean "to count something."<br/><br/>[Example] Kare wa sekai kusshi no shisanka da (彼は世界屈指の資産家だ - "He is one of the richest people in the world.")
+<strong><em>Kusshi</em></strong><br/><br/>I introduced <strong><em>yubiori</em></strong> (指折り), which means "to count something" or "one of the best" two days ago, and introduced <strong><em>yubiori kazoeru</em></strong> (指折り数える) to mean the former ("to count something") explicitly yesterday.<br/><br/>If you want to mean the latter ("one of the best") explicitly, you can use the similar term <strong><em>kusshi</em></strong> (屈指).<br/><br/>Since <strong><em>ku</em></strong> (屈) means "to bend something" and <strong><em>shi</em></strong> (指) means "finger," the literal meaning of <em>kusshi</em> is "to bend your fingers."<br/><br/>Note that the meaning of <em>kusshi</em> is "one of the best," and it is not used to mean "to count something."<br/><br/>[Example] Kare wa sekai kusshi no shisanka da (彼は世界屈指の資産家だ - "He is one of the richest people in the world.")
 </div></div>
 
 <!-- more -->

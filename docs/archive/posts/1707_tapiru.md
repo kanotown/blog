@@ -8,10 +8,10 @@ comments: true
 slug: "1707_tapiru"
 ---
 
-# 【No. 1707】<strong><em>Tapiru</strong></em> (タピる)
+# 【No. 1707】<strong><em>Tapiru</em></strong> (タピる)
 <div class="date">Aug 21, 2019 17:39</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tapiru</strong></em><br/><br/>In Japan, tapioca and tapioca drinks have become very popular since around last year.<br/><br/>Along with this boom, young people (especially school girls) has come to use the slang term <strong><em>tapiru</em></strong> (タピる).<br/><br/><strong><em>Tapi</em></strong> (タピ) is short for <strong><em>tapioka</em></strong> (タピオカ - "tapioca") and <strong><em>-ru</em></strong> (る) is a suffix that can make a noun a verb.<br/><br/>That is to say, the literal meaning of <em>tapiru</em> is "do tapioca," but this does not make sense.<br/><br/>As you can image, <em>tapiru</em> actually means "to drink tapioca drinks" or "to eat tapioca."
+<strong><em>Tapiru</em></strong><br/><br/>In Japan, tapioca and tapioca drinks have become very popular since around last year.<br/><br/>Along with this boom, young people (especially school girls) has come to use the slang term <strong><em>tapiru</em></strong> (タピる).<br/><br/><strong><em>Tapi</em></strong> (タピ) is short for <strong><em>tapioka</em></strong> (タピオカ - "tapioca") and <strong><em>-ru</em></strong> (る) is a suffix that can make a noun a verb.<br/><br/>That is to say, the literal meaning of <em>tapiru</em> is "do tapioca," but this does not make sense.<br/><br/>As you can image, <em>tapiru</em> actually means "to drink tapioca drinks" or "to eat tapioca."
 </div></div>
 
 <!-- more -->

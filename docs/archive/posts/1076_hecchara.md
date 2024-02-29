@@ -8,7 +8,7 @@ comments: true
 slug: "1076_hecchara"
 ---
 
-# 【No. 1076】<strong><em>Hecchara</strong></em> (へっちゃら - I Don't Mind)
+# 【No. 1076】<strong><em>Hecchara</em></strong> (へっちゃら - I Don't Mind)
 <div class="date">Nov 28, 2017 22:49</div>
 <div id="post"><div id="body_show_ori">
 If you want to express that it's easy to do something or you don't mind something, you can use the Japanese term "hecchara" (へっちゃら).<br/><br/>Originally, this term was called "heichara" (平ちゃら), but it has come to become "hecchara" in order to strengthen the impression.<br/><br/>The "hei" (平) comes from "heiki" (平気), which means "without hesitation" or "don't mind," and the "chara" (ちゃら) means "joke" or "bullshit."<br/><br/>It's thought that "hecchara" implies that you can do something while saying a joke without hesitation.

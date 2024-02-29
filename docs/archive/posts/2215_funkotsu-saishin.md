@@ -8,10 +8,10 @@ comments: true
 slug: "2215_funkotsu-saishin"
 ---
 
-# 【No. 2215】<strong><em>Funkotsu Saishin</strong></em> (粉骨砕身 - Breaking One's Neck)
+# 【No. 2215】<strong><em>Funkotsu Saishin</em></strong> (粉骨砕身 - Breaking One's Neck)
 <div class="date">Nov 14, 2023 17:50</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Funkotsu Saishin</strong></em><br/><br/>The four-character idiom <strong><em>funkotsu saishin</em></strong> (粉骨砕身) can be used to describe someone working or striving with all their might.<br/><br/>Since <strong><em>fun</em></strong> (粉) means "powder," <strong><em>kotsu</em></strong> (骨) means "bone," <strong><em>sai</em></strong> (砕) means "smash," and <strong><em>shin</em></strong> (身) means "body," the literal meaning of <em>funkotsu saishin</em> is "to grind one's bones to powder and smash one's body."<br/><br/>In other words, it implies that someone is working so hard with all their might that their bones and bodies are smashed.<br/><br/>Note that this is a metaphor, and if your bones are grinded to powder, you will die.
+<strong><em>Funkotsu Saishin</em></strong><br/><br/>The four-character idiom <strong><em>funkotsu saishin</em></strong> (粉骨砕身) can be used to describe someone working or striving with all their might.<br/><br/>Since <strong><em>fun</em></strong> (粉) means "powder," <strong><em>kotsu</em></strong> (骨) means "bone," <strong><em>sai</em></strong> (砕) means "smash," and <strong><em>shin</em></strong> (身) means "body," the literal meaning of <em>funkotsu saishin</em> is "to grind one's bones to powder and smash one's body."<br/><br/>In other words, it implies that someone is working so hard with all their might that their bones and bodies are smashed.<br/><br/>Note that this is a metaphor, and if your bones are grinded to powder, you will die.
 </div></div>
 
 <!-- more -->

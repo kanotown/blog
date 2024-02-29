@@ -8,10 +8,10 @@ comments: true
 slug: "1341_keshikaran"
 ---
 
-# 【No. 1341】<strong><em>Keshikaran</strong></em> (けしからん - Unreasonable)
+# 【No. 1341】<strong><em>Keshikaran</em></strong> (けしからん - Unreasonable)
 <div class="date">Aug 20, 2018 14:21</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Keshikaran</strong></em><br/><br/>When something is unreasonable and undesirable, you can express anger feelings by using the following phrase:<br/><br/>"Keshikaran" (けしからん).<br/><br/><em>Keshikaru/keshikara</em> can be written as 異しかる or 怪しかる in kanji, and it means that something is abnormal.<br/><br/>Additionally, <strong><em>-n</em></strong> (ん) is a change in the sound of the negative auxiliary verb <strong><em>-zu/nu</em></strong> (ず/ぬ).<br/><br/>You might think that the denial of abnormal is normal.<br/><br/>However, the denial of abnormal here expresses that it is not just abnormal, it is terribly abnormal.<br/><br/>Meanwhile, these days on the Internet, this phrase is often used to mean "it is too sexy/cute."
+<strong><em>Keshikaran</em></strong><br/><br/>When something is unreasonable and undesirable, you can express anger feelings by using the following phrase:<br/><br/>"Keshikaran" (けしからん).<br/><br/><em>Keshikaru/keshikara</em> can be written as 異しかる or 怪しかる in kanji, and it means that something is abnormal.<br/><br/>Additionally, <strong><em>-n</em></strong> (ん) is a change in the sound of the negative auxiliary verb <strong><em>-zu/nu</em></strong> (ず/ぬ).<br/><br/>You might think that the denial of abnormal is normal.<br/><br/>However, the denial of abnormal here expresses that it is not just abnormal, it is terribly abnormal.<br/><br/>Meanwhile, these days on the Internet, this phrase is often used to mean "it is too sexy/cute."
 </div></div>
 
 <!-- more -->

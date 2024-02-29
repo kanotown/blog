@@ -8,10 +8,10 @@ comments: true
 slug: "1388_rachi-ga-akanai"
 ---
 
-# 【No. 1388】<strong><em>Rachi ga Akanai</strong></em> (埒があかない - Going Nowhere)
+# 【No. 1388】<strong><em>Rachi ga Akanai</em></strong> (埒があかない - Going Nowhere)
 <div class="date">Oct 6, 2018 14:48</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Rachi ga Akanai</strong></em><br/><br/>These days, my works are increasing, and there is no end in sight.<br/><br/>Things do not progress or are not settled like this case can be described as <strong><em>rachi ga akanai</em></strong> (埒があかない) in Japanese.<br/><br/><strong><em>Rachi</em></strong> (埒) means enclosures or fences that are used around a riding ground, and <strong><em>akanai</em></strong> (あかない) means that something does not open.<br/><br/>In a horse racing, the competition does not start until the fences open.<br/><br/>Because of this, it is thought that rachi ga akanai has come to have its current meaning.
+<strong><em>Rachi ga Akanai</em></strong><br/><br/>These days, my works are increasing, and there is no end in sight.<br/><br/>Things do not progress or are not settled like this case can be described as <strong><em>rachi ga akanai</em></strong> (埒があかない) in Japanese.<br/><br/><strong><em>Rachi</em></strong> (埒) means enclosures or fences that are used around a riding ground, and <strong><em>akanai</em></strong> (あかない) means that something does not open.<br/><br/>In a horse racing, the competition does not start until the fences open.<br/><br/>Because of this, it is thought that rachi ga akanai has come to have its current meaning.
 </div></div>
 
 <!-- more -->

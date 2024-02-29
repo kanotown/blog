@@ -8,10 +8,10 @@ comments: true
 slug: "2236_usomatsu"
 ---
 
-# 【No. 2236】<strong><em>Usomatsu</strong></em> (嘘松 - Fabricated Story)
+# 【No. 2236】<strong><em>Usomatsu</em></strong> (嘘松 - Fabricated Story)
 <div class="date">Dec 5, 2023 23:45</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Usomatsu</strong></em><br/><br/>On Japanese social media, posts that seem like lies are sometimes referred to as <strong><em>usomatsu</em></strong> (嘘松).<br/><br/>The word <strong><em>uso</em></strong> (嘘) means "lie."<br/><br/>The word <strong><em>matsu</em></strong> (松) usually means "pine," but in this context, it refers to the character <strong><em>Osomatsu</em></strong> (おそ松) from the anime <strong><em>Osomatsu -san</em></strong> (おそ松さん).<br/><br/>The slang term <em>usomatsu</em> originated from a post on Twitter (now "X") about an unbelievable experience related to Osomatsu-san, or the fact that users who frequently posted fake stories used icons of Osomatsu-san.<br/><br/>As an antonym for <em>usomatsu</em>, <strong><em>hontōmatsu</em></strong> (本当松) is sometimes used, incorporating <strong><em>hontō</em></strong> (本当 - meaning "truth").
+<strong><em>Usomatsu</em></strong><br/><br/>On Japanese social media, posts that seem like lies are sometimes referred to as <strong><em>usomatsu</em></strong> (嘘松).<br/><br/>The word <strong><em>uso</em></strong> (嘘) means "lie."<br/><br/>The word <strong><em>matsu</em></strong> (松) usually means "pine," but in this context, it refers to the character <strong><em>Osomatsu</em></strong> (おそ松) from the anime <strong><em>Osomatsu -san</em></strong> (おそ松さん).<br/><br/>The slang term <em>usomatsu</em> originated from a post on Twitter (now "X") about an unbelievable experience related to Osomatsu-san, or the fact that users who frequently posted fake stories used icons of Osomatsu-san.<br/><br/>As an antonym for <em>usomatsu</em>, <strong><em>hontōmatsu</em></strong> (本当松) is sometimes used, incorporating <strong><em>hontō</em></strong> (本当 - meaning "truth").
 </div></div>
 
 <!-- more -->

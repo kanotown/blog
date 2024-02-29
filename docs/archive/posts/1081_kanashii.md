@@ -8,7 +8,7 @@ comments: true
 slug: "1081_kanashii"
 ---
 
-# 【No. 1081】<strong><em>Kanashii</strong></em> (悲しい - Sad)
+# 【No. 1081】<strong><em>Kanashii</em></strong> (悲しい - Sad)
 <div class="date">Dec 3, 2017 15:42</div>
 <div id="post"><div id="body_show_ori">
 I'm very sad now.<br/><br/>Because I had a interview for a new job and failed it.<br/><br/>If you want to express such a pained, sad, or unhappy feeling, you can use the Japanese verb "kanashii" (悲しい).<br/><br/>The kanji "悲" in "kanashii" (悲しい) is able to be divided into "非" and "心."<br/><br/>Since the "非" looks spread wings to left and right, it contains the meaning of "break/crack", and the "心" means "heart."<br/><br/>Therefore, the kanji "悲" implies that your heart break.

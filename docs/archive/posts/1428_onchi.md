@@ -8,10 +8,10 @@ comments: true
 slug: "1428_onchi"
 ---
 
-# 【No. 1428】<strong><em>Onchi</strong></em> (音痴 - A Bad Signer)
+# 【No. 1428】<strong><em>Onchi</em></strong> (音痴 - A Bad Signer)
 <div class="date">Nov 15, 2018 14:32</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Onchi</strong></em><br/><br/>Recently, I learned that you can enjoy karaoke with Nintendo Switch.<br/><br/>Also, the other day, I bought a microphone and an unlimited pass, then enjoyed karaoke at my home.<br/><br/>Unfortunately, I noticed something.<br/><br/>Probably I am a person called <strong><em>onchi</em></strong> (音痴).<br/><br/><strong><em>On/oto</em></strong> (音) means "sound," and <strong><em>chi</em></strong> (痴) means that someone does not have an ability to distinguish something or is a little dumb.<br/><br/>That is to say, <em>onchi</em> means that someone does not have the ability to distinguish sounds, and it is often used to describe a person who is a bad singer.
+<strong><em>Onchi</em></strong><br/><br/>Recently, I learned that you can enjoy karaoke with Nintendo Switch.<br/><br/>Also, the other day, I bought a microphone and an unlimited pass, then enjoyed karaoke at my home.<br/><br/>Unfortunately, I noticed something.<br/><br/>Probably I am a person called <strong><em>onchi</em></strong> (音痴).<br/><br/><strong><em>On/oto</em></strong> (音) means "sound," and <strong><em>chi</em></strong> (痴) means that someone does not have an ability to distinguish something or is a little dumb.<br/><br/>That is to say, <em>onchi</em> means that someone does not have the ability to distinguish sounds, and it is often used to describe a person who is a bad singer.
 </div></div>
 
 <!-- more -->

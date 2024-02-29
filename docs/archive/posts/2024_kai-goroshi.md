@@ -8,10 +8,10 @@ comments: true
 slug: "2024_kai-goroshi"
 ---
 
-# 【No. 2024】<strong><em>Kai Goroshi</strong></em> (飼い殺し - Keeping Somebody on the Payroll)
+# 【No. 2024】<strong><em>Kai Goroshi</em></strong> (飼い殺し - Keeping Somebody on the Payroll)
 <div class="date">May 7, 2023 17:49</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kai Goroshi</strong></em><br/><br/>When someone does not receive appropriate treatment in organizations or human relationships and is left unattended, the situation is sometimes described as <strong><em>kai goroshi</em></strong> (飼い殺し) in Japanese.<br/><br/>Since <strong><em>kai</em></strong> (飼い) means "to keep (animals)" and <strong><em>goroshi/koroshi</em></strong> (殺し) means "to kill," the literal meaning of <em>kai goroshi</em> is "to keep and kill something."<br/><br/>Originally, this phrase was used to mean that useless animals were kept until they died.<br/><br/>Later, it came to be used to mean "to hire someone in a job without giving them an appropriate position" or "a situation where someone refuses to leave his/her lover even though there is no romantic interest."
+<strong><em>Kai Goroshi</em></strong><br/><br/>When someone does not receive appropriate treatment in organizations or human relationships and is left unattended, the situation is sometimes described as <strong><em>kai goroshi</em></strong> (飼い殺し) in Japanese.<br/><br/>Since <strong><em>kai</em></strong> (飼い) means "to keep (animals)" and <strong><em>goroshi/koroshi</em></strong> (殺し) means "to kill," the literal meaning of <em>kai goroshi</em> is "to keep and kill something."<br/><br/>Originally, this phrase was used to mean that useless animals were kept until they died.<br/><br/>Later, it came to be used to mean "to hire someone in a job without giving them an appropriate position" or "a situation where someone refuses to leave his/her lover even though there is no romantic interest."
 </div></div>
 
 <!-- more -->

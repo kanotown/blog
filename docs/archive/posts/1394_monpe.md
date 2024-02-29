@@ -8,10 +8,10 @@ comments: true
 slug: "1394_monpe"
 ---
 
-# 【No. 1394】<strong><em>Monpe</strong></em> (もんぺ - A Pair of Work Pants for Women)
+# 【No. 1394】<strong><em>Monpe</em></strong> (もんぺ - A Pair of Work Pants for Women)
 <div class="date">Oct 12, 2018 21:07</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Monpe</strong></em><br/><br/>A pair of work pants having a shape of hakama (袴 - somewhat like baggy pants that were tight around the ankle or knee) for women are called <strong><em>monpe</em></strong> (もんぺ).<br/><br/>Since its waist part is loose, it is possible to put a garment for the upper half of the body in it.<br/><br/>The etymology about it has not been cleared, but it is thought that it comes from <strong><em>momohiki/momohaki</em></strong> (股引/股はき - longjohns), or the fact that <strong><em>Monbe</em></strong> (門兵衛) invented it.<br/><br/>However, note that if you write it as モンペ in Katakana, it can be short for "monster parents," which means "over-bearing parents."
+<strong><em>Monpe</em></strong><br/><br/>A pair of work pants having a shape of hakama (袴 - somewhat like baggy pants that were tight around the ankle or knee) for women are called <strong><em>monpe</em></strong> (もんぺ).<br/><br/>Since its waist part is loose, it is possible to put a garment for the upper half of the body in it.<br/><br/>The etymology about it has not been cleared, but it is thought that it comes from <strong><em>momohiki/momohaki</em></strong> (股引/股はき - longjohns), or the fact that <strong><em>Monbe</em></strong> (門兵衛) invented it.<br/><br/>However, note that if you write it as モンペ in Katakana, it can be short for "monster parents," which means "over-bearing parents."
 </div></div>
 
 <!-- more -->

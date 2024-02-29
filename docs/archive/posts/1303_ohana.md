@@ -8,7 +8,7 @@ comments: true
 slug: "1303_ohana"
 ---
 
-# 【No. 1303】<strong><em>Ohana</strong></em> (お花 - One's Favorite)
+# 【No. 1303】<strong><em>Ohana</em></strong> (お花 - One's Favorite)
 <div class="date">Jul 13, 2018 21:49</div>
 <div id="post"><div id="body_show_ori">
 Previously, I introduced you to the phrase "ohana tsumi ni iku" (お花摘みに行く - I will go picking flowers) as a code word to mean that you have to go to the bathroom.<br/><br/>Besides, I found that the <strong><em>ohana</em></strong> (お花 - flower) itself is sometimes used as a code word among girls to mean one's favorite.<br/><br/>The kanji, <strong><em>hana</em></strong> (花), can be divided into three parts: '艹' 'イ,' and 'ヒ.'<br/><br/>Here, by tilting '艹,' it becomes like 'キ.'<br/><br/>Furthermore, by rearranging these three characters, it becomes 'ヒイキ,' which means one's favorite.<br/><br/>This is the reason that <strong><em>ohana</em></strong> (お花 - flower) means <strong><em>hiiki</em></strong> (ヒイキ - one's favorite).<br/><br/>【Example sentence】<br/>"Ano ko wa, sensei no ohana yo" (あの子は先生のお花よ - She is the teacher's favorite.)

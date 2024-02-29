@@ -8,7 +8,7 @@ comments: true
 slug: "1060_ude-ga-naru"
 ---
 
-# 【No. 1060】<strong><em>Ude ga Naru</strong></em> (腕が鳴る - Itching to Do)
+# 【No. 1060】<strong><em>Ude ga Naru</em></strong> (腕が鳴る - Itching to Do)
 <div class="date">Nov 12, 2017 15:03</div>
 <div id="post"><div id="body_show_ori">
 Have you ever been excited due to a feeling that you want to show someone your skills or power?<br/><br/>If you want to represent such a feeling, you can say the Japanese idiom "ude ga naru" (腕が鳴る).<br/><br/>The "ude" (腕) means "arm," the "naru" means "making a sound," so the literal meaning of "ude ga naru" is "one's arms make a sound."<br/><br/>Unfortunately, I couldn't find the etymology about this idiom.<br/><br/>However, since "ude" can also mean "skill" or "power," probably Japanese people thought that "ude" lets us know to want to be exerted by making a sound.

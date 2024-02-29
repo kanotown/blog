@@ -8,10 +8,10 @@ comments: true
 slug: "1502_asu-wa-wagami"
 ---
 
-# 【No. 1502】<strong><em>Asu wa Wagami</strong></em> (明日は我が身 - Tomorrow It Might Be Me)
+# 【No. 1502】<strong><em>Asu wa Wagami</em></strong> (明日は我が身 - Tomorrow It Might Be Me)
 <div class="date">Jan 28, 2019 18:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Asu wa Wagami</strong></em><br/><br/>Have you ever seen someone's misfortune in front of you?<br/><br/>You might think that it is just an event of other people and does not concern you, but a similar misfortune could befall you in the near future.<br/><br/><strong><em>Asu wa wagami</em></strong> (明日は我が身) is a Japanese phrase that admonishes people for such a possibility.<br/><br/><strong><em>Asu</em></strong> (明日) means "tomorrow," <strong><em>waga</em></strong> (我が) means "my," and <strong><em>mi</em></strong> (身) means "body."<br/><br/>That is to say, <em>asu wa wagami</em> literally says that it might happen to my body tomorrow.
+<strong><em>Asu wa Wagami</em></strong><br/><br/>Have you ever seen someone's misfortune in front of you?<br/><br/>You might think that it is just an event of other people and does not concern you, but a similar misfortune could befall you in the near future.<br/><br/><strong><em>Asu wa wagami</em></strong> (明日は我が身) is a Japanese phrase that admonishes people for such a possibility.<br/><br/><strong><em>Asu</em></strong> (明日) means "tomorrow," <strong><em>waga</em></strong> (我が) means "my," and <strong><em>mi</em></strong> (身) means "body."<br/><br/>That is to say, <em>asu wa wagami</em> literally says that it might happen to my body tomorrow.
 </div></div>
 
 <!-- more -->

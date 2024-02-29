@@ -8,7 +8,7 @@ comments: true
 slug: "1234_tsume"
 ---
 
-# 【No. 1234】<strong><em>Tsume</strong></em> (爪 - Nail)
+# 【No. 1234】<strong><em>Tsume</em></strong> (爪 - Nail)
 <div class="date">May 5, 2018 15:58</div>
 <div id="post"><div id="body_show_ori">
 I always cut my tsume before I go snowboarding.<br/><br/>A tsume is a kind of plate-like tissue formed by changing the horny layer on the tips of the fingers and toes; it is called "nail" in English.<br/><br/>It is said that this word comes from tsuma (端), which means a corner or an edge of something.<br/><br/>The tsume is written as 爪 in kanji; note that this is not 瓜 (uri), which means a gourd.<br/><br/>There are a lot of Japanese proverbs and idioms that use the word tsume.<br/><br/>I would like to tell you them from tomorrow.

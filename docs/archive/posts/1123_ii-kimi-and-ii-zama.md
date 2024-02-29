@@ -8,7 +8,7 @@ comments: true
 slug: "1123_ii-kimi-and-ii-zama"
 ---
 
-# 【No. 1123】<strong><em>Ii Kimi and Ii Zama</strong></em> (「いい気味」と「いい様」)
+# 【No. 1123】<strong><em>Ii Kimi and Ii Zama</em></strong> (「いい気味」と「いい様」)
 <div class="date">Jan 14, 2018 20:52</div>
 <div id="post"><div id="body_show_ori">
 The Japanese adjective いい (ii) usually means "good" or "nice," but it sometimes implies the reverse and converys irony.<br/><br/>The Japanese term いい迷惑 (ii meiwaku) that I introduced you yesterday is one of the example.<br/><br/>There are other terms that use ironic "ii" -- for example, they're いい気味 (ii kimi) and いい様 (ii zama).<br/><br/>"Kimi" means "feeling" and "zama/sama" means "figure," so the literal meaning of "ii kimi" and "ii zama" are "good feeling" and "good figure," respectively.<br/><br/>However, actually "ii kimi" implies someone's failure or misfortune, and "ii zama" implies someone's stupid/disgraceful figure.

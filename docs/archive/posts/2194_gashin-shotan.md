@@ -8,10 +8,10 @@ comments: true
 slug: "2194_gashin-shotan"
 ---
 
-# 【No. 2194】<strong><em>Gashin Shōtan</strong></em> (臥薪嘗胆 - Struggling against Difficulties)
+# 【No. 2194】<strong><em>Gashin Shōtan</em></strong> (臥薪嘗胆 - Struggling against Difficulties)
 <div class="date">Oct 24, 2023 22:45</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gashin Shōtan</strong></em><br/><br/>To endure hardships and continue making efforts to achieve one's goal is called <strong><em>gashin shōtan</em></strong> (臥薪嘗胆).<br/><br/><strong><em>Gashin</em></strong> (臥薪) means "to sleep on firewood," and <strong><em>shōtan</em></strong> (嘗胆) means "to lick bitter gall," both of which imply to endure hardships.<br/><br/>This four-character idiom originates from a Chinese historical tale and originally meant "to endure hardships willingly never to forget one's desire for revenge."<br/><br/>This is how it came to have its current meaning over time.<br/><br/>It suggests a very long period of hardships and efforts, not a short-term one.
+<strong><em>Gashin Shōtan</em></strong><br/><br/>To endure hardships and continue making efforts to achieve one's goal is called <strong><em>gashin shōtan</em></strong> (臥薪嘗胆).<br/><br/><strong><em>Gashin</em></strong> (臥薪) means "to sleep on firewood," and <strong><em>shōtan</em></strong> (嘗胆) means "to lick bitter gall," both of which imply to endure hardships.<br/><br/>This four-character idiom originates from a Chinese historical tale and originally meant "to endure hardships willingly never to forget one's desire for revenge."<br/><br/>This is how it came to have its current meaning over time.<br/><br/>It suggests a very long period of hardships and efforts, not a short-term one.
 </div></div>
 
 <!-- more -->

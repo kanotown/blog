@@ -8,10 +8,10 @@ comments: true
 slug: "2235_hakushu-kassai"
 ---
 
-# 【No. 2235】<strong><em>Hakushu Kassai</strong></em> (拍手喝采 - Cheering and Clapping)
+# 【No. 2235】<strong><em>Hakushu Kassai</em></strong> (拍手喝采 - Cheering and Clapping)
 <div class="date">Dec 4, 2023 22:15</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hakushu Kassai</strong></em><br/><br/>The act of clapping hands and praising someone with loud voices is referred to as <strong><em>hakushu kassai</em></strong> (拍手喝采) in Japanese.<br/><br/>Since <strong><em>hakushu</em></strong> (拍手) means "clapping," and <strong><em>kassai</em></strong> (喝采) means "acclamation," <em>hakushu kassai</em> literally means "clapping and acclamation."<br/><br/>This four-character idiom is usually used to express admiration or emotion for an outstanding performance or a wonderful event.<br/><br/>However, note that using this idiom frequently on social networking sites such as X (Twitter) could give an impression of being fictional.<br/><br/>In Japanese SNS, people sometimes use exaggerated expressions to give a strong impression to their messages, and <em>hakushu kassai</em> is one of them.
+<strong><em>Hakushu Kassai</em></strong><br/><br/>The act of clapping hands and praising someone with loud voices is referred to as <strong><em>hakushu kassai</em></strong> (拍手喝采) in Japanese.<br/><br/>Since <strong><em>hakushu</em></strong> (拍手) means "clapping," and <strong><em>kassai</em></strong> (喝采) means "acclamation," <em>hakushu kassai</em> literally means "clapping and acclamation."<br/><br/>This four-character idiom is usually used to express admiration or emotion for an outstanding performance or a wonderful event.<br/><br/>However, note that using this idiom frequently on social networking sites such as X (Twitter) could give an impression of being fictional.<br/><br/>In Japanese SNS, people sometimes use exaggerated expressions to give a strong impression to their messages, and <em>hakushu kassai</em> is one of them.
 </div></div>
 
 <!-- more -->

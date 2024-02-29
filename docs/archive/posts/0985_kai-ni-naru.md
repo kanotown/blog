@@ -8,7 +8,7 @@ comments: true
 slug: "0985_kai-ni-naru"
 ---
 
-# 【No. 0985】<strong><em>Kai ni Naru</strong></em> (貝になる - Saying Nothing)
+# 【No. 0985】<strong><em>Kai ni Naru</em></strong> (貝になる - Saying Nothing)
 <div class="date">Aug 29, 2017 09:11</div>
 <div id="post"><div id="body_show_ori">
 I often do "kai ni naru" (貝になる).<br/><br/>The "kai" (貝) means "shellfish," the "naru" (なる) means "become/be," so the literal meaning of "kai ni naru" is to become a shellfish.<br/><br/>Since shellfishes close their shells tightly, it's hard to open them.<br/><br/>Because of this, "kai ni naru" (becoming a shellfish) has come to mean to close your mouth and say nothing, just like a shellfish.<br/><br/>Incidentally, there is the Japanese movie and drama, titled "watashi ha kai ni naritai" (私は貝になりたい - I'd Rather Be a Shellfish).<br/><br/>I haven't watched them, but according to the Internet, the title "kai ni naritai" just literally means to want to be a shellfish living at the bottom of the sea.

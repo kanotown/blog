@@ -8,7 +8,7 @@ comments: true
 slug: "0656_atama-ga-piman"
 ---
 
-# 【No. 0656】<strong><em>Atama ga Piman</strong></em> (Your Head is a Green Pepper)
+# 【No. 0656】<strong><em>Atama ga Piman</em></strong> (Your Head is a Green Pepper)
 <div class="date">Oct 4, 2016 07:11</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese insult "atama ga piman," whose literal meaning is "your head is a green pepper."<br/><br/>This phrase expresses something like that "you have no brains."<br/><br/>The etymology is very simple: green peppers have large hollows in their insides.<br/><br/>In a similar way, there is a Japanese insult "hanashi ga piman," (your talk is a green pepper), which means "your talk is empty."<br/><br/>Note that these phrases were popular in the 1970s, and we rarely use them today.<br/><br/>By the way, if you say just "piman" (a green pepper) to someone, it can be an insult that means "your have no brains" or "you're empty."

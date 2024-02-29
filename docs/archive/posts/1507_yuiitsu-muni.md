@@ -8,10 +8,10 @@ comments: true
 slug: "1507_yuiitsu-muni"
 ---
 
-# 【No. 1507】<strong><em>Yuiitsu Muni</strong></em> (唯一無二 - One and Only)
+# 【No. 1507】<strong><em>Yuiitsu Muni</em></strong> (唯一無二 - One and Only)
 <div class="date">Feb 2, 2019 23:36</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yuiitsu Muni</strong></em><br/><br/>If you want to express something that is only one thing in the world, you can use the four-character idiom <strong><em>yuiitsu muni</em></strong> (唯一無二).<br/><br/><strong><em>Yui</em></strong> (唯) means "only," <strong><em>itsu/ichi</em></strong> (一) means "one," <strong><em>mu</em></strong> (無) means "nothing" or "no," and <strong><em>ni</em></strong> (二) means "two."<br/><br/>Therefore, <strong><em>yuiitsu</em></strong> (唯一) means "only one," <strong><em>muni</em></strong> (無二) means "there are not two," and the combination is "it is only one, there are no same things."<br/><br/>This idiom is often used when describing a very important thing.<br/><br/>You can translate it into English as "one and only."
+<strong><em>Yuiitsu Muni</em></strong><br/><br/>If you want to express something that is only one thing in the world, you can use the four-character idiom <strong><em>yuiitsu muni</em></strong> (唯一無二).<br/><br/><strong><em>Yui</em></strong> (唯) means "only," <strong><em>itsu/ichi</em></strong> (一) means "one," <strong><em>mu</em></strong> (無) means "nothing" or "no," and <strong><em>ni</em></strong> (二) means "two."<br/><br/>Therefore, <strong><em>yuiitsu</em></strong> (唯一) means "only one," <strong><em>muni</em></strong> (無二) means "there are not two," and the combination is "it is only one, there are no same things."<br/><br/>This idiom is often used when describing a very important thing.<br/><br/>You can translate it into English as "one and only."
 </div></div>
 
 <!-- more -->

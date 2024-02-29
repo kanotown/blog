@@ -8,10 +8,10 @@ comments: true
 slug: "2148_sakushi-saku-ni-oboreru"
 ---
 
-# 【No. 2148】<strong><em>Sakushi Saku ni Oboreru</strong></em> (策士策に溺れる - Hoist with His Own Petard)
+# 【No. 2148】<strong><em>Sakushi Saku ni Oboreru</em></strong> (策士策に溺れる - Hoist with His Own Petard)
 <div class="date">Sep 8, 2023 11:37</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sakushi Saku ni Oboreru</strong></em><br/><br/>Even those who are good at devising strategies can sometimes rely too much on their plans and end up failing.<br/><br/>The proverb, <strong><em>sakushi saku ni oboreru</em></strong> (策士策に溺れる), illustrates this lesson.<br/><br/>Since <strong><em>sakushi</em></strong> (策士) means "strategist," <strong><em>saku</em></strong> (策) means "strategy," and <strong><em>oboreru</em></strong> (溺れる) means "to drown," the literal meaning of this proverb is "a strategist drowns in his own strategy."<br/><br/>In other words, it reminds us not to be too overconfident in our own abilities.<br/><br/>This proverb may be translated as the idiom "hoist with his own petard," originated from Shakespeare's "Hamlet."
+<strong><em>Sakushi Saku ni Oboreru</em></strong><br/><br/>Even those who are good at devising strategies can sometimes rely too much on their plans and end up failing.<br/><br/>The proverb, <strong><em>sakushi saku ni oboreru</em></strong> (策士策に溺れる), illustrates this lesson.<br/><br/>Since <strong><em>sakushi</em></strong> (策士) means "strategist," <strong><em>saku</em></strong> (策) means "strategy," and <strong><em>oboreru</em></strong> (溺れる) means "to drown," the literal meaning of this proverb is "a strategist drowns in his own strategy."<br/><br/>In other words, it reminds us not to be too overconfident in our own abilities.<br/><br/>This proverb may be translated as the idiom "hoist with his own petard," originated from Shakespeare's "Hamlet."
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2037_kreki-mo-yama-no-nigiwai"
 ---
 
-# 【No. 2037】<strong><em>Kreki mo Yama no Nigiwai</strong></em> (枯れ木も山の賑わい - Anything Is Better than Nothing)
+# 【No. 2037】<strong><em>Kreki mo Yama no Nigiwai</em></strong> (枯れ木も山の賑わい - Anything Is Better than Nothing)
 <div class="date">May 20, 2023 15:54</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kreki mo Yama no Nigiwai</strong></em><br/><br/>The idiom <em>kareki mo yama no nigiwai</em> can describe a situation where even a something uninteresting is better than nothing.<br/><br/>Since <strong><em>kare</em></strong> (枯れ) means "withered," <strong><em>ki</em></strong> (木) means "tree," <strong><em>yama</em></strong> (山) means "mountain," and <strong><em>nigiwai</em></strong> (賑わい) means "vibrancy," the literal meaning of <em>kareki mo yama no nigiwai</em> is "withered trees are also the vibrancy of a mountain."<br/><br/>Even withered trees can become a part of the mountain's decoration, which means that anything is better than nothing.<br/><br/>Note that this idiom is basically used for oneself, and it is impolite to use it for others.
+<strong><em>Kreki mo Yama no Nigiwai</em></strong><br/><br/>The idiom <em>kareki mo yama no nigiwai</em> can describe a situation where even a something uninteresting is better than nothing.<br/><br/>Since <strong><em>kare</em></strong> (枯れ) means "withered," <strong><em>ki</em></strong> (木) means "tree," <strong><em>yama</em></strong> (山) means "mountain," and <strong><em>nigiwai</em></strong> (賑わい) means "vibrancy," the literal meaning of <em>kareki mo yama no nigiwai</em> is "withered trees are also the vibrancy of a mountain."<br/><br/>Even withered trees can become a part of the mountain's decoration, which means that anything is better than nothing.<br/><br/>Note that this idiom is basically used for oneself, and it is impolite to use it for others.
 </div></div>
 
 <!-- more -->

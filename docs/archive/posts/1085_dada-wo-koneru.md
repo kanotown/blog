@@ -8,7 +8,7 @@ comments: true
 slug: "1085_dada-wo-koneru"
 ---
 
-# 【No. 1085】<strong><em>Dada wo Koneru</strong></em> (駄々をこねる - Acting like a Baby)
+# 【No. 1085】<strong><em>Dada wo Koneru</em></strong> (駄々をこねる - Acting like a Baby)
 <div class="date">Dec 7, 2017 09:24</div>
 <div id="post"><div id="body_show_ori">
 Have you ever acted like a spoiled child or say selfishness to your parents when you couldn't obtain what you wanted?<br/><br/>Doing such an act is called "dada wo koneru" (駄々をこねる) in Japanese.<br/><br/>The "koneru" (こねる) means just something like "to say," but there are several theories about the meaning of the "dada" (駄々).<br/><br/>The most accepted theory is that the "dada" comes from "da" of "jidanda" (地団駄), which means to stamp your feet in frustration.<br/><br/>Another theory said that it comes from "iyada iyada" (いやだいやだ - No, no).

@@ -8,10 +8,10 @@ comments: true
 slug: "1747_kakukaku-shikazika"
 ---
 
-# 【No. 1747】<strong><em>Kakukaku Shikazika</strong></em> (かくかくしかじか)
+# 【No. 1747】<strong><em>Kakukaku Shikazika</em></strong> (かくかくしかじか)
 <div class="date">Oct 1, 2019 13:47</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kakukaku Shikazika</strong></em><br/><br/>When you feel tired of explaining something concretely, you can say <strong><em>kakukaku shikazika</em></strong> (かくかくしかじか).<br/><br/>Actually, its etymology has not been cleared, but <strong><em>kaku</em></strong> (かく) and <strong><em>shika/zika</em></strong> (しか/じか) can be written in kanji as 斯く and 然, respectively.<br/><br/>Both 斯く and 然, mean "such," that is, you can avoid concrete expressions or explanations by using these terms.<br/><br/>Because of this, it is thought that the expression <em>kakukaku shikazika</em> came to be used when avoiding concrete expressions, explanations or descriptions.
+<strong><em>Kakukaku Shikazika</em></strong><br/><br/>When you feel tired of explaining something concretely, you can say <strong><em>kakukaku shikazika</em></strong> (かくかくしかじか).<br/><br/>Actually, its etymology has not been cleared, but <strong><em>kaku</em></strong> (かく) and <strong><em>shika/zika</em></strong> (しか/じか) can be written in kanji as 斯く and 然, respectively.<br/><br/>Both 斯く and 然, mean "such," that is, you can avoid concrete expressions or explanations by using these terms.<br/><br/>Because of this, it is thought that the expression <em>kakukaku shikazika</em> came to be used when avoiding concrete expressions, explanations or descriptions.
 </div></div>
 
 <!-- more -->

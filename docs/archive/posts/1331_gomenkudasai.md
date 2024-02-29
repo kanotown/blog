@@ -8,10 +8,10 @@ comments: true
 slug: "1331_gomenkudasai"
 ---
 
-# 【No. 1331】<strong><em>Gomenkudasai</strong></em> (ごめんください - Anyone Around?)
+# 【No. 1331】<strong><em>Gomenkudasai</em></strong> (ごめんください - Anyone Around?)
 <div class="date">Aug 10, 2018 02:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gomenkudasai</strong></em><br/><br/>When visiting someone's house, Japanese people often say <strong><em>gomenkudasai</em></strong> (ごめんください) at the entrance.<br/><br/><strong><em>Go</em></strong> (ご) is a polite prefix, <strong><em>men</em></strong> (めん) mean "pardon" or "forgive," and <strong><em>kudasai</em></strong> (ください) means "please."<br/><br/>That is to say, gomenkudasai implies your feelings of apologies for suddenly visiting someone's house.<br/><br/>Originally, this phrase literalle meant apologies, but these days it is mainly used as a greeting when visiting someone's house.<br/><br/>If you say <strong><em>gomen-nasai</em></strong> (ごめんなさい), by replacing <strong><em>kudasai</em></strong> (ください) with <strong><em>nasai</em></strong> (なさい), it just means "I'm sorry."
+<strong><em>Gomenkudasai</em></strong><br/><br/>When visiting someone's house, Japanese people often say <strong><em>gomenkudasai</em></strong> (ごめんください) at the entrance.<br/><br/><strong><em>Go</em></strong> (ご) is a polite prefix, <strong><em>men</em></strong> (めん) mean "pardon" or "forgive," and <strong><em>kudasai</em></strong> (ください) means "please."<br/><br/>That is to say, gomenkudasai implies your feelings of apologies for suddenly visiting someone's house.<br/><br/>Originally, this phrase literalle meant apologies, but these days it is mainly used as a greeting when visiting someone's house.<br/><br/>If you say <strong><em>gomen-nasai</em></strong> (ごめんなさい), by replacing <strong><em>kudasai</em></strong> (ください) with <strong><em>nasai</em></strong> (なさい), it just means "I'm sorry."
 </div></div>
 
 <!-- more -->

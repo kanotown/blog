@@ -8,7 +8,7 @@ comments: true
 slug: "1644_te-ni-ase-wo-nigiru"
 ---
 
-# 【No. 1644】<strong><em>Te ni Ase wo Nigiru</strong></em> (手に汗を握る - Thrilling)
+# 【No. 1644】<strong><em>Te ni Ase wo Nigiru</em></strong> (手に汗を握る - Thrilling)
 <div class="date">Jun 19, 2019 18:56</div>
 <div id="post"><div id="body_show_ori">
 Te ni Ase wo Nigiri<br/><br/>Being excited or nervous by seeing/hearing a tense situation is called <strong><em>te ni ase wo nigiri</em></strong> (手に汗を握る) in Japanese.<br/><br/><strong><em>Te</em></strong> (手) means "hand," <strong><em>ase</em></strong> (汗) means "sweat," and <strong><em>nigiri</em></strong> (握る) means "to grasp," so the literal meaning of this idiom is "to grasp sweat one's hand."<br/><br/>People will sweat and clasp their hands when seeing/hearing a tense or dangerous situation.<br/><br/>This idiom literally represents such a situation.<br/><br/>Even if you do not clasp your hand or sweat, you can say <em>te ni ase nigiru</em> to mean your excitement or tension.

@@ -8,10 +8,10 @@ comments: true
 slug: "1886_hyaku-mo-shochi"
 ---
 
-# 【No. 1886】<strong><em>Hyaku mo Shōchi</strong></em> (百も承知 - Being Well Aware)
+# 【No. 1886】<strong><em>Hyaku mo Shōchi</em></strong> (百も承知 - Being Well Aware)
 <div class="date">Jun 25, 2021 17:18</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hyaku mo Shōchi</strong></em><br/><br/>When you are well aware of something without someone pointing it out to you, it can be expressed as <strong><em>hyaku mo shōchi</em></strong> (百も承知) in Japanese.<br/><br/>Since <strong><em>hyaku</em></strong> (百) means "hundred" and <strong><em>shōchi</em></strong> (承知) means "knowing," the literal meaning of <em>hyaku mo shōchi</em> is "knowing a hundred (percent)."<br/><br/>In Japan, the number <strong><em>hyaku</em></strong> (百 - "hundred") is often used to represent "sufficiency" or "completeness," so the phrase <em>hyaku mo shōchi</em> has the above meaning.<br/><br/>I wrote "In Japan," however, the number "a hundred" probably represents "completeness" even in many countries around the world.
+<strong><em>Hyaku mo Shōchi</em></strong><br/><br/>When you are well aware of something without someone pointing it out to you, it can be expressed as <strong><em>hyaku mo shōchi</em></strong> (百も承知) in Japanese.<br/><br/>Since <strong><em>hyaku</em></strong> (百) means "hundred" and <strong><em>shōchi</em></strong> (承知) means "knowing," the literal meaning of <em>hyaku mo shōchi</em> is "knowing a hundred (percent)."<br/><br/>In Japan, the number <strong><em>hyaku</em></strong> (百 - "hundred") is often used to represent "sufficiency" or "completeness," so the phrase <em>hyaku mo shōchi</em> has the above meaning.<br/><br/>I wrote "In Japan," however, the number "a hundred" probably represents "completeness" even in many countries around the world.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1077_oogesa"
 ---
 
-# 【No. 1077】<strong><em>Oogesa</strong></em> (大げさ - Exaggerated)
+# 【No. 1077】<strong><em>Oogesa</em></strong> (大げさ - Exaggerated)
 <div class="date">Nov 29, 2017 14:31</div>
 <div id="post"><div id="body_show_ori">
 If you make a grandiose claim or exaggerate something, you may be said "oogesa" (大げさ) in Japanese.<br/><br/>The "oo" (大) means "big" and the "gesa/kesa" (げさ/けさ) means "Buddhist stole," so originally this term was used to mean a big Buddhist term.<br/><br/>On the other hand, there were Japanese terms: "ohokenashi" (おほけなし) and its changed form "ohogesa" (おほげさ), which mean "inordinate" or "bold."<br/><br/>Becaue of the meaning and the sound, "oogesa" has come to have the current meaning.

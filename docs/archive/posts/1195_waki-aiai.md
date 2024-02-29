@@ -8,7 +8,7 @@ comments: true
 slug: "1195_waki-aiai"
 ---
 
-# 【No. 1195】<strong><em>Waki Aiai</strong></em> (和気あいあい - Cozy)
+# 【No. 1195】<strong><em>Waki Aiai</em></strong> (和気あいあい - Cozy)
 <div class="date">Mar 27, 2018 22:07</div>
 <div id="post"><div id="body_show_ori">
 I think that many people like situations where peaceful and open-minded atmosphere are filled.<br/><br/>Such a situation or atmosphere is called 和気あいあい (waki aiai) in Japanese.<br/><br/>和 (wa) means "peaceful" and 気 (ki) means "feeling," so the literal meaning of "waki" is "peaceful feeling."<br/><br/>Also, あい/藹/靄 (ai) means that vegetation is lush, and the repetition emphasizes the meaning itself.<br/><br/>That is to say, this term implies that peaceful feelings spread as if vegetation were lush.<br/><br/>For example, you can say 昨日の面接は和気藹藹としていた (kinou no mensetsu wa waki-aiai to shiteita - Yesterday's job interview was cozy.)

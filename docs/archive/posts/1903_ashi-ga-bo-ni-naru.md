@@ -8,10 +8,10 @@ comments: true
 slug: "1903_ashi-ga-bo-ni-naru"
 ---
 
-# 【No. 1903】<strong><em>Ashi ga Bō ni Naru</strong></em> (足が棒になる - One's Legs Are Tired)
+# 【No. 1903】<strong><em>Ashi ga Bō ni Naru</em></strong> (足が棒になる - One's Legs Are Tired)
 <div class="date">Jul 12, 2021 22:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ashi ga Bō ni Naru</strong></em><br/><br/>When you walk or stand for a long time and get so tired that you feel stiffness in your legs, the situation can be expressed as <strong><em>ashi ga bō ni naru</em></strong> (足が棒になる) in Japanese.<br/><br/>Since <strong><em>ashi</em></strong> (足) means "leg," <strong><em>bō</em></strong> (棒) means "stick," and <strong><em>naru</em></strong> (なる) means "to become," the literal meaning of <em>ashi ga bō ni naru</em> is "one's legs become sticks."<br/><br/>This phrase came from the fact that when you feel tired in your legs, they become stiff and immobile like sticks.
+<strong><em>Ashi ga Bō ni Naru</em></strong><br/><br/>When you walk or stand for a long time and get so tired that you feel stiffness in your legs, the situation can be expressed as <strong><em>ashi ga bō ni naru</em></strong> (足が棒になる) in Japanese.<br/><br/>Since <strong><em>ashi</em></strong> (足) means "leg," <strong><em>bō</em></strong> (棒) means "stick," and <strong><em>naru</em></strong> (なる) means "to become," the literal meaning of <em>ashi ga bō ni naru</em> is "one's legs become sticks."<br/><br/>This phrase came from the fact that when you feel tired in your legs, they become stiff and immobile like sticks.
 </div></div>
 
 <!-- more -->

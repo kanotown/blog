@@ -9,10 +9,10 @@ comments: true
 slug: "2178_yuyu-jiteki"
 ---
 
-# 【No. 2178】<strong><em>Yūyū Jiteki</strong></em> (悠々自適 - Leisurely)
+# 【No. 2178】<strong><em>Yūyū Jiteki</em></strong> (悠々自適 - Leisurely)
 <div class="date">Oct 8, 2023 18:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yūyū Jiteki</strong></em><br/><br/>Someday, I would like to live a life that is described as <strong><em>yūyū jiteki</em></strong> (悠々自適).<br/><br/><em>Yūyū jiteki</em> is a four-character idiom that means to live a free and quiet life away from the troubles of the world.<br/><br/><strong><em>Yūyū</em></strong> (悠々) describes a state of being relaxed and calm.<br/><br/>In addition, <strong><em>jiteki</em></strong> (自適) means to enjoy things as one's heart desires.<br/><br/>A life represented by either <em>yūyū</em> or <em>jiteki</em> is wonderful, and combining them makes it even more awesome.<br/><br/>Unfortunately, I might be leading a life far from both <em>yūyū</em> and <em>jiteki</em> today.
+<strong><em>Yūyū Jiteki</em></strong><br/><br/>Someday, I would like to live a life that is described as <strong><em>yūyū jiteki</em></strong> (悠々自適).<br/><br/><em>Yūyū jiteki</em> is a four-character idiom that means to live a free and quiet life away from the troubles of the world.<br/><br/><strong><em>Yūyū</em></strong> (悠々) describes a state of being relaxed and calm.<br/><br/>In addition, <strong><em>jiteki</em></strong> (自適) means to enjoy things as one's heart desires.<br/><br/>A life represented by either <em>yūyū</em> or <em>jiteki</em> is wonderful, and combining them makes it even more awesome.<br/><br/>Unfortunately, I might be leading a life far from both <em>yūyū</em> and <em>jiteki</em> today.
 </div></div>
 
 <!-- more -->

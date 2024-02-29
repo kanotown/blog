@@ -8,10 +8,10 @@ comments: true
 slug: "2058_tatami-no-ue-no-kega"
 ---
 
-# 【No. 2058】<strong><em>Tatami no Ue no Kega</strong></em> (畳の上の怪我 - Out of the Blue)
+# 【No. 2058】<strong><em>Tatami no Ue no Kega</em></strong> (畳の上の怪我 - Out of the Blue)
 <div class="date">Jun 10, 2023 20:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tatami no Ue no Kega</strong></em><br/><br/>Although you believe that you are safe, you may unexpectedly get injured.<br/><br/>Such a fact that we cannot predict when and where we will encounter trouble or disaster can be described as the phrase <strong><em>tatami no ue no kega</em></strong> (畳の上の怪我).<br/><br/><strong><em>Tatami</em></strong> (畳) refers to a traditional Japanese flooring material made of rush grass and straw; it is slip-resistant, stumbling-resistant, and effectively absorbs shock."と<br/><br/>In addition, <strong><em>ue</em></strong> (上) means "on," and <strong><em>kega</em></strong> (怪我) means "injury," so the literal meaning of <em>tatami no ue no kega</em> is "getting injured on a tatami."<br/><br/>In other words, getting injured on a tatami, which is believed to be safe, is tantamount to an unexpected disaster.
+<strong><em>Tatami no Ue no Kega</em></strong><br/><br/>Although you believe that you are safe, you may unexpectedly get injured.<br/><br/>Such a fact that we cannot predict when and where we will encounter trouble or disaster can be described as the phrase <strong><em>tatami no ue no kega</em></strong> (畳の上の怪我).<br/><br/><strong><em>Tatami</em></strong> (畳) refers to a traditional Japanese flooring material made of rush grass and straw; it is slip-resistant, stumbling-resistant, and effectively absorbs shock."と<br/><br/>In addition, <strong><em>ue</em></strong> (上) means "on," and <strong><em>kega</em></strong> (怪我) means "injury," so the literal meaning of <em>tatami no ue no kega</em> is "getting injured on a tatami."<br/><br/>In other words, getting injured on a tatami, which is believed to be safe, is tantamount to an unexpected disaster.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "1240_keshikaran"
 ---
 
-# 【No. 1240】<strong><em>Keshikaran</strong></em> (けしからん - Disgraceful)
+# 【No. 1240】<strong><em>Keshikaran</em></strong> (けしからん - Disgraceful)
 <div class="date">May 11, 2018 16:30</div>
 <div id="post"><div id="body_show_ori">
 We say keshikaran (けしからん) when expressing that something is contrary to reason or disgraceful.<br/><br/>Keshi (けし) means that something is abnormal, and karan (からん) came from karazu (からず), which is a negative word.<br/><br/>Therefore, keshikaran means that something is not just abnormal, it is extremely abnormal.<br/><br/>This term tends to be used by senior men.<br/><br/>However, these days on the Internet, people (especially young people) sometimes use keshikaran for sexually women or cute gestures of animals as the meaning of "it's too sexy/cute."

@@ -8,7 +8,7 @@ comments: true
 slug: "0525_do-tea"
 ---
 
-# 【No. 0525】<strong><em>Do Tea</strong></em> (Ocha-suru)
+# 【No. 0525】<strong><em>Do Tea</em></strong> (Ocha-suru)
 <div class="date">May 26, 2016 18:15</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese phrase "ocha-suru."<br/><br/>("Ocha" is a noun that means tea, and "suru" is a verb that means do.)<br/><br/>Ocha-suru means to drink something or get rest at a coffee/tea shop.<br/><br/>In 1970s, phrases like "～suru (do something)" were prevalent in Japan.<br/><br/>In addition to "ocha-suru," "eiga-suru (which means to watch a movie)" and "tabaco-suru (which means to smoke)" seemed to be used. <br/><br/>However, the phrase "ocha-shinai? (shall we do tea?)" continues to be used as a pickup line, and only "ocha-suru" still remains.

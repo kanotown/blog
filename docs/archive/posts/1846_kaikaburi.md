@@ -8,7 +8,7 @@ comments: true
 slug: "1846_kaikaburi"
 ---
 
-# 【No. 1846】<strong><em>Kaikaburi</strong></em> (買いかぶる - Overestimating)
+# 【No. 1846】<strong><em>Kaikaburi</em></strong> (買いかぶる - Overestimating)
 <div class="date">May 16, 2021 16:57</div>
 <div id="post"><div id="body_show_ori">
 Kaikaburu<br/><br/>To misjudge and overestimate a person's ability is represented as <strong><em>kaikaburu</em></strong> (買いかぶる) in Japanese.<br/><br/>Since <strong><em>kai</em></strong> (買い) means "to buy" and <strong><em>kaburu</em></strong> (かぶる/被る) means "to suffer damage," the literal meaning of <em>kaikaburu</em> is "to buy something and suffer damage."<br/><br/>Originally, this term meant its literal meaning, to buy something at a higher price than its actual value, resulting in a loss.<br/><br/>Afterward, <em>kaikaburu</em> came to be used for evaluating people and to have its current meaning.<br/><br/><em>Kaikaburu</em> is a verb, but if you want to use it as a noun, you can use <strong><em>kaikaburi</em></strong> (買いかぶり) instead.

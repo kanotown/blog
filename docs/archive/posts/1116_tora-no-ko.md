@@ -8,7 +8,7 @@ comments: true
 slug: "1116_tora-no-ko"
 ---
 
-# 【No. 1116】<strong><em>Tora no Ko</strong></em> (虎の子 - Precious Thing)
+# 【No. 1116】<strong><em>Tora no Ko</em></strong> (虎の子 - Precious Thing)
 <div class="date">Jan 7, 2018 14:30</div>
 <div id="post"><div id="body_show_ori">
 Do you have any important things that you never want to let go?<br/><br/>Such things are called 虎の子 (tora no ko) in Japanese.<br/><br/>虎 (tora) means "tiger" and 子 (ko) means "child," so the literal meaning of the combination is "tiger's child."<br/><br/>This term comes from the fact that a mother tiger cherishes her child.<br/><br/>In fact, general feline animals nurture their children for three to six months after they were born, whereas tigers nurture their children for eighteen to twenty-four months.<br/><br/>Incidentally, "tra no ko" can refer to money that has been saved, and then it's translated as "nest egg" in English.

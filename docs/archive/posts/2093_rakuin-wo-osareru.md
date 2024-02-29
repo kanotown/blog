@@ -8,10 +8,10 @@ comments: true
 slug: "2093_rakuin-wo-osareru"
 ---
 
-# 【No. 2093】<strong><em>Rakuin wo Osareru</strong></em> (烙印を押される - Being Branded)
+# 【No. 2093】<strong><em>Rakuin wo Osareru</em></strong> (烙印を押される - Being Branded)
 <div class="date">Jul 15, 2023 14:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Rakuin wo Osareru</strong></em><br/><br/>To be subjected to a stigma that is difficult to erase is described as <strong><em>rakuin wo osareru</em></strong> (烙印を押される) in Japanese.<br/><br/><strong><em>Rakuin</em></strong> (烙印) is a branding mark stamped on a criminal's forehead or a livestock's body, and is used as a metaphor for a mark that will never be erased.<br/><br/>In addition, <strong><em>osareru</em></strong> (押される) means "to be stamped," so the literal meaning of <em>rakuin wo osareru</em> is "to be stamped with a branding mark."<br/><br/>In other words, it refers to being marked with a stigma that cannot be erased for one's lifetime. 
+<strong><em>Rakuin wo Osareru</em></strong><br/><br/>To be subjected to a stigma that is difficult to erase is described as <strong><em>rakuin wo osareru</em></strong> (烙印を押される) in Japanese.<br/><br/><strong><em>Rakuin</em></strong> (烙印) is a branding mark stamped on a criminal's forehead or a livestock's body, and is used as a metaphor for a mark that will never be erased.<br/><br/>In addition, <strong><em>osareru</em></strong> (押される) means "to be stamped," so the literal meaning of <em>rakuin wo osareru</em> is "to be stamped with a branding mark."<br/><br/>In other words, it refers to being marked with a stigma that cannot be erased for one's lifetime. 
 </div></div>
 
 <!-- more -->

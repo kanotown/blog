@@ -8,10 +8,10 @@ comments: true
 slug: "1212_chiku-chiku"
 ---
 
-# 【No. 1212】<strong><em>Chiku Chiku</strong></em> (ちくちく - Prickling)
+# 【No. 1212】<strong><em>Chiku Chiku</em></strong> (ちくちく - Prickling)
 <div class="date">Apr 13, 2018 12:51</div>
 <div id="post"><div id="body_show_ori">
-I am now feeling "chiku chiku" (ちくちく) at my throat.<br/><br/>In other word, "nodo ga itai" (喉が痛い - My throat hurts.)<br/><br/>"Chiku chiku" is a kind of onomatopoeia, and it represents to stick a needle repeatedly.<br/><br/>For example, you can say "me ga chiku chiku suru" (目がちくちくする - I feel my eyes prickle.)<br/><br/>In most cases, this term is used when you feel such pinprick-like pain at a part of your body or your heart.<br/><br/>Also, since it can represent mental pain, you can say it to mean that someone says ironies or sarcasms repeatedly.
+<strong><em>Chiku Chiku</em></strong><br/><br/>I am now feeling "chiku chiku" (ちくちく) at my throat.<br/><br/>In other word, "nodo ga itai" (喉が痛い - My throat hurts.)<br/><br/>"Chiku chiku" is a kind of onomatopoeia, and it represents to stick a needle repeatedly.<br/><br/>For example, you can say "me ga chiku chiku suru" (目がちくちくする - I feel my eyes prickle.)<br/><br/>In most cases, this term is used when you feel such pinprick-like pain at a part of your body or your heart.<br/><br/>Also, since it can represent mental pain, you can say it to mean that someone says ironies or sarcasms repeatedly.
 </div></div>
 
 <!-- more -->

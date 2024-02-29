@@ -8,10 +8,10 @@ comments: true
 slug: "1410_mimi-ni-tako-ga-dekiru"
 ---
 
-# 【No. 1410】<strong><em>Mimi ni Tako ga Dekiru</strong></em> (耳にたこができる - Having a Sore Ear)
+# 【No. 1410】<strong><em>Mimi ni Tako ga Dekiru</em></strong> (耳にたこができる - Having a Sore Ear)
 <div class="date">Oct 28, 2018 23:58</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mimi ni Tako ga Dekiru</strong></em><br/><br/>Have you ever been disgusted by a person who talks the same story repeatedly?<br/><br/>You can describe such a situation by using the Japanese idiom, <strong><em>mimi ni tako ga dekiru</em></strong> (耳にたこができる).<br/><br/><strong><em>Mimi</em></strong> (耳) means "ear," <strong><em>tako</em></strong> (たこ) means "callus," and <strong><em>dekiru</em></strong> (できる) means "to be generated," so the literal meaning of this idiom is "a callus is generated on one's ear."<br/><br/>A callus is a hardened part on one's skin by pressure or friction, and it is usually generated on fingers, feet, etc.<br/><br/>That is to say, <em>mimi ni tako ga dekiru</em> implies that one's ear is under strain as much as a callus is generated on one's ear.
+<strong><em>Mimi ni Tako ga Dekiru</em></strong><br/><br/>Have you ever been disgusted by a person who talks the same story repeatedly?<br/><br/>You can describe such a situation by using the Japanese idiom, <strong><em>mimi ni tako ga dekiru</em></strong> (耳にたこができる).<br/><br/><strong><em>Mimi</em></strong> (耳) means "ear," <strong><em>tako</em></strong> (たこ) means "callus," and <strong><em>dekiru</em></strong> (できる) means "to be generated," so the literal meaning of this idiom is "a callus is generated on one's ear."<br/><br/>A callus is a hardened part on one's skin by pressure or friction, and it is usually generated on fingers, feet, etc.<br/><br/>That is to say, <em>mimi ni tako ga dekiru</em> implies that one's ear is under strain as much as a callus is generated on one's ear.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2029_jinji-wo-tsukushite-tenmei-wo-matsu"
 ---
 
-# 【No. 2029】<strong><em>Jinji wo Tsukushite Tenmei wo Matsu</strong></em> (人事を尽くして天命を待つ
+# 【No. 2029】<strong><em>Jinji wo Tsukushite Tenmei wo Matsu</em></strong> (人事を尽くして天命を待つ
 <div class="date">May 12, 2023 23:27</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Jinji wo Tsukushite Tenmei wo Matsu</strong></em><br/><br/>Have you ever been in a situation where you have done everything you could and are just waiting for the results?<br/><br/>The proverb <strong><em>jinji wo tsukushite tenmei wo matsu</em></strong> (人事を尽くして天命を待つ) can describe such a situation.<br/><br/>Since <strong><em>jinji</em></strong> (人事) means "what human beings can do," <strong><em>tsukusu</em></strong> (尽くす) means "to do one's best," <strong><em>tenmei</em></strong> (天命) means "fate," and <strong><em>matsu</em></strong> (待つ) means "to wait," the literal meaning of this proverb is "to do everything that one can do and wait for the fate."<br/><br/>In other words, after doing your best, you should just wait for the result with a peaceful mind.<br/><br/>This proverb has its origins in an ancient Chinese book.
+<strong><em>Jinji wo Tsukushite Tenmei wo Matsu</em></strong><br/><br/>Have you ever been in a situation where you have done everything you could and are just waiting for the results?<br/><br/>The proverb <strong><em>jinji wo tsukushite tenmei wo matsu</em></strong> (人事を尽くして天命を待つ) can describe such a situation.<br/><br/>Since <strong><em>jinji</em></strong> (人事) means "what human beings can do," <strong><em>tsukusu</em></strong> (尽くす) means "to do one's best," <strong><em>tenmei</em></strong> (天命) means "fate," and <strong><em>matsu</em></strong> (待つ) means "to wait," the literal meaning of this proverb is "to do everything that one can do and wait for the fate."<br/><br/>In other words, after doing your best, you should just wait for the result with a peaceful mind.<br/><br/>This proverb has its origins in an ancient Chinese book.
 </div></div>
 
 <!-- more -->

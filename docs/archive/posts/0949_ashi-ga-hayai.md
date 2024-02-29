@@ -8,7 +8,7 @@ comments: true
 slug: "0949_ashi-ga-hayai"
 ---
 
-# 【No. 0949】<strong><em>Ashi ga Hayai</strong></em> (足が早い - Spoil Rapidly)
+# 【No. 0949】<strong><em>Ashi ga Hayai</em></strong> (足が早い - Spoil Rapidly)
 <div class="date">Jul 24, 2017 23:13</div>
 <div id="post"><div id="body_show_ori">
 I bought a Costco's new cake, "Strawberry Trifle" yesterday.<br/><br/>Since cakes are "ashi ga hayai" (足が早い), I have to eat all of them by tomorrow.<br/><br/>Here, the literal meaning of "ashi ga hayai" is that something's legs are quick, and it means that food or something is spoil quickly.<br/><br/>"Ashi" (legs/feet) could represent changes in movements or states of things, and perishable things change quickly (hayai - 早い), so they have come to be called "ashi ga hayai."<br/><br/>Also, based on the same etymology, "ashi ga hayai" can mean that a product or something sells fairly well.

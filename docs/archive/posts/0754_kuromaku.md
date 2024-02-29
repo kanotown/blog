@@ -8,7 +8,7 @@ comments: true
 slug: "0754_kuromaku"
 ---
 
-# 【No. 0754】<strong><em>Kuromaku</strong></em> (A Black Curtain)
+# 【No. 0754】<strong><em>Kuromaku</em></strong> (A Black Curtain)
 <div class="date">Jan 10, 2017 21:46</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese word "kuromaku".<br/><br/>The literal meaning is "a black curtain", and it means "a person who gives instructions under the counter", or "a person who has real power".<br/><br/>This word comes from a tool that is used in Kabuki (traditional Japanese drama performed by male actors).<br/><br/>In the Kabuki, a black curtain is used for hiding the stage when the scene is changing, or showing a night scene.<br/><br/>Since operations of the stage were conducted behind the black curtain, "a person who has influence behind the curtain" came to be referred to as "kuromaku" (a black curtain).

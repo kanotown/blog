@@ -8,10 +8,10 @@ comments: true
 slug: "2128_yoin-ni-hitaru"
 ---
 
-# 【No. 2128】<strong><em>Yoin ni Hitaru</strong></em> (余韻に浸る - Basking in the Afterglow)
+# 【No. 2128】<strong><em>Yoin ni Hitaru</em></strong> (余韻に浸る - Basking in the Afterglow)
 <div class="date">Aug 19, 2023 18:21</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yoin ni Hitaru</strong></em><br/><br/>I recently finished a well-known epic video game.<br/><br/>I felt a great sense of accomplishment, then spent some time enjoying the afterglow while reflecting on the story.<br/><br/>Spending time like this is called <strong><em>yoin ni hitaru</em></strong> (余韻に浸る) in Japanese.<br/><br/>Since <strong><em>yoin</em></strong> (余韻) means "lingering sound," and <strong><em>hitaru</em></strong> (浸る) means "to bask," the literal meaning of this idiom is "to bask in the lingering sound."<br/><br/>While <em>yoin ni hitaru</em> can be used to mean this literally, it is often used metaphorically to mean "to bask in the afterglow" or "to savor the lingering emotions."
+<strong><em>Yoin ni Hitaru</em></strong><br/><br/>I recently finished a well-known epic video game.<br/><br/>I felt a great sense of accomplishment, then spent some time enjoying the afterglow while reflecting on the story.<br/><br/>Spending time like this is called <strong><em>yoin ni hitaru</em></strong> (余韻に浸る) in Japanese.<br/><br/>Since <strong><em>yoin</em></strong> (余韻) means "lingering sound," and <strong><em>hitaru</em></strong> (浸る) means "to bask," the literal meaning of this idiom is "to bask in the lingering sound."<br/><br/>While <em>yoin ni hitaru</em> can be used to mean this literally, it is often used metaphorically to mean "to bask in the afterglow" or "to savor the lingering emotions."
 </div></div>
 
 <!-- more -->

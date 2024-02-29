@@ -8,7 +8,7 @@ comments: true
 slug: "0641_he-no-kappa"
 ---
 
-# 【No. 0641】<strong><em>He no Kappa</strong></em> (Water Imp of Farts)
+# 【No. 0641】<strong><em>He no Kappa</em></strong> (Water Imp of Farts)
 <div class="date">Sep 19, 2016 00:21</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese slang "he no kappa."<br/><br/>The literal meaning is "water imp of farts," and it expresses "trivial things" or "easy things."<br/><br/>For example: "Sonna shiken wa he no kappa da" (That exam is trivial for me).<br/><br/>The most widely-accepted etymology of this slang is that it comes from "koppa no hi."<br/><br/>Since "koppa" (wood chips) burn out quickly by "hi" (fire), "koppa no hi" expresses "easy things" or "silly things."<br/><br/>It's thought that "koppa no hi" became "kappa no he," and inverting words became popular in the late Edo period, then it changed to "he no kappa."<br/><br/>Actually, "he no kappa" is grammatically strange.

@@ -8,10 +8,10 @@ comments: true
 slug: "2221_takw-wo-watta-yona"
 ---
 
-# 【No. 2221】<strong><em>Takw wo Watta Yōna</strong></em> (竹を割ったような - Straightforward)
+# 【No. 2221】<strong><em>Takw wo Watta Yōna</em></strong> (竹を割ったような - Straightforward)
 <div class="date">Nov 20, 2023 20:57</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Takw wo Watta Yōna</strong></em><br/><br/>A person who has a straightforward and unpretentious character is sometimes described as <strong><em>take wo watta yōna</em></strong> (竹を割ったような) in Japanese.<br/><br/>Since <strong><em>take</em></strong> (竹) means "bamboo," <strong><em>watta/waru</em></strong> (割った/割る) means "to split," and <strong><em>yōna</em></strong> (ような) means "like," the literal meaning of <em>take wo watta yōna</em> is "like splitting bamboo."<br/><br/>When you try to split bamboo into two vertically, it will split cleanly and straight.<br/><br/>From there, <em>take wo watta yōna</em> came to describe a personality or nature that is straight and refreshing.
+<strong><em>Takw wo Watta Yōna</em></strong><br/><br/>A person who has a straightforward and unpretentious character is sometimes described as <strong><em>take wo watta yōna</em></strong> (竹を割ったような) in Japanese.<br/><br/>Since <strong><em>take</em></strong> (竹) means "bamboo," <strong><em>watta/waru</em></strong> (割った/割る) means "to split," and <strong><em>yōna</em></strong> (ような) means "like," the literal meaning of <em>take wo watta yōna</em> is "like splitting bamboo."<br/><br/>When you try to split bamboo into two vertically, it will split cleanly and straight.<br/><br/>From there, <em>take wo watta yōna</em> came to describe a personality or nature that is straight and refreshing.
 </div></div>
 
 <!-- more -->

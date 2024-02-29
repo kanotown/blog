@@ -8,7 +8,7 @@ comments: true
 slug: "1084_unubore"
 ---
 
-# 【No. 1084】<strong><em>Unubore</strong></em> (うぬぼれ - Egotism)
+# 【No. 1084】<strong><em>Unubore</em></strong> (うぬぼれ - Egotism)
 <div class="date">Dec 6, 2017 12:48</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I used the Japanese term "unubore" (うぬぼれ), in order to admonish a student.<br/><br/>"Unubore" means that you convince yourself that you are a better person than you actually are -- in other words, it means that you get overconfident.<br/><br/>The "unu" means "oneself" and the "bore/hore" means "to fall for someone," so the literal meaning of "unubore" is "to fall for oneself." <br/><br/>You know, when you fall for yourself, you would believe that you are a great person/ you have a great ability.<br/><br/>Also, a person who has such a character is called "unubore-ya" (うぬぼれ屋).

@@ -8,7 +8,7 @@ comments: true
 slug: "0724_mimi-wo-soroeru"
 ---
 
-# 【No. 0724】<strong><em>Mimi wo Soroeru</strong></em> (To Arrange Ears)
+# 【No. 0724】<strong><em>Mimi wo Soroeru</em></strong> (To Arrange Ears)
 <div class="date">Dec 11, 2016 00:20</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese idiom "mimi wo soroeru."<br/><br/>The literal meaning is "to arrange ears", and it describes to prepare money without deficiencies.<br/><br/>In many cases, this idiom is used when repaying debts.<br/><br/>For example: I repaid my debts without deficiencies (Mimi wo soroete shakkin wo hensai shita).<br/><br/>In Japan, quadrilateral/oval things are sometimes thought of as a face, and the edges of them are referred as "mimi" (ears).<br/><br/>In fact, edges of oval gold coins that were used as money were called "mimi".<br/><br/>Since payments were prepared by arranging edges of gold coins, "mimi wo soroeru" (to arrange ears) came to be used in such a situation.

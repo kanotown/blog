@@ -8,10 +8,10 @@ comments: true
 slug: "1575_yubiori-kazoeru"
 ---
 
-# 【No. 1575】<strong><em>Yubiori Kazoeru</strong></em> (指折り数える - Waiting Eagerly)
+# 【No. 1575】<strong><em>Yubiori Kazoeru</em></strong> (指折り数える - Waiting Eagerly)
 <div class="date">Apr 11, 2019 10:50</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yubiori Kazoeru</strong></em><br/><br/>Yesterday, I introduced the term <strong><em>yubiori</em></strong> (指折り), which means "to count something" or "one of the best."<br/><br/>If you want to mean the former explicitly, you can say <strong><em>yubiori kazoeru</em></strong> (指折り数える).<br/><br/>Since <strong><em>yubi</em></strong> (指) means "finger," <strong><em>ori</em></strong> (折り) means "to bend something," and <strong><em>kazoeru</em></strong> (数える) means "to count something," the literal meaning of <em>yubiori kazoeru</em> is "to count something by bending fingers."<br/><br/>In addition, this phrase can imply that you are looking forward to one day and waiting while counting the remaining days.<br/><br/>[Example] Kekkonshiki no hi wo yubiori kazoete matsu (結婚式の日を指折り数えて待つ - "I wait eagerly for the wedding day.")
+<strong><em>Yubiori Kazoeru</em></strong><br/><br/>Yesterday, I introduced the term <strong><em>yubiori</em></strong> (指折り), which means "to count something" or "one of the best."<br/><br/>If you want to mean the former explicitly, you can say <strong><em>yubiori kazoeru</em></strong> (指折り数える).<br/><br/>Since <strong><em>yubi</em></strong> (指) means "finger," <strong><em>ori</em></strong> (折り) means "to bend something," and <strong><em>kazoeru</em></strong> (数える) means "to count something," the literal meaning of <em>yubiori kazoeru</em> is "to count something by bending fingers."<br/><br/>In addition, this phrase can imply that you are looking forward to one day and waiting while counting the remaining days.<br/><br/>[Example] Kekkonshiki no hi wo yubiori kazoete matsu (結婚式の日を指折り数えて待つ - "I wait eagerly for the wedding day.")
 </div></div>
 
 <!-- more -->

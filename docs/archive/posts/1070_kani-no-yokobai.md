@@ -8,7 +8,7 @@ comments: true
 slug: "1070_kani-no-yokobai"
 ---
 
-# 【No. 1070】<strong><em>Kani no Yokobai</strong></em> (蟹の横這い)
+# 【No. 1070】<strong><em>Kani no Yokobai</em></strong> (蟹の横這い)
 <div class="date">Nov 22, 2017 10:49</div>
 <div id="post"><div id="body_show_ori">
 Since I ate a crab last night, I'd like to talk about a Japanese proverb related to "crab,"<br/><br/>It's "kani no yokobai" (蟹の横這い).<br/><br/>The "kani" (蟹/カニ) means "crab" and the "yokobai" (横這い) means "sideways movement," so the literal meaning of the combination is "sideways movement of a crab."<br/><br/>Although the sideways movement of a crab looks unnatural for us, it's the most appropriate way of moving for crabs.<br/><br/>Therefore, this proverb says that even if it looks inconvenience for others, the way might appropriate for the person himself/herself.

@@ -9,10 +9,10 @@ comments: true
 slug: "2142_sonae-areba-urei-nashi"
 ---
 
-# 【No. 2142】<strong><em>Sonae Areba Urei Nashi</strong></em> (備えあれば憂いなし - Better Safe than Sorry)
+# 【No. 2142】<strong><em>Sonae Areba Urei Nashi</em></strong> (備えあれば憂いなし - Better Safe than Sorry)
 <div class="date">Sep 2, 2023 22:14</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sonae Areba Urei Nashi</strong></em><br/><br/>If you are well-prepared in advance, you have nothing to worry about.<br/><br/>The proverb, <strong><em>sonae areba urei nashi</em></strong> (備えあれば憂いなし), expresses this concept.<br/><br/><strong><em>Sonae</em></strong> (備え) means "prepare," <strong><em>areba</em></strong> (あれば) means "if," <strong><em>urei</em></strong> (憂い) means "worry," and <strong><em>nashi</em></strong> (なし) means "no/nothing," making literal meaning of this proverb "if you are prepared, you will have no worries."<br/><br/>Today, I conducted a trial lesson for high school students and was very worried because I was not prepared enough.<br/><br/>As expected, I could not handle some troubles well, and the lesson ended with a sad atmosphere.
+<strong><em>Sonae Areba Urei Nashi</em></strong><br/><br/>If you are well-prepared in advance, you have nothing to worry about.<br/><br/>The proverb, <strong><em>sonae areba urei nashi</em></strong> (備えあれば憂いなし), expresses this concept.<br/><br/><strong><em>Sonae</em></strong> (備え) means "prepare," <strong><em>areba</em></strong> (あれば) means "if," <strong><em>urei</em></strong> (憂い) means "worry," and <strong><em>nashi</em></strong> (なし) means "no/nothing," making literal meaning of this proverb "if you are prepared, you will have no worries."<br/><br/>Today, I conducted a trial lesson for high school students and was very worried because I was not prepared enough.<br/><br/>As expected, I could not handle some troubles well, and the lesson ended with a sad atmosphere.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0902_udo-no-taiboku"
 ---
 
-# 【No. 0902】<strong><em>Udo no Taiboku</strong></em> (Just a Big Oaf)
+# 【No. 0902】<strong><em>Udo no Taiboku</em></strong> (Just a Big Oaf)
 <div class="date">Jun 7, 2017 11:30</div>
 <div id="post"><div id="body_show_ori">
 When I'm looking for Japanese terms to introduce on Lang-8, I can find various indirect expressions that abuse someone.<br/><br/>I think that the reason why various indirect expressions were born is because Japanese people tended to say praises and insults indirectly rather than directly.<br/><br/>For example, today I found the phrase "udo no taiboku."<br/><br/>Udo no taiboku means a person or something that has a big body but is useless.<br/><br/>"Udo" is a kind of plant, "aralia cordata" in English, and its buds are often used as food.<br/><br/>The udo grows very big like "taiboku," meaning "big tree," but then it can't be used as not only food but also building materials -- it will be almost garbage.<br/><br/>From this fact, udo no taiboku has come to mean a useless person or something.

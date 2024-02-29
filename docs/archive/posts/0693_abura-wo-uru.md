@@ -8,7 +8,7 @@ comments: true
 slug: "0693_abura-wo-uru"
 ---
 
-# 【No. 0693】<strong><em>Abura wo Uru</strong></em> (Sell Oil)
+# 【No. 0693】<strong><em>Abura wo Uru</em></strong> (Sell Oil)
 <div class="date">Nov 10, 2016 20:14</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese idiom "abura wo uru."<br/><br/>The literal meaning of "abura wo uru" is "to sell oil," and it expresses that someone neglects on his/her work temporarily or has an idle talk.<br/><br/>In the Edo period in Japan, oil sellers chatted with customers for a long time when they sold oil.<br/><br/>Oil has high viscosity, and it took a long time to transfer the oil to customer's container, so oil sellers spent the time talking.<br/><br/>From this fact, to neglect work or to have an idle talk came to be referred to as "abura wo uru."

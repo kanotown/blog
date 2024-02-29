@@ -8,10 +8,10 @@ comments: true
 slug: "1299_gata-ga-kuru"
 ---
 
-# 【No. 1299】<strong><em>Gata ga Kuru</strong></em> (ガタがくる - Showing One's Age)
+# 【No. 1299】<strong><em>Gata ga Kuru</em></strong> (ガタがくる - Showing One's Age)
 <div class="date">Jul 9, 2018 18:17</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gata ga Kuru</strong></em><br/><br/>As I get older, it became difficult to stay up all night.<br/><br/>If your body condition gets worse due to the age, it is expressed as "gata ga kuru" (ガタがくる) in Japanese.<br/><br/><strong><em>Gata</em></strong> (ガタ) comes from the Buddhist term, <strong><em>gatapishi/gatahisi</em></strong> (我他彼此).<br/><br/><strong><em>Ga</em></strong> (我) means <em>oneself,</em> <strong><em>ta</em></strong> (他) means <em>other,</em> <strong><em>pi/hi</em></strong> (彼) means <em>that,</em> <strong><em>shi</em></strong> (此) means <em>this,</em> and the combination means that people/things conflict each other and trouble continues.<br/><br/>Also, <strong><em>kuru</em></strong> (来る) means <em>come,</em> so "gata ga kuru" (ガタがくる - continuing trouble comes) means that a condition of people or things gets worse with age.
+<strong><em>Gata ga Kuru</em></strong><br/><br/>As I get older, it became difficult to stay up all night.<br/><br/>If your body condition gets worse due to the age, it is expressed as "gata ga kuru" (ガタがくる) in Japanese.<br/><br/><strong><em>Gata</em></strong> (ガタ) comes from the Buddhist term, <strong><em>gatapishi/gatahisi</em></strong> (我他彼此).<br/><br/><strong><em>Ga</em></strong> (我) means <em>oneself,</em> <strong><em>ta</em></strong> (他) means <em>other,</em> <strong><em>pi/hi</em></strong> (彼) means <em>that,</em> <strong><em>shi</em></strong> (此) means <em>this,</em> and the combination means that people/things conflict each other and trouble continues.<br/><br/>Also, <strong><em>kuru</em></strong> (来る) means <em>come,</em> so "gata ga kuru" (ガタがくる - continuing trouble comes) means that a condition of people or things gets worse with age.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1964_tai-mo-hitori-wa-umakarazu"
 ---
 
-# 【No. 1964】<strong><em>Tai mo Hitori wa Umakarazu</strong></em> (鯛もひとりはうまからず - The Company Makes the Feast)
+# 【No. 1964】<strong><em>Tai mo Hitori wa Umakarazu</em></strong> (鯛もひとりはうまからず - The Company Makes the Feast)
 <div class="date">Sep 11, 2021 11:59</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tai mo Hitori wa Umakarazu</strong></em><br/><br/>Which do you prefer, eating alone or eating with someone?<br/><br/>In Japan, there is the proverb <strong><em>tai mo hitori wa umakarazu</em></strong> (鯛も一人はうまからず).<br/><br/>Since <strong><em>tai</em></strong> (鯛) means "sea bream," <strong><em>hitori</em></strong> (一人) means "one person," and <strong><em>umakarazu</em></strong> (うまからず) means "not delicious," the literal meaning of <em>tai mo hitori ja umakarazu</em> is "even sea bream is not delicious when you eat it alone."<br/><br/>Here, <em>tai</em> is a high-class fish in Japan, and is often served as a high-class dish.<br/><br/>That is to say, this proverb says that even a high-class dish is not delicious when you eat it alone.
+<strong><em>Tai mo Hitori wa Umakarazu</em></strong><br/><br/>Which do you prefer, eating alone or eating with someone?<br/><br/>In Japan, there is the proverb <strong><em>tai mo hitori wa umakarazu</em></strong> (鯛も一人はうまからず).<br/><br/>Since <strong><em>tai</em></strong> (鯛) means "sea bream," <strong><em>hitori</em></strong> (一人) means "one person," and <strong><em>umakarazu</em></strong> (うまからず) means "not delicious," the literal meaning of <em>tai mo hitori ja umakarazu</em> is "even sea bream is not delicious when you eat it alone."<br/><br/>Here, <em>tai</em> is a high-class fish in Japan, and is often served as a high-class dish.<br/><br/>That is to say, this proverb says that even a high-class dish is not delicious when you eat it alone.
 </div></div>
 
 <!-- more -->

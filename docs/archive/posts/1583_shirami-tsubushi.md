@@ -8,10 +8,10 @@ comments: true
 slug: "1583_shirami-tsubushi"
 ---
 
-# 【No. 1583】<strong><em>Shirami Tsubushi</strong></em> (虱潰し - One by One)
+# 【No. 1583】<strong><em>Shirami Tsubushi</em></strong> (虱潰し - One by One)
 <div class="date">Apr 19, 2019 21:11</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shirami Tsubushi</strong></em><br/><br/>Today, I eliminated bugs in my source codes right and left, and step by step.<br/><br/>To process something one by one to avoid missing a thing like this is called <strong><em>shirami tsubushi</em></strong> (虱潰し) in Japanese.<br/><br/><strong><em>Shirami</em></strong> (虱) means "louse (lice)," and <strong><em>tsubushi</em></strong> (潰し) means "to crush" or "to kill," so the literal meaning of <em>shirami tsubushi</em> is "to kill/crush lice."<br/><br/>Since lice are very small, if you want to remove (kill) them from someone's head, you have to check the hairs one by one.<br/><br/>Because of this, <em>shirami tsubushi</em> came to have its current meaning.
+<strong><em>Shirami Tsubushi</em></strong><br/><br/>Today, I eliminated bugs in my source codes right and left, and step by step.<br/><br/>To process something one by one to avoid missing a thing like this is called <strong><em>shirami tsubushi</em></strong> (虱潰し) in Japanese.<br/><br/><strong><em>Shirami</em></strong> (虱) means "louse (lice)," and <strong><em>tsubushi</em></strong> (潰し) means "to crush" or "to kill," so the literal meaning of <em>shirami tsubushi</em> is "to kill/crush lice."<br/><br/>Since lice are very small, if you want to remove (kill) them from someone's head, you have to check the hairs one by one.<br/><br/>Because of this, <em>shirami tsubushi</em> came to have its current meaning.
 </div></div>
 
 <!-- more -->

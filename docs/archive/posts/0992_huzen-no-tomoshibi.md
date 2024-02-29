@@ -8,7 +8,7 @@ comments: true
 slug: "0992_huzen-no-tomoshibi"
 ---
 
-# 【No. 0992】<strong><em>Hūzen no Tomoshibi</strong></em> (風前の灯火 - Hang by A Thread)
+# 【No. 0992】<strong><em>Hūzen no Tomoshibi</em></strong> (風前の灯火 - Hang by A Thread)
 <div class="date">Sep 5, 2017 10:30</div>
 <div id="post"><div id="body_show_ori">
 If you want to say that a thing or a person is in danger, or it is about to disappear, you can use the phrase, "hūzen no yomoshibi" (風前の灯火) in Japanese.<br/><br/>The "hūzen" (風前) means "front of wind," that is to say, "a windy place."<br/><br/>The "tomoshibi" (灯火) means a light with fire, such as a flaring candle, in a literal sense.<br/><br/>If there is a flaring candle in a windy place, obviously the fire will be about to go out, so this phrase has come to have the current meaning.<br/><br/>It seems to be similar to the English phrase, "hang by a thread."

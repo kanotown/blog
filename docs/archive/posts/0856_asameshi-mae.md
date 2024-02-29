@@ -8,7 +8,7 @@ comments: true
 slug: "0856_asameshi-mae"
 ---
 
-# 【No. 0856】<strong><em>Asameshi Mae</strong></em> (Before Breakfast)
+# 【No. 0856】<strong><em>Asameshi Mae</em></strong> (Before Breakfast)
 <div class="date">Apr 22, 2017 15:28</div>
 <div id="post"><div id="body_show_ori">
 Today I'd like to talk about the Japanese term "asameshi mae."<br/><br/>"Asameshi" of "asameshi mae" means "breakfast," "mae" means "before."<br/><br/>This term sometimes means "before breakfast" literally, but it often means that it is quite easy to do something.<br/><br/>Since you are hungry and don't have much time before eating breakfast, you can only do simple tasks.<br/><br/>In particular, we had meals two times a day until the middle of the Edo period, so we couldn't bring out our real strengths before breakfast.<br/><br/>From this fact, "asameshi mae" (before breakfast) came to mean easy tasks that you can finish before you eat breakfast.

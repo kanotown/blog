@@ -8,10 +8,10 @@ comments: true
 slug: "1724_kaeru-ga-naku-kara-kaero"
 ---
 
-# 【No. 1724】<strong><em>Kaeru ga Naku kara Kaero</strong></em> (蛙が鳴くから帰ろ)
+# 【No. 1724】<strong><em>Kaeru ga Naku kara Kaero</em></strong> (蛙が鳴くから帰ろ)
 <div class="date">Sep 7, 2019 15:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kaeru ga Naku kara Kaero</strong></em><br/><br/>One of the most famous traditional children's songs in Japan is <strong><em>kaeru ga naku kara kaero</em></strong> (蛙が鳴くから帰ろ).<br/><br/><strong><em>Kaeru</em></strong> (蛙) means "frog," <strong><em>naku</em></strong> (鳴く) means "call/sing/croak," <strong><em>kara</em></strong> (から) is a causal conjunction, and <strong><em>kaero</em></strong> (帰ろ) means "(let's) go home."<br/><br/>That is to say, the literal meaning of this song is "let's go home because frogs are croaking."<br/><br/>Frogs are a nocturnal animal that begins to croak in the evening, so the sound can be a sign for the time that childrens go home.<br/><br/>In addition, this song is also a pun -- both <strong><em>kaeru</em></strong> (蛙 - "frog") and <strong><em>kaeru</em></strong> (帰る - "to go home") have the same sound.
+<strong><em>Kaeru ga Naku kara Kaero</em></strong><br/><br/>One of the most famous traditional children's songs in Japan is <strong><em>kaeru ga naku kara kaero</em></strong> (蛙が鳴くから帰ろ).<br/><br/><strong><em>Kaeru</em></strong> (蛙) means "frog," <strong><em>naku</em></strong> (鳴く) means "call/sing/croak," <strong><em>kara</em></strong> (から) is a causal conjunction, and <strong><em>kaero</em></strong> (帰ろ) means "(let's) go home."<br/><br/>That is to say, the literal meaning of this song is "let's go home because frogs are croaking."<br/><br/>Frogs are a nocturnal animal that begins to croak in the evening, so the sound can be a sign for the time that childrens go home.<br/><br/>In addition, this song is also a pun -- both <strong><em>kaeru</em></strong> (蛙 - "frog") and <strong><em>kaeru</em></strong> (帰る - "to go home") have the same sound.
 </div></div>
 
 <!-- more -->

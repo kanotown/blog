@@ -8,10 +8,10 @@ comments: true
 slug: "1996_shonen-oi-yasuku-gaku-nari-gatashi"
 ---
 
-# 【No. 1996】<strong><em>Shōnen Oi Yasuku Gaku Nari Gatashi</strong></em> (少年老い易く学成り難し - Art Is Long, Life Is Short)
+# 【No. 1996】<strong><em>Shōnen Oi Yasuku Gaku Nari Gatashi</em></strong> (少年老い易く学成り難し - Art Is Long, Life Is Short)
 <div class="date">Apr 9, 2023 09:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shōnen Oi Yasuku Gaku Nari Gatashi</strong></em><br/><br/>There are several proverbs referring to the fact that time flies, in addition to <strong><em>kōin ya no gotoshi</em></strong> (光陰矢の如し), which was introduced in my post yesterday.<br/><br/>One of them is especially directed to young people is <strong><em>shōnen oi yasuku gaku nari gatashi</em></strong> (少年老い易く学成り難し).<br/><br/>Since <strong><em>shōnen</em></strong> (少年) means "boy," <strong><em>oi</em></strong> (老い) means "to get old," <strong><em>yasuku</em></strong> (易く) means "easy," <strong><em>gaku</em></strong> (学) means "learning," <strong><em>nari</em></strong> (成り) means "to achieve," and <strong><em>gatashi</em></strong> (難し) means "difficult," the literal meaning of this proverb is "boys (and girls) get old easily, and it is difficult to achieve learning."<br/><br/>In other words, this proverb says, "You have to study hard while you are young so that you do not end up learning nothing."
+<strong><em>Shōnen Oi Yasuku Gaku Nari Gatashi</em></strong><br/><br/>There are several proverbs referring to the fact that time flies, in addition to <strong><em>kōin ya no gotoshi</em></strong> (光陰矢の如し), which was introduced in my post yesterday.<br/><br/>One of them is especially directed to young people is <strong><em>shōnen oi yasuku gaku nari gatashi</em></strong> (少年老い易く学成り難し).<br/><br/>Since <strong><em>shōnen</em></strong> (少年) means "boy," <strong><em>oi</em></strong> (老い) means "to get old," <strong><em>yasuku</em></strong> (易く) means "easy," <strong><em>gaku</em></strong> (学) means "learning," <strong><em>nari</em></strong> (成り) means "to achieve," and <strong><em>gatashi</em></strong> (難し) means "difficult," the literal meaning of this proverb is "boys (and girls) get old easily, and it is difficult to achieve learning."<br/><br/>In other words, this proverb says, "You have to study hard while you are young so that you do not end up learning nothing."
 </div></div>
 
 <!-- more -->

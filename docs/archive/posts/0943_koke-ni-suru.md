@@ -8,7 +8,7 @@ comments: true
 slug: "0943_koke-ni-suru"
 ---
 
-# 【No. 0943】<strong><em>Koke ni Suru</strong></em> (コケにする)
+# 【No. 0943】<strong><em>Koke ni Suru</em></strong> (コケにする)
 <div class="date">Jul 18, 2017 10:58</div>
 <div id="post"><div id="body_show_ori">
 Japanese people sometimes say "koke ni suru" (コケにする) when taunting someone.<br/><br/>Here, "koke" is written as "虚仮" in kanji, which is not "苔" meaning "moss."<br/><br/>"Koke" (虚仮) is a Buddhist term, and means that something is empty/insubstantial, or a mind/act is fake.<br/><br/>That's why "koke ni suru" (making someone be koke) has come to be used as a term for mocking people.<br/><br/>There is another term, "koke odoshi" (虚仮威し), which use the same "koke."<br/><br/>"Odoshi" means to bluff, and "koke odoshi" means something that has good appearance but is empty.

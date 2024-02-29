@@ -8,10 +8,10 @@ comments: true
 slug: "1535_yubi-wo-kuwaeru"
 ---
 
-# 【No. 1535】<strong><em>Yubi wo Kuwaeru</strong></em> (指をくわえる - Enviously)
+# 【No. 1535】<strong><em>Yubi wo Kuwaeru</em></strong> (指をくわえる - Enviously)
 <div class="date">Mar 2, 2019 23:53</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yubi wo Kuwaeru</strong></em><br/><br/>When you can't do anything while feeling envious of something, it can be described as <strong><em>yubi wo kuwaeru</em></strong> (指をくわえる) in Japanese.<br/><br/><strong><em>Yubi</em></strong> (指) means "finger" and <strong><em>kuwaeru</em></strong> (くわえる) means "to suck" or "to put in," the literal meaning of "yubi wo kuwaeru" is "to suck one's finger."<br/><br/>Here, in particular, the finger means "index finger."<br/><br/>This phrase comes from the fact that children suck their index finger when they can't get what they want.<br/><br/>[Example] Kare wa yubi wo kuwaete sono shouhin wo miteita (彼は指をくわえてその商品を見ていた - "He looked enviously at that product.")
+<strong><em>Yubi wo Kuwaeru</em></strong><br/><br/>When you can't do anything while feeling envious of something, it can be described as <strong><em>yubi wo kuwaeru</em></strong> (指をくわえる) in Japanese.<br/><br/><strong><em>Yubi</em></strong> (指) means "finger" and <strong><em>kuwaeru</em></strong> (くわえる) means "to suck" or "to put in," the literal meaning of "yubi wo kuwaeru" is "to suck one's finger."<br/><br/>Here, in particular, the finger means "index finger."<br/><br/>This phrase comes from the fact that children suck their index finger when they can't get what they want.<br/><br/>[Example] Kare wa yubi wo kuwaete sono shouhin wo miteita (彼は指をくわえてその商品を見ていた - "He looked enviously at that product.")
 </div></div>
 
 <!-- more -->

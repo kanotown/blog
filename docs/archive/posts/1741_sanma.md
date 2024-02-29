@@ -8,10 +8,10 @@ comments: true
 slug: "1741_sanma"
 ---
 
-# 【No. 1741】<strong><em>Sanma</strong></em> (サンマ - "Pacific Saury")
+# 【No. 1741】<strong><em>Sanma</em></strong> (サンマ - "Pacific Saury")
 <div class="date">Sep 23, 2019 22:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sanma</strong></em><br/><br/>The season when <strong><em>sanma</em></strong> (サンマ) becomes delicious is approaching.<br/><br/><em>Sanma</em> means "Pacific saury," and is sold throughout the year, but you can eat delicious saury with a lot of fat in the fishing season, autumn.<br/><br/><em>Sanma</em> is written in kanji as 秋刀魚, because it is fish (魚) that looks like a sword (刀), and is caught in autumn (秋),<br/><br/>Unfortunately, this year the price of <em>sanma</em> has extremely increased due to the poor catch.<br/><br/>A few years ago <em>sanma</em> was around 100 yen each, whereas it is around 300-400 yen each now.
+<strong><em>Sanma</em></strong><br/><br/>The season when <strong><em>sanma</em></strong> (サンマ) becomes delicious is approaching.<br/><br/><em>Sanma</em> means "Pacific saury," and is sold throughout the year, but you can eat delicious saury with a lot of fat in the fishing season, autumn.<br/><br/><em>Sanma</em> is written in kanji as 秋刀魚, because it is fish (魚) that looks like a sword (刀), and is caught in autumn (秋),<br/><br/>Unfortunately, this year the price of <em>sanma</em> has extremely increased due to the poor catch.<br/><br/>A few years ago <em>sanma</em> was around 100 yen each, whereas it is around 300-400 yen each now.
 </div></div>
 
 <!-- more -->

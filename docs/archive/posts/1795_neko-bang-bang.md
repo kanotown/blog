@@ -8,10 +8,10 @@ comments: true
 slug: "1795_neko-bang-bang"
 ---
 
-# 【No. 1795】<strong><em>Neko Bang Bang</strong></em> (猫バンバン - Knock Knock Cats)
+# 【No. 1795】<strong><em>Neko Bang Bang</em></strong> (猫バンバン - Knock Knock Cats)
 <div class="date">Mar 26, 2021 12:44</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Neko Bang Bang</strong></em><br/><br/>Have you ever heard of the term <strong><em>neko bang bang</em></strong> (猫バンバン)?<br/><br/><strong><em>Neko</em></strong> (猫) means "cat," and <strong><em>bang bang</em></strong> (バンバン) is an onomatopoeic phrase representing that one bangs or knocks something.<br/><br/>When it gets cold, cats sometimes enter the engine compartment of a stationary car in search of a narrow and warm place.<br/><br/><em>Neko bang bang</em> refers to the act of banging or knocking the hood of a car to let such a cat go somewhere else. This term also refers to the effort to protect the lives of cats through such acts.<br/><br/>The act and term have been proposed by Nissan Motor.
+<strong><em>Neko Bang Bang</em></strong><br/><br/>Have you ever heard of the term <strong><em>neko bang bang</em></strong> (猫バンバン)?<br/><br/><strong><em>Neko</em></strong> (猫) means "cat," and <strong><em>bang bang</em></strong> (バンバン) is an onomatopoeic phrase representing that one bangs or knocks something.<br/><br/>When it gets cold, cats sometimes enter the engine compartment of a stationary car in search of a narrow and warm place.<br/><br/><em>Neko bang bang</em> refers to the act of banging or knocking the hood of a car to let such a cat go somewhere else. This term also refers to the effort to protect the lives of cats through such acts.<br/><br/>The act and term have been proposed by Nissan Motor.
 </div></div>
 
 <!-- more -->

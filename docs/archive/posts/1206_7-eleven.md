@@ -11,7 +11,7 @@ slug: "1206_7-eleven"
 # 【No. 1206】7-Eleven
 <div class="date">Apr 7, 2018 17:07</div>
 <div id="post"><div id="body_show_ori">
-A few days ago, a 7-ELEVEn store was opened in the campus of my university.<br/><br/>I think that my life will be comfortable.<br/><br/>7-Eleven was derived from an ice house storefront in Dallas, Texas in 1927.<br/><br/>At that time, since refrigerators were not standard, ice was used to preserve food.<br/><br/>One day, an employee named "Jefferson Green," who worked at the ice store, started selling milk, bread, and eggs in addition to ice (the stores were named "Tote'm Stores").<br/><br/>This strategy was successful, and they became "convenience stores" literally.<br/><br/>In 1946, the name of "Tote'm Stores" changed to "7-Eleven" to indicate that the store open from 7 am to 11 pm every day, then 7-Eleven has spread rapidly all over the world.
+7-Eleven<br/><br/>A few days ago, a 7-ELEVEn store was opened in the campus of my university.<br/><br/>I think that my life will be comfortable.<br/><br/>7-Eleven was derived from an ice house storefront in Dallas, Texas in 1927.<br/><br/>At that time, since refrigerators were not standard, ice was used to preserve food.<br/><br/>One day, an employee named "Jefferson Green," who worked at the ice store, started selling milk, bread, and eggs in addition to ice (the stores were named "Tote'm Stores").<br/><br/>This strategy was successful, and they became "convenience stores" literally.<br/><br/>In 1946, the name of "Tote'm Stores" changed to "7-Eleven" to indicate that the store open from 7 am to 11 pm every day, then 7-Eleven has spread rapidly all over the world.
 </div></div>
 
 <!-- more -->

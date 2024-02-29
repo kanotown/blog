@@ -8,10 +8,10 @@ comments: true
 slug: "1269_ha-ga-uku"
 ---
 
-# 【No. 1269】<strong><em>Ha ga Uku</strong></em> (歯が浮く - One's Teeth are on Edge)
+# 【No. 1269】<strong><em>Ha ga Uku</em></strong> (歯が浮く - One's Teeth are on Edge)
 <div class="date">Jun 9, 2018 16:38</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ha ga Uku</strong></em><br/><br/>Have you ever felt uncomfortable because of being told an artificial compliment or genteel words?<br/><br/>Becoming such a feeling is called <strong><em>ha ga uku</em></strong> (歯が浮く) in Japanese.<br/><br/>Since <strong><em>ha</em></strong> (歯) means "tooth" and <strong><em>uku</em></strong> (浮く) means "to float," the literal meaning of <em>ha ga uku</em> is "one's teeth float."<br/><br/>If your tooth root loosens, you will feel as if your teeth would be floating and feel uncomfortable.<br/><br/><em>Ha ga uku</em> came from this fact.<br/><br/>Interestingly, the English expression "one's teeth are on edge" has the similar meaning of this term.<br/><br/>【Example sentence】<br/>Kare wa itsumo ha ga uku youna oseji wo zyosei ni iu (彼はいつも歯が浮くようなお世辞を女性に言う - He always say shameless compliment to women.)
+<strong><em>Ha ga Uku</em></strong><br/><br/>Have you ever felt uncomfortable because of being told an artificial compliment or genteel words?<br/><br/>Becoming such a feeling is called <strong><em>ha ga uku</em></strong> (歯が浮く) in Japanese.<br/><br/>Since <strong><em>ha</em></strong> (歯) means "tooth" and <strong><em>uku</em></strong> (浮く) means "to float," the literal meaning of <em>ha ga uku</em> is "one's teeth float."<br/><br/>If your tooth root loosens, you will feel as if your teeth would be floating and feel uncomfortable.<br/><br/><em>Ha ga uku</em> came from this fact.<br/><br/>Interestingly, the English expression "one's teeth are on edge" has the similar meaning of this term.<br/><br/>【Example sentence】<br/>Kare wa itsumo ha ga uku youna oseji wo zyosei ni iu (彼はいつも歯が浮くようなお世辞を女性に言う - He always say shameless compliment to women.)
 </div></div>
 
 <!-- more -->

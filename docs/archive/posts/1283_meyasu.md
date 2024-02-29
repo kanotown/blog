@@ -8,7 +8,7 @@ comments: true
 slug: "1283_meyasu"
 ---
 
-# 【No. 1283】<strong><em>Meyasu</strong></em> (目安 - Rough Standard)
+# 【No. 1283】<strong><em>Meyasu</em></strong> (目安 - Rough Standard)
 <div class="date">Jun 23, 2018 21:32</div>
 <div id="post"><div id="body_show_ori">
 I write short English texts every day on Lang-8 while defining 100 words as <strong><em>meyasu</em></strong> (目安).<br/><br/>Meyasu means goals, rough standards, or rough indications.<br/><br/>This word is a noun form of the adjective <strong><em>meyasushi</em></strong> (目安し), which was used in the Heian period.<br/><br/>Me (目) means <em>eye</em> and yasushi (安し) means <em>to feel relieved,</em> so the combination means "to feel relieved to see something" or "something is easy to see."<br/><br/>In the Kamakura period, what you can understand if you see, such as a scale, came to be called meyasu, and it has come to mean its current meanings.

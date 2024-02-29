@@ -8,10 +8,10 @@ comments: true
 slug: "1960_tamatama"
 ---
 
-# 【No. 1960】<strong><em>Tamatama</strong></em> (たまたま - "By Chance")
+# 【No. 1960】<strong><em>Tamatama</em></strong> (たまたま - "By Chance")
 <div class="date">Sep 7, 2021 19:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tamatama</strong></em><br/><br/>The Japanese adverb <strong><em>tamatama</em></strong> (たまたま) means that something happens by chance.<br/><br/><em>Tamatama</em> is often used in our daily lives, however, it is necessary to be careful about its accent.<br/><br/>If you want to mean "by chance," pronounce only the first character <strong><em>ta</em></strong> (た) a little lower, and pronounce the rest part <strong><em>matama</em></strong> (またま) at a constant height.<br/><br/>In contrast, if you pronounce only the first character <em>ta</em> a little higher, and pronounce the rest part <em>matama</em> at a constant height, it becomes a slang term that means "testes."<br/><br/>This is because <strong><em>tama</em></strong> (たま) also means "ball."
+<strong><em>Tamatama</em></strong><br/><br/>The Japanese adverb <strong><em>tamatama</em></strong> (たまたま) means that something happens by chance.<br/><br/><em>Tamatama</em> is often used in our daily lives, however, it is necessary to be careful about its accent.<br/><br/>If you want to mean "by chance," pronounce only the first character <strong><em>ta</em></strong> (た) a little lower, and pronounce the rest part <strong><em>matama</em></strong> (またま) at a constant height.<br/><br/>In contrast, if you pronounce only the first character <em>ta</em> a little higher, and pronounce the rest part <em>matama</em> at a constant height, it becomes a slang term that means "testes."<br/><br/>This is because <strong><em>tama</em></strong> (たま) also means "ball."
 </div></div>
 
 <!-- more -->

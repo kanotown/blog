@@ -8,7 +8,7 @@ comments: true
 slug: "0621_shikii-ga-takai"
 ---
 
-# 【No. 0621】<strong><em>Shikii ga Takai</strong></em> (The Threshold is High)
+# 【No. 0621】<strong><em>Shikii ga Takai</em></strong> (The Threshold is High)
 <div class="date">Aug 30, 2016 02:25</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese phrase "shikii ga takai," which seems to be misunderstood by more than half of Japanese people.<br/><br/>"Shikii" means a threshold that is located in an entrance or gate, and you have to cross the shikii to enter the house.<br/><br/>If you feel the threshold is high (shikii ga takai), it implies that you don't want to enter the house.<br/><br/>That is to say, "shikii ga takai" means "it's difficult to enter the house BECAUSE I made trouble there in the past."<br/><br/>However, many Japanese people use this phrase to mean "it's difficult," "it's too high level," or "it's out of my league."<br/><br/>In such cases, it's correct to use "ハードルが高い" (the hudedle is high) or "分不相応" (it's out of my league).<br/><br/>If you find someone improperly using "shikii ga takai," please point it out.

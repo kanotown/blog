@@ -9,10 +9,10 @@ comments: true
 slug: "2256_heijo-unten"
 ---
 
-# 【No. 2256】<strong><em>Heijō Unten</strong></em> (平常運転 - As Usual)
+# 【No. 2256】<strong><em>Heijō Unten</em></strong> (平常運転 - As Usual)
 <div class="date">Dec 26, 2023 15:59</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Heijō Unten</strong></em><br/><br/>Today is Christmas, but I have no special plans besides work; in other words, it is <strong><em>heijō unten</em></strong> (平常運転).<br/><br/>Since <strong><em>heijō</em></strong> (平常) means "normal," and <strong><em>unten</em></strong> (運転) means "operation," the literal meaning of <strong><em>heijō unten</em></strong> (平常運転) is "normal operation."<br/><br/>Originally, the term <em>heijō unten</em> was used to describe that public transportation like buses or trains would operate on schedule without trouble.<br/><br/>Later, young people began to use it to describe people's routines, meaning "as usual."<br/><br/>Sometimes, <em>heijō</em> is replaced with <strong><em>tsūjō</em></strong> (通常 - meaning "usual') to say <strong><em>tsūji unten</em></strong> (通常運転), which means the same as <em>heijō unten</em>.
+<strong><em>Heijō Unten</em></strong><br/><br/>Today is Christmas, but I have no special plans besides work; in other words, it is <strong><em>heijō unten</em></strong> (平常運転).<br/><br/>Since <strong><em>heijō</em></strong> (平常) means "normal," and <strong><em>unten</em></strong> (運転) means "operation," the literal meaning of <strong><em>heijō unten</em></strong> (平常運転) is "normal operation."<br/><br/>Originally, the term <em>heijō unten</em> was used to describe that public transportation like buses or trains would operate on schedule without trouble.<br/><br/>Later, young people began to use it to describe people's routines, meaning "as usual."<br/><br/>Sometimes, <em>heijō</em> is replaced with <strong><em>tsūjō</em></strong> (通常 - meaning "usual') to say <strong><em>tsūji unten</em></strong> (通常運転), which means the same as <em>heijō unten</em>.
 </div></div>
 
 <!-- more -->

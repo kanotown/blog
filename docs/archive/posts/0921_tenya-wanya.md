@@ -8,7 +8,7 @@ comments: true
 slug: "0921_tenya-wanya"
 ---
 
-# 【No. 0921】<strong><em>Tenya Wanya</strong></em> (てんやわんや)
+# 【No. 0921】<strong><em>Tenya Wanya</em></strong> (てんやわんや)
 <div class="date">Jun 26, 2017 19:39</div>
 <div id="post"><div id="body_show_ori">
 When participating in a drinking party, sometimes it becomes "tenya wanya" (てんやわんや).<br/><br/>"Tenya wanya" is a term that represents that a lot of people are moving disorderly and they're being confused. <br/><br/>It is thought that this term comes from two words, "tenden" and "waya."<br/><br/>"Tenden" means "each," and "waya" is a Kansai dialect, which means "impossible" or "unreasonable."<br/><br/>"Tenya wanya" was used as a slang term since the Edo period, but it became very popular in 1948 because it was used as a title of a novel in a newspaper and the novel became a movie.

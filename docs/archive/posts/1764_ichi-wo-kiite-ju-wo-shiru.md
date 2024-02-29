@@ -8,10 +8,10 @@ comments: true
 slug: "1764_ichi-wo-kiite-ju-wo-shiru"
 ---
 
-# 【No. 1764】<strong><em>Ichi wo Kiite Jū wo Shiru</strong></em> (一を聞いて十を知る - A Word Is Enough to the Wise)
+# 【No. 1764】<strong><em>Ichi wo Kiite Jū wo Shiru</em></strong> (一を聞いて十を知る - A Word Is Enough to the Wise)
 <div class="date">Feb 22, 2021 17:47</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ichi wo Kiite Jū wo Shiru</strong></em><br/><br/>When I was a child, my grandmother told me "Become a person who can <strong><em>ichi wo kiite jū wo shiru</em></strong> (一を聞いて十を知る)."<br/><br/>Since <strong><em>ichi</em></strong> (一) means "one," <strong><em>kiite</em></strong> (聞いて) means "to listen," <strong><em>jū</em></strong> (十) means "ten," and <strong><em>shiru</em></strong> (知る) means "to understand," the literal meaning of <em>ichi wo kiite jū wo shiru</em> is "to listen to one and understand ten."<br/><br/>In other words, this phrase means to understand the whole thing by just listening to a piece of information, and you can use this to describe a very wise person.<br/><br/>In my self-assessment, I am a person who can listen to seven to eight and understand ten.<br/><br/>Sometimes I become a person who listens to about thirteen to understand ten.<br/><br/>I will put more effort.
+<strong><em>Ichi wo Kiite Jū wo Shiru</em></strong><br/><br/>When I was a child, my grandmother told me "Become a person who can <strong><em>ichi wo kiite jū wo shiru</em></strong> (一を聞いて十を知る)."<br/><br/>Since <strong><em>ichi</em></strong> (一) means "one," <strong><em>kiite</em></strong> (聞いて) means "to listen," <strong><em>jū</em></strong> (十) means "ten," and <strong><em>shiru</em></strong> (知る) means "to understand," the literal meaning of <em>ichi wo kiite jū wo shiru</em> is "to listen to one and understand ten."<br/><br/>In other words, this phrase means to understand the whole thing by just listening to a piece of information, and you can use this to describe a very wise person.<br/><br/>In my self-assessment, I am a person who can listen to seven to eight and understand ten.<br/><br/>Sometimes I become a person who listens to about thirteen to understand ten.<br/><br/>I will put more effort.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2217_gonyo-gonyo"
 ---
 
-# 【No. 2217】<strong><em>Gonyo Gonyo</strong></em> (ごにょごにょ - Mumbling)
+# 【No. 2217】<strong><em>Gonyo Gonyo</em></strong> (ごにょごにょ - Mumbling)
 <div class="date">Nov 16, 2023 19:54</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Gonyo Gonyo</strong></em><br/><br/>The Japanese onomatopoeic word <strong><em>gonyo gonyo</em></strong> (ごにょごにょ) can describe a situation where someone is mumbling something, and it is not clearly audible.<br/><br/>When you are hesitant to say something clearly or lack confidence, you will speak in the manner of <em>gonyo gonyo</em>.<br/><br/>There are other onomatopoeic words to describe unclear speech, such as <strong><em>boso boso</em></strong> (ぼそぼそ), <strong><em>butsu butsu</em></strong> (ぶつぶつ), and <strong><em>mogo mogo</em></strong> (もごもご).<br/><br/><em>Boso boso</em> represents a situation where someone speaks in a small voice that is difficult to hear.<br/><br/><em>Butsu butsu</em> represents a situation where someone speaks complaints in a whisper.<br/><br/><em>Mogo mogo</em> represents a situation where someone speaks or eats something without opening one's mouth. 
+<strong><em>Gonyo Gonyo</em></strong><br/><br/>The Japanese onomatopoeic word <strong><em>gonyo gonyo</em></strong> (ごにょごにょ) can describe a situation where someone is mumbling something, and it is not clearly audible.<br/><br/>When you are hesitant to say something clearly or lack confidence, you will speak in the manner of <em>gonyo gonyo</em>.<br/><br/>There are other onomatopoeic words to describe unclear speech, such as <strong><em>boso boso</em></strong> (ぼそぼそ), <strong><em>butsu butsu</em></strong> (ぶつぶつ), and <strong><em>mogo mogo</em></strong> (もごもご).<br/><br/><em>Boso boso</em> represents a situation where someone speaks in a small voice that is difficult to hear.<br/><br/><em>Butsu butsu</em> represents a situation where someone speaks complaints in a whisper.<br/><br/><em>Mogo mogo</em> represents a situation where someone speaks or eats something without opening one's mouth. 
 </div></div>
 
 <!-- more -->

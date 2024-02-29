@@ -8,10 +8,10 @@ comments: true
 slug: "1742_aki-no-mikaku"
 ---
 
-# 【No. 1742】<strong><em>Aki no Mikaku</strong></em> (秋の味覚 - Seasonal Food of Fall/Autumn)
+# 【No. 1742】<strong><em>Aki no Mikaku</em></strong> (秋の味覚 - Seasonal Food of Fall/Autumn)
 <div class="date">Sep 24, 2019 13:07</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Aki no Mikaku</strong></em><br/><br/>Yesterday, I introduced the term <strong><em>sanma</em></strong> (サンマ), which means "Pacific saury."<br/><br/>In Japan, <em>sanma</em> is one of the most typical <strong><em>aki no mikaku</em></strong> (秋の味覚).<br/><br/>Since <strong><em>aki</em></strong> (秋) means "fall/autumn" and <strong><em>mikaku</em></strong> (味覚) means "flavor," the literal meaning of <em>aki no mikaku</em> is "fall/autumn flavors."<br/><br/>In addition to <em>sanma</em>, <strong><em>kuri</em></strong> (栗 - "chestnut"), <strong><em>matsutake</em></strong> (松茸 - "matsutake mushroom"), <strong><em>satsumaimo</em></strong> (サツマイモ - "sweet potate"), and <strong><em>nashi</em></strong> (梨 - "pear") are often lined up as seasonal food of fall/autumn.
+<strong><em>Aki no Mikaku</em></strong><br/><br/>Yesterday, I introduced the term <strong><em>sanma</em></strong> (サンマ), which means "Pacific saury."<br/><br/>In Japan, <em>sanma</em> is one of the most typical <strong><em>aki no mikaku</em></strong> (秋の味覚).<br/><br/>Since <strong><em>aki</em></strong> (秋) means "fall/autumn" and <strong><em>mikaku</em></strong> (味覚) means "flavor," the literal meaning of <em>aki no mikaku</em> is "fall/autumn flavors."<br/><br/>In addition to <em>sanma</em>, <strong><em>kuri</em></strong> (栗 - "chestnut"), <strong><em>matsutake</em></strong> (松茸 - "matsutake mushroom"), <strong><em>satsumaimo</em></strong> (サツマイモ - "sweet potate"), and <strong><em>nashi</em></strong> (梨 - "pear") are often lined up as seasonal food of fall/autumn.
 </div></div>
 
 <!-- more -->

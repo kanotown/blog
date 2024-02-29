@@ -8,10 +8,10 @@ comments: true
 slug: "1894_shiri-ni-hi-ga-tsuku"
 ---
 
-# 【No. 1894】<strong><em>Shiri ni Hi ga Tsuku</strong></em> (尻に火がつく - Urgent)
+# 【No. 1894】<strong><em>Shiri ni Hi ga Tsuku</em></strong> (尻に火がつく - Urgent)
 <div class="date">Jul 3, 2021 18:06</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shiri ni Hi ga Tsuku</strong></em><br/><br/>When something is imminent and you are in a state of panic, it can be express as <strong><em>shiri ni hi ga tsuku</em></strong> (尻に火がつく) in Japanese.<br/><br/>Since <strong><em>shiri</em></strong> (尻) means "buttocks," <strong><em>hi</em></strong> (火) means "fire," and <strong><em>tsuku</em></strong> (つく) means "on," the literal meaning of <em>shiri ni hi ga tsuku</em> is "one's buttocks on fire."<br/><br/>Imagine a situation where a fire is approaching right behind you.<br/><br/>You have no choice but to run forward, do you?<br/><br/>This phrase is a metaphor for such a very dangerous situation.
+<strong><em>Shiri ni Hi ga Tsuku</em></strong><br/><br/>When something is imminent and you are in a state of panic, it can be express as <strong><em>shiri ni hi ga tsuku</em></strong> (尻に火がつく) in Japanese.<br/><br/>Since <strong><em>shiri</em></strong> (尻) means "buttocks," <strong><em>hi</em></strong> (火) means "fire," and <strong><em>tsuku</em></strong> (つく) means "on," the literal meaning of <em>shiri ni hi ga tsuku</em> is "one's buttocks on fire."<br/><br/>Imagine a situation where a fire is approaching right behind you.<br/><br/>You have no choice but to run forward, do you?<br/><br/>This phrase is a metaphor for such a very dangerous situation.
 </div></div>
 
 <!-- more -->

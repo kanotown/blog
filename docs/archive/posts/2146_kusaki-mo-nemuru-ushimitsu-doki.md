@@ -8,10 +8,10 @@ comments: true
 slug: "2146_kusaki-mo-nemuru-ushimitsu-doki"
 ---
 
-# 【No. 2146】<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em> (草木も眠る丑三つ時 - Witching Hour): Part 1
+# 【No. 2146】<strong><em>Kusaki mo Nemuru Ushimitsu Doki</em></strong> (草木も眠る丑三つ時 - Witching Hour): Part 1
 <div class="date">Sep 6, 2023 22:11</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kusaki mo Nemuru Ushimitsu Doki</strong></em>: Part 1<br/><br/>The eerily silent midnight is sometimes described as <strong><em>kusaki mo nemuru ushimitsu doki</em></strong> (草木も眠る丑三つ時) or simply <strong><em>ushimitsu doki</em></strong> (丑三つ時) in Japanese.<br/><br/><em>Ushimitu doki</em> is a way of expressing time in the Edo period, corresponding to the time between 2:00 a.m. and 2:30 a.m. in today's terms.<br/><br/>In addition, <strong><em>kusaki</em></strong> (草木) means "plants and trees," <strong><em>nemuru</em></strong> (眠る) means "to sleep," so the literal meaning of <em>kusaki mo nemuru ushimitsu doki</em> is "2:00 a.m. to 2:30 a.m., when even plants and trees sleep."<br/><br/>It implies a silent dead of night as if even plants and trees are sleeping.
+<strong><em>Kusaki mo Nemuru Ushimitsu Doki</em></strong>: Part 1<br/><br/>The eerily silent midnight is sometimes described as <strong><em>kusaki mo nemuru ushimitsu doki</em></strong> (草木も眠る丑三つ時) or simply <strong><em>ushimitsu doki</em></strong> (丑三つ時) in Japanese.<br/><br/><em>Ushimitu doki</em> is a way of expressing time in the Edo period, corresponding to the time between 2:00 a.m. and 2:30 a.m. in today's terms.<br/><br/>In addition, <strong><em>kusaki</em></strong> (草木) means "plants and trees," <strong><em>nemuru</em></strong> (眠る) means "to sleep," so the literal meaning of <em>kusaki mo nemuru ushimitsu doki</em> is "2:00 a.m. to 2:30 a.m., when even plants and trees sleep."<br/><br/>It implies a silent dead of night as if even plants and trees are sleeping.
 </div></div>
 
 <!-- more -->

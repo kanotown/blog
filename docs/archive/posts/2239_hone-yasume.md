@@ -9,10 +9,10 @@ comments: true
 slug: "2239_hone-yasume"
 ---
 
-# 【No. 2239】<strong><em>Hone Yasume</strong></em> (骨休め - Relaxation)
+# 【No. 2239】<strong><em>Hone Yasume</em></strong> (骨休め - Relaxation)
 <div class="date">Dec 8, 2023 16:14</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hone Yasume</strong></em><br/><br/>The concept of resting one's body and healing fatigue is sometimes described as <strong><em>hone yasume</em></strong> (骨休め) in Japanese.<br/><br/><strong><em>Hone</em></strong> (骨) means "bone," and <strong><em>yasume</em></strong> (休め) means "resting." Thus, the literal meaning of <em>hone yasume</em> is "resting one's bones."<br/><br/>In this context, <em>hone</em> is used as a metaphor for one's entire body.<br/><br/>You can also say <strong><em>kyūkei</em></strong> (休憩) or <strong><em>kyūka</em></strong> (休暇) to mean rest. However, using <em>hone yasume</em> can specifically imply a nuance of resting one's body exhausted from work or daily activities.<br/><br/>Recently, I took some time for <em>hone yasume</em> at a hot spring.
+<strong><em>Hone Yasume</em></strong><br/><br/>The concept of resting one's body and healing fatigue is sometimes described as <strong><em>hone yasume</em></strong> (骨休め) in Japanese.<br/><br/><strong><em>Hone</em></strong> (骨) means "bone," and <strong><em>yasume</em></strong> (休め) means "resting." Thus, the literal meaning of <em>hone yasume</em> is "resting one's bones."<br/><br/>In this context, <em>hone</em> is used as a metaphor for one's entire body.<br/><br/>You can also say <strong><em>kyūkei</em></strong> (休憩) or <strong><em>kyūka</em></strong> (休暇) to mean rest. However, using <em>hone yasume</em> can specifically imply a nuance of resting one's body exhausted from work or daily activities.<br/><br/>Recently, I took some time for <em>hone yasume</em> at a hot spring.
 </div></div>
 
 <!-- more -->

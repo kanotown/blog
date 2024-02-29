@@ -8,10 +8,10 @@ comments: true
 slug: "1389_furachi"
 ---
 
-# 【No. 1389】<strong><em>Furachi</strong></em> (不埒 - Lawless)
+# 【No. 1389】<strong><em>Furachi</em></strong> (不埒 - Lawless)
 <div class="date">Oct 7, 2018 19:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Furachi</strong></em><br/><br/>Yesterday, I introduced you to the Japanese phrase <strong><em>rachi ga akanai</em></strong> (埒があかない - going nowhere).<br/><br/>There is another Japanese term that uses <strong><em>rachi</em></strong> (埒 - literally "enclosures/fences") -- it is <strong><em>furachi</em></strong> (不埒).<br/><br/>Since <strong><em>fu</em></strong> (不) is a negative prefix, furachi is a word that negates enclosures or fences.<br/><br/>Here, enclosures or fences cam imply "boundary" or "regulation," hence furachi means lawless, rude, or unreasonable things.<br/><br/>In my opinion, furachi often includes sexual meaning these days.<br/><br/>Also, furachi can mean <em>rachi ga akanai,</em> but I rarely see its usage.
+<strong><em>Furachi</em></strong><br/><br/>Yesterday, I introduced you to the Japanese phrase <strong><em>rachi ga akanai</em></strong> (埒があかない - going nowhere).<br/><br/>There is another Japanese term that uses <strong><em>rachi</em></strong> (埒 - literally "enclosures/fences") -- it is <strong><em>furachi</em></strong> (不埒).<br/><br/>Since <strong><em>fu</em></strong> (不) is a negative prefix, furachi is a word that negates enclosures or fences.<br/><br/>Here, enclosures or fences cam imply "boundary" or "regulation," hence furachi means lawless, rude, or unreasonable things.<br/><br/>In my opinion, furachi often includes sexual meaning these days.<br/><br/>Also, furachi can mean <em>rachi ga akanai,</em> but I rarely see its usage.
 </div></div>
 
 <!-- more -->

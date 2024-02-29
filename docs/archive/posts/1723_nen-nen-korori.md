@@ -8,10 +8,10 @@ comments: true
 slug: "1723_nen-nen-korori"
 ---
 
-# 【No. 1723】<strong><em>Nen-nen Korori</strong></em> (ねんねんころり)
+# 【No. 1723】<strong><em>Nen-nen Korori</em></strong> (ねんねんころり)
 <div class="date">Sep 5, 2019 22:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nen-nen Korori</strong></em><br/><br/>I think that the most well-known traditional lullaby in Japan is <strong><em>Edo Komoriuta</em></strong> (江戸子守唄 - "Edo Lullaby").<br/><br/>The lyrics are as follows:<br/><br/><strong><em>Nen-nen kororiyo okororiyo bōya wa yoiko da nen-ne shina</em></strong> (ねんねんころりよ おころりよ ぼうやはよいこだ ねんねしな).<br/><br/>Here, <strong><em>Nen-nen/nen-ne</em></strong> (ねんねん/ねんね) means "sleep," <strong><em>korori</em></strong> (ころり) is an onomatopoeia expressing that something rolls, <strong><em>bōya</em></strong> (ぼうや) means "boy," and <strong><em>yoiko</em></strong> (よいこ) means "good child."<br/><br/>That is to say, this lullaby means "sleep, roll, roll (lie down), you are good boy, so sleep."<br/><br/>If you are interested in the melody of this lullaby, please check it on YouTube.
+<strong><em>Nen-nen Korori</em></strong><br/><br/>I think that the most well-known traditional lullaby in Japan is <strong><em>Edo Komoriuta</em></strong> (江戸子守唄 - "Edo Lullaby").<br/><br/>The lyrics are as follows:<br/><br/><strong><em>Nen-nen kororiyo okororiyo bōya wa yoiko da nen-ne shina</em></strong> (ねんねんころりよ おころりよ ぼうやはよいこだ ねんねしな).<br/><br/>Here, <strong><em>Nen-nen/nen-ne</em></strong> (ねんねん/ねんね) means "sleep," <strong><em>korori</em></strong> (ころり) is an onomatopoeia expressing that something rolls, <strong><em>bōya</em></strong> (ぼうや) means "boy," and <strong><em>yoiko</em></strong> (よいこ) means "good child."<br/><br/>That is to say, this lullaby means "sleep, roll, roll (lie down), you are good boy, so sleep."<br/><br/>If you are interested in the melody of this lullaby, please check it on YouTube.
 </div></div>
 
 <!-- more -->

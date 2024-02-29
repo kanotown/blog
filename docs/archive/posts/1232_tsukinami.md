@@ -8,7 +8,7 @@ comments: true
 slug: "1232_tsukinami"
 ---
 
-# 【No. 1232】<strong><em>Tsukinami</strong></em> (月並み - Cut-and-Dried)
+# 【No. 1232】<strong><em>Tsukinami</em></strong> (月並み - Cut-and-Dried)
 <div class="date">May 3, 2018 19:42</div>
 <div id="post"><div id="body_show_ori">
 When something is ordinary or common and boring, it is called tsukinami (月並み) in Japanese.<br/><br/>Tsuki (月) means "month," nami (並み/並) means "to line up" or "ordinary," and tsukinami was originally meant "monthly" or "monthly event."<br/><br/>In the Bunka era, people started an event called tsukinami ku awase (月並句合 - monthly haiku gathering), which gathered haiku (俳句 - Japanese seventeen-syllable poem) and published excellent ones; this event exploded in populartity.<br/><br/>In the Edo period, Shiki MASAOKA (正岡子規 - famous Japanese haiku writer) criticized ordinary and boring haiku made in this event as tsuinami chō (月並調 - tsukinami rhythm), so tsukinami has come to have the current meaning.<br/><br/>【Example centence】<br/>Kare no supīchi wa tsukinami datta (彼のスピーチは月並みだった - His speech was cut-and-dried).

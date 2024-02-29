@@ -8,10 +8,10 @@ comments: true
 slug: "1849_todo-no-tsumari"
 ---
 
-# 【No. 1849】<strong><em>Todo no Tsumari</strong></em> (とどのつまり - "After All")
+# 【No. 1849】<strong><em>Todo no Tsumari</em></strong> (とどのつまり - "After All")
 <div class="date">May 19, 2021 18:18</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Todo no Tsumari</strong></em><br/><br/>When describing "at last" or "after all," we sometimes say <strong><em>todo no tsumari</em></strong> (とどのつまり) in Japanese. <br/><br/>It is thought that <strong><em>todo</em></strong> (とど) came from a fish name, and <strong><em>tsumari</em></strong> (つまり) means "to block up."<br/><br/>A fish called <strong><em>bora</em></strong> (ボラ - "mullet" in English) has different names depending on the growth stage, such as <strong><em>okobo</em></strong> (オコボ), <strong><em>subashiri</em></strong> (スバシリ), <strong><em>ina</em></strong> (イナ), <strong><em>bora</em></strong> (ボラ), and <strong><em>todo</em></strong> (トド).<br/><br/>Here, <em>todo</em> is the last stage and implies that it will not get any bigger, and it came to have the meaning of "after all" by adding <em>tsumari</em>.<br/><br/>Incidentally, <em>todo no tsumari</em> usually used when the result is not so good.
+<strong><em>Todo no Tsumari</em></strong><br/><br/>When describing "at last" or "after all," we sometimes say <strong><em>todo no tsumari</em></strong> (とどのつまり) in Japanese. <br/><br/>It is thought that <strong><em>todo</em></strong> (とど) came from a fish name, and <strong><em>tsumari</em></strong> (つまり) means "to block up."<br/><br/>A fish called <strong><em>bora</em></strong> (ボラ - "mullet" in English) has different names depending on the growth stage, such as <strong><em>okobo</em></strong> (オコボ), <strong><em>subashiri</em></strong> (スバシリ), <strong><em>ina</em></strong> (イナ), <strong><em>bora</em></strong> (ボラ), and <strong><em>todo</em></strong> (トド).<br/><br/>Here, <em>todo</em> is the last stage and implies that it will not get any bigger, and it came to have the meaning of "after all" by adding <em>tsumari</em>.<br/><br/>Incidentally, <em>todo no tsumari</em> usually used when the result is not so good.
 </div></div>
 
 <!-- more -->

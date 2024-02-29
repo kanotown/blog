@@ -8,7 +8,7 @@ comments: true
 slug: "1272_sekisho-idai"
 ---
 
-# 【No. 1272】<strong><em>Sekishō Idai</strong></em> (積小為大)
+# 【No. 1272】<strong><em>Sekishō Idai</em></strong> (積小為大)
 <div class="date">Jun 12, 2018 21:18</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to the Japanese term, "zayū no mei" (座右の銘), which means 'motto.'<br/><br/>Today I would like to introduce you to my zayū no mei.<br/><br/>It is "sekishō idai" (積小為大).<br/><br/>Seki (積) means <em>to pile up,</em> shō (小) means <em>small,</em> i (為) menas <em>to accomplish,</em> and dai (大) means 'big.'<br/><br/>That is to say, this four-character idiom means that if you want to accomplish a great thing, it is important/necessary to pile up small efforts every day.<br/><br/>Incidentally, this idiom is said by a well known person in the Edo period, Sontoku NINOMIYA (二宮尊徳).

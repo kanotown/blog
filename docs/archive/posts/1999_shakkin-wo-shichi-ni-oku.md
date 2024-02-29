@@ -8,10 +8,10 @@ comments: true
 slug: "1999_shakkin-wo-shichi-ni-oku"
 ---
 
-# 【No. 1999】<strong><em>Shakkin wo Shichi ni Oku</strong></em> (借金を質に置く - Severe Financial Hardship)
+# 【No. 1999】<strong><em>Shakkin wo Shichi ni Oku</em></strong> (借金を質に置く - Severe Financial Hardship)
 <div class="date">Apr 12, 2023 22:15</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shakkin wo Shichi ni Oku</strong></em><br/><br/>To come up with the money for something by forcing yourself can be described as <strong><em>shakkin wo shichi ni oku</em></strong> (借金を質に置く) in Japanese.<br/><br/>Since <strong><em>shakkin</em></strong> (借金) means "debt," and <strong><em>shichi ni oku</em></strong> (質に置く) means "to pawn something," the literal meaning of this phrase is "to pawn debt."<br/><br/>As you can imagine, this phrase describes a financially distressed situation where debt is the only thing to be pawned or increased by debt being pawned.<br/><br/>It is often used with the auxiliary verb <strong><em>youda</em></strong> (ようだ), which means "feel like," as <strong><em>shakkin wo shichi ni oku youda</em></strong> (借金を質に置くようだ).
+<strong><em>Shakkin wo Shichi ni Oku</em></strong><br/><br/>To come up with the money for something by forcing yourself can be described as <strong><em>shakkin wo shichi ni oku</em></strong> (借金を質に置く) in Japanese.<br/><br/>Since <strong><em>shakkin</em></strong> (借金) means "debt," and <strong><em>shichi ni oku</em></strong> (質に置く) means "to pawn something," the literal meaning of this phrase is "to pawn debt."<br/><br/>As you can imagine, this phrase describes a financially distressed situation where debt is the only thing to be pawned or increased by debt being pawned.<br/><br/>It is often used with the auxiliary verb <strong><em>youda</em></strong> (ようだ), which means "feel like," as <strong><em>shakkin wo shichi ni oku youda</em></strong> (借金を質に置くようだ).
 </div></div>
 
 <!-- more -->

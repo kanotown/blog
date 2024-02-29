@@ -8,7 +8,7 @@ comments: true
 slug: "1235_nou-aru-taka-wa-tsume-wo-kakusu"
 ---
 
-# 【No. 1235】<strong><em>Nou aru Taka wa Tsume wo Kakusu</strong></em> (能ある鷹は爪を隠す - He who Knows most Speaks least)
+# 【No. 1235】<strong><em>Nou aru Taka wa Tsume wo Kakusu</em></strong> (能ある鷹は爪を隠す - He who Knows most Speaks least)
 <div class="date">May 6, 2018 16:01</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to introduce you to the popular Japanese proverb, nou aru taka wa tsume wo kakusu (能ある鷹は爪を隠す).<br/><br/>Nou aru (能ある) means "capable," taka (鷹) means "hawk," tsume (爪) means "nail/claw," and kakusu (隠す) means "to hide something." <br/><br/>That is to say, the literal meaning of this proverb is "A capable hawk hides the claws."<br/><br/>In fact, a capable hawk hides the sharp claws so that prey doesn't understand the situation.<br/><br/>On the other hand, a capable person doesn't brag or brandish the ability lightly.<br/><br/>This proverb is a kind of compliments, which likens such a capable person to a capable hawk.

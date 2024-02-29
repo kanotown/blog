@@ -8,10 +8,10 @@ comments: true
 slug: "1335_yukata"
 ---
 
-# 【No. 1335】<strong><em>Yukata</strong></em> (浴衣)
+# 【No. 1335】<strong><em>Yukata</em></strong> (浴衣)
 <div class="date">Aug 14, 2018 05:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Yukata</strong></em><br/><br/>In this season, I sometimes see people who are wearing <strong><em>yukata</em></strong> (浴衣).<br/><br/>Yukata is a kind of Japanese summer clothes, which is an unlined kimono (着物 - traditional Japanese clothes).<br/><br/>This term comes from <strong><em>yukatabira</em></strong> (湯帷子), which was used during the Heian period.<br/><br/><strong><em>Yu</em></strong> (湯) means "bath" and <strong><em>katabira</em></strong> (帷子) means an unlined kimono for summer.<br/><br/>Therefore, yukatabira means a cloth to hide one's skin while taking a bath.<br/><br/>Originally, only those of high-rank used yukatabira, but after cotton spread in the Edo period, it came to be called <em>yukata</em> for short and became common as casual wear for summer.
+<strong><em>Yukata</em></strong><br/><br/>In this season, I sometimes see people who are wearing <strong><em>yukata</em></strong> (浴衣).<br/><br/>Yukata is a kind of Japanese summer clothes, which is an unlined kimono (着物 - traditional Japanese clothes).<br/><br/>This term comes from <strong><em>yukatabira</em></strong> (湯帷子), which was used during the Heian period.<br/><br/><strong><em>Yu</em></strong> (湯) means "bath" and <strong><em>katabira</em></strong> (帷子) means an unlined kimono for summer.<br/><br/>Therefore, yukatabira means a cloth to hide one's skin while taking a bath.<br/><br/>Originally, only those of high-rank used yukatabira, but after cotton spread in the Edo period, it came to be called <em>yukata</em> for short and became common as casual wear for summer.
 </div></div>
 
 <!-- more -->

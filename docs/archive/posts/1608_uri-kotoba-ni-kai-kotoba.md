@@ -8,10 +8,10 @@ comments: true
 slug: "1608_uri-kotoba-ni-kai-kotoba"
 ---
 
-# 【No. 1608】<strong><em>Uri Kotoba ni Kai Kotoba</strong></em> (売り言葉に買い言葉 - Tit for Tat)
+# 【No. 1608】<strong><em>Uri Kotoba ni Kai Kotoba</em></strong> (売り言葉に買い言葉 - Tit for Tat)
 <div class="date">May 14, 2019 22:42</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Uri Kotoba ni Kai Kotoba</strong></em><br/><br/>Have you ever exchanged harsh words with someone?<br/><br/>Such an act is called <strong><em>uri kotoba ni kai kotoba</em></strong> (売り言葉に買い言葉) in Japanese.<br/><br/>Since <strong><em>uri</em></strong> (売り) means "selling," <strong><em>kotoba</em></strong> (言葉) means "word," and <strong><em>kai</em></strong> (買い) means "buying," the literal meaning of this phrase is "selling words and buying words."<br/><br/>In Japanese, to pick a quarrel/fight is expressed <strong><em>kenka wo uru</em></strong> (喧嘩を売る - literally means "to sell a quarrel/fight"), and to take up the quarrel/fight is expressed as <strong><em>kenka wo kau</em></strong> (喧嘩を買う - literally means "to buy a quarrel/fight").<br/><br/>That is to say, <strong><em>uri kotoba</em></strong> (売り言葉) means "words that cause a fight," and <strong><em>kai kotoba</em></strong> (買い言葉) means "words that take up a fight."<br/><br/>This phrase can be translated as "tit for tat" in English.
+<strong><em>Uri Kotoba ni Kai Kotoba</em></strong><br/><br/>Have you ever exchanged harsh words with someone?<br/><br/>Such an act is called <strong><em>uri kotoba ni kai kotoba</em></strong> (売り言葉に買い言葉) in Japanese.<br/><br/>Since <strong><em>uri</em></strong> (売り) means "selling," <strong><em>kotoba</em></strong> (言葉) means "word," and <strong><em>kai</em></strong> (買い) means "buying," the literal meaning of this phrase is "selling words and buying words."<br/><br/>In Japanese, to pick a quarrel/fight is expressed <strong><em>kenka wo uru</em></strong> (喧嘩を売る - literally means "to sell a quarrel/fight"), and to take up the quarrel/fight is expressed as <strong><em>kenka wo kau</em></strong> (喧嘩を買う - literally means "to buy a quarrel/fight").<br/><br/>That is to say, <strong><em>uri kotoba</em></strong> (売り言葉) means "words that cause a fight," and <strong><em>kai kotoba</em></strong> (買い言葉) means "words that take up a fight."<br/><br/>This phrase can be translated as "tit for tat" in English.
 </div></div>
 
 <!-- more -->

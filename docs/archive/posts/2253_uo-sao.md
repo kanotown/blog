@@ -8,10 +8,10 @@ comments: true
 slug: "2253_uo-sao"
 ---
 
-# 【No. 2253】<strong><em>Uō Saō</strong></em> (右往左往 - Helter-Skelter)
+# 【No. 2253】<strong><em>Uō Saō</em></strong> (右往左往 - Helter-Skelter)
 <div class="date">Dec 22, 2023 13:13</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Uō Saō</strong></em><br/><br/>The four-character idiom <strong><em>uō saō</em></strong> (右往左往) describes a situation where someone is confused and wanders around.<br/><br/><strong><em>U</em></strong> (右) means "right," <strong><em>ō</em></strong> (往) means "go," <strong><em>sa</em></strong> (左) means "left," so the literal meaning of <em>uō saō</em> is "going right and going left."<br/><br/>In this idiom, the act of going to the right and left repeatedly represents a state of confusion or disorder.<br/><br/>As a synonym for <em>uō saō</em>, there is <strong><em>atafuta</em></strong> (あたふた), which means a state of being in a panic and rushing around.
+<strong><em>Uō Saō</em></strong><br/><br/>The four-character idiom <strong><em>uō saō</em></strong> (右往左往) describes a situation where someone is confused and wanders around.<br/><br/><strong><em>U</em></strong> (右) means "right," <strong><em>ō</em></strong> (往) means "go," <strong><em>sa</em></strong> (左) means "left," so the literal meaning of <em>uō saō</em> is "going right and going left."<br/><br/>In this idiom, the act of going to the right and left repeatedly represents a state of confusion or disorder.<br/><br/>As a synonym for <em>uō saō</em>, there is <strong><em>atafuta</em></strong> (あたふた), which means a state of being in a panic and rushing around.
 </div></div>
 
 <!-- more -->

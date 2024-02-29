@@ -8,7 +8,7 @@ comments: true
 slug: "0572_miyadaiku"
 ---
 
-# 【No. 0572】<strong><em>Miyadaiku</strong></em> (Temple and Shrine Carpenters)
+# 【No. 0572】<strong><em>Miyadaiku</em></strong> (Temple and Shrine Carpenters)
 <div class="date">Jul 12, 2016 10:05</div>
 <div id="post"><div id="body_show_ori">
 Today, I'd like to talk about the Japanese job category "miyadaiku."<br/><br/>Daiku means carpenters, and miyadaiku means carpenters who build and repair only traditional Japanese architectures, such as temples and shrines.<br/><br/>Temples and shrines are built by using a unique Japanese construction method called "kigumi" (timberwork), which don't use nails or bolts.<br/><br/>Kigumi is a method that builds architectures by combining timbers that are logged to complex shapes.<br/><br/>If the height of the architecture is high, miyadaiku will design it so as to distribute the gravity.<br/><br/>Since this technique is important to preserve cultural assets, it is designated as a selected preservation technique.

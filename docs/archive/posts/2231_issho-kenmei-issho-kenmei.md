@@ -8,10 +8,10 @@ comments: true
 slug: "2231_issho-kenmei-issho-kenmei"
 ---
 
-# 【No. 2231】<strong><em>Issho Kenmei / Isshō Kenmei</strong></em> (一所懸命と一生懸命 - With All One's Might)
+# 【No. 2231】<strong><em>Issho Kenmei / Isshō Kenmei</em></strong> (一所懸命と一生懸命 - With All One's Might)
 <div class="date">Nov 30, 2023 19:01</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Issho Kenmei / Isshō Kenmei</strong></em><br/><br/>The four-character idioms <strong><em>issho kenmei</em></strong> (一所懸命) and <strong><em>isshō kenmei</em></strong> (一生懸命) are both used to describe engaging in something seriously with all one's might.<br/><br/>Since <strong><em>i/ichi</em></strong> (一) means "one," <strong><em>sho</em></strong> (所) means "place," and <strong><em>kenmei</em></strong> (懸命) means "with all one's might," the literal meaning of <em>issho kenmei</em> is "with all one's might in one place."<br/><br/>This idiom was derived from the fact that samurai defended a single territory with their lives.<br/><br/>Later, <strong><em>shō</em></strong> (生 - meaning "life") came to be used instead of <em>sho</em>, leading to the idiom <em>isshō kenmei</em>.<br/><br/>In recent years, the term <strong><em>issho</em></strong> (一生 - meaning "a lifetime") is more familiar than <strong><em>issho</em></strong> (一所 - meaning "one place" ), so <em>isshō kenmei</em> is used more often than <em>issho kenmei</em>.
+<strong><em>Issho Kenmei / Isshō Kenmei</em></strong><br/><br/>The four-character idioms <strong><em>issho kenmei</em></strong> (一所懸命) and <strong><em>isshō kenmei</em></strong> (一生懸命) are both used to describe engaging in something seriously with all one's might.<br/><br/>Since <strong><em>i/ichi</em></strong> (一) means "one," <strong><em>sho</em></strong> (所) means "place," and <strong><em>kenmei</em></strong> (懸命) means "with all one's might," the literal meaning of <em>issho kenmei</em> is "with all one's might in one place."<br/><br/>This idiom was derived from the fact that samurai defended a single territory with their lives.<br/><br/>Later, <strong><em>shō</em></strong> (生 - meaning "life") came to be used instead of <em>sho</em>, leading to the idiom <em>isshō kenmei</em>.<br/><br/>In recent years, the term <strong><em>issho</em></strong> (一生 - meaning "a lifetime") is more familiar than <strong><em>issho</em></strong> (一所 - meaning "one place" ), so <em>isshō kenmei</em> is used more often than <em>issho kenmei</em>.
 </div></div>
 
 <!-- more -->

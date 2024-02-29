@@ -9,10 +9,10 @@ comments: true
 slug: "2254_nengajo"
 ---
 
-# 【No. 2254】<strong><em>Nengajō</strong></em> (年賀状 - New Year's Greeting Card): Part 1
+# 【No. 2254】<strong><em>Nengajō</em></strong> (年賀状 - New Year's Greeting Card): Part 1
 <div class="date">Dec 23, 2023 23:58</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nengajō</strong></em>: Part 1<br/><br/>Today, I wrote <strong><em>nengajō</em></strong> (年賀状).<br/><br/><em>Nengajō</em> is a traditional Japanese greeting card for celebrating the New Year.<br/><br/><strong><em>Nen</em></strong> (年) means "year," <strong><em>ga</em></strong> (賀) means "celebration," and <strong><em>jō</em></strong> (状) means "card," so the literal meaning of <em>nengajō</em> is "year celebration card."<br/><br/>The custom of exchanging <em>nengajō</em> originated from the traditional visits for New Year's greetings.<br/><br/>In the past, many Japanese people used to visit their relatives and those to whom they were indebted at the beginning of the year to give greetings.<br/><br/>However, as times have changed, more and more people have found it difficult to give greetings in person, and they started sending <em>nengajō</em> as an alternative to New Year's greetings.
+<strong><em>Nengajō</em></strong>: Part 1<br/><br/>Today, I wrote <strong><em>nengajō</em></strong> (年賀状).<br/><br/><em>Nengajō</em> is a traditional Japanese greeting card for celebrating the New Year.<br/><br/><strong><em>Nen</em></strong> (年) means "year," <strong><em>ga</em></strong> (賀) means "celebration," and <strong><em>jō</em></strong> (状) means "card," so the literal meaning of <em>nengajō</em> is "year celebration card."<br/><br/>The custom of exchanging <em>nengajō</em> originated from the traditional visits for New Year's greetings.<br/><br/>In the past, many Japanese people used to visit their relatives and those to whom they were indebted at the beginning of the year to give greetings.<br/><br/>However, as times have changed, more and more people have found it difficult to give greetings in person, and they started sending <em>nengajō</em> as an alternative to New Year's greetings.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1739_tsuki"
 ---
 
-# 【No. 1739】<strong><em>Tsuki</strong></em> (月 - Moon)
+# 【No. 1739】<strong><em>Tsuki</em></strong> (月 - Moon)
 <div class="date">Sep 21, 2019 16:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tsuki</strong></em><br/><br/>I like to see <strong><em>tsuki</em></strong> (月).<br/><br/><strong><em>Tsuki</em></strong> (月) means "moon," and there are several theories about its etymology.<br/><br/>One theory says that it comes from the term <strong><em>tsugi</em></strong> (次ぎ), which means "next," because the moon is bright next to the sun.<br/><br/>Another theory says that it comes from <strong><em>tsuki/tsuki-ru</em></strong> (尽き/尽きる), which means "run out," because the brightness of the moon runs out once a month.<br/><br/>Incidentally, it was announced that the game "Moon" for PlayStation released in 1997 will be distributed on Switch next month, then it has become a hot topic in Japan.
+<strong><em>Tsuki</em></strong><br/><br/>I like to see <strong><em>tsuki</em></strong> (月).<br/><br/><strong><em>Tsuki</em></strong> (月) means "moon," and there are several theories about its etymology.<br/><br/>One theory says that it comes from the term <strong><em>tsugi</em></strong> (次ぎ), which means "next," because the moon is bright next to the sun.<br/><br/>Another theory says that it comes from <strong><em>tsuki/tsuki-ru</em></strong> (尽き/尽きる), which means "run out," because the brightness of the moon runs out once a month.<br/><br/>Incidentally, it was announced that the game "Moon" for PlayStation released in 1997 will be distributed on Switch next month, then it has become a hot topic in Japan.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0717_mimi-wo-katamukeru"
 ---
 
-# 【No. 0717】<strong><em>Mimi wo Katamukeru</strong></em> (To Lean an Ear)
+# 【No. 0717】<strong><em>Mimi wo Katamukeru</em></strong> (To Lean an Ear)
 <div class="date">Dec 4, 2016 13:53</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the idiom "mimi wo katamukeru."<br/><br/>The literal meaning is "to lean an ear," and it describes to listen carefully/keenly so as not to miss talks.<br/><br/>This idiom comes from the fact that when you try to listen to something carefully, your ear leans.<br/><br/>The common kanji for "kiku", which means "to hear", is "聞く", but if you use another kanji "聴く" for "kiku", you can imply the meaning of "mimi wo katamukeru" (to listen carefully).<br/><br/>By the way, it will be said "to lend an ear" in English.<br/><br/>There is also another idiom "mimi wo kasu," which is the literal translation of "to lend an ear," but it has a little different nuances.<br/><br/>"Mimi wo katamukeru" (to lean an ear) implies that you listen to speaker's talk respectfully, while "mimi wo kasu" (to lend an ear) implies that you listen to your close person's talk or you provide consultation for him/her.

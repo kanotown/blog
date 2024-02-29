@@ -8,7 +8,7 @@ comments: true
 slug: "0635_shiri-ga-aoi"
 ---
 
-# 【No. 0635】<strong><em>Shiri ga Aoi</strong></em> (A Blue Hip)
+# 【No. 0635】<strong><em>Shiri ga Aoi</em></strong> (A Blue Hip)
 <div class="date">Sep 13, 2016 00:47</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese idiom "shiri ga aoi."<br/><br/>The literal meaning is "your hip is blue," but it actually means that someone is premature or young.<br/><br/>This comes from that infant hips are bluish.<br/><br/>The blue hip is called "moukohan" (Mongolian blue spot), and is often observed in Asian.<br/><br/>In particular, it is said that more than 90% of Japanese infants have the moukohan.<br/><br/>It's thought that the generation mechanism of the moukohan is related to pigment called "melanocytes".<br/><br/>Also, there is another idiom "kuchibashi ga kiiroi" (your beak is yellow), which have the same meaning of "shiri ga aoi."<br/><br/>This comes from that a baby bird have a yellow beak.<br/><br/>I think that this idiom is similar to "green horn" in English.

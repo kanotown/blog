@@ -8,7 +8,7 @@ comments: true
 slug: "0934_shime-shime"
 ---
 
-# 【No. 0934】<strong><em>Shime Shime</strong></em> (しめしめ)
+# 【No. 0934】<strong><em>Shime Shime</em></strong> (しめしめ)
 <div class="date">Jul 9, 2017 15:39</div>
 <div id="post"><div id="body_show_ori">
 What kind of terms do you say when something go as planned and you rejoice at it secretly.<br/><br/>In such a case, you can say "shime shime" (しめしめ) in Japan.<br/><br/>"Shime shime" is a term made by overlapping the Japanese verb, "shimeru" (占める), which means to occupy something.<br/><br/>For example, it is used like "shime shime, umakuittazo" (しめしめ、うまくいったぞ), which means just something like "Thank God, my plan is working."<br/><br/>Actually, I often heard this term especially in manga, but recently it may not have been used very much.

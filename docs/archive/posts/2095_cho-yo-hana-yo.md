@@ -8,10 +8,10 @@ comments: true
 slug: "2095_cho-yo-hana-yo"
 ---
 
-# 【No. 2095】<strong><em>Chō yo Hana yo</strong></em> (蝶よ花よ - Bringing up with Affection)
+# 【No. 2095】<strong><em>Chō yo Hana yo</em></strong> (蝶よ花よ - Bringing up with Affection)
 <div class="date">Jul 17, 2023 09:55</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Chō yo Hana yo</strong></em><br/><br/>The Japanese phrase, <strong><em>chō yo hana yo</em></strong> (蝶よ花よ), can express a situation where parents raise their children with great care.<br/><br/>Since <strong><em>chō</em></strong> (蝶) means "butterfly," and <strong><em>hana</em></strong> (花) means "flower," the literal meaning of <em>chō yo hana yo</em> is "(you are) a butterfly, a flower."<br/><br/>In Japan, both the terms "butterfly" and "flower" are used as metaphors for something delicate and beautiful, and they also carry the meaning of something to be cherished with great care.<br/><br/>As you can easily imagine, this phrase is usually used for daughters.
+<strong><em>Chō yo Hana yo</em></strong><br/><br/>The Japanese phrase, <strong><em>chō yo hana yo</em></strong> (蝶よ花よ), can express a situation where parents raise their children with great care.<br/><br/>Since <strong><em>chō</em></strong> (蝶) means "butterfly," and <strong><em>hana</em></strong> (花) means "flower," the literal meaning of <em>chō yo hana yo</em> is "(you are) a butterfly, a flower."<br/><br/>In Japan, both the terms "butterfly" and "flower" are used as metaphors for something delicate and beautiful, and they also carry the meaning of something to be cherished with great care.<br/><br/>As you can easily imagine, this phrase is usually used for daughters.
 </div></div>
 
 <!-- more -->

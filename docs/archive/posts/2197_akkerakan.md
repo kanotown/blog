@@ -8,10 +8,10 @@ comments: true
 slug: "2197_akkerakan"
 ---
 
-# 【No. 2197】<strong><em>Akkerakan</strong></em> (あっけらかん - Being Quite Indifferent)
+# 【No. 2197】<strong><em>Akkerakan</em></strong> (あっけらかん - Being Quite Indifferent)
 <div class="date">Oct 27, 2023 20:43</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Akkerakan</strong></em><br/><br/>I am sometimes in a state called <strong><em>akkerakan</em></strong> (あっけらかん).<br/><br/>The expression <em>akkerakan</em> describes a state of being so surprised or shocked by unexpected events that one does not move, or being in a daze and unconcerned about anything.<br/><br/><strong><em>Akke/anke/ake</em></strong> (あっけ/あんけ/あけ) represents the state of having one's mouth wide open.<br/><br/>By adding the suffix <strong><em>ra</em></strong> (ら) to this, it became <strong><em>ankera</em></strong> (あんけら). Furthermore, another suffic <strong><em>kan</em></strong> (かん) was added, resulting in <strong><em>ankerakan</em></strong> (あんけらかん) and <em>akkerakan</em>.<br/><br/><em>Akkerakan</em> came to have its current meaning from the image of having one's mouth wide open without movement.
+<strong><em>Akkerakan</em></strong><br/><br/>I am sometimes in a state called <strong><em>akkerakan</em></strong> (あっけらかん).<br/><br/>The expression <em>akkerakan</em> describes a state of being so surprised or shocked by unexpected events that one does not move, or being in a daze and unconcerned about anything.<br/><br/><strong><em>Akke/anke/ake</em></strong> (あっけ/あんけ/あけ) represents the state of having one's mouth wide open.<br/><br/>By adding the suffix <strong><em>ra</em></strong> (ら) to this, it became <strong><em>ankera</em></strong> (あんけら). Furthermore, another suffic <strong><em>kan</em></strong> (かん) was added, resulting in <strong><em>ankerakan</em></strong> (あんけらかん) and <em>akkerakan</em>.<br/><br/><em>Akkerakan</em> came to have its current meaning from the image of having one's mouth wide open without movement.
 </div></div>
 
 <!-- more -->

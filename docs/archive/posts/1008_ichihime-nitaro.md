@@ -8,7 +8,7 @@ comments: true
 slug: "1008_ichihime-nitaro"
 ---
 
-# 【No. 1008】<strong><em>Ichihime Nitaro</strong></em> (一姫二太郎 - Having a Daughter First and then a Son)
+# 【No. 1008】<strong><em>Ichihime Nitaro</em></strong> (一姫二太郎 - Having a Daughter First and then a Son)
 <div class="date">Sep 21, 2017 16:53</div>
 <div id="post"><div id="body_show_ori">
 When a child is born in Japan, it is commonly said that "ichihime nitaro" (一姫二太郎) is ideal.<br/><br/>Here "ichi" (一) means "first," "hime" (姫) means "daughter," "ni" (二) means "second," and "taro" (太郎) means "son."<br/><br/>Therefore, "ichihime nitaro" means that your first child is a daughter, and your second child is a son.<br/><br/>The reason why such a composition is regarded as an ideal one is because it's easier to foster a daughter than a son, and she will help with house work and child care after growing somewhat.<br/><br/>Previously, this term is used as a word of comfort when a daughter was born first even if the parents wanted a son.<br/><br/>However, these days many Japanese people think that "ichihime nitaro" is actually ideal due to various reasons.

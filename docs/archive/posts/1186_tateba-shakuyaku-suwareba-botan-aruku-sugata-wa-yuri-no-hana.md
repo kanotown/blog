@@ -8,7 +8,7 @@ comments: true
 slug: "1186_tateba-shakuyaku-suwareba-botan-aruku-sugata-wa-yuri-no-hana"
 ---
 
-# 【No. 1186】<strong><em>Tateba Shakuyaku, Suwareba Botan, Aruku Sugata wa Yuri no Hana</strong></em> (立てば芍薬、座れば牡丹、歩く姿は百合の花) Part 1
+# 【No. 1186】<strong><em>Tateba Shakuyaku, Suwareba Botan, Aruku Sugata wa Yuri no Hana</em></strong> (立てば芍薬、座れば牡丹、歩く姿は百合の花) Part 1
 <div class="date">Mar 18, 2018 14:36</div>
 <div id="post"><div id="body_show_ori">
 Yesterday, I introduced you to that 姥桜 (uba zakura) can describe a beautiful elderly lady.<br/><br/>There is another Japanese phrase using flowers, that can also describe a beauty of woman's appearance, feel and act.<br/><br/>It is 立てば芍薬、座れば牡丹、歩く姿は百合の花 (tateba shakuyaku, suwareba botan, aruku sugata wa yuri no hana).<br/><br/>立てば (tateba) means "when she stands," and 芍薬 (shakuyaku) means "Paeoniae lactiflora."<br/><br/>"Shakuyaku" bears a beautiful flower on the top of the long slender stem.<br/><br/>This figure is as if a beautiful woman were standing.<br/><br/>(Since this entry would be long, it continues on Part 2.)

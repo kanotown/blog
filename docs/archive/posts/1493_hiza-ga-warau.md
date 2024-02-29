@@ -8,10 +8,10 @@ comments: true
 slug: "1493_hiza-ga-warau"
 ---
 
-# 【No. 1493】<strong><em>Hiza ga Warau</strong></em> (膝が笑う - One's Knees Shake)
+# 【No. 1493】<strong><em>Hiza ga Warau</em></strong> (膝が笑う - One's Knees Shake)
 <div class="date">Jan 19, 2019 21:06</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hiza ga Warau</strong></em><br/><br/>When exercising suddenly or imposing a load on your feet, your knees could wobble/shake regardless of your own will.<br/><br/>To describe such a situation, you can use the Japanese idiom <strong><em>hiza ga warau</em></strong> (膝が笑う).<br/><br/><strong><em>Hiza</em></strong> (膝) means "knee" and <strong><em>warau</em></strong> (笑う) means "to laugh," so the literal meaning of <em>hiza ga warau</em> is "one's knees laugh."<br/><br/>As you might have guessed, this idiom describes the shake of knees by using the verb "laugh."<br/><br/>Incidentally, there are mainly three kinds of onomatopoeia to describe the shake of knees -- <strong><em>kaku kaku</em></strong> (カクカク), <strong><em>gaku gaku</em></strong> (ガクガク), and <strong><em>puru puru</em></strong> (プルプル).
+<strong><em>Hiza ga Warau</em></strong><br/><br/>When exercising suddenly or imposing a load on your feet, your knees could wobble/shake regardless of your own will.<br/><br/>To describe such a situation, you can use the Japanese idiom <strong><em>hiza ga warau</em></strong> (膝が笑う).<br/><br/><strong><em>Hiza</em></strong> (膝) means "knee" and <strong><em>warau</em></strong> (笑う) means "to laugh," so the literal meaning of <em>hiza ga warau</em> is "one's knees laugh."<br/><br/>As you might have guessed, this idiom describes the shake of knees by using the verb "laugh."<br/><br/>Incidentally, there are mainly three kinds of onomatopoeia to describe the shake of knees -- <strong><em>kaku kaku</em></strong> (カクカク), <strong><em>gaku gaku</em></strong> (ガクガク), and <strong><em>puru puru</em></strong> (プルプル).
 </div></div>
 
 <!-- more -->

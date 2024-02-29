@@ -8,7 +8,7 @@ comments: true
 slug: "0907_gussuri"
 ---
 
-# 【No. 0907】<strong><em>Gussuri</strong></em> (Having a Good Night's Sleep)
+# 【No. 0907】<strong><em>Gussuri</em></strong> (Having a Good Night's Sleep)
 <div class="date">Jun 12, 2017 18:31</div>
 <div id="post"><div id="body_show_ori">
 There is the Japanese adverb "gussuri" (ぐっすり), which implies being deep asleep.<br/><br/>Actually, a Japanese TV show introduced that "gussuri" comes from "good sleep" in English, so I think that many Japanese people believe the etymology.<br/><br/>However, this term has been used since the Edo period, which was the period when Japan had closed the country to foreign commerce, hence it's hard to think that it came from English.<br/><br/>Originally, gussuri was used as an onomatopoeia that means "jūbun-ni" (十分に - fully) or "sukkari" (すっかり - totally).<br/><br/>It is thought that since it was often used with the verb "nemuru" (眠る - sleep), it came to have the meaning as having a good night's sleep.

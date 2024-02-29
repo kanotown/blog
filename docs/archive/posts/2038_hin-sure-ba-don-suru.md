@@ -8,10 +8,10 @@ comments: true
 slug: "2038_hin-sure-ba-don-suru"
 ---
 
-# 【No. 2038】<strong><em>Hin sure ba Don suru</strong></em> (貧すれば鈍する - Poverty Dulls the Wit)
+# 【No. 2038】<strong><em>Hin sure ba Don suru</em></strong> (貧すれば鈍する - Poverty Dulls the Wit)
 <div class="date">May 21, 2023 12:20</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Hin sure ba Don suru</strong></em><br/><br/>If one becomes terribly poor, one's brain may not work very well due to the hardship of life.<br/><br/>The proverb <strong><em>hin sure ba don suru</em></strong> (貧すれば鈍する) can describe such a situation.<br/><br/>Since <strong><em>hin</em></strong> (貧) means "poor," and <strong><em>don</em></strong> (鈍) means "dull," <em>hin sure ba don suru</em> literally means "If you are poor, you will be dull."<br/><br/>Note that this proverb by no means says that being poor is always a bad thing.<br/><br/>It says that being poor could negatively influence a person's natural abilities.
+<strong><em>Hin sure ba Don suru</em></strong><br/><br/>If one becomes terribly poor, one's brain may not work very well due to the hardship of life.<br/><br/>The proverb <strong><em>hin sure ba don suru</em></strong> (貧すれば鈍する) can describe such a situation.<br/><br/>Since <strong><em>hin</em></strong> (貧) means "poor," and <strong><em>don</em></strong> (鈍) means "dull," <em>hin sure ba don suru</em> literally means "If you are poor, you will be dull."<br/><br/>Note that this proverb by no means says that being poor is always a bad thing.<br/><br/>It says that being poor could negatively influence a person's natural abilities.
 </div></div>
 
 <!-- more -->

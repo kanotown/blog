@@ -8,10 +8,10 @@ comments: true
 slug: "1661_sagasu"
 ---
 
-# 【No. 1661】<strong><em>Sagasu</strong></em> (さがす - Searching)
+# 【No. 1661】<strong><em>Sagasu</em></strong> (さがす - Searching)
 <div class="date">Jul 6, 2019 09:24</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Sagasu</strong></em><br/><br/>The most common Japanese verb meaning "to search" is <strong><em>sagasu</em></strong> (さがす), but it has two notation ways by using different kanji, 探す and 捜す.<br/><br/>These two kanji are basically used as follows:<br/><br/>Use 探す when you search for what you want to get or see.<br/><br/>Use 捜す when you search for what you lost, what you cannot see, or someone who was missing.<br/><br/>For example, 探す is used when you want to find a job or hunt for treasure, whereas 捜す is used when you want to find a lost wallet or a missing person.
+<strong><em>Sagasu</em></strong><br/><br/>The most common Japanese verb meaning "to search" is <strong><em>sagasu</em></strong> (さがす), but it has two notation ways by using different kanji, 探す and 捜す.<br/><br/>These two kanji are basically used as follows:<br/><br/>Use 探す when you search for what you want to get or see.<br/><br/>Use 捜す when you search for what you lost, what you cannot see, or someone who was missing.<br/><br/>For example, 探す is used when you want to find a job or hunt for treasure, whereas 捜す is used when you want to find a lost wallet or a missing person.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0947_tetsuya"
 ---
 
-# 【No. 0947】<strong><em>Tetsuya</strong></em> (徹夜 - All Night)
+# 【No. 0947】<strong><em>Tetsuya</em></strong> (徹夜 - All Night)
 <div class="date">Jul 22, 2017 10:15</div>
 <div id="post"><div id="body_show_ori">
 Since yesterday was a deadline for a speech manuscript at an academic conference, I did "tetuya" (徹夜).<br/><br/>"Tetsuya" means to do activities such as work or entertainment all through the night without sleep.<br/><br/>"Tetsu" (徹) of "tetsuya" means to go/become through, and "ya" (夜) means night.<br/><br/>Therefore, "tetsuya" means to stay awake through the night.<br/><br/>If work goes well by doing tetsuya, you can receive a sense of accomplishment, but you will increase mistakes due to a lack of concentration, and you will be in bad physical condition, you should avoid doing tetsuya as much as possible.<br/><br/>Incidentally, young people often say "all" (ォール) instead of tetsuya.<br/><br/>"All" is short for "all night," and it is used as "All suru" (オールする - do all).

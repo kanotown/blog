@@ -8,7 +8,7 @@ comments: true
 slug: "0628_komekami"
 ---
 
-# 【No. 0628】<strong><em>Komekami</strong></em> (Temple)
+# 【No. 0628】<strong><em>Komekami</em></strong> (Temple)
 <div class="date">Sep 6, 2016 01:15</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese word "komekami."<br/><br/>"Kome" means "rice", "kami" means "to bite", and "komekami" means "temples on a head."<br/><br/>The etymology of which is that your temples move when you bite rice.<br/><br/>Of course, it doesn't need to be rice, but our traditional staple food is rice, so the word "kome" has been used.<br/><br/>(Please make sure that your temples move when you bite something.)<br/><br/>By the way, since the bone thickness of around "komekami" is thin, it's vulnerable to impact, and is referred to as a vital part in various fighting sports, same as the chin.

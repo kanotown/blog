@@ -8,10 +8,10 @@ comments: true
 slug: "2245_bokyahin"
 ---
 
-# 【No. 2245】<strong><em>Bokyahin</strong></em> (ボキャ貧 - Limited Vocabulary)
+# 【No. 2245】<strong><em>Bokyahin</em></strong> (ボキャ貧 - Limited Vocabulary)
 <div class="date">Dec 14, 2023 20:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Bokyahin</strong></em><br/><br/>Over the past two days, I introduced slang terms that mean limited vocabulary.<br/><br/>There is another similar slang term, <strong><em>bokyahin</em></strong> (ボキャ貧).<br/><br/><strong><em>Bokya</em></strong> (ボキャ) is short for <strong><em>bokyaburarī</em></strong> (ボキャブラリー - meaning "bocabulary"), and <strong><em>hin</em></strong> (貧) is short shor <strong><em>hinjaku</em></strong> (貧弱 - meaning "poor"). Therefore, the literal meaning of <em>bokyahin</em> is "poor vocabulary."<br/><br/>It is a very understandable slang term for a limited vocabulary or someone with such a limitation. However, this term is becoming an obsolete word.<br/><br/>We need to study the language daily to avoid becoming <em>bokyahin</em> and using obsolete terms.
+<strong><em>Bokyahin</em></strong><br/><br/>Over the past two days, I introduced slang terms that mean limited vocabulary.<br/><br/>There is another similar slang term, <strong><em>bokyahin</em></strong> (ボキャ貧).<br/><br/><strong><em>Bokya</em></strong> (ボキャ) is short for <strong><em>bokyaburarī</em></strong> (ボキャブラリー - meaning "bocabulary"), and <strong><em>hin</em></strong> (貧) is short shor <strong><em>hinjaku</em></strong> (貧弱 - meaning "poor"). Therefore, the literal meaning of <em>bokyahin</em> is "poor vocabulary."<br/><br/>It is a very understandable slang term for a limited vocabulary or someone with such a limitation. However, this term is becoming an obsolete word.<br/><br/>We need to study the language daily to avoid becoming <em>bokyahin</em> and using obsolete terms.
 </div></div>
 
 <!-- more -->

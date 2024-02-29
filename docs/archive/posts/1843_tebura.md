@@ -8,10 +8,10 @@ comments: true
 slug: "1843_tebura"
 ---
 
-# 【No. 1843】<strong><em>Tebura</strong></em> (手ぶら - Empty-handed)
+# 【No. 1843】<strong><em>Tebura</em></strong> (手ぶら - Empty-handed)
 <div class="date">May 13, 2021 21:33</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tebura</strong></em><br/><br/>When having nothing in your hands, the situation is described as <strong><em>tebura</em></strong> (手ぶら) in Japanese.<br/><br/>It is considered that <em>tebura</em> is an abbreviation for <strong><em>te wo burasagete iru</em></strong> (手をぶら下げている) or <strong><em>te wo burabura sasete iru</em></strong> (手をぶらぶらさせている).<br/><br/>Here, <strong><em>te</em></strong> (手) means "hand," <strong><em>burasageru</em></strong> (ぶら下げる) means "dangling," and <strong><em>burabura</em></strong> (ぶらぶら) is an onomatopoeia that represents something dangling.<br/><br/>This word implies that if you have nothing in your hands, your hand will be dangling.<br/><br/>Incidentally, <strong><em>tebura</em></strong> (手ブラ) also sometimes means using your hands to hold your breast instead of a bra.
+<strong><em>Tebura</em></strong><br/><br/>When having nothing in your hands, the situation is described as <strong><em>tebura</em></strong> (手ぶら) in Japanese.<br/><br/>It is considered that <em>tebura</em> is an abbreviation for <strong><em>te wo burasagete iru</em></strong> (手をぶら下げている) or <strong><em>te wo burabura sasete iru</em></strong> (手をぶらぶらさせている).<br/><br/>Here, <strong><em>te</em></strong> (手) means "hand," <strong><em>burasageru</em></strong> (ぶら下げる) means "dangling," and <strong><em>burabura</em></strong> (ぶらぶら) is an onomatopoeia that represents something dangling.<br/><br/>This word implies that if you have nothing in your hands, your hand will be dangling.<br/><br/>Incidentally, <strong><em>tebura</em></strong> (手ブラ) also sometimes means using your hands to hold your breast instead of a bra.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1922_ron-yori-shoko"
 ---
 
-# 【No. 1922】<strong><em>Ron yori Shōko</strong></em> (論より証拠 - Practice Is Better than Precept)
+# 【No. 1922】<strong><em>Ron yori Shōko</em></strong> (論より証拠 - Practice Is Better than Precept)
 <div class="date">Jul 31, 2021 13:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ron yori Shōko</strong></em><br/><br/>When actual evidence is shown, things become clearer, and we don't need to argue and think about it repeatedly.<br/><br/>To explain this fact, you can use the Japanese proverb <strong><em>ron yori shōko</em></strong> (論より証拠).<br/><br/>Since <strong><em>ron</em></strong> (論) means "opinion" or "view," <strong><em>yori</em></strong> (より) means "more/better than," and <strong><em>shōko</em></strong> (証拠) means "evidence," <em>ron yori shōko</em> literally means "evidence is better than opinions."<br/><br/>This proverb can be translated into English as "The proof of the pudding is in the eating," "Practice is better than precept," or "Seeing is believing."
+<strong><em>Ron yori Shōko</em></strong><br/><br/>When actual evidence is shown, things become clearer, and we don't need to argue and think about it repeatedly.<br/><br/>To explain this fact, you can use the Japanese proverb <strong><em>ron yori shōko</em></strong> (論より証拠).<br/><br/>Since <strong><em>ron</em></strong> (論) means "opinion" or "view," <strong><em>yori</em></strong> (より) means "more/better than," and <strong><em>shōko</em></strong> (証拠) means "evidence," <em>ron yori shōko</em> literally means "evidence is better than opinions."<br/><br/>This proverb can be translated into English as "The proof of the pudding is in the eating," "Practice is better than precept," or "Seeing is believing."
 </div></div>
 
 <!-- more -->

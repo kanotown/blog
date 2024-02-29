@@ -8,10 +8,10 @@ comments: true
 slug: "1414_me-ga-nai"
 ---
 
-# 【No. 1414】<strong><em>Me ga Nai</strong></em> (目がない - Having a Weakness)
+# 【No. 1414】<strong><em>Me ga Nai</em></strong> (目がない - Having a Weakness)
 <div class="date">Nov 1, 2018 17:40</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Me ga Nai</strong></em><br/><br/>When you want to describe that someone is fond of something heavily and crazily, you can use the Japanese idiom <strong><em>me ga nai</em></strong> (目がない).<br/><br/><strong><em>Me</em></strong> (目) means "eye" and <strong><em>nai</em></strong> (ない) means "do not have" or "nothing," so the literal meaning of this idiom is "one does not have eyes."<br/><br/>If you do not have your eyes, the ability to see and judge things will down.<br/><br/>That is to say, <em>me ga nai</em> implies that someone is too fond of something to see/judge anything.<br/><br/>Note that when this is used as <strong><em>miru me ga nai</em></strong> (見る目がない) by adding <strong><em>miru</em></strong> (見る - literally "seeing"), it literally means that someone has no eyes to judge/is blind to things.
+<strong><em>Me ga Nai</em></strong><br/><br/>When you want to describe that someone is fond of something heavily and crazily, you can use the Japanese idiom <strong><em>me ga nai</em></strong> (目がない).<br/><br/><strong><em>Me</em></strong> (目) means "eye" and <strong><em>nai</em></strong> (ない) means "do not have" or "nothing," so the literal meaning of this idiom is "one does not have eyes."<br/><br/>If you do not have your eyes, the ability to see and judge things will down.<br/><br/>That is to say, <em>me ga nai</em> implies that someone is too fond of something to see/judge anything.<br/><br/>Note that when this is used as <strong><em>miru me ga nai</em></strong> (見る目がない) by adding <strong><em>miru</em></strong> (見る - literally "seeing"), it literally means that someone has no eyes to judge/is blind to things.
 </div></div>
 
 <!-- more -->

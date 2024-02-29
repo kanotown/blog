@@ -8,7 +8,7 @@ comments: true
 slug: "0839_itamae"
 ---
 
-# 【No. 0839】<strong><em>Itamae</strong></em> (Chef)
+# 【No. 0839】<strong><em>Itamae</em></strong> (Chef)
 <div class="date">Apr 5, 2017 08:13</div>
 <div id="post"><div id="body_show_ori">
 Today I would like to talk about the Japanese word "itamae."<br/><br/>"Ita" means "chopping board," "mae" means "in front of," and "itamae" means a person who work in front of a chopping board, that is, a chef (especially a chef of Japanese cuisine).<br/><br/>Since only "ita" can mean a chef, you can refer to the chef as something like "ita-san."<br/>(Here "san" is an honorific suffix.)<br/><br/>Also, there are several different names related to "itamae" depending on the status of the chef.<br/><br/>The top-ranking person in the cooking place, ie the master chef is called "hanaita" ("hana" means "flower") or "itacho" ("cho" means "top").<br/><br/>The second ranking person in the kitchen (sous-chef) is called "tugiita" ("tugi" means "next") or "wakiita" ("waki" means "supporting"). 

@@ -8,7 +8,7 @@ comments: true
 slug: "0537_the-high-tech-onigokko"
 ---
 
-# 【No. 0537】<strong><em>The High Tech Onigokko</strong></em> (Tag)
+# 【No. 0537】<strong><em>The High Tech Onigokko</em></strong> (Tag)
 <div class="date">Jun 7, 2016 17:45</div>
 <div id="post"><div id="body_show_ori">
 Onigokko (which is called the game of tag in English) is very popular children's play in Japan.<br/><br/>One child is decided as oni (which means an ogre), and other children run away so as not to be caught by the oni.<br/><br/>A child who is caught and the oni swap their roles, and onigokko continues.<br/><br/>This is a very simple play, but recently it's changing.<br/><br/>I heard that children run away while exchanging information, such as the current location of oni, using their smartphones.<br/><br/>Also, GPS information or radio wave condition of Wi-Fi is used among some group of children.<br/><br/>I realized that the high-tech age is coming.

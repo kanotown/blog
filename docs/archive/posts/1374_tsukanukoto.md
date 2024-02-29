@@ -8,10 +8,10 @@ comments: true
 slug: "1374_tsukanukoto"
 ---
 
-# 【No. 1374】<strong><em>Tsukanukoto</strong></em> (つかぬこと - By the Way)
+# 【No. 1374】<strong><em>Tsukanukoto</em></strong> (つかぬこと - By the Way)
 <div class="date">Sep 22, 2018 13:50</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tsukanukoto</strong></em><br/><br/>When asking someone for something, especially when it has nothing to do with the topic so far, we say <strong><em>tsukanukoto wo ukagai masuga</em></strong> (つかぬことを伺いますが) or <strong><em>tsukanukoto wo otazune shimasuga</em></strong> (つかぬことをお尋ねしますが).<br/><br/><strong><em>Ukagau</em></strong> (伺う) is a humble form of <strong><em>kiku</em></strong> (聞く - "ask/hear"), <strong><em>tazuneru</em></strong> (尋ねる) is a polite form of kiku, and both of which are used in daily conversation.<br/><br/>On the other hand, <strong><em>tsukanukoto</em></strong> (つかぬこと) is usually used only in the above phrases.<br/><br/><strong><em>Tsuku</em></strong> (つく) means "to attach," <strong><em>nu</em></strong> (ぬ) is a negative suffix, and <strong><em>koto</em></strong> (こと) means "thing."<br/><br/>That is to say, tsukanukoto means that the thing doesn't attach, and it implies that the topic/question doesn't related to the previous one.
+<strong><em>Tsukanukoto</em></strong><br/><br/>When asking someone for something, especially when it has nothing to do with the topic so far, we say <strong><em>tsukanukoto wo ukagai masuga</em></strong> (つかぬことを伺いますが) or <strong><em>tsukanukoto wo otazune shimasuga</em></strong> (つかぬことをお尋ねしますが).<br/><br/><strong><em>Ukagau</em></strong> (伺う) is a humble form of <strong><em>kiku</em></strong> (聞く - "ask/hear"), <strong><em>tazuneru</em></strong> (尋ねる) is a polite form of kiku, and both of which are used in daily conversation.<br/><br/>On the other hand, <strong><em>tsukanukoto</em></strong> (つかぬこと) is usually used only in the above phrases.<br/><br/><strong><em>Tsuku</em></strong> (つく) means "to attach," <strong><em>nu</em></strong> (ぬ) is a negative suffix, and <strong><em>koto</em></strong> (こと) means "thing."<br/><br/>That is to say, tsukanukoto means that the thing doesn't attach, and it implies that the topic/question doesn't related to the previous one.
 </div></div>
 
 <!-- more -->

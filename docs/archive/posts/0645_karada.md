@@ -8,7 +8,7 @@ comments: true
 slug: "0645_karada"
 ---
 
-# 【No. 0645】<strong><em>Karada</strong></em> (Body)
+# 【No. 0645】<strong><em>Karada</em></strong> (Body)
 <div class="date">Sep 23, 2016 23:31</div>
 <div id="post"><div id="body_show_ori">
 Today, I'd like to talk about the Japanese word "karada", which has two different kanji.<br/><br/>The most common kanji of "karada" is "体", but it's also often written as "身体".<br/><br/>Basically, "体" expresses a physical body, while "身体" expresses a body including one's mind.<br/><br/>Therefore, while you can use "体" for any of humans, animals and insects, "身体" is used for only humans.<br/><br/>Also, in daily use kanji chart, the correct reading of "身体" is not "karada", but "shintai".<br/><br/>That is to say, if there is "身体" in a formal document, it should be read as "shintai".

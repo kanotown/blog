@@ -8,7 +8,7 @@ comments: true
 slug: "1282_aibou"
 ---
 
-# 【No. 1282】<strong><em>Aibou</strong></em> (相棒 - Buddy)
+# 【No. 1282】<strong><em>Aibou</em></strong> (相棒 - Buddy)
 <div class="date">Jun 22, 2018 13:12</div>
 <div id="post"><div id="body_show_ori">
 Do you have aibou (相棒)?<br/><br/>Aibo means a partner who works or plays with you.<br/><br/>Ai (相) means ‘each other’ and bou (棒) means ‘stick.’<br/><br/>This word came from kago (駕籠), which was used in the Edo period.<br/><br/>Kago is a kind of human-powered vehicle that can carry a human — the sitting space was hung with a single stick, and two people carried it on their shoulders.<br/><br/>The person who carried the front side of the stick was called sakibou (先棒 - front stick), the person who carried the back side was called atobou (後棒 - back stick), and they called each other aibou (相棒 - each other's stick).

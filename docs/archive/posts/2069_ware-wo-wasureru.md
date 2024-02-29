@@ -8,10 +8,10 @@ comments: true
 slug: "2069_ware-wo-wasureru"
 ---
 
-# 【No. 2069】<strong><em>Ware wo Wasureru</strong></em> (我を忘れる - Losing Control)
+# 【No. 2069】<strong><em>Ware wo Wasureru</em></strong> (我を忘れる - Losing Control)
 <div class="date">Jun 21, 2023 15:34</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Ware wo Wasureru</strong></em><br/><br/>To lose control of oneself by getting excited about something can be expressed with the Japanese idiom <strong><em>ware wo wasureru</em></strong> (我を忘れる).<br/><br/>Since <strong><em>ware</em></strong> (我) means "me/oneself," and <strong><em>wasureru</em></strong> (忘れる) means "to forget," the literal meaning of <em>ware wo wasureru</em> is "to forget oneself."<br/><br/>This idiom implies that you forget even yourself when you get too absorbed in something.<br/><br/>I think that it is good to be enthusiastic about something, but please be careful not to lose control of yourself and cause trouble for those around you.
+<strong><em>Ware wo Wasureru</em></strong><br/><br/>To lose control of oneself by getting excited about something can be expressed with the Japanese idiom <strong><em>ware wo wasureru</em></strong> (我を忘れる).<br/><br/>Since <strong><em>ware</em></strong> (我) means "me/oneself," and <strong><em>wasureru</em></strong> (忘れる) means "to forget," the literal meaning of <em>ware wo wasureru</em> is "to forget oneself."<br/><br/>This idiom implies that you forget even yourself when you get too absorbed in something.<br/><br/>I think that it is good to be enthusiastic about something, but please be careful not to lose control of yourself and cause trouble for those around you.
 </div></div>
 
 <!-- more -->

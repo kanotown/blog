@@ -8,10 +8,10 @@ comments: true
 slug: "1372_te-wo-kiru"
 ---
 
-# 【No. 1372】<strong><em>Te wo Kiru</strong></em> (手を切る - Washing One's Hands of)
+# 【No. 1372】<strong><em>Te wo Kiru</em></strong> (手を切る - Washing One's Hands of)
 <div class="date">Sep 20, 2018 14:55</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Te wo Kiru</strong></em><br/><br/>There is a Japanese expression, <strong><em>te wo kiru</em></strong> (手を切る).<br/><br/>Since <strong><em>te</em></strong> (手) means "hand" and <strong><em>kiru</em></strong> (切る) means "to cut" or "to cut off," the literal meaning of te wo kiru is "to cut one's hand."<br/><br/>Here, te is used as a word meaning a relationship with someone.<br/><br/>Therefore, te wo kiru means to cut off a relationship with someone.<br/><br/>In particular, this expression is often used to cut off a bad, inappropriate, or sexual relationship.<br/><br/>In English, you can probably say "to wash one's hands of ___" to mean te wo kiru.
+<strong><em>Te wo Kiru</em></strong><br/><br/>There is a Japanese expression, <strong><em>te wo kiru</em></strong> (手を切る).<br/><br/>Since <strong><em>te</em></strong> (手) means "hand" and <strong><em>kiru</em></strong> (切る) means "to cut" or "to cut off," the literal meaning of te wo kiru is "to cut one's hand."<br/><br/>Here, te is used as a word meaning a relationship with someone.<br/><br/>Therefore, te wo kiru means to cut off a relationship with someone.<br/><br/>In particular, this expression is often used to cut off a bad, inappropriate, or sexual relationship.<br/><br/>In English, you can probably say "to wash one's hands of ___" to mean te wo kiru.
 </div></div>
 
 <!-- more -->

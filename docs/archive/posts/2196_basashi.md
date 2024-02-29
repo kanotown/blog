@@ -9,10 +9,10 @@ comments: true
 slug: "2196_basashi"
 ---
 
-# 【No. 2196】<strong><em>Basashi</strong></em> (馬刺し - Horse Sashimi)
+# 【No. 2196】<strong><em>Basashi</em></strong> (馬刺し - Horse Sashimi)
 <div class="date">Oct 26, 2023 18:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Basashi</strong></em><br/><br/>A few days ago, I had <strong><em>basashi</em></strong> (馬刺し) in Nagano Prefecture.<br/><br/>Since <strong><em>ba</em></strong> (馬) means "horse," and <strong><em>sashi</em></strong> (刺し) means "sashimi (sliced raw meat)," <em>basashi</em> literally means "horse sashimi."<br/><br/>Have you ever had fresh 'basashi'?<br/><br/><em>Basashi</em> is typically eaten with condiments like ginger and green onions to remove the distinctive smell and dipped in soy sauce, but fresh <em>basashi</em> does not have any bad smell.<br/><br/>In addition, while <em>basashi</em> is low in calories and fat, it is highly nutritious and delicious.<br/><br/>Fresh <em>basashi</em> can only be found in some prefectures such as Kumamoto, Fukushima, and Nagano. If you have a chance, please try to have it.
+<strong><em>Basashi</em></strong><br/><br/>A few days ago, I had <strong><em>basashi</em></strong> (馬刺し) in Nagano Prefecture.<br/><br/>Since <strong><em>ba</em></strong> (馬) means "horse," and <strong><em>sashi</em></strong> (刺し) means "sashimi (sliced raw meat)," <em>basashi</em> literally means "horse sashimi."<br/><br/>Have you ever had fresh 'basashi'?<br/><br/><em>Basashi</em> is typically eaten with condiments like ginger and green onions to remove the distinctive smell and dipped in soy sauce, but fresh <em>basashi</em> does not have any bad smell.<br/><br/>In addition, while <em>basashi</em> is low in calories and fat, it is highly nutritious and delicious.<br/><br/>Fresh <em>basashi</em> can only be found in some prefectures such as Kumamoto, Fukushima, and Nagano. If you have a chance, please try to have it.
 </div></div>
 
 <!-- more -->

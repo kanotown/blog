@@ -8,10 +8,10 @@ comments: true
 slug: "1638_moto-nai"
 ---
 
-# 【No. 1638】<strong><em>Mōtō-nai</strong></em> (毛頭ない - Least of All)
+# 【No. 1638】<strong><em>Mōtō-nai</em></strong> (毛頭ない - Least of All)
 <div class="date">Jun 13, 2019 11:45</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mōtō-nai</strong></em><br/><br/>When denying something strongly, we sometimes say <strong><em>mōtō-nai</em></strong> (毛頭ない) by adding <strong><em>mōtō</em></strong> (毛頭) to the negative term <strong><em>nai</em></strong> (ない).<br/><br/>Since <strong><em>mō</em></strong> (毛) means "hair" and <strong><em>tō</em></strong> (頭) means "head," the literal meaning of <em>mōtō-nai</em> is "there is no tip of a hair."<br/><br/>Here, "tip of a hair" implies a very small or slight thing.<br/><br/>You can also say <strong><em>ke-hodo mo nai</em></strong> (毛ほどもない) instead of <em>mōtō-nai</em> by using the terms <strong><em>ke</em></strong> (毛 - "hair") and <strong><em>hodo</em></strong> (ほど/程 - "degree").
+<strong><em>Mōtō-nai</em></strong><br/><br/>When denying something strongly, we sometimes say <strong><em>mōtō-nai</em></strong> (毛頭ない) by adding <strong><em>mōtō</em></strong> (毛頭) to the negative term <strong><em>nai</em></strong> (ない).<br/><br/>Since <strong><em>mō</em></strong> (毛) means "hair" and <strong><em>tō</em></strong> (頭) means "head," the literal meaning of <em>mōtō-nai</em> is "there is no tip of a hair."<br/><br/>Here, "tip of a hair" implies a very small or slight thing.<br/><br/>You can also say <strong><em>ke-hodo mo nai</em></strong> (毛ほどもない) instead of <em>mōtō-nai</em> by using the terms <strong><em>ke</em></strong> (毛 - "hair") and <strong><em>hodo</em></strong> (ほど/程 - "degree").
 </div></div>
 
 <!-- more -->

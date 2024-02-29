@@ -8,10 +8,10 @@ comments: true
 slug: "1931_tatsu-tori-ato-wo-nigosazu"
 ---
 
-# 【No. 1931】<strong><em>Tatsu Tori Ato wo Nigosazu</strong></em> (立つ鳥跡を濁さず - It Is an Ill Bird that Fouls Its Own Nest)
+# 【No. 1931】<strong><em>Tatsu Tori Ato wo Nigosazu</em></strong> (立つ鳥跡を濁さず - It Is an Ill Bird that Fouls Its Own Nest)
 <div class="date">Aug 9, 2021 13:58</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Tatsu Tori Ato wo Nigosazu</strong></em><br/><br/>Have you ever moved or changed your job?<br/><br/>If so, you probably cleaned up your room or office.<br/> <br/>Of course, it is better and should be so to clean up your surroundings before you leave and move to a new place.<br/><br/>This teaching can be expressed as <strong><em>tatsu tori ato wo nigosazu</em></strong> (立つ鳥跡を濁さず) in Japanese.<br/><br/>Since <strong><em>tatsu</em></strong> (立つ) means "to fly off," <strong><em>tori</em></strong> (鳥) means "bird," <strong><em>ato</em></strong> (跡) means "trace," and <strong><em>nigosazu</em></strong> (濁さず) means "don't muddy," the literal meaning of <em>tatsu tori ato wo nigosazu</em> is "a bird that flies off does not muddy the trace (water surface)."<br/><br/>This saying came from the fact that waterfowls fly off beautifully while keeping the water surface from becoming muddy.
+<strong><em>Tatsu Tori Ato wo Nigosazu</em></strong><br/><br/>Have you ever moved or changed your job?<br/><br/>If so, you probably cleaned up your room or office.<br/> <br/>Of course, it is better and should be so to clean up your surroundings before you leave and move to a new place.<br/><br/>This teaching can be expressed as <strong><em>tatsu tori ato wo nigosazu</em></strong> (立つ鳥跡を濁さず) in Japanese.<br/><br/>Since <strong><em>tatsu</em></strong> (立つ) means "to fly off," <strong><em>tori</em></strong> (鳥) means "bird," <strong><em>ato</em></strong> (跡) means "trace," and <strong><em>nigosazu</em></strong> (濁さず) means "don't muddy," the literal meaning of <em>tatsu tori ato wo nigosazu</em> is "a bird that flies off does not muddy the trace (water surface)."<br/><br/>This saying came from the fact that waterfowls fly off beautifully while keeping the water surface from becoming muddy.
 </div></div>
 
 <!-- more -->

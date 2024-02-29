@@ -8,10 +8,10 @@ comments: true
 slug: "2177_shamisen-wo-hiku"
 ---
 
-# 【No. 2177】<strong><em>Shamisen wo Hiku</strong></em> (三味線を弾く - Making Something Up)
+# 【No. 2177】<strong><em>Shamisen wo Hiku</em></strong> (三味線を弾く - Making Something Up)
 <div class="date">Oct 7, 2023 21:09</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shamisen wo Hiku</strong></em><br/><br/>The Japanese idiom <strong><em>shamisen wo hiku</em></strong> (三味線を弾く) is sometimes used to describe the act of going along with what someone says or making something up.<br/><br/>Since <strong><em>shamisen</em></strong> (三味線) is one of the traditional Japanese stringed instruments, and <strong><em>hiku</em></strong> (弾く) means "to play," the literal meaning of <em>shamisen wo hiku</em> is "to play the shamisen."<br/><br/>The shamisen is known as an instrument that can be played extemporaneously, while matching the tune to various songs ans music.<br/><br/>This property of the shamisen is believed to be connected to the metaphorical meaning of the idiom <em>shamisen wo hiku</em>.
+<strong><em>Shamisen wo Hiku</em></strong><br/><br/>The Japanese idiom <strong><em>shamisen wo hiku</em></strong> (三味線を弾く) is sometimes used to describe the act of going along with what someone says or making something up.<br/><br/>Since <strong><em>shamisen</em></strong> (三味線) is one of the traditional Japanese stringed instruments, and <strong><em>hiku</em></strong> (弾く) means "to play," the literal meaning of <em>shamisen wo hiku</em> is "to play the shamisen."<br/><br/>The shamisen is known as an instrument that can be played extemporaneously, while matching the tune to various songs ans music.<br/><br/>This property of the shamisen is believed to be connected to the metaphorical meaning of the idiom <em>shamisen wo hiku</em>.
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "2078_momo-kuri-san-nen-kaki-hachi-nen"
 ---
 
-# 【No. 2078】<strong><em>Momo Kuri San-nen Kaki Hachi-nen</strong></em> (桃栗三年柿八年 - It often Takes Time to Bear the Fruit of One's Actions)
+# 【No. 2078】<strong><em>Momo Kuri San-nen Kaki Hachi-nen</em></strong> (桃栗三年柿八年 - It often Takes Time to Bear the Fruit of One's Actions)
 <div class="date">Jun 30, 2023 14:49</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Momo Kuri San-nen Kaki Hachi-nen</strong></em><br/><br/>Achieving goals often takes a reasonable number of years.<br/><br/>The Japanese proverb, <strong><em>momo kuri san-nen kaki hachi-nen</em></strong> (桃栗三年柿八年), expresses such a fact.<br/><br/>Since <strong><em>momo</em></strong> (桃) means "peach," <strong><em>kuri</em></strong> (栗) means "chestnut," <strong><em>san-nen</em></strong> (三年) means "three years," 'kaki" (柿) means "persimmon," and <strong><em>hachi-nen</em></strong> (八年) means "eight years," the literal meaning of this proverb is "peaches and chestnuts need three years, and persimmon needs eight years."<br/><br/>Just like it takes three years to harvest peaches/chestnuts and eight years to harvest persimmons after sowing the seeds, everything takes a reasonable number of years to achieve results.<br/><br/>Please consider using this proverb if you find someone in a hurry because of a lack of results.
+<strong><em>Momo Kuri San-nen Kaki Hachi-nen</em></strong><br/><br/>Achieving goals often takes a reasonable number of years.<br/><br/>The Japanese proverb, <strong><em>momo kuri san-nen kaki hachi-nen</em></strong> (桃栗三年柿八年), expresses such a fact.<br/><br/>Since <strong><em>momo</em></strong> (桃) means "peach," <strong><em>kuri</em></strong> (栗) means "chestnut," <strong><em>san-nen</em></strong> (三年) means "three years," 'kaki" (柿) means "persimmon," and <strong><em>hachi-nen</em></strong> (八年) means "eight years," the literal meaning of this proverb is "peaches and chestnuts need three years, and persimmon needs eight years."<br/><br/>Just like it takes three years to harvest peaches/chestnuts and eight years to harvest persimmons after sowing the seeds, everything takes a reasonable number of years to achieve results.<br/><br/>Please consider using this proverb if you find someone in a hurry because of a lack of results.
 </div></div>
 
 <!-- more -->

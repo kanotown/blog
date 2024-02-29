@@ -8,7 +8,7 @@ comments: true
 slug: "1134_kusawake"
 ---
 
-# 【No. 1134】<strong><em>Kusawake</strong></em> (草分け - Pioneer)
+# 【No. 1134】<strong><em>Kusawake</em></strong> (草分け - Pioneer)
 <div class="date">Jan 25, 2018 16:17</div>
 <div id="post"><div id="body_show_ori">
 A person who did something for the first time is called 創始者 (soushisha).<br/><br/>創 (sou) means "creation," 始 (shi) means "first," and 者 (sha) means "person," so I don't think that it's necessary to explain the etymology of this term.<br/><br/>On the other hand, there is another term, 草分け (kusawake), which has the similar meaning of "soushisya."<br/><br/>草 (kusa) means "grass" and 分け (wake) means "to mow," so the literal meaning of 草分け (kusawake) is "to mow grass."<br/><br/>nOriginally, this term meant to develop a foundation of a village or town by opening a grassy land.<br/><br/>Deriving from it, this term has come to mean development of a new field, or a pioneer.

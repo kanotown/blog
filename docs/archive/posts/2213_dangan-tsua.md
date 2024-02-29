@@ -9,10 +9,10 @@ comments: true
 slug: "2213_dangan-tsua"
 ---
 
-# 【No. 2213】<strong><em>Dangan Tsuā</strong></em> (弾丸ツアー - Whirlwind Tour)
+# 【No. 2213】<strong><em>Dangan Tsuā</em></strong> (弾丸ツアー - Whirlwind Tour)
 <div class="date">Nov 12, 2023 20:56</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Dangan Tsuā</strong></em><br/><br/>Today, I embarked on a <strong><em>dangan tsuā</em></strong> (弾丸ツアー) to visit four Doragon Quest Walk souvenir spots in Kagawa in a short time.<br/><br/>Since <strong><em>dangan</em></strong> (弾丸) means "bullet," and <strong><em>tsuā</em></strong> (ツアー) means "tour," the literal meaning of <em>dangan tsuā</em> is "bullet tour."<br/><br/>Here, a bullet is a metaphor for sightseeing in a very short period at a very rapid speed.<br/><br/>Such trips are quite popular in Japan due to the well-developed transportation system.<br/><br/>However, sometimes I wish I had enough time to enjoy the sight at a slower space.
+<strong><em>Dangan Tsuā</em></strong><br/><br/>Today, I embarked on a <strong><em>dangan tsuā</em></strong> (弾丸ツアー) to visit four Doragon Quest Walk souvenir spots in Kagawa in a short time.<br/><br/>Since <strong><em>dangan</em></strong> (弾丸) means "bullet," and <strong><em>tsuā</em></strong> (ツアー) means "tour," the literal meaning of <em>dangan tsuā</em> is "bullet tour."<br/><br/>Here, a bullet is a metaphor for sightseeing in a very short period at a very rapid speed.<br/><br/>Such trips are quite popular in Japan due to the well-developed transportation system.<br/><br/>However, sometimes I wish I had enough time to enjoy the sight at a slower space.
 </div></div>
 
 <!-- more -->

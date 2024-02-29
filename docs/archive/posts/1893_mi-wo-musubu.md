@@ -8,10 +8,10 @@ comments: true
 slug: "1893_mi-wo-musubu"
 ---
 
-# 【No. 1893】<strong><em>Mi wo Musubu</strong></em> (実を結ぶ - "Bearing Fruit")
+# 【No. 1893】<strong><em>Mi wo Musubu</em></strong> (実を結ぶ - "Bearing Fruit")
 <div class="date">Jul 2, 2021 15:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Mi wo Musubu</strong></em><br/><br/>When efforts lead to good results, it can be expressed as <strong><em>mi wo musubu</em></strong> (実を結ぶ) in Japanese.<br/><br/>Since <strong><em>mi</em></strong> (実) means "fruit," and <strong><em>musubu</em></strong> (結ぶ) usually means "to tie," but here it means "to bear."<br/><br/>That is to say, the literal meaning of <em>mi wo musubu</em> is "to bear fruit."<br/><br/>If you grow a plant, and it bears a fruit, that is definitely a good result.<br/><br/>Because of this, <em>mi wo musubu</em> came to have the above meaning.<br/><br/>Of course, it can also be used to mean its literal meaning.<br/><br/>Interestingly, the English idiom "bear fruit" means "yield positive results" too.
+<strong><em>Mi wo Musubu</em></strong><br/><br/>When efforts lead to good results, it can be expressed as <strong><em>mi wo musubu</em></strong> (実を結ぶ) in Japanese.<br/><br/>Since <strong><em>mi</em></strong> (実) means "fruit," and <strong><em>musubu</em></strong> (結ぶ) usually means "to tie," but here it means "to bear."<br/><br/>That is to say, the literal meaning of <em>mi wo musubu</em> is "to bear fruit."<br/><br/>If you grow a plant, and it bears a fruit, that is definitely a good result.<br/><br/>Because of this, <em>mi wo musubu</em> came to have the above meaning.<br/><br/>Of course, it can also be used to mean its literal meaning.<br/><br/>Interestingly, the English idiom "bear fruit" means "yield positive results" too.
 </div></div>
 
 <!-- more -->

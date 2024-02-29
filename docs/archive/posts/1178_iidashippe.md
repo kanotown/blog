@@ -8,7 +8,7 @@ comments: true
 slug: "1178_iidashippe"
 ---
 
-# 【No. 1178】<strong><em>IIdashippe</strong></em> (言い出しっぺ - The First One to Say Something)
+# 【No. 1178】<strong><em>IIdashippe</em></strong> (言い出しっぺ - The First One to Say Something)
 <div class="date">Mar 10, 2018 15:56</div>
 <div id="post"><div id="body_show_ori">
 A person who says something firstly is called 言い出しっぺ (iidashippe) in Japanese.<br/><br/>言い出し (iidashi) means "to start saying something" or "to bring something up," and ペ (pe) means "fart." <br/><br/>This term comes from the rule of thumb that a person who says "it stinks" firstly must be the one who farted. <br/><br/>Because of this, "iidashippe" is often used when someone insists that a person who brought something up firstly should take on the responsibility.<br/><br/>This thought is sometimes referred to as 言い出しっぺの法則 (iidashippe no housoku - the rule of iidashippe).

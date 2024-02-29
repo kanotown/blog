@@ -8,10 +8,10 @@ comments: true
 slug: "1564_shissho"
 ---
 
-# 【No. 1564】<strong><em>Shisshō</strong></em> (失笑 - Bursting into Laughter)
+# 【No. 1564】<strong><em>Shisshō</em></strong> (失笑 - Bursting into Laughter)
 <div class="date">Mar 31, 2019 22:19</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Shisshō</strong></em><br/><br/>Have you ever burst into laughter because something was so funny?<br/><br/>Such a laugh is referred to as <strong><em>shisshō</em></strong> (失笑) in Japanese.<br/><br/><strong><em>Shi/shitsu</em></strong> (失) usually means "lose," but here it means "mistake" or "wrong."<br/><br/>In addition, <strong><em>shō</em></strong> (笑) means "laugh," so the literal meaning of <em>shisshō</em> means "a wrong laugh."<br/><br/>However, since <strong><em>shitsu</em></strong> (失) is familiar in the meaning of "lose," many Japanese people believe that <em>shisshō</em> means "a bitter laugh."<br/><br/>According to a survey by the Agency for Cultural Affairs, more than 60% of Japanese people use this word incorrectly.
+<strong><em>Shisshō</em></strong><br/><br/>Have you ever burst into laughter because something was so funny?<br/><br/>Such a laugh is referred to as <strong><em>shisshō</em></strong> (失笑) in Japanese.<br/><br/><strong><em>Shi/shitsu</em></strong> (失) usually means "lose," but here it means "mistake" or "wrong."<br/><br/>In addition, <strong><em>shō</em></strong> (笑) means "laugh," so the literal meaning of <em>shisshō</em> means "a wrong laugh."<br/><br/>However, since <strong><em>shitsu</em></strong> (失) is familiar in the meaning of "lose," many Japanese people believe that <em>shisshō</em> means "a bitter laugh."<br/><br/>According to a survey by the Agency for Cultural Affairs, more than 60% of Japanese people use this word incorrectly.
 </div></div>
 
 <!-- more -->

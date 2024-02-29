@@ -8,7 +8,7 @@ comments: true
 slug: "0609_tsukuru"
 ---
 
-# 【No. 0609】<strong><em>Tsukuru</strong></em> (Make/Build/Create)
+# 【No. 0609】<strong><em>Tsukuru</em></strong> (Make/Build/Create)
 <div class="date">Aug 18, 2016 16:14</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Kanji of "tsukuru," which mainly means "make."<br/><br/>"Tsukuru" has three different kanji, "作る," "造る" and "創る." <br/><br/>①作る<br/>"作る" is the most common writing, and is used for relatively small, intangible, or abstract things.<br/>For example: "朝食を作る" (make a breakfast) / "時間を作る" (make time)<br/><br/>②造る<br/>"造る" is used for relatively big and tangible things.<br/>For example: "高いビルを造る" (make/build a tall building) / "ビールを造る" (make/produce beer)<br/><br/>Note that if you use "造る" for beer, sake, or miso, it means a large scale production. If you make them at home, you should use "作る."<br/><br/>③創る<br/>"創る" is used for new things or works of art.<br/>For example: "新しい制度を創る" (make/create a new system) / "独創的な彫刻作品を創る" (make/create a unique sculpture)<br/><br/>④つくる<br/>If it's intangible and it's difficult to choose one of above kanji, you can use "tsukuru" in Hiragana.<br/>For example: "良好な関係をつくる" (make/establish a friendly relationship) / "町づくり" (urban development)

@@ -8,7 +8,7 @@ comments: true
 slug: "1080_manbiki"
 ---
 
-# 【No. 1080】<strong><em>Manbiki</strong></em> (万引き - Shoplifting)
+# 【No. 1080】<strong><em>Manbiki</em></strong> (万引き - Shoplifting)
 <div class="date">Dec 2, 2017 19:14</div>
 <div id="post"><div id="body_show_ori">
 Never do an act called "manbiki" (万引き).<br/><br/>"Manbiki" means to take items of a store away without payment and permission -- it's called "shoplifting" in English.<br/><br/>The most accepted theory about the etymology of "manbiki" is that it was changed from "mabiki" (間引き).<br/><br/>The "ma" (間) means "between something," the "biki/hiki" (引き) means "to pull out," and "mabiki" usually means "thinning" in agricultural science.<br/><br/>It's thought that since removing items from a shelf is similar to thinning, "mabiki" came to mean "shoplifting," then it changed to "manbiki." 

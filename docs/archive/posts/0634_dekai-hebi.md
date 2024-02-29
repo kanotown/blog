@@ -8,7 +8,7 @@ comments: true
 slug: "0634_dekai-hebi"
 ---
 
-# 【No. 0634】<strong><em>Dekai Hebi</strong></em> (Dekay's Snake)
+# 【No. 0634】<strong><em>Dekai Hebi</em></strong> (Dekay's Snake)
 <div class="date">Sep 12, 2016 00:34</div>
 <div id="post"><div id="body_show_ori">
  Since I found an interesting animal on the Internet today, I will share it.<br/><br/>It is the snake named "Storeria dekayi", which is also called "Dekai hebi" ("hebi" means "snakes") in Japan.<br/><br/>This snake is widely distributed in North America, and the population is stable: there is completely no worry about the extinction.<br/><br/>The name, "Storeria" comes from an American physician and naturalist "David Humphreys Storer", and "dekayi" comes from an American zoologist "James Ellsworth De Kay."<br/><br/>Here, what's interesting about the name is that "dekai" is a casual expression that means "big" in Japan.<br/><br/>I think that if Japanese people hear the word "Dekai hebi", most of them will image "a big snake", but they will be confused later because the snake is actually very small.

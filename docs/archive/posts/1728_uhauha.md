@@ -8,10 +8,10 @@ comments: true
 slug: "1728_uhauha"
 ---
 
-# 【No. 1728】<strong><em>Uhauha</strong></em> (うはうは - Exhilarated)
+# 【No. 1728】<strong><em>Uhauha</em></strong> (うはうは - Exhilarated)
 <div class="date">Sep 10, 2019 13:24</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Uhauha</strong></em><br/><br/>When describing that someone is so happy and so excited, you can use the Japanese onomatopoeia <strong><em>uhauha</em></strong> (うはうは).<br/><br/>This term became popular because of a TV commercial of curry broadcast in 1970.<br/><br/>In the TV commercial, a man said <strong><em>nyōbō mo uhauha yorokobu yo</em></strong> (女房もウハウハ喜ぶよ), the literal meaning of this line is "my wife will also be happy with a feeling of <em>uhauha</em>."<br/><br/>In other words, this commercial wanted to say that the product would make wives happy because curry is inexpensive, delicious, and easy to make.
+<strong><em>Uhauha</em></strong><br/><br/>When describing that someone is so happy and so excited, you can use the Japanese onomatopoeia <strong><em>uhauha</em></strong> (うはうは).<br/><br/>This term became popular because of a TV commercial of curry broadcast in 1970.<br/><br/>In the TV commercial, a man said <strong><em>nyōbō mo uhauha yorokobu yo</em></strong> (女房もウハウハ喜ぶよ), the literal meaning of this line is "my wife will also be happy with a feeling of <em>uhauha</em>."<br/><br/>In other words, this commercial wanted to say that the product would make wives happy because curry is inexpensive, delicious, and easy to make.
 </div></div>
 
 <!-- more -->

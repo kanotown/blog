@@ -8,7 +8,7 @@ comments: true
 slug: "1177_gota-gota"
 ---
 
-# 【No. 1177】<strong><em>Gota Gota</strong></em> (ごたごた - Jumbling)
+# 【No. 1177】<strong><em>Gota Gota</em></strong> (ごたごた - Jumbling)
 <div class="date">Mar 9, 2018 05:01</div>
 <div id="post"><div id="body_show_ori">
 A situation where something jumbles disorderly or a bothersome thing is referred to as ごたごた (gota gota) in Japanese.<br/><br/>I think that most Japanese people believe that "gota gota" is an onomatopoeia representing that things are jumbled.<br/><br/>However, this term comes from 兀庵普寧 (Gottan Funei), Zen Monk,  who was invited from 宋 (Sou ie Song) in the Kamakura Period.<br/><br/>Gottan had a free-minded thinking but was an argumentative person, so it seemed that his preaching was complicated and very difficult to understand.<br/><br/>Because of this, jumbling was called 兀庵兀庵する (Gottan Gottan suru), and it has come to become "gota gota."

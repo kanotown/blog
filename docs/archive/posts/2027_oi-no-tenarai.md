@@ -8,10 +8,10 @@ comments: true
 slug: "2027_oi-no-tenarai"
 ---
 
-# 【No. 2027】<strong><em>Oi no Tenarai</strong></em> (老いの手習い - It's Never Too Late to Learn)
+# 【No. 2027】<strong><em>Oi no Tenarai</em></strong> (老いの手習い - It's Never Too Late to Learn)
 <div class="date">May 10, 2023 22:42</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Oi no Tenarai</strong></em><br/><br/>Trying new things is very important no matter how old you get.<br/><br/>The proverb, <strong><em>oi no tenarai</em></strong> (老いの手習い), can describe such a situation.<br/><br/>Since <strong><em>oi</em></strong> (老い) means "old," and <strong><em>tenarai</em></strong> (手習い) means "learning a skill," <em>oi no tenarai</em> literally means "older people learn a skill."<br/><br/>It is also possible to say <strong><em>rokujū no tenarai</em></strong> (六十の手習い), using <strong><em>rokujū</em></strong> (六十 - meaning "sixty years old)".<br/><br/>In recent years, with the aging of the population, it is also sometimes said as <strong><em>hachijū no tenarai</em></strong> (八十の手習い), using <strong><em>hatijū</em></strong> (八十 - meaning "eighty years old").<br/><br/>In the future, using <strong><em>hyaku</em></strong> (百 - meaning "one hundred years old"), <strong><em>hyaku no tenarai</em></strong> (百の手習い) may also come to be used.
+<strong><em>Oi no Tenarai</em></strong><br/><br/>Trying new things is very important no matter how old you get.<br/><br/>The proverb, <strong><em>oi no tenarai</em></strong> (老いの手習い), can describe such a situation.<br/><br/>Since <strong><em>oi</em></strong> (老い) means "old," and <strong><em>tenarai</em></strong> (手習い) means "learning a skill," <em>oi no tenarai</em> literally means "older people learn a skill."<br/><br/>It is also possible to say <strong><em>rokujū no tenarai</em></strong> (六十の手習い), using <strong><em>rokujū</em></strong> (六十 - meaning "sixty years old)".<br/><br/>In recent years, with the aging of the population, it is also sometimes said as <strong><em>hachijū no tenarai</em></strong> (八十の手習い), using <strong><em>hatijū</em></strong> (八十 - meaning "eighty years old").<br/><br/>In the future, using <strong><em>hyaku</em></strong> (百 - meaning "one hundred years old"), <strong><em>hyaku no tenarai</em></strong> (百の手習い) may also come to be used.
 </div></div>
 
 <!-- more -->

@@ -8,7 +8,7 @@ comments: true
 slug: "0663_toudai-moto-kurashi"
 ---
 
-# 【No. 0663】<strong><em>Toudai moto Kurashi</strong></em> (Under the Toudai is Dark)
+# 【No. 0663】<strong><em>Toudai moto Kurashi</em></strong> (Under the Toudai is Dark)
 <div class="date">Oct 11, 2016 00:07</div>
 <div id="post"><div id="body_show_ori">
 Today, I will talk about the Japanese proverb "toudai moto kurashi."<br/><br/>The literal meaning is "under the toudai is dark," and it expresses "<br/>it's difficult to take account of the closest things."<br/><br/>"Toudai", which is also called "toushokudai", means a stand for placing a plate of oil, and is used for brightening the room by setting fire.<br/><br/>Although the toudai can brighten the surroundings of itself,  under the stand becomes shaded and very dark.<br/><br/>From this fact, "toudai moto kurashi" came to mean "it's difficult to take account of the closest things or things about yourself."<br/><br/>By the way, there is another proverb that has the similar meaning: "Chikakute mienu wa matsuge," the literal meaning of which is "What you can't see because of the closeness is your eyelash."

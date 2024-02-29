@@ -8,7 +8,7 @@ comments: true
 slug: "1261_hiniku"
 ---
 
-# 【No. 1261】<strong><em>Hiniku</strong></em> (皮肉 - Sarcasm/Irony)
+# 【No. 1261】<strong><em>Hiniku</em></strong> (皮肉 - Sarcasm/Irony)
 <div class="date">Jun 1, 2018 21:54</div>
 <div id="post"><div id="body_show_ori">
 I heard that English has many sarcasm and irony.<br/><br/>Sarcasm and irony are called hiniku (皮肉) in Japanese.<br/><br/>Hi (皮) means "skin" and niku (肉) means "flesh," so the literal meaning of hiniku is "skin and flesh."<br/><br/>This word came from the Buddhist term hiniku-kotsuzui (皮肉骨髄), which was used by Daruma Daishi (the founder of a Buddhist sect) to evaluate his desciples.<br/><br/>Kotsu (骨 - bone) and zui (髄 - marrow) imply "essential understanding," whereas hi (皮 - skin) and niku (肉 - flesh) imply "surface understanding."<br/><br/>Since hi and niku was a critical evaluation, hiniku came to have its current meaning.

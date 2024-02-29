@@ -8,10 +8,10 @@ comments: true
 slug: "1562_nagori"
 ---
 
-# 【No. 1562】<strong><em>Nagori</strong></em> (なごり - Remnant)
+# 【No. 1562】<strong><em>Nagori</em></strong> (なごり - Remnant)
 <div class="date">Mar 29, 2019 06:55</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Nagori</strong></em><br/><br/>Today is the last working day at my university.<br/><br/>Now I am feeling <strong><em>nagori</em></strong> (なごり) to this university where I have been working for three years.<br/><br/><em>Nagori</em> means feelings, odors or atomosphere that is left/remains after things pass by.<br/><br/>It is thought that this term was made by shortening <strong><em>naminokori</em></strong> (波残り).  (Note that this word is no longer used.)<br/><br/>Since <strong><em>nami</em></strong> (波) means "(sea) wave" and <strong><em>nokori</em></strong> (残り) means "remnant," "leftover" or "residual."<br/><br/>That is to say, <em>naminokori</em> means various things that remain after waves break on a shore.
+<strong><em>Nagori</em></strong><br/><br/>Today is the last working day at my university.<br/><br/>Now I am feeling <strong><em>nagori</em></strong> (なごり) to this university where I have been working for three years.<br/><br/><em>Nagori</em> means feelings, odors or atomosphere that is left/remains after things pass by.<br/><br/>It is thought that this term was made by shortening <strong><em>naminokori</em></strong> (波残り).  (Note that this word is no longer used.)<br/><br/>Since <strong><em>nami</em></strong> (波) means "(sea) wave" and <strong><em>nokori</em></strong> (残り) means "remnant," "leftover" or "residual."<br/><br/>That is to say, <em>naminokori</em> means various things that remain after waves break on a shore.
 </div></div>
 
 <!-- more -->

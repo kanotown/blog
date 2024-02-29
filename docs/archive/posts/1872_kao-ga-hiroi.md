@@ -8,10 +8,10 @@ comments: true
 slug: "1872_kao-ga-hiroi"
 ---
 
-# 【No. 1872】<strong><em>Kao ga Hiroi</strong></em> (顔が広い - Knowing Many People)
+# 【No. 1872】<strong><em>Kao ga Hiroi</em></strong> (顔が広い - Knowing Many People)
 <div class="date">Jun 11, 2021 08:05</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kao ga Hiroi</strong></em><br/><br/>A person who has a large circle of acquaintances and knows people can be described as <strong><em>kao ga hiroi</em></strong> (顔が広い) in Japanese.<br/><br/>Since <strong><em>kao</em></strong> (顔) means "face" and <strong><em>hiroi</em></strong> (広い) means "broad," the literal meaning of <em>kao ga hiroi</em> is "one's face is broad."<br/><br/>Here, <strong><em>kao</em></strong> (meaning "face") is used in the sense of "name recognition."<br/><br/>The synonym for <strong><em>hiroi</em></strong> (meaning "broad") is <strong><em>semai</em></strong> (狭い) (meaning "narrow"), but note that <strong><em>kao ga semai</em></strong> (顔が狭い) does not describe a person who has few acquaintances.
+<strong><em>Kao ga Hiroi</em></strong><br/><br/>A person who has a large circle of acquaintances and knows people can be described as <strong><em>kao ga hiroi</em></strong> (顔が広い) in Japanese.<br/><br/>Since <strong><em>kao</em></strong> (顔) means "face" and <strong><em>hiroi</em></strong> (広い) means "broad," the literal meaning of <em>kao ga hiroi</em> is "one's face is broad."<br/><br/>Here, <strong><em>kao</em></strong> (meaning "face") is used in the sense of "name recognition."<br/><br/>The synonym for <strong><em>hiroi</em></strong> (meaning "broad") is <strong><em>semai</em></strong> (狭い) (meaning "narrow"), but note that <strong><em>kao ga semai</em></strong> (顔が狭い) does not describe a person who has few acquaintances.
 </div></div>
 
 <!-- more -->

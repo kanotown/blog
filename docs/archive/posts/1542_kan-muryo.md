@@ -8,10 +8,10 @@ comments: true
 slug: "1542_kan-muryo"
 ---
 
-# 【No. 1542】<strong><em>Kan-muryō</strong></em> (感無量 - Deep Emotion)
+# 【No. 1542】<strong><em>Kan-muryō</em></strong> (感無量 - Deep Emotion)
 <div class="date">Mar 9, 2019 15:43</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Kan-muryō</strong></em><br/><br/>Yesterday, I introduced you to the phrase <strong><em>mune ga ippai ni naru</em></strong> (胸が一杯になる), which means that one's heart is filled.<br/><br/>The word <strong><em>kan-muryō</em></strong> (感無量) has a similar meaning to this phrase.<br/><br/><em>Kan-muryō</em> is short for <strong><em>kangai muryō</em></strong> (感慨無量), and it can be divided into two parts: <strong><em>kangai</em></strong> (感慨) and <strong><em>muryō</em></strong> (無量).<br/><br/><strong><em>Kan</em></strong> (感) means "feeling," <strong><em>gai</em></strong> (慨) means "emotion" and <em>kangai</em> means "deep emotion."<br/><br/>In addition, <strong><em>mu</em></strong> (無) means "nothing," <strong><em>ryō</em></strong> (量) means "quantity," and <em>muryō</em> means "innumerable."<br/><br/>That is to say, the literal meaning of <em>kan-muryō</em> and <em>kangai muryō</em> is one's innumerable deep emotion.
+<strong><em>Kan-muryō</em></strong><br/><br/>Yesterday, I introduced you to the phrase <strong><em>mune ga ippai ni naru</em></strong> (胸が一杯になる), which means that one's heart is filled.<br/><br/>The word <strong><em>kan-muryō</em></strong> (感無量) has a similar meaning to this phrase.<br/><br/><em>Kan-muryō</em> is short for <strong><em>kangai muryō</em></strong> (感慨無量), and it can be divided into two parts: <strong><em>kangai</em></strong> (感慨) and <strong><em>muryō</em></strong> (無量).<br/><br/><strong><em>Kan</em></strong> (感) means "feeling," <strong><em>gai</em></strong> (慨) means "emotion" and <em>kangai</em> means "deep emotion."<br/><br/>In addition, <strong><em>mu</em></strong> (無) means "nothing," <strong><em>ryō</em></strong> (量) means "quantity," and <em>muryō</em> means "innumerable."<br/><br/>That is to say, the literal meaning of <em>kan-muryō</em> and <em>kangai muryō</em> is one's innumerable deep emotion.
 </div></div>
 
 <!-- more -->

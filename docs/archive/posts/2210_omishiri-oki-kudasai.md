@@ -8,10 +8,10 @@ comments: true
 slug: "2210_omishiri-oki-kudasai"
 ---
 
-# 【No. 2210】<strong><em>Omishiri Oki Kudasai</strong></em> (お見知り置きください - Pleased to Make Your Acquaintance)
+# 【No. 2210】<strong><em>Omishiri Oki Kudasai</em></strong> (お見知り置きください - Pleased to Make Your Acquaintance)
 <div class="date">Nov 9, 2023 21:31</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Omishiri Oki Kudasai</strong></em><br/><br/>When you meet someone for the first time and want them to remember you (or someone you have introduced), you can use the phrase <strong><em>omishiri oki kudasai</em></strong> (お見知り置きください).<br/><br/><strong><em>O</em></strong> (お) is a polite prefix, <strong><em>mishiri</em></strong> (見知り) means "acquaintance," <strong><em>oki</em></strong> (置き) means "keep," and <strong><em>kudasai</em></strong> (ください) means "please." Therefore, the literal meaning of <em>omishiri oki kudasai</em> is "please keep me as your acquaintance."<br/><br/>This phrase is used in formal situations to convey respect to higher-ranking persons.<br/><br/>However, it may give an excessively formal impression.<br/><br/>If you want to express a softer impression and your desire to build a closer relationship, it will be better to use the more generic phrase, <strong><em>yoroshiku onegai shimasu</em></strong> (よろしくお願いします - meaning "I look forward to working with you").
+<strong><em>Omishiri Oki Kudasai</em></strong><br/><br/>When you meet someone for the first time and want them to remember you (or someone you have introduced), you can use the phrase <strong><em>omishiri oki kudasai</em></strong> (お見知り置きください).<br/><br/><strong><em>O</em></strong> (お) is a polite prefix, <strong><em>mishiri</em></strong> (見知り) means "acquaintance," <strong><em>oki</em></strong> (置き) means "keep," and <strong><em>kudasai</em></strong> (ください) means "please." Therefore, the literal meaning of <em>omishiri oki kudasai</em> is "please keep me as your acquaintance."<br/><br/>This phrase is used in formal situations to convey respect to higher-ranking persons.<br/><br/>However, it may give an excessively formal impression.<br/><br/>If you want to express a softer impression and your desire to build a closer relationship, it will be better to use the more generic phrase, <strong><em>yoroshiku onegai shimasu</em></strong> (よろしくお願いします - meaning "I look forward to working with you").
 </div></div>
 
 <!-- more -->

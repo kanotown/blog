@@ -8,7 +8,7 @@ comments: true
 slug: "1015_yajiuma"
 ---
 
-# 【No. 1015】<strong><em>Yajiuma</strong></em> (野次馬 - Rubberneck)
+# 【No. 1015】<strong><em>Yajiuma</em></strong> (野次馬 - Rubberneck)
 <div class="date">Sep 28, 2017 17:55</div>
 <div id="post"><div id="body_show_ori">
 When a fire or an accident occurs, many "yajiuma" (野次馬) will gather.<br/><br/>"Yajiuma" means people show interest in a incident unrelated to themselves and make a big deal about it.<br/><br/>It is said that "yajiuma" comes from "oyajiuma" (親父馬), here "oyaji" (親父) means "farther" and "uma" (馬) means "horse."<br/><br/>Because of this, "yajiuma" originally meant an old horse or an unmanageable horse.<br/><br/>Also, since such a horse is useless, "yajiuma" has come to mean people who are useless -- they just watch or make a big deal about an incident unrelated to themselves.

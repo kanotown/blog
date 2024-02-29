@@ -8,7 +8,7 @@ comments: true
 slug: "0771_abura-ga-noru"
 ---
 
-# 【No. 0771】<strong><em>Abura ga Noru</strong></em> (Putting on Fat)
+# 【No. 0771】<strong><em>Abura ga Noru</em></strong> (Putting on Fat)
 <div class="date">Jan 27, 2017 11:01</div>
 <div id="post"><div id="body_show_ori">
 Today I will talk about the Japanese idiom "abura ga noru."<br/><br/>The literal meaning is "to put on fat," and it means that someone gets into the full swing of his/her work, or someone is in the prime as a man/woman.<br/><br/>Usage example: Recently his work has put on fat (he has gotten into the full swing of his work). It is said that men put on fat (men are in the prime of manhood) at around age 35.<br/><br/>Originally, this idiom has been used for fish or birds.<br/><br/>The amount of fat included in fish and birds increases depending on the season, then the taste improves.<br/><br/>From this fact, "abura ga noru" (to put on fat) came to mean that something/someone gets better.

@@ -8,10 +8,10 @@ comments: true
 slug: "1460_umi-no-mokuzu"
 ---
 
-# 【No. 1460】<strong><em>Umi no Mokuzu</strong></em> (海の藻屑 - Being Drowned at Sea)
+# 【No. 1460】<strong><em>Umi no Mokuzu</em></strong> (海の藻屑 - Being Drowned at Sea)
 <div class="date">Dec 17, 2018 18:26</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Umi no Mokuzu</strong></em><br/><br/>To die due to a marine accident is called <strong><em>umi no mokuzu ni naru</em></strong> (海の藻屑になる) in Japanese.<br/><br/><strong><em>Umi</em></strong> (海) means "sea," <strong><em>mo</em></strong> (藻) means "alga," <strong><em>kuzu</em></strong> (屑) means "scrap," and <strong><em>naru</em></strong> (なる) means "to become."<br/><br/>That is to say, the literal meaning of this phrase is "to become scrap algae at sea."<br/><br/>Incidentally, there is another Japanese term <strong><em>mozuku</em></strong> (モズク), which means "nemacystus decipiens."<br/><br/>Since <em>mozuku</em> is a kind of seaweeds and its sound is similar to <em>mokuzu</em>, some people say <em>umi no mozuku to naru</em> by mistake.
+<strong><em>Umi no Mokuzu</em></strong><br/><br/>To die due to a marine accident is called <strong><em>umi no mokuzu ni naru</em></strong> (海の藻屑になる) in Japanese.<br/><br/><strong><em>Umi</em></strong> (海) means "sea," <strong><em>mo</em></strong> (藻) means "alga," <strong><em>kuzu</em></strong> (屑) means "scrap," and <strong><em>naru</em></strong> (なる) means "to become."<br/><br/>That is to say, the literal meaning of this phrase is "to become scrap algae at sea."<br/><br/>Incidentally, there is another Japanese term <strong><em>mozuku</em></strong> (モズク), which means "nemacystus decipiens."<br/><br/>Since <em>mozuku</em> is a kind of seaweeds and its sound is similar to <em>mokuzu</em>, some people say <em>umi no mozuku to naru</em> by mistake.
 </div></div>
 
 <!-- more -->

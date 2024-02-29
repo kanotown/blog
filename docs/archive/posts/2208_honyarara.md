@@ -8,10 +8,10 @@ comments: true
 slug: "2208_honyarara"
 ---
 
-# 【No. 2208】<strong><em>Honyarara</strong></em> (ほにゃらら - Blah Blah Blah)
+# 【No. 2208】<strong><em>Honyarara</em></strong> (ほにゃらら - Blah Blah Blah)
 <div class="date">Nov 7, 2023 21:16</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Honyarara</strong></em><br/><br/>The expression <strong><em>honyarara</em></strong> (ほにゃらら) can be used when you want to obscure words, read concerned text, or refer to unspecified things.<br/><br/>It is said that this expression has become popular from a Japanese quiz show about 40 years ago. In the quiz show, a host said <em>honyarara</em> to obscure the correct word of a quiz.<br/><br/>Originally, it appears the host frequently used words like <strong><em>honya</em></strong> (ほにゃ) or <strong><em>henara</em></strong> (へなら) on his radio program to blur words, and a journalist adopted them into <em>honyarara</em> in an article, which led to its use on the quiz show.<br/><br/>It can be translated into English as "blah blah blah" or "yada yada."
+<strong><em>Honyarara</em></strong><br/><br/>The expression <strong><em>honyarara</em></strong> (ほにゃらら) can be used when you want to obscure words, read concerned text, or refer to unspecified things.<br/><br/>It is said that this expression has become popular from a Japanese quiz show about 40 years ago. In the quiz show, a host said <em>honyarara</em> to obscure the correct word of a quiz.<br/><br/>Originally, it appears the host frequently used words like <strong><em>honya</em></strong> (ほにゃ) or <strong><em>henara</em></strong> (へなら) on his radio program to blur words, and a journalist adopted them into <em>honyarara</em> in an article, which led to its use on the quiz show.<br/><br/>It can be translated into English as "blah blah blah" or "yada yada."
 </div></div>
 
 <!-- more -->

@@ -8,10 +8,10 @@ comments: true
 slug: "1558_bon-to-shogatsu-ga-issho-ni-kita-yo"
 ---
 
-# 【No. 1558】<strong><em>Bon to Shōgatsu ga Issho ni Kita-yō</strong></em> (盆と正月が一緒に来たよう - Very Busy)
+# 【No. 1558】<strong><em>Bon to Shōgatsu ga Issho ni Kita-yō</em></strong> (盆と正月が一緒に来たよう - Very Busy)
 <div class="date">Mar 25, 2019 16:48</div>
 <div id="post"><div id="body_show_ori">
-<strong><em>Bon to Shōgatsu ga Issho ni Kita-yō</strong></em><br/><br/>I am very busy now because of retirement, entering a new job, and moving.<br/><br/>Such a busyness can be described as <strong><em>bon to shōgatsu ga issho ni kita-yō</em></strong> (盆と正月が一緒に来たよう) in Japanese.<br/><br/><strong><em>Bon</em></strong> (盆) is the Buddhist Festival of ancestral spirits, <strong><em>shōgatsu</em></strong> (正月) means "New Year's holidays," <strong><em>issho</em></strong> (一緒) means "together," and <strong><em>kita-yō</em></strong> (来たよう) means "as if something came," so the literal meaning of this phrase is "as if both Bon and new year came together."<br/><br/>If there were an American version of this, it could be "as if Thanksgiving and Christmas came at the same time."
+<strong><em>Bon to Shōgatsu ga Issho ni Kita-yō</em></strong><br/><br/>I am very busy now because of retirement, entering a new job, and moving.<br/><br/>Such a busyness can be described as <strong><em>bon to shōgatsu ga issho ni kita-yō</em></strong> (盆と正月が一緒に来たよう) in Japanese.<br/><br/><strong><em>Bon</em></strong> (盆) is the Buddhist Festival of ancestral spirits, <strong><em>shōgatsu</em></strong> (正月) means "New Year's holidays," <strong><em>issho</em></strong> (一緒) means "together," and <strong><em>kita-yō</em></strong> (来たよう) means "as if something came," so the literal meaning of this phrase is "as if both Bon and new year came together."<br/><br/>If there were an American version of this, it could be "as if Thanksgiving and Christmas came at the same time."
 </div></div>
 
 <!-- more -->
